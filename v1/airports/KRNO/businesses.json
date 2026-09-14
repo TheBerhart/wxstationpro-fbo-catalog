@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRNO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Reno",
+      "phone": "(775) 858-7300",
+      "website": "https://www.atlanticaviation.com/locations/rno/",
+      "email": "rnofrontdesk@atlanticaviation.com",
+      "street_address": "655 S. Rock Blvd.",
+      "hours": "On-call services with prior arrangements",
+      "freq": null,
+      "plus_code": "85F2G63P+JFH",
+      "city": "Reno",
+      "state": "NV",
+      "airport_name": null,
+      "icao": "KRNO",
+      "iata": "RNO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"cdc7108a8e9b3acb\""
+}

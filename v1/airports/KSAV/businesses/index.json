@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSAV",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Savannah",
+      "phone": "(912) 964-1557",
+      "website": "https://www.signatureaviation.com/locations/SAV",
+      "email": "SAV@signatureaviation.com",
+      "street_address": "38 Corporate Road",
+      "hours": "0600L - 2200L Call out available on request",
+      "freq": "130.375",
+      "plus_code": "864W4RC3+VJ9",
+      "city": "Savannah",
+      "state": "GA",
+      "airport_name": null,
+      "icao": "KSAV",
+      "iata": "SAV",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"3494c12d43cb0cd1\""
+}

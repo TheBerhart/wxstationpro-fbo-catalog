@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPIB",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Hattiesburg",
+      "phone": "+1 601-854-3030",
+      "website": "https://www.avflight.com/network/hattiesburg-ms-kpib/",
+      "email": "pib@avflight.com",
+      "street_address": "1010 Terminal Drive",
+      "hours": "0500-2000 Daily",
+      "freq": "123",
+      "plus_code": "863GFM87+VFF",
+      "city": "Hattiesburg",
+      "state": "MS",
+      "airport_name": null,
+      "icao": "KPIB",
+      "iata": "PIB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"9580344a109ede6f\""
+}

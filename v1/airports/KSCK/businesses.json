@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSCK",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Stockton",
+      "phone": "(209) 982-1622",
+      "website": "https://www.atlanticaviation.com/locations/sck/",
+      "email": "sckfrontdesk@atlanticaviation.com",
+      "street_address": "6364 S. Lindbergh St.",
+      "hours": "Mon-Sun: 0500-2100",
+      "freq": null,
+      "plus_code": "849WVQV2+QX7",
+      "city": "Stockton",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KSCK",
+      "iata": "SCK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"1b57ab3b66aa47d6\""
+}

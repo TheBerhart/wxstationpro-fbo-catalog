@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KORH",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Worcester",
+      "phone": "(508) 755-5870",
+      "website": "https://www.atlanticaviation.com/locations/orh/",
+      "email": "orhfrontdesk@atlanticaviation.com",
+      "street_address": "375 Airport Drive, Building 12",
+      "hours": "Mon-Sun: 0600-2100",
+      "freq": "131.4",
+      "plus_code": "87JC74CH+M97",
+      "city": "Worcester",
+      "state": "MA",
+      "airport_name": null,
+      "icao": "KORH",
+      "iata": "ORH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"bdd916f8044f1c3e\""
+}

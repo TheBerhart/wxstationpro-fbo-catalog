@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLNY",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Lanai City",
+      "phone": "(808) 565-6911",
+      "website": "https://www.atlanticaviation.com/locations/lny/",
+      "email": "lnyfrontdesk@atlanticaviation.com",
+      "street_address": null,
+      "hours": "Services available with prior arrangements",
+      "freq": "128.95",
+      "plus_code": "73G5Q2PX+GPR",
+      "city": "Lanai City",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "KLNY",
+      "iata": "LNY",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"cb79b24e4f7e8b3c\""
+}

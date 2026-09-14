@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KORL",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Orlando",
+      "phone": "(407) 894-7331",
+      "website": "https://www.atlanticaviation.com/locations/orl/",
+      "email": "orlfrontdesk@atlanticaviation.com",
+      "street_address": "400 Herndon Ave.",
+      "hours": "Mon-Sun: 0600-2200; On-call services with prior arrangements",
+      "freq": "131.27",
+      "plus_code": "76WWHM26+3X8",
+      "city": "Orlando",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KORL",
+      "iata": "ORL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"4f2bb1a5658e3238\""
+}

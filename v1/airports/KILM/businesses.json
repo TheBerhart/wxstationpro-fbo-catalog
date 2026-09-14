@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KILM",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation Wilmington",
+      "phone": "(910) 763-0146",
+      "website": "https://modern-aviation.com/?location=wilmington-fbo",
+      "email": "ILM@modern-aviation.com",
+      "street_address": "1817 Aviation Road",
+      "hours": null,
+      "freq": null,
+      "plus_code": "876473CR+42M",
+      "city": "Wilmington",
+      "state": "NC",
+      "airport_name": null,
+      "icao": "KILM",
+      "iata": "ILM",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"ab94946e415e8fa5\""
+}

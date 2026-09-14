@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KASE",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Aspen",
+      "phone": "(970) 920-2016",
+      "website": "https://www.atlanticaviation.com/locations/ase/",
+      "email": "asefrontdesk@atlanticaviation.com",
+      "street_address": "69 East Airport Road",
+      "hours": "Atlantic: Mon-Sun: 0600-2300; Airport: Arrivals: 0700-2300; Departures: 0700-2230",
+      "freq": "131.025",
+      "plus_code": "85FM64GJ+3VP",
+      "city": "Aspen",
+      "state": "CO",
+      "airport_name": null,
+      "icao": "KASE",
+      "iata": "ASE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2c8d7b8aa433649d\""
+}

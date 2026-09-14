@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KACY",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Atlantic City",
+      "phone": "(609) 383-3993",
+      "website": "https://www.signatureaviation.com/locations/ACY",
+      "email": "ACY@signatureflight.com",
+      "street_address": "Atlantic City International Airport",
+      "hours": "24 hours a day/7 days a week",
+      "freq": null,
+      "plus_code": "87F7CCXG+VJ2",
+      "city": "Egg Harbor Township",
+      "state": "NJ",
+      "airport_name": null,
+      "icao": "KACY",
+      "iata": "ACY",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"36071d3292e29635\""
+}

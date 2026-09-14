@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBFM",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Mobile Downtown",
+      "phone": "(251) 433-2800",
+      "website": "https://www.signatureaviation.com/locations/BFM",
+      "email": "BFM@signatureflight.com",
+      "street_address": "2495 Michigan Avenue",
+      "hours": "0500L - 2359L Call out available on request",
+      "freq": null,
+      "plus_code": "862HJWPF+35R",
+      "city": "Mobile",
+      "state": "AL",
+      "airport_name": null,
+      "icao": "KBFM",
+      "iata": "BFM",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"8c843d880bd67e75\""
+}

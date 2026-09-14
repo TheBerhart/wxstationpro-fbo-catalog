@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSLN",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Salina",
+      "phone": "+1 785-825-6739",
+      "website": "https://www.avflight.com/network/salina-ks-ksln/",
+      "email": "sln@avflight.com",
+      "street_address": "2035 Beechcraft Rd",
+      "hours": "0600-2200 (call out)",
+      "freq": "122.95",
+      "plus_code": "86C4Q9W5+6H6",
+      "city": "Salina",
+      "state": "KS",
+      "airport_name": null,
+      "icao": "KSLN",
+      "iata": "SLN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"4e61ff59910f2194\""
+}

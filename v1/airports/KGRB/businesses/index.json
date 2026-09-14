@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGRB",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Green Bay",
+      "phone": "+1 920-498-4880",
+      "website": "https://www.avflight.com/network/green-bay-wi-grb/",
+      "email": "grb@avflight.com",
+      "street_address": "2131 Airport Drive",
+      "hours": "0500-2100 Daily",
+      "freq": "122.85",
+      "plus_code": "86PHFVVC+C59",
+      "city": "Green Bay",
+      "state": "WI",
+      "airport_name": null,
+      "icao": "KGRB",
+      "iata": "GRB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"91648cc557011103\""
+}

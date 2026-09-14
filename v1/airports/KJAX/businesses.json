@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJAX",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Jacksonville",
+      "phone": "(904) 741-2201",
+      "website": "https://www.signatureaviation.com/locations/JAX",
+      "email": "JAX@signatureflight.com",
+      "street_address": "14700 Yonge Drive",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "132",
+      "plus_code": "862WF8WC+GXR",
+      "city": "Jacksonville",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KJAX",
+      "iata": "JAX",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"9481f34d5d4b9b67\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRIC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Richmond",
+      "phone": "(804) 222-3700",
+      "website": "https://millionair.com/locations/ric/",
+      "email": "customerservice@millionair-richmond.com",
+      "street_address": "400 Portugee Rd.",
+      "hours": "24/7",
+      "freq": "130.3",
+      "plus_code": "8794FMX7+2P3",
+      "city": "Richmond",
+      "state": "VA",
+      "airport_name": null,
+      "icao": "KRIC",
+      "iata": "RIC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"d6efd513765e548e\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSAN",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature San Diego",
+      "phone": "(619) 298-7704",
+      "website": "https://www.signatureaviation.com/locations/SAN",
+      "email": "SAN@signatureflight.com",
+      "street_address": "3300 Admiral Boland Way",
+      "hours": "0530L - 2200L Call out available on request",
+      "freq": "129.975",
+      "plus_code": "8544PRMC+JRR",
+      "city": "San Diego",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KSAN",
+      "iata": "SAN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"c8d22a83a2951a93\""
+}

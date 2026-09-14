@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCWF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Lake Charles",
+      "phone": "(337) 436-4877",
+      "website": "https://millionair.com/locations/cwf/",
+      "email": "info.cwf@millionair.com",
+      "street_address": "4500 Chennault Parkway",
+      "hours": "6am-10pm 7 days a week",
+      "freq": "122.95",
+      "plus_code": "86286R7X+HGV",
+      "city": "Lake Charles",
+      "state": "LA",
+      "airport_name": null,
+      "icao": "KCWF",
+      "iata": "CWF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"de5d2b6c60cbf989\""
+}

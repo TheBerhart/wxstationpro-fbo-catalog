@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIXD",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature New Century",
+      "phone": "(913) 782-9003",
+      "website": "https://www.signatureaviation.com/locations/IXD",
+      "email": "IXD@signatureaviation.com",
+      "street_address": "280 Gardner Drive",
+      "hours": "0600L - 2200L M-F0700L - 1900L Sa-SuCall out available on request",
+      "freq": "129",
+      "plus_code": "86C7R4J3+VV8",
+      "city": "New Century",
+      "state": "KS",
+      "airport_name": null,
+      "icao": "KIXD",
+      "iata": "IXD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"48eb7f2e124ac751\""
+}

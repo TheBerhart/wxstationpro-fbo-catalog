@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGTR",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Columbus",
+      "phone": "+1 662-328-9312",
+      "website": "https://www.avflight.com/network/columbus-ms-kgtr/",
+      "email": "gtr@avflight.com",
+      "street_address": "1900 Airport Road",
+      "hours": "0500-1900 / 7 Days a week",
+      "freq": "122.95",
+      "plus_code": "865HFC36+JQG",
+      "city": "Columbus",
+      "state": "MS",
+      "airport_name": null,
+      "icao": "KGTR",
+      "iata": "GTR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"f6178c9452e5d0fd\""
+}

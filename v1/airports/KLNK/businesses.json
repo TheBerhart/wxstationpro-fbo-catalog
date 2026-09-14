@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLNK",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Lincoln",
+      "phone": "(402) 475-8600",
+      "website": "https://www.atlanticaviation.com/locations/lnk/",
+      "email": "lnkfrontdesk@atlanticaviation.com",
+      "street_address": "1751 W Kearney Ave",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86G5V733+829",
+      "city": "Lincoln",
+      "state": "NE",
+      "airport_name": null,
+      "icao": "KLNK",
+      "iata": "LNK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"22e1b575b63a36cd\""
+}

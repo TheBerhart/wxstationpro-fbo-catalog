@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUGN",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Waukegan",
+      "phone": "(847) 336-9220",
+      "website": "https://www.signatureaviation.com/locations/UGN",
+      "email": "UGN@signatureaviation.com",
+      "street_address": "3550 N Mcaree Road",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "131.85",
+      "plus_code": "86JJC48M+V4M",
+      "city": "Waukegan",
+      "state": "IL",
+      "airport_name": null,
+      "icao": "KUGN",
+      "iata": "UGN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"fab85ae9751948bd\""
+}

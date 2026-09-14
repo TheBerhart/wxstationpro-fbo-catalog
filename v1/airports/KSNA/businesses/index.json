@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSNA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Clay Lacy Aviation John Wayne",
+      "phone": "(714) 888-8000",
+      "website": "https://www.claylacy.com/contact-us/locations/john-wayne-orange-county-airport-ksna/",
+      "email": "snacsr@claylacy.com",
+      "street_address": "361 Paularino Avenue",
+      "hours": "0500-2300",
+      "freq": "131.375",
+      "plus_code": "8554M4GH+X95",
+      "city": "Costa Mesa",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KSNA",
+      "iata": "SNA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"e2714ed2feadfa5a\""
+}

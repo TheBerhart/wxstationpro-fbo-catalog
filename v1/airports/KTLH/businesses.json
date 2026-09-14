@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTLH",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Tallahassee",
+      "phone": "(850) 574-5671",
+      "website": "https://millionair.com/locations/tlh/",
+      "email": "info.tlh@millionair.com",
+      "street_address": "3254 Capital Circle SW",
+      "hours": "24/7",
+      "freq": "130.175",
+      "plus_code": "862Q9JWV+JX5",
+      "city": "Tallahassee",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KTLH",
+      "iata": "TLH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"8561ec429d534669\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEUG",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Eugene",
+      "phone": "(541) 688-9291",
+      "website": "https://www.atlanticaviation.com/locations/eug/",
+      "email": "eugfrontdesk@atlanticaviation.com",
+      "street_address": "90454 Boeing Drive",
+      "hours": "Mon-Sun: 0400-2400 On-call with prior arrangements",
+      "freq": null,
+      "plus_code": "84PR4Q8P+R5X",
+      "city": "Eugene",
+      "state": "OR",
+      "airport_name": null,
+      "icao": "KEUG",
+      "iata": "EUG",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"924c9c53fabef69a\""
+}

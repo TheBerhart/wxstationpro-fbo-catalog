@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGPT",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Gulfport-biloxi",
+      "phone": "(228) 701-0400",
+      "website": "https://millionair.com/locations/gpt/",
+      "email": "info.gpt@millionair.com",
+      "street_address": "1100 Hangar Street",
+      "hours": "0600-2200, Call main number for after hours",
+      "freq": "131.1",
+      "plus_code": "862GCW2G+V95",
+      "city": "Gulfport",
+      "state": "MS",
+      "airport_name": null,
+      "icao": "KGPT",
+      "iata": "GPT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"de9c0328c68136a0\""
+}

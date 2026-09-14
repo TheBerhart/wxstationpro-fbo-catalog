@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLBB",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Lubbock",
+      "phone": "(806) 747-5101",
+      "website": "https://millionair.com/locations/lbb/",
+      "email": "csr@millionairlbb.com",
+      "street_address": "6304 N Cedar Ave",
+      "hours": "24/7",
+      "freq": "129.1",
+      "plus_code": "855WM558+JPR",
+      "city": "Lubbock",
+      "state": "TX",
+      "airport_name": null,
+      "icao": "KLBB",
+      "iata": "LBB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"168da657fb154da0\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "PHJR",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Honolulu",
+      "phone": "(808) 490-2400",
+      "website": "https://millionair.com/locations/phjr/",
+      "email": "info.phjr@millionair.com",
+      "street_address": null,
+      "hours": null,
+      "freq": "128.825",
+      "plus_code": "73H38W5H+XJF",
+      "city": "Kapolei",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "PHJR",
+      "iata": null,
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"84c1ba5f419768f0\""
+}

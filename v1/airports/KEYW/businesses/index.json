@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEYW",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Key West",
+      "phone": "(305) 296-5422",
+      "website": "https://www.signatureaviation.com/locations/EYW",
+      "email": "EYW@signatureflight.com",
+      "street_address": "3471 S Roosevelt Boulevard",
+      "hours": "0700L - 2100L Call out available on request",
+      "freq": null,
+      "plus_code": "76PWH63V+H5C",
+      "city": "Key West",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KEYW",
+      "iata": "EYW",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"a7a6de1fe68413bf\""
+}

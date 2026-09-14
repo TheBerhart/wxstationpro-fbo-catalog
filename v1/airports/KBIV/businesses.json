@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBIV",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Holland",
+      "phone": "+1 616-392-7831",
+      "website": "https://www.avflight.com/network/holland-mi-kbiv/",
+      "email": "biv@avflight.com",
+      "street_address": "60 Geurink Blvd",
+      "hours": "M-F 0600-2100, S-S 0700-2100",
+      "freq": "123.05",
+      "plus_code": "86JMPVWP+3V5",
+      "city": "Holland",
+      "state": "MI",
+      "airport_name": null,
+      "icao": "KBIV",
+      "iata": "BIV",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"6dccc315ea73efdd\""
+}

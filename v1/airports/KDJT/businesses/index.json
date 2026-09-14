@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDJT",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation West Palm Beach",
+      "phone": "(561) 683-4121",
+      "website": "https://www.atlanticaviation.com/locations/djt/",
+      "email": "pbifrontdesk@atlanticaviation.com",
+      "street_address": "3800 Southern Blvd., (also known as President Donald J. Trump Blvd.)",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": "131.425",
+      "plus_code": "76RXMWH4+M5F",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KDJT",
+      "iata": "DJT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2665131e67b3b1f6\""
+}

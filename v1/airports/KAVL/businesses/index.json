@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAVL",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Asheville",
+      "phone": "(828) 687-7110",
+      "website": "https://www.signatureaviation.com/locations/AVL",
+      "email": "AVL@signatureflight.com",
+      "street_address": "40 Lindbergh Lane",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.275",
+      "plus_code": "867VCFR5+QHR",
+      "city": "Fletcher",
+      "state": "NC",
+      "airport_name": null,
+      "icao": "KAVL",
+      "iata": "AVL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"a03751977c239d87\""
+}

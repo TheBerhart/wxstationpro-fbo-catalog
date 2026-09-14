@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGPI",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Kalispell",
+      "phone": "(406) 755-5362",
+      "website": "https://www.atlanticaviation.com/locations/gpi/",
+      "email": "gpifrontdesk@atlanticaviation.com",
+      "street_address": "4170 US Highway 2 East, Suite 10",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85W78P5X+GV2",
+      "city": "Kalispell",
+      "state": "MT",
+      "airport_name": null,
+      "icao": "KGPI",
+      "iata": "GPI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"d68411c6e39cc596\""
+}

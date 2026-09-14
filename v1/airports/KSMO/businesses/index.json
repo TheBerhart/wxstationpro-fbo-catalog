@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSMO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Santa Monica",
+      "phone": "(310) 396-6770",
+      "website": "https://www.atlanticaviation.com/locations/smo/",
+      "email": "smofrontdesk@atlanticaviation.com",
+      "street_address": "2828 Donald Douglas Loop North",
+      "hours": "Mon-Sun: 0600-2230",
+      "freq": "129.375",
+      "plus_code": "85632G8W+F7F",
+      "city": "Santa Monica",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KSMO",
+      "iata": "SMO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"3807f966bfefdf12\""
+}

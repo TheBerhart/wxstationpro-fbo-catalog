@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSFB",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Orlando",
+      "phone": "(407) 585-6300",
+      "website": "https://millionair.com/locations/sfb/",
+      "email": "info.sfb@millionair.com",
+      "street_address": "2841 Flightline Ave",
+      "hours": "6:00 am to 10:00 pm, call +1-407-585-6300 for 24/7",
+      "freq": "130.75",
+      "plus_code": "76WWQPGX+QQ9",
+      "city": "Sanford",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KSFB",
+      "iata": "SFB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"a1753e4dc249e7cc\""
+}

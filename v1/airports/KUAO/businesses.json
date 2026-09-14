@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUAO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Aurora",
+      "phone": "(503) 678-1336",
+      "website": "https://www.atlanticaviation.com/locations/uao/",
+      "email": "uaofrontdesk@atlanticaviation.com",
+      "street_address": "14357 Keil Road NE",
+      "hours": "Mon-Sun: 0700-1800; On-call services with prior arrangements",
+      "freq": null,
+      "plus_code": "84QV66RJ+MF6",
+      "city": "Aurora",
+      "state": "OR",
+      "airport_name": null,
+      "icao": "KUAO",
+      "iata": "UAO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"696238a4c11ac873\""
+}

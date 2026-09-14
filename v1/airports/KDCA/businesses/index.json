@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDCA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Washington DC",
+      "phone": "(703) 417-3500",
+      "website": "https://www.signatureaviation.com/locations/DCA",
+      "email": "DCA@signatureflight.com",
+      "street_address": "1 General Aviation Terminal Hangar 7",
+      "hours": "0600L - 2200L",
+      "freq": "130.425",
+      "plus_code": "87C4RXW2+7MG",
+      "city": "Washington",
+      "state": "DC",
+      "airport_name": null,
+      "icao": "KDCA",
+      "iata": "DCA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"85474b8099cf4ec2\""
+}

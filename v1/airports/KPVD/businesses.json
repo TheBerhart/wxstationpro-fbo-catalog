@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPVD",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Warwick",
+      "phone": "(401) 738-2600",
+      "website": "https://www.atlanticaviation.com/locations/pvd/",
+      "email": "pvdfrontdesk@atlanticaviation.com",
+      "street_address": "544 Airport Road",
+      "hours": "Mon-Sun: 0500-2400; On-call services with prior arrangements",
+      "freq": null,
+      "plus_code": "87HCPHMF+4F4",
+      "city": "Warwick",
+      "state": "RI",
+      "airport_name": null,
+      "icao": "KPVD",
+      "iata": "PVD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"99991ef16d05b4f9\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSGR",
+  "updated_at": "2026-09-11T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "GlobalSelect",
+      "phone": "(281) 275-2400",
+      "website": "https://www.globalselectfbo.com/",
+      "email": "slra@sugarlandtx.gov",
+      "street_address": "12888-B Highway 6 South",
+      "hours": "5 a.m. to 11 p.m. daily; after hours with notice",
+      "freq": null,
+      "plus_code": "76X6J8CV+XQ5",
+      "city": "Sugar Land",
+      "state": "TX",
+      "airport_name": null,
+      "icao": "KSGR",
+      "iata": "SGR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-11"
+    }
+  ],
+  "etag": "\"18251f528bc9c285\""
+}

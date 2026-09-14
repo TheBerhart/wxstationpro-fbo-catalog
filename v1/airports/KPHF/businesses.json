@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPHF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Newport News",
+      "phone": "(757) 886-5755",
+      "website": "https://www.atlanticaviation.com/locations/phf/",
+      "email": "phffrontdesk@atlanticaviation.com",
+      "street_address": "1200 Bland Blvd.",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87954FGM+5C3",
+      "city": "Newport News",
+      "state": "VA",
+      "airport_name": null,
+      "icao": "KPHF",
+      "iata": "PHF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"c56ba0fc9b66c910\""
+}

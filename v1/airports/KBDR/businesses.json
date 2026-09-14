@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBDR",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Stratford",
+      "phone": "(203) 377-1100",
+      "website": "https://www.atlanticaviation.com/locations/bdr/",
+      "email": "bdrfrontdesk@atlanticaviation.com",
+      "street_address": "900 Great Meadow Road",
+      "hours": "Mon-Sun: 0600-2200",
+      "freq": "131.42",
+      "plus_code": "87H85V7C+6G7",
+      "city": "Stratford",
+      "state": "CT",
+      "airport_name": null,
+      "icao": "KBDR",
+      "iata": "BDR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"00c6e007bc794f0f\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFNL",
+  "updated_at": "2026-09-11T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "jetCenters of Colorado Fort Collins-Loveland",
+      "phone": "(970) 667-2574",
+      "website": "https://jetcentersofcolorado.com/fort-collins-loveland-fnl/",
+      "email": "conciergefnl@jetcentersofcolorado.com",
+      "street_address": "4824 Earhart Road",
+      "hours": "Open 24/7",
+      "freq": null,
+      "plus_code": "85GPCXXW+F49",
+      "city": "Loveland",
+      "state": "CO",
+      "airport_name": null,
+      "icao": "KFNL",
+      "iata": "FNL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-11"
+    }
+  ],
+  "etag": "\"2d0e93bb894c03d6\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMHR",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation Sacramento Mather",
+      "phone": "(916) 235-6297",
+      "website": "https://modern-aviation.com/?location=sacramento-mather-airport-fbo",
+      "email": "MHR@modern-aviation.com",
+      "street_address": "10510 Superfortress Avenue",
+      "hours": null,
+      "freq": null,
+      "plus_code": "84CWHP73+P3W",
+      "city": "Mather",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KMHR",
+      "iata": "MHR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"6ebfb60e38578727\""
+}

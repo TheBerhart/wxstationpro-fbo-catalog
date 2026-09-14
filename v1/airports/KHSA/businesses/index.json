@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHSA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Stennis",
+      "phone": "(228) 463-2389",
+      "website": "https://millionair.com/locations/hsa/",
+      "email": "info.hsa@millionair.com",
+      "street_address": "7250 Stennis Arpt Dr.",
+      "hours": "0700-2000 M-F, 0800-1800 S/S, After Hours Call Out Available",
+      "freq": "130.175",
+      "plus_code": "862G9GFX+5H4",
+      "city": "Kiln",
+      "state": "MS",
+      "airport_name": null,
+      "icao": "KHSA",
+      "iata": "HSA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"d0213ed020033691\""
+}

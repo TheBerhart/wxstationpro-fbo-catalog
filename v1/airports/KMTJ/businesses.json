@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMTJ",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Montrose",
+      "phone": "(970) 249-7111",
+      "website": "https://www.atlanticaviation.com/locations/mtj/",
+      "email": "mtjfrontdesk@atlanticaviation.com",
+      "street_address": "2000 Airport Road",
+      "hours": "Mon-Sun: 0600 - 2100",
+      "freq": "130.3",
+      "plus_code": "85CJF4X3+5FF",
+      "city": "Montrose",
+      "state": "CO",
+      "airport_name": null,
+      "icao": "KMTJ",
+      "iata": "MTJ",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2b77240ed104c662\""
+}

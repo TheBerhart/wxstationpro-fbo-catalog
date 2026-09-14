@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "6N5",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation New York",
+      "phone": "(212) 889-2319",
+      "website": "https://www.atlanticaviation.com/locations/6n5/",
+      "email": "6n5frontdesk@atlanticaviation.com",
+      "street_address": "499 E. 34th St.",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87G8J3V4+Q3G",
+      "city": "New York",
+      "state": "NY",
+      "airport_name": null,
+      "icao": "6N5",
+      "iata": "6N5",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"3b77d748033fd19f\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPHL",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Philadelphia",
+      "phone": "(215) 492-7060",
+      "website": "https://www.atlanticaviation.com/locations/phl/",
+      "email": "phlfrontdesk@atlanticaviation.com",
+      "street_address": "8375 Enterprise Ave.",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": "130.4",
+      "plus_code": "87F6VQJF+PMC",
+      "city": "Philadelphia",
+      "state": "PA",
+      "airport_name": null,
+      "icao": "KPHL",
+      "iata": "PHL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"d87b0315156b8932\""
+}

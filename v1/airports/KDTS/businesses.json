@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDTS",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Destin",
+      "phone": "(850) 424-6890",
+      "website": "https://www.atlanticaviation.com/locations/dts/",
+      "email": "dtsfrontdesk@atlanticaviation.com",
+      "street_address": "1001 Airport Road",
+      "hours": "Mon-Sun: 0600-2200",
+      "freq": "130.05",
+      "plus_code": "862M9GXH+VQP",
+      "city": "Destin",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KDTS",
+      "iata": "DTS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b48cdaf49a13d47b\""
+}

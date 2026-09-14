@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KNYL",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Yuma",
+      "phone": "(928) 247-9571",
+      "website": "https://millionair.com/locations/nyl/",
+      "email": "info.nyl@millionair.com",
+      "street_address": "3681 South Burch Way",
+      "hours": "6am-11pm, call +1-928-247-9571 for after hours",
+      "freq": null,
+      "plus_code": "8547M96Q+8X8",
+      "city": "Yuma",
+      "state": "AZ",
+      "airport_name": null,
+      "icao": "KNYL",
+      "iata": "NYL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"0dcefd9564a36c01\""
+}

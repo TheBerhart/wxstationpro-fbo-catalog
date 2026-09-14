@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBWI",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Baltimore",
+      "phone": "(410) 859-8393",
+      "website": "https://www.signatureaviation.com/locations/BWI",
+      "email": "BWI@signatureflight.com",
+      "street_address": "7019 Aaronson Drive P.o. Box 8786",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "129",
+      "plus_code": "87F558PV+6PF",
+      "city": "Glen Burnie",
+      "state": "MD",
+      "airport_name": null,
+      "icao": "KBWI",
+      "iata": "BWI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"59725c49530bea6f\""
+}

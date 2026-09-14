@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAEX",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Alexandria",
+      "phone": "(844) 891-7875",
+      "website": "https://millionair.com/locations/aex/",
+      "email": "CSR.AEX@millionair.com",
+      "street_address": "1303 Billy Mitchell Boulevard",
+      "hours": "24/7",
+      "freq": "130",
+      "plus_code": "86398FC6+GF5",
+      "city": "Alexandria",
+      "state": "LA",
+      "airport_name": null,
+      "icao": "KAEX",
+      "iata": "AEX",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b02d6fd519d6dfa1\""
+}

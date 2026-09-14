@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAMA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Amarillo",
+      "phone": "(806) 335-2806",
+      "website": "https://www.signatureaviation.com/locations/AMA",
+      "email": "ama@signatureaviation.com",
+      "street_address": "10610 American Drive",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "129.87",
+      "plus_code": "857W678R+P9Q",
+      "city": "Amarillo",
+      "state": "TX",
+      "airport_name": null,
+      "icao": "KAMA",
+      "iata": "AMA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"4ae517cedf12d439\""
+}

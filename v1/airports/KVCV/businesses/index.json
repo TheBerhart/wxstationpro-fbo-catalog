@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KVCV",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Victorville",
+      "phone": "(877) 246-6659",
+      "website": "https://millionair.com/locations/vcv/",
+      "email": "csr.vcv@millionair.com",
+      "street_address": "18590 Readiness St.",
+      "hours": "6 AM – 10 PM",
+      "freq": "131.975",
+      "plus_code": "8564HJQG+7FR",
+      "city": "Victorville",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KVCV",
+      "iata": "VCV",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"6788acdbec5bf54b\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPIE",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature St. Pete-Clearwater",
+      "phone": "(727) 531-1441",
+      "website": "https://www.signatureaviation.com/locations/PIE",
+      "email": "PIE@signatureflight.com",
+      "street_address": "14525 Airport Parkway",
+      "hours": "0600L - 2200L Call out available on request",
+      "freq": "130.375",
+      "plus_code": "76VVW835+MR9",
+      "city": "Clearwater",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KPIE",
+      "iata": "PIE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"5969a7208d7af29c\""
+}

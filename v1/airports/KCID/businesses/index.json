@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCID",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Cedar Rapids",
+      "phone": "(319) 366-1925",
+      "website": "https://www.signatureaviation.com/locations/CID",
+      "email": "CID@signatureflight.com",
+      "street_address": "3525 Beech Way Sw",
+      "hours": "0400L - 2200L Call out available on request",
+      "freq": "131",
+      "plus_code": "86HCV7QV+M9R",
+      "city": "Cedar Rapids",
+      "state": "IA",
+      "airport_name": null,
+      "icao": "KCID",
+      "iata": "CID",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"99656bf7a189c0ea\""
+}

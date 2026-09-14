@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMFR",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Medford",
+      "phone": "(541) 842-2254",
+      "website": "https://millionair.com/locations/mfr/",
+      "email": "infonow@millionairmfr.com",
+      "street_address": "2040 Milligan Way, Ste100",
+      "hours": "Monday-Sunday 0700-2000, Sunday 0800-1900, Call 541-301-1118 after hours for call out",
+      "freq": "130.62",
+      "plus_code": "84JV94CC+HGW",
+      "city": "Medford",
+      "state": "OR",
+      "airport_name": null,
+      "icao": "KMFR",
+      "iata": "MFR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"783c6d0f97eb1628\""
+}

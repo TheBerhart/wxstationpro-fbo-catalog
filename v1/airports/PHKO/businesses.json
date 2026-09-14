@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "PHKO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Kailua Kona",
+      "phone": "(808) 329-4682",
+      "website": "https://www.signatureaviation.com/locations/KOA",
+      "email": "KOA@signatureflight.com",
+      "street_address": "73-360 Uu Street",
+      "hours": "0800L - 1700L Call out available on request",
+      "freq": null,
+      "plus_code": "73F5PXH5+R5X",
+      "city": "Kailua Kona",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "PHKO",
+      "iata": "KOA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"3fd2a90678b24bca\""
+}

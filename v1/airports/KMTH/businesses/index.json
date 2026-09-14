@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMTH",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Florida Keys",
+      "phone": "(305) 743-1995",
+      "website": "https://millionair.com/locations/mth/",
+      "email": "info.mth@millionair.com",
+      "street_address": "8800 Overseas Highway",
+      "hours": "0700-1900",
+      "freq": null,
+      "plus_code": "76PWPWFW+QV7",
+      "city": "Marathon",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KMTH",
+      "iata": "MTH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"51f0ef916975849c\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFNT",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Flint",
+      "phone": "+1 810-235-0681",
+      "website": "https://www.avflight.com/network/flint-mi-kfnt/",
+      "email": "fnt@avflight.com",
+      "street_address": "3375 West Bristol Road",
+      "hours": "24 Hours / 7 Days a week",
+      "freq": "122.95",
+      "plus_code": "86JRX7G5+75Q",
+      "city": "Flint",
+      "state": "MI",
+      "airport_name": null,
+      "icao": "KFNT",
+      "iata": "FNT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"d07256d77eca6be6\""
+}

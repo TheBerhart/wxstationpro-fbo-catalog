@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDRO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Durango",
+      "phone": "+1 970-259-6443",
+      "website": "https://www.avflight.com/network/durango-co-kdro/",
+      "email": "dro@avflight.com",
+      "street_address": "1340 Airport Road",
+      "hours": "0600-2100 (call out)",
+      "freq": "122.8",
+      "plus_code": "859J563R+4HJ",
+      "city": "Durango",
+      "state": "CO",
+      "airport_name": null,
+      "icao": "KDRO",
+      "iata": "DRO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"ec0eefb678e1c729\""
+}

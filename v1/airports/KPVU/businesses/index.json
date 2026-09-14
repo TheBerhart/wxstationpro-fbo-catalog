@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPVU",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Provo",
+      "phone": "(801) 356-3535",
+      "website": "https://www.signatureaviation.com/locations/PVU",
+      "email": "pvufbo@tacair.com",
+      "street_address": "3421 W Mike Jense Parkway",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "128.85",
+      "plus_code": "85GC679J+PCR",
+      "city": "Provo",
+      "state": "UT",
+      "airport_name": null,
+      "icao": "KPVU",
+      "iata": "PVU",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"032737e2ebaa25b4\""
+}

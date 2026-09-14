@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMCI",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Kansas City",
+      "phone": "(816) 243-6440",
+      "website": "https://www.signatureaviation.com/locations/MCI",
+      "email": "MCI@signatureaviation.com",
+      "street_address": "880 Mexico City Avenue",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "128.85",
+      "plus_code": "86F7877M+F3G",
+      "city": "Kansas City",
+      "state": "MO",
+      "airport_name": null,
+      "icao": "KMCI",
+      "iata": "MCI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"6aebbbb133a1625e\""
+}

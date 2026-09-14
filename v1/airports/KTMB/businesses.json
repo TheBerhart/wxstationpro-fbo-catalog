@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTMB",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Miami Executive",
+      "phone": "(305) 871-3105",
+      "website": "https://www.signatureaviation.com/locations/TMB",
+      "email": "TMB@signatureflight.com",
+      "street_address": "14150 Sw 129th Street",
+      "hours": "0600L - 2100L Call out available on request",
+      "freq": "130.45",
+      "plus_code": "76QXJHWG+JGF",
+      "city": "Miami",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KTMB",
+      "iata": "TMB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"7b79dc27ae8d5723\""
+}

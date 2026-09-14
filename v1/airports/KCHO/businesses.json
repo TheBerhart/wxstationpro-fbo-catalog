@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCHO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Charlottesville",
+      "phone": "(434) 978-1474",
+      "website": "https://www.signatureaviation.com/locations/CHO",
+      "email": "CHO@signatureflight.com",
+      "street_address": "100 Aviation Drive Suite 100",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "129.625",
+      "plus_code": "87C34GPX+9GF",
+      "city": "Charlotte",
+      "state": "VA",
+      "airport_name": null,
+      "icao": "KCHO",
+      "iata": "CHO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"8b683bdbf65c7777\""
+}

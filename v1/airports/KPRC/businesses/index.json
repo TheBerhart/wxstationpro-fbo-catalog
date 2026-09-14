@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPRC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cutter Aviation Prescott",
+      "phone": "(928) 443-9333",
+      "website": "https://cutteraviation.com/fbo-services/airport-facility-locations-prc-prescott-az/",
+      "email": "InfoPRC@cutteraviation.com",
+      "street_address": "2020 Clubhouse Dr",
+      "hours": "6:00-21:00 / 7 Days",
+      "freq": null,
+      "plus_code": "8569JHWG+H9F",
+      "city": "Prescott",
+      "state": "AZ",
+      "airport_name": null,
+      "icao": "KPRC",
+      "iata": "PRC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"3072a30ed8102afd\""
+}

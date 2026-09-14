@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRIL",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Rifle",
+      "phone": "(970) 625-4833",
+      "website": "https://www.atlanticaviation.com/locations/ril/",
+      "email": "rilfrontdesk@atlanticaviation.com",
+      "street_address": "375 County Road 352 (Building 2070)",
+      "hours": "Mon-Sun: 0700-2000; On-call services with prior arrangements",
+      "freq": "129",
+      "plus_code": "85FJG7GF+4VR",
+      "city": "Rifle",
+      "state": "CO",
+      "airport_name": null,
+      "icao": "KRIL",
+      "iata": "RIL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"3c20351bf15446e9\""
+}

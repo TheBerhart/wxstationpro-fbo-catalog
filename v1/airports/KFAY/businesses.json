@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFAY",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Fayetteville",
+      "phone": "(910) 321-7540",
+      "website": "https://www.signatureaviation.com/locations/FAY",
+      "email": "FAY@signatureflight.com",
+      "street_address": "3003 Control Tower Road",
+      "hours": "0600L - 2200L Call out available on request",
+      "freq": null,
+      "plus_code": "8763X4V8+45C",
+      "city": "Fayettville",
+      "state": "NC",
+      "airport_name": null,
+      "icao": "KFAY",
+      "iata": "FAY",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"0d8ef12f0c5ad901\""
+}

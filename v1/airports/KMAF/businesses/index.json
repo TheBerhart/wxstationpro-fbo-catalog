@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMAF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Midland",
+      "phone": "(432) 563-2033",
+      "website": "https://www.signatureaviation.com/locations/MAF",
+      "email": "MAF@signatureflight.com",
+      "street_address": "9500 North Service Road",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "122.95",
+      "plus_code": "853VWQQR+R99",
+      "city": "Midland",
+      "state": "TX",
+      "airport_name": null,
+      "icao": "KMAF",
+      "iata": "MAF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"c4b4518a85d97c03\""
+}

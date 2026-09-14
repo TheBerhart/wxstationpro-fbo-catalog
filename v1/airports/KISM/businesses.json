@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KISM",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Kissimmee",
+      "phone": "(407) 846-6128",
+      "website": "https://www.signatureaviation.com/locations/ISM",
+      "email": "ISM@signatureflight.com",
+      "street_address": "201 Dyer Boulevard",
+      "hours": "0700L - 2200L Call out available on request",
+      "freq": "122.775",
+      "plus_code": "76WW7HV7+C8V",
+      "city": "Kissimmee",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KISM",
+      "iata": "ISM",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"4723508909db3f45\""
+}

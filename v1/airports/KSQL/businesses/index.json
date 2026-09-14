@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSQL",
+  "updated_at": "2026-09-11T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Rabbit Aviation Services",
+      "phone": "(650) 716-6579",
+      "website": "https://www.rabbitksql.com/",
+      "email": "info@rabbitsql.com",
+      "street_address": "620 Airport Way",
+      "hours": "0700-2000 seven days a week",
+      "freq": "130",
+      "plus_code": "849VGP7X+W8X",
+      "city": "San Carlos",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KSQL",
+      "iata": "SQL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-11"
+    }
+  ],
+  "etag": "\"bafaf274d3f2a11e\""
+}

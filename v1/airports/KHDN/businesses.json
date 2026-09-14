@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHDN",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Hayden",
+      "phone": "(970) 276-3743",
+      "website": "https://www.atlanticaviation.com/locations/hdn/",
+      "email": "hdnfrontdesk@atlanticaviation.com",
+      "street_address": "105 Tower Court FBO (PO Box 1090)",
+      "hours": "Mon-Sun: 0500-2000; On-call services with prior arrangements",
+      "freq": "130.625",
+      "plus_code": "85GJFQJW+375",
+      "city": "Hayden",
+      "state": "CO",
+      "airport_name": null,
+      "icao": "KHDN",
+      "iata": "HDN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"ccd29cd0efab3a11\""
+}

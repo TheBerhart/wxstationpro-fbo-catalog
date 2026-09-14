@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRME",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Rome",
+      "phone": "(800) 400-1509",
+      "website": "https://millionair.com/locations/rme/",
+      "email": "info.rme@millionair.com",
+      "street_address": "660 Hangar Rd",
+      "hours": "0600 to 2200, call +1-315-790-3072 after hours",
+      "freq": "118.2",
+      "plus_code": "87M66HGV+9W3",
+      "city": "Rome",
+      "state": "NY",
+      "airport_name": null,
+      "icao": "KRME",
+      "iata": "RME",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"088994303ba73f6b\""
+}

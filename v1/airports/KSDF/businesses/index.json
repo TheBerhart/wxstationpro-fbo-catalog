@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSDF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Louisville",
+      "phone": "(502) 368-1515",
+      "website": "https://www.atlanticaviation.com/locations/sdf/",
+      "email": "sdffrontdesk@atlanticaviation.com",
+      "street_address": "1131 Standiford Ave.",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": "129.9",
+      "plus_code": "86CP57MF+M5R",
+      "city": "Louisville",
+      "state": "KY",
+      "airport_name": null,
+      "icao": "KSDF",
+      "iata": "SDF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"0086daf35f0d8b45\""
+}

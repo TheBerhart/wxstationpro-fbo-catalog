@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KROA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Roanoke",
+      "phone": "(540) 563-4401",
+      "website": "https://www.signatureaviation.com/locations/ROA",
+      "email": "ROA@signatureflight.com",
+      "street_address": "22 Waypoint Drive Nw",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.57",
+      "plus_code": "879282FG+6PF",
+      "city": "Roanoke",
+      "state": "VA",
+      "airport_name": null,
+      "icao": "KROA",
+      "iata": "ROA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"bedfd84c7dfa8c3c\""
+}

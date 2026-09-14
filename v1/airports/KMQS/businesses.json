@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMQS",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Coatesville",
+      "phone": "(610) 384-9000",
+      "website": "https://www.signatureaviation.com/locations/MQS",
+      "email": "MQS@signatureflight.com",
+      "street_address": "1 Earhart Drive Suite 1",
+      "hours": "0600L - 2200L Call out available on request",
+      "freq": null,
+      "plus_code": "87F6X4HP+XWM",
+      "city": "Coatesville",
+      "state": "PA",
+      "airport_name": null,
+      "icao": "KMQS",
+      "iata": "MQS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"6fcd7897c176ac64\""
+}

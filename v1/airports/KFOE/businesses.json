@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFOE",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Topeka",
+      "phone": "(785) 862-0950",
+      "website": "https://millionair.com/locations/foe/",
+      "email": "info.foe@millionair.com",
+      "street_address": "740 SE Airport Drive, Suite 10",
+      "hours": "6:00 AM to 11:00 PM, Call main number for after hours",
+      "freq": "129.85",
+      "plus_code": "86C6W8WG+Q25",
+      "city": "Topeka",
+      "state": "KS",
+      "airport_name": null,
+      "icao": "KFOE",
+      "iata": "FOE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"a2f4fb0c9e33e79b\""
+}

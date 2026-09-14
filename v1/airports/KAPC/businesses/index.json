@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAPC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Napa",
+      "phone": "(707) 224-0887",
+      "website": "https://www.atlanticaviation.com/locations/apc/",
+      "email": "apcfrontdesk@atlanticaviation.com",
+      "street_address": "2100 Airport Road",
+      "hours": "Mon-Sun: 0600-2100",
+      "freq": null,
+      "plus_code": "84CV6P9G+QP6",
+      "city": "Napa",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KAPC",
+      "iata": "APC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"55189ffe79368997\""
+}

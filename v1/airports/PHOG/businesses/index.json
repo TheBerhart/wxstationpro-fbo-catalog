@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "PHOG",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Kahului Maui",
+      "phone": "(808) 873-6060",
+      "website": "https://www.signatureaviation.com/locations/OGG",
+      "email": "OGG@signatureflight.com",
+      "street_address": "25 Kuhea Street",
+      "hours": "0800L - 1700L Call out available on request",
+      "freq": "130.8",
+      "plus_code": "73G5VHWC+HRJ",
+      "city": "Kahului",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "PHOG",
+      "iata": "OGG",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"57ca79904b8eae65\""
+}

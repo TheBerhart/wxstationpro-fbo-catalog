@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOGD",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Ogden",
+      "phone": "+1 801-627-0040",
+      "website": "https://www.avflight.com/network/ogden-ut-kogd/",
+      "email": "ogd@avflight.com",
+      "street_address": "4282 South 1650 West",
+      "hours": "0700-2000 (call out)",
+      "freq": "122.95",
+      "plus_code": "85H95XPM+86R",
+      "city": "Ogden",
+      "state": "UT",
+      "airport_name": null,
+      "icao": "KOGD",
+      "iata": "OGD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"8ae3c70bfc5875bf\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHEF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "APP Jet Center Manassas",
+      "phone": "(703) 392-5387",
+      "website": "https://appjetcenter.com/locations/manassas-virginia/",
+      "email": "khef@appjetcenter.com",
+      "street_address": "9998 Wakeman Drive",
+      "hours": "24/7",
+      "freq": "128.9",
+      "plus_code": "87C4PFGP+WQQ",
+      "city": "Manassas",
+      "state": "VA",
+      "airport_name": null,
+      "icao": "KHEF",
+      "iata": "HEF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"73f3eb77c677e49f\""
+}

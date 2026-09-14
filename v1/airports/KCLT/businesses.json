@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCLT",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation Charlotte",
+      "phone": "(704) 359-0440",
+      "website": "https://modern-aviation.com/?location=280687",
+      "email": "CLT@modern-aviation.com",
+      "street_address": "5400 Airport Drive",
+      "hours": null,
+      "freq": null,
+      "plus_code": "867X6359+W93",
+      "city": "Charlotte",
+      "state": "NC",
+      "airport_name": null,
+      "icao": "KCLT",
+      "iata": "CLT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b73bcdde82b72037\""
+}

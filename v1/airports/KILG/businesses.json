@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KILG",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation New Castle",
+      "phone": "(302) 328-9695",
+      "website": "https://www.atlanticaviation.com/locations/ilg/",
+      "email": "ilgfrontdesk@atlanticaviation.com",
+      "street_address": "120 Old Churchmans Road",
+      "hours": "Mon-Sun: 0500-2300; On-call services with prior arrangements",
+      "freq": null,
+      "plus_code": "87F6M99V+H8G",
+      "city": "New Castle",
+      "state": "DE",
+      "airport_name": null,
+      "icao": "KILG",
+      "iata": "ILG",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"49800bdc782b0f8d\""
+}

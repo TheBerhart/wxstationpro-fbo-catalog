@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSFO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature San Francisco",
+      "phone": "(650) 877-6800",
+      "website": "https://www.signatureaviation.com/locations/SFO",
+      "email": "SFO@signatureflight.com",
+      "street_address": "1052 North Access Road",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "128.92",
+      "plus_code": "849VJJH7+7XH",
+      "city": "San Francisco",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KSFO",
+      "iata": "SFO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"a84a43df6267dacf\""
+}

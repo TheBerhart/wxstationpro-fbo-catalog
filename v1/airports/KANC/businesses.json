@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KANC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Anchorage",
+      "phone": "(907) 550-8500",
+      "website": "https://www.atlanticaviation.com/locations/anc/",
+      "email": "ancfrontdesk@atlanticaviation.com",
+      "street_address": "6160 Carl Brady Drive",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": "130",
+      "plus_code": "93HG526C+QF2",
+      "city": "Anchorage",
+      "state": "AK",
+      "airport_name": null,
+      "icao": "KANC",
+      "iata": "ANC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2ee186b71ff9ab13\""
+}

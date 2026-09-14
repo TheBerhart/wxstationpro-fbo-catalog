@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "TIST",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature St. Thomas",
+      "phone": "(877) 894-1810",
+      "website": "https://www.signatureaviation.com/locations/STT",
+      "email": "STT@signatureflight.com",
+      "street_address": "8102 Lindbergh Bay Drive North Ramp",
+      "hours": "0700L - 1900L Call out available on request",
+      "freq": null,
+      "plus_code": "77CQ82QP+MXQ",
+      "city": "St. Thomas",
+      "state": "VI",
+      "airport_name": null,
+      "icao": "TIST",
+      "iata": "STT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b6e712513952cc6a\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBUR",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Burbank",
+      "phone": "(818) 841-2966",
+      "website": "https://www.atlanticaviation.com/locations/bur/",
+      "email": "burfrontdesk@atlanticaviation.com",
+      "street_address": "10750 Sherman Way",
+      "hours": "Mon-Sun: 0430-2230",
+      "freq": "131.6",
+      "plus_code": "85636J2P+66W",
+      "city": "Burbank",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KBUR",
+      "iata": "BUR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"1cefb0866e0fe865\""
+}

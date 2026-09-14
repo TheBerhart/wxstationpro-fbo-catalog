@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSHV",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Shreveport",
+      "phone": "(318) 636-1000",
+      "website": "https://www.signatureaviation.com/locations/SHV",
+      "email": "shvfbo@tacair.com",
+      "street_address": "6209 Interstate Drive",
+      "hours": "24 hours a day/7 days a week",
+      "freq": null,
+      "plus_code": "8648F53F+37W",
+      "city": "Shreveport",
+      "state": "LA",
+      "airport_name": null,
+      "icao": "KSHV",
+      "iata": "SHV",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"7e39b8fbe729a4a2\""
+}

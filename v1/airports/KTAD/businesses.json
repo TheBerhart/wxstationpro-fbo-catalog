@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTAD",
+  "updated_at": "2026-09-14T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Pinnacle Jet Centers - Trinidad",
+      "phone": "(719) 680-7831",
+      "website": "flywithpinnacle.com",
+      "email": null,
+      "street_address": "44814 Co Rd 38, Trinidad, CO 81082",
+      "hours": "8AM-5PM M-F",
+      "freq": null,
+      "plus_code": "859Q7M75+67P",
+      "city": null,
+      "state": null,
+      "airport_name": "Perry Stokes Airport",
+      "icao": "KTAD",
+      "iata": "TAD",
+      "region": "US",
+      "services": "FBO; Address and hours at TAD",
+      "enrichment_status": "needs_review",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "community-report",
+      "source_updated_at": "2026-09-14"
+    }
+  ],
+  "etag": "\"e5eb85d88cf9087f\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOKC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Oklahoma City",
+      "phone": "(405) 787-4043",
+      "website": "https://www.atlanticaviation.com/locations/okc/",
+      "email": "okcfrontdesk@atlanticaviation.com",
+      "street_address": "6401 S. Portland Ave.",
+      "hours": "Mon-Sun: 0500-2200",
+      "freq": "131.875",
+      "plus_code": "86749CW8+F4P",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "airport_name": null,
+      "icao": "KOKC",
+      "iata": "OKC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"c834e9ff63b6fbb6\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOAK",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Oakland",
+      "phone": "(510) 633-1266",
+      "website": "https://www.signatureaviation.com/locations/OAK",
+      "email": "OAK@signatureaviation.com",
+      "street_address": "8433 Earhart Road",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.575",
+      "plus_code": "849VPQHP+XR6",
+      "city": "Oakland",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KOAK",
+      "iata": "OAK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"f56576e69b07b763\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "TJRV",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation Ceiba",
+      "phone": "(787) 289-2021",
+      "website": "https://modern-aviation.com/?location=ceiba",
+      "email": "CSR.TJIG@modern-aviation.com",
+      "street_address": "Carr. 3 Antigua Base Naval, Roosevelt Route",
+      "hours": null,
+      "freq": null,
+      "plus_code": "77CP69X5+4VQ",
+      "city": "Ceiba",
+      "state": "PR",
+      "airport_name": null,
+      "icao": "TJRV",
+      "iata": "NRR",
+      "region": "PR",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"f534df47c8f2b65e\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMIA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Miami",
+      "phone": "(305) 874-1477",
+      "website": "https://www.signatureaviation.com/locations/MIA",
+      "email": "MIA@signatureflight.com",
+      "street_address": "5700 Nw 36th Street",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "128.9",
+      "plus_code": "76QXRP46+J25",
+      "city": "Miami",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KMIA",
+      "iata": "MIA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"5c0db1f042901ca4\""
+}

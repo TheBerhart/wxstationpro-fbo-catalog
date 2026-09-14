@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGTU",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cutter Aviation Georgetown",
+      "phone": "(512) 869-0900",
+      "website": "https://cutteraviation.com/fbo-services/airport-facility-locations-gtu-georgetown-executive-airport-tx/",
+      "email": "InfoGTU@cutteraviation.com",
+      "street_address": "600 S Hangar Dr",
+      "hours": "5:00-22:00 / 7 Days",
+      "freq": "128.975",
+      "plus_code": "8624M8HF+9MG",
+      "city": "Georgetown",
+      "state": "TX",
+      "airport_name": null,
+      "icao": "KGTU",
+      "iata": "GTU",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"69bb882e43459c6a\""
+}

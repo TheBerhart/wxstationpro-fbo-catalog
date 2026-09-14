@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KORF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Norfolk",
+      "phone": "(757) 857-3463",
+      "website": "https://www.signatureaviation.com/locations/ORF",
+      "email": "ORF@signatureflight.com",
+      "street_address": "6101 Burton Station Road",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.575",
+      "plus_code": "8785VRP2+H5Q",
+      "city": "Norfolk",
+      "state": "VA",
+      "airport_name": null,
+      "icao": "KORF",
+      "iata": "ORF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"011258128ce863ba\""
+}

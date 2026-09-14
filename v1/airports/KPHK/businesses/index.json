@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPHK",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Palm Beach County",
+      "phone": "(561) 924-5253",
+      "website": "https://www.signatureaviation.com/locations/PHK",
+      "email": "PHK@signatureflight.com",
+      "street_address": "3800 State Road 715",
+      "hours": "0800L - 1700L",
+      "freq": "122.8",
+      "plus_code": "76RXQ8Q5+FFG",
+      "city": "Pahokee",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KPHK",
+      "iata": "PHK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"ddcaee125b6256e9\""
+}

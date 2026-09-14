@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMLU",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Monroe",
+      "phone": "+1 318-387-0222",
+      "website": "https://www.avflight.com/network/monroe-la-kmlu/",
+      "email": "mlu@avflight.com",
+      "street_address": "5410 Operations Rd.",
+      "hours": "M-F 0600-2200, S-S 0600-2000",
+      "freq": "130.575",
+      "plus_code": "8649GX54+Q5G",
+      "city": "Monroe",
+      "state": "LA",
+      "airport_name": null,
+      "icao": "KMLU",
+      "iata": "MLU",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"dc5883b4df104a55\""
+}

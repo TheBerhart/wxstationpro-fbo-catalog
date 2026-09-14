@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBAF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Westfield",
+      "phone": "(413) 485-0078",
+      "website": "https://www.atlanticaviation.com/locations/baf/",
+      "email": "baffrontdesk@atlanticaviation.com",
+      "street_address": "110 Airport Road",
+      "hours": "Mon - Sun: 0700-1900; After hours/on-call services with prior arrangements",
+      "freq": null,
+      "plus_code": "87J9575J+Q3Q",
+      "city": "Westfield",
+      "state": "MA",
+      "airport_name": null,
+      "icao": "KBAF",
+      "iata": "BAF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"ef534c8ef7af389d\""
+}

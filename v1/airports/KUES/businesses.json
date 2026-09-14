@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUES",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Waukesha",
+      "phone": "(262) 549-6150",
+      "website": "https://www.atlanticaviation.com/locations/ues/",
+      "email": "uesfrontdesk@atlanticaviation.com",
+      "street_address": "2525 Aviation Drive",
+      "hours": "Mon-Sun: 0500-2100; On-call services with prior arrangements",
+      "freq": null,
+      "plus_code": "86MH2QQ6+HW5",
+      "city": "Waukesha",
+      "state": "WI",
+      "airport_name": null,
+      "icao": "KUES",
+      "iata": "UES",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"dfeaff94ce91ac6c\""
+}

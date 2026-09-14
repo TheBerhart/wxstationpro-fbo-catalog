@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFLL",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Fort Lauderdale Hollywood",
+      "phone": "(954) 359-0000",
+      "website": "https://www.signatureaviation.com/locations/FLL",
+      "email": "FLL@signatureflight.com",
+      "street_address": "4050 Sw 11th Terrace",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "129.72",
+      "plus_code": "76RX3RFV+296",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KFLL",
+      "iata": "FLL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"e5bb48b5525e98ef\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLFT",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Lafayette",
+      "phone": "(337) 234-3100",
+      "website": "https://www.signatureaviation.com/locations/LFT",
+      "email": "LFT@signatureflight.com",
+      "street_address": "123 Grissom Drive",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "122.95",
+      "plus_code": "862C6266+XJ9",
+      "city": "Lafayette",
+      "state": "LA",
+      "airport_name": null,
+      "icao": "KLFT",
+      "iata": "LFT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"80c89b7148e38015\""
+}

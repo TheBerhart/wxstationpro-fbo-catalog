@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLGA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation LaGuardia",
+      "phone": "(718) 779-4040",
+      "website": "https://modern-aviation.com/?location=la-guardia-fbo",
+      "email": "LGA@modern-aviation.com",
+      "street_address": "1 Marine Air Terminal",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87G8Q4F8+F2F",
+      "city": "Flushing",
+      "state": "NY",
+      "airport_name": null,
+      "icao": "KLGA",
+      "iata": "LGA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"a908eb7021ccab38\""
+}

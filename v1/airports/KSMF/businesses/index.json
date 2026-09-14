@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSMF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation Sacramento International",
+      "phone": "(916) 235-9167",
+      "website": "https://modern-aviation.com/?location=sacramento-international-airport-fbo",
+      "email": "SMF@modern-aviation.com",
+      "street_address": "5885 Flightline Circle",
+      "hours": null,
+      "freq": null,
+      "plus_code": "84CWMCJ3+8CV",
+      "city": "Sacramento",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KSMF",
+      "iata": "SMF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"c01f83cf1ad23ea6\""
+}

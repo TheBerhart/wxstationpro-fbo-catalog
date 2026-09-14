@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBUF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Buffalo Niagara",
+      "phone": "(716) 633-1000",
+      "website": "https://www.signatureaviation.com/locations/BUF",
+      "email": "buf@signatureflight.com",
+      "street_address": "50 N Airport Drive",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "131.75",
+      "plus_code": "87J3W7X8+25J",
+      "city": "Cheektowaga",
+      "state": "NY",
+      "airport_name": null,
+      "icao": "KBUF",
+      "iata": "BUF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2ec1f618115c0be2\""
+}

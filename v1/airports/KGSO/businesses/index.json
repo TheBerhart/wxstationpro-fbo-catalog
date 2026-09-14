@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGSO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Greensboro",
+      "phone": "(336) 668-0481",
+      "website": "https://www.signatureaviation.com/locations/GSO",
+      "email": "GSO@signatureflight.com",
+      "street_address": "1060 Pti Drive",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.57",
+      "plus_code": "878233X5+QP6",
+      "city": "Greensboro",
+      "state": "NC",
+      "airport_name": null,
+      "icao": "KGSO",
+      "iata": "GSO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"5a9a5c4ce33901b2\""
+}

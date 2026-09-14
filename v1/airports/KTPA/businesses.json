@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTPA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Tampa",
+      "phone": "(813) 870-3813",
+      "website": "https://www.signatureaviation.com/locations/TPA",
+      "email": "TPA@signatureaviation.com",
+      "street_address": "2450 N Westshore Boulevard",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130",
+      "plus_code": "76VVXF8G+X3G",
+      "city": "Tampa",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KTPA",
+      "iata": "TPA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"f5f6233c6406c6ed\""
+}

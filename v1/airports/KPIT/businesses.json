@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPIT",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Moon Township",
+      "phone": "(412) 472-6700",
+      "website": "https://www.atlanticaviation.com/locations/pit/",
+      "email": "pitfrontdesk@atlanticaviation.com",
+      "street_address": "300 Horizon Drive",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": "129.825",
+      "plus_code": "86GXFQXH+29H",
+      "city": "Moon Township",
+      "state": "PA",
+      "airport_name": null,
+      "icao": "KPIT",
+      "iata": "PIT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"5f19ad9598b4c831\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHYA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Hyannis",
+      "phone": "(508) 771-7520",
+      "website": "https://www.atlanticaviation.com/locations/hya/",
+      "email": "hyafrontdesk@atlanticaviation.com",
+      "street_address": "730 Barnstable Road",
+      "hours": "Mon-Sun: 0600-2200; On-call services with prior arrangements",
+      "freq": "128.825",
+      "plus_code": "87HFMP95+WV2",
+      "city": "Hyannis",
+      "state": "MA",
+      "airport_name": null,
+      "icao": "KHYA",
+      "iata": "HYA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"4248bd319f303a55\""
+}

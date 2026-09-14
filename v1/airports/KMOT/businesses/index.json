@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMOT",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Minot",
+      "phone": "+1 701-857-4738",
+      "website": "https://www.avflight.com/network/minot-nd-kmot/",
+      "email": "mot@avflight.com",
+      "street_address": "2400 N Broadway",
+      "hours": "0400-2400 with call out ($150)",
+      "freq": "122.95",
+      "plus_code": "85WW7P53+VQQ",
+      "city": "Minot",
+      "state": "ND",
+      "airport_name": null,
+      "icao": "KMOT",
+      "iata": "MOT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"15d32a61c4a097ef\""
+}

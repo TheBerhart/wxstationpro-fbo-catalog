@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMOB",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Mobile",
+      "phone": "(251) 633-5000",
+      "website": "https://www.signatureaviation.com/locations/MOB",
+      "email": "MOB@signatureflight.com",
+      "street_address": "371 Flave Pierce Road 8400 Airport Blvd",
+      "hours": "0500L - 2200L Call out available on request",
+      "freq": "130.225",
+      "plus_code": "862HMQJ2+W8V",
+      "city": "Mobile",
+      "state": "AL",
+      "airport_name": null,
+      "icao": "KMOB",
+      "iata": "MOB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"f72284ee08a202fc\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCPR",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Casper",
+      "phone": "(307) 472-3400",
+      "website": "https://www.atlanticaviation.com/locations/cpr/",
+      "email": "cprfrontdesk@atlanticaviation.com",
+      "street_address": "7956 Fuller St.",
+      "hours": "Mon-Fri: 0500-2200; Sat-Sun: 0500-2100 On-call services with prior arrangements",
+      "freq": null,
+      "plus_code": "85JMWG2R+G93",
+      "city": "Casper",
+      "state": "WY",
+      "airport_name": null,
+      "icao": "KCPR",
+      "iata": "CPR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"fc59bfef65f36850\""
+}

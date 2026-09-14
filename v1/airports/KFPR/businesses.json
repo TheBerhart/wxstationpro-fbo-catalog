@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFPR",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "APP Jet Center Fort Pierce",
+      "phone": "(772) 489-2285",
+      "website": "https://appjetcenter.com/locations/fort-pierce-florida/",
+      "email": "zmcdonald@appjetcenter.com",
+      "street_address": "2982 Curtis King Boulevard",
+      "hours": null,
+      "freq": "129.025",
+      "plus_code": "76VXFJMM+PJ8",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KFPR",
+      "iata": "FPR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"bc385ef294c51278\""
+}

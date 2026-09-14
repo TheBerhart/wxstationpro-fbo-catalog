@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPBG",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Plattsburgh",
+      "phone": "+1 518-324-4300",
+      "website": "https://www.avflight.com/network/plattsburgh-ny-kpbg/",
+      "email": "pbg@avflight.com",
+      "street_address": "1 Alabama Street",
+      "hours": "0600-2200 Daily (call out)",
+      "freq": "122.7",
+      "plus_code": "87P8MG2R+6WV",
+      "city": "Plattsburgh",
+      "state": "NY",
+      "airport_name": null,
+      "icao": "KPBG",
+      "iata": "PBG",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2281de2633951674\""
+}

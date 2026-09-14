@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAEG",
+  "updated_at": "2026-09-11T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Bode Aero Services",
+      "phone": "(505) 884-4530",
+      "website": "https://flybode.com/what-we-do/aviation-real-estate-and-fixed-base-operations/",
+      "email": "aero@flybode.com",
+      "street_address": "7401 Atrisco Vista Blvd N.W.",
+      "hours": "7AM-7PM every day, 24-hr call out available",
+      "freq": null,
+      "plus_code": "857M45RV+Q34",
+      "city": "Albuquerque",
+      "state": "NM",
+      "airport_name": null,
+      "icao": "KAEG",
+      "iata": "AEG",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-11"
+    }
+  ],
+  "etag": "\"4be06ebf6a5c9a26\""
+}

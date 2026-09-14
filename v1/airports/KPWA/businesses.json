@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPWA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Bethany",
+      "phone": "(405) 787-4040",
+      "website": "https://www.atlanticaviation.com/locations/pwa/",
+      "email": "pwafrontdesk@atlanticaviation.com",
+      "street_address": "5901 Philip J. Rhoads Ave.",
+      "hours": "Mon-Sun: 0400-2200; On-call services with prior arrangements",
+      "freq": "130.6",
+      "plus_code": "8674G9H6+8MP",
+      "city": "Bethany",
+      "state": "OK",
+      "airport_name": null,
+      "icao": "KPWA",
+      "iata": "PWA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"16a3592f4758c68c\""
+}

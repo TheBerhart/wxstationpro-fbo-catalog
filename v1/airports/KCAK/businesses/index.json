@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCAK",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Akron Canton",
+      "phone": "+1 330-494-6104",
+      "website": "https://www.avflight.com/network/north-canton-oh-kcak/",
+      "email": "cak@avflight.com",
+      "street_address": "5400 Lauby Rd #4",
+      "hours": "M-F 0600-2200, S-S 0700-2000",
+      "freq": "122.95",
+      "plus_code": "86GWWH86+32P",
+      "city": "North Canton",
+      "state": "OH",
+      "airport_name": null,
+      "icao": "KCAK",
+      "iata": "CAK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"fc7a4cd8f68ddeae\""
+}

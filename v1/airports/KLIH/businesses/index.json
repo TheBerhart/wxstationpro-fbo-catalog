@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLIH",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Lihue",
+      "phone": "(808) 246-0016",
+      "website": "https://www.atlanticaviation.com/locations/lih/",
+      "email": "lihfrontdesk@atlanticaviation.com",
+      "street_address": "3264 Moae Street",
+      "hours": "Mon-Sun: 0700-1700; On call services with prior arrangements",
+      "freq": "128.95",
+      "plus_code": "73H2XMP6+86F",
+      "city": "Lihue",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "KLIH",
+      "iata": "LIH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"03af2cbe505afb8f\""
+}

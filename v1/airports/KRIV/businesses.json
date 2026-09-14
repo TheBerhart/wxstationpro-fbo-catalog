@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRIV",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Riverside",
+      "phone": "(951) 247-2111",
+      "website": "https://millionair.com/locations/riv/",
+      "email": "csr.riv@millionair.com",
+      "street_address": "17405 Heacock St.",
+      "hours": "0700-2300, call +1-951-247-2111 after hours",
+      "freq": "130.075",
+      "plus_code": "8554VQ84+GFX",
+      "city": "Moreno Valley",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KRIV",
+      "iata": "RIV",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b39397141bce87ca\""
+}

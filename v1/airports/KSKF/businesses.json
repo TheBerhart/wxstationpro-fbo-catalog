@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSKF",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation San Antonio",
+      "phone": "(210) 921-6100",
+      "website": "https://www.atlanticaviation.com/locations/skf/",
+      "email": "skffrontdesk@atlanticaviation.com",
+      "street_address": "309 N. Frank Luke Drive",
+      "hours": "Mon-Fri: 0600-2300; Sat-Sun: 0700-2300",
+      "freq": "129.725",
+      "plus_code": "76X39CQF+8W4",
+      "city": "San Antonio",
+      "state": "TX",
+      "airport_name": null,
+      "icao": "KSKF",
+      "iata": "SKF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"309d4210a742ca36\""
+}

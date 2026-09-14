@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPRB",
+  "updated_at": "2026-09-11T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Loyd's Aviation Paso Robles",
+      "phone": "(805) 246-1443",
+      "website": "https://loydsaviation.com/fbo-services/paso-robles/",
+      "email": "CSR-PRB@LoydsAviation.com",
+      "street_address": "4900 Wing Way",
+      "hours": "7am–7pm, 7 days/week",
+      "freq": "131.375",
+      "plus_code": "847XM9C6+QRR",
+      "city": "Paso Robles",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KPRB",
+      "iata": "PRB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-11"
+    }
+  ],
+  "etag": "\"b9219290c1fa047e\""
+}

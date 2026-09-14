@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSEA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Seattle Tacoma",
+      "phone": "(206) 433-5481",
+      "website": "https://www.signatureaviation.com/locations/SEA",
+      "email": "SEA@signatureflight.com",
+      "street_address": "18291 Starling Road",
+      "hours": "0700L - 2100L Call out available on request",
+      "freq": "128.925",
+      "plus_code": "84VVCMQM+MHX",
+      "city": "Seattle",
+      "state": "WA",
+      "airport_name": null,
+      "icao": "KSEA",
+      "iata": "SEA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"242431d3f773bff3\""
+}

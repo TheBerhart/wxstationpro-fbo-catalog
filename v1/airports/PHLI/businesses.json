@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "PHLI",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Lihue",
+      "phone": "(808) 245-7440",
+      "website": "https://www.signatureaviation.com/locations/LIH",
+      "email": "LIH@signatureflight.com",
+      "street_address": "3745 Ahukini Road Suite 101",
+      "hours": "0700L - 2300L Call out available on request",
+      "freq": null,
+      "plus_code": "73H2XMJ4+QC2",
+      "city": "Lihue",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "PHLI",
+      "iata": "LIH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b642a2c96b22a0b5\""
+}

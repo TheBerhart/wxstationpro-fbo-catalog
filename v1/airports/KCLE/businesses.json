@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCLE",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Cleveland",
+      "phone": "(216) 362-1500",
+      "website": "https://www.atlanticaviation.com/locations/cle/",
+      "email": "clefrontdesk@atlanticaviation.com",
+      "street_address": "6200 Riverside Drive",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": "130.3",
+      "plus_code": "86HWC42V+5XP",
+      "city": "Cleveland",
+      "state": "OH",
+      "airport_name": null,
+      "icao": "KCLE",
+      "iata": "CLE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"610cc3666066e8f5\""
+}

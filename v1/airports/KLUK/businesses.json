@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLUK",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Cincinnati",
+      "phone": "(513) 871-8600",
+      "website": "https://www.signatureaviation.com/locations/LUK",
+      "email": "LUK@signatureflight.com",
+      "street_address": "358 Wilmer Avenue",
+      "hours": "0500L - 0000L Call out available on request",
+      "freq": "130.225",
+      "plus_code": "86FQ4H4C+4W7",
+      "city": "Cincinnati",
+      "state": "OH",
+      "airport_name": null,
+      "icao": "KLUK",
+      "iata": "LUK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"0546bf812a93fe40\""
+}

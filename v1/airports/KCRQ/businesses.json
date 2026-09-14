@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCRQ",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Carlsbad",
+      "phone": "(760) 930-0123",
+      "website": "https://www.atlanticaviation.com/locations/crq/",
+      "email": "crqfrontdesk@atlanticaviation.com",
+      "street_address": "2100 Palomar Airport Road",
+      "hours": "Mon-Sun: 0600-2200",
+      "freq": null,
+      "plus_code": "85544PGF+2HM",
+      "city": "Carlsbad",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KCRQ",
+      "iata": "CRQ",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"c8ecbf4bf502d8f9\""
+}

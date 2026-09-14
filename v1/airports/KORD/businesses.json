@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KORD",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Chicago Ohare",
+      "phone": "(773) 686-7000",
+      "website": "https://www.signatureaviation.com/locations/ORD",
+      "email": "ord@signatureflight.com",
+      "street_address": "825 Patton Drive",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "128.925",
+      "plus_code": "86HJX4R6+G65",
+      "city": "Chicago",
+      "state": "IL",
+      "airport_name": null,
+      "icao": "KORD",
+      "iata": "ORD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2a3e4b4886690a41\""
+}

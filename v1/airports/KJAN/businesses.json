@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJAN",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Jackson",
+      "phone": "(601) 939-9366",
+      "website": "https://www.atlanticaviation.com/locations/jan/",
+      "email": "janfrontdesk@atlanticaviation.com",
+      "street_address": "120 North Hangar Drive",
+      "hours": "Mon-Sun: 0600-2200; On-call services with prior arrangements",
+      "freq": null,
+      "plus_code": "864F8W5G+6WX",
+      "city": "Jackson",
+      "state": "MS",
+      "airport_name": null,
+      "icao": "KJAN",
+      "iata": "JAN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2fd6f87c8273c0e4\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHNL",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Honolulu",
+      "phone": "(808) 839-5003",
+      "website": "https://www.atlanticaviation.com/locations/hnl/",
+      "email": "hnlfrontdesk@atlanticaviation.com",
+      "street_address": "95 Nakolo Place",
+      "hours": "Mon-Sun: 0600-2000",
+      "freq": "128.95",
+      "plus_code": "73H483CQ+43W",
+      "city": "Honolulu",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "KHNL",
+      "iata": "HNL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"bb482b9cefbdb192\""
+}

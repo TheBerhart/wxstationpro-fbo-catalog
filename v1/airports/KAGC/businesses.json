@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAGC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation West Mifflin",
+      "phone": "(412) 267-8000",
+      "website": "https://www.atlanticaviation.com/locations/agc/",
+      "email": "agcfrontdesk@atlanticaviation.com",
+      "street_address": "1901 Lebanon Road",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": "128.95",
+      "plus_code": "87G283X2+5HQ",
+      "city": "West Mifflin",
+      "state": "PA",
+      "airport_name": null,
+      "icao": "KAGC",
+      "iata": "AGC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b9526148ccf5f9b7\""
+}

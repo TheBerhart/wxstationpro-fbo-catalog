@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "PANC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Anchorage",
+      "phone": "(907) 243-7627",
+      "website": "https://www.signatureaviation.com/locations/ANC",
+      "email": "ANC@signatureflight.com",
+      "street_address": "6231 South Airpark Place",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.55",
+      "plus_code": "93HG5277+M62",
+      "city": "Anchorage",
+      "state": "AK",
+      "airport_name": null,
+      "icao": "PANC",
+      "iata": "ANC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"72c6123c03180de1\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEFD",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Houston",
+      "phone": "(281) 484-6551",
+      "website": "https://www.signatureaviation.com/locations/EFD",
+      "email": "EFD@signatureflight.com",
+      "street_address": "11811 North Brantly Avenue Building 500",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.25",
+      "plus_code": "76X6JR2J+XCQ",
+      "city": "Houston",
+      "state": "TX",
+      "airport_name": null,
+      "icao": "KEFD",
+      "iata": "EFD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"19ace495df394e10\""
+}

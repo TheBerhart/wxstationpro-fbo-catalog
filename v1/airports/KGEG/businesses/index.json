@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGEG",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Spokane",
+      "phone": "(509) 455-5204",
+      "website": "https://www.signatureaviation.com/locations/GEG",
+      "email": "GEG@signatureflight.com",
+      "street_address": "8136 W Pilot Drive",
+      "hours": "0600L - 2200L Call out available on request",
+      "freq": "122.775",
+      "plus_code": "85V4JFCC+2QX",
+      "city": "Spokane",
+      "state": "WA",
+      "airport_name": null,
+      "icao": "KGEG",
+      "iata": "GEG",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"6859c129294eb816\""
+}

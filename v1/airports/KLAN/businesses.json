@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLAN",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Lansing",
+      "phone": "+1 517-321-7000",
+      "website": "https://www.avflight.com/network/lansing-mi-klan/",
+      "email": "lan@avflight.com",
+      "street_address": "3121 Circle Drive West",
+      "hours": "24 Hours / 7 Days a week",
+      "freq": "122.95",
+      "plus_code": "86JQQCF5+62M",
+      "city": "Lansing",
+      "state": "MI",
+      "airport_name": null,
+      "icao": "KLAN",
+      "iata": "LAN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b3405e165eb07c15\""
+}

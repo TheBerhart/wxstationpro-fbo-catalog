@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMWH",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Moses Lake",
+      "phone": "(509) 762-2222",
+      "website": "https://millionair.com/locations/mwh/",
+      "email": "info.mwh@millionair.com",
+      "street_address": "7810 Andrews St. NE. Suite 134",
+      "hours": "Daily 0600 – 2200, Call +1-509-750-0711 for after hours",
+      "freq": null,
+      "plus_code": "85V25MQG+9V6",
+      "city": "Moses Lake",
+      "state": "WA",
+      "airport_name": null,
+      "icao": "KMWH",
+      "iata": "MWH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"7decf8c885e7c13c\""
+}

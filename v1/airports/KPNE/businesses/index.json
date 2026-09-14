@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPNE",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Philadelphia",
+      "phone": "(215) 698-3100",
+      "website": "https://www.atlanticaviation.com/locations/pne/",
+      "email": "pnefrontdesk@atlanticaviation.com",
+      "street_address": "9800 Ashton Road",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": "129",
+      "plus_code": "87G63XCV+PJM",
+      "city": "Philadelphia",
+      "state": "PA",
+      "airport_name": null,
+      "icao": "KPNE",
+      "iata": "PNE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"0742411bb15626db\""
+}

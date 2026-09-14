@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRUT",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation Rutland",
+      "phone": "(802) 773-3348",
+      "website": "https://modern-aviation.com/?location=rutland-fbo",
+      "email": "RUT@modern-aviation.com",
+      "street_address": "1004 Airport Road",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87M9G3H3+3VF",
+      "city": "North Clarendon",
+      "state": "VT",
+      "airport_name": null,
+      "icao": "KRUT",
+      "iata": "RUT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"aeb681106bc0b5a6\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPHX",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cutter Aviation Phoenix",
+      "phone": "(602) 273-1237",
+      "website": "https://cutteraviation.com/fbo-services/airport-facility-locations-phx-phoenix-sky-harbor-az/",
+      "email": "InfoPHX@cutteraviation.com",
+      "street_address": "2802 E. Old Tower Road",
+      "hours": "24 Hours / 7 Days",
+      "freq": "128.875",
+      "plus_code": "8559CXFM+HF3",
+      "city": "Phoenix",
+      "state": "AZ",
+      "airport_name": null,
+      "icao": "KPHX",
+      "iata": "PHX",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"785c5c453de2425c\""
+}

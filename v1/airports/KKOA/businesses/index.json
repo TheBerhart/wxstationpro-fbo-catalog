@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KKOA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Keahole-Kona",
+      "phone": "(808) 334-0699",
+      "website": "https://www.atlanticaviation.com/locations/koa/",
+      "email": "koafrontdesk@atlanticaviation.com",
+      "street_address": "73-302 Uu Street",
+      "hours": "Mon-Sun: 0700-1700; On-call services with prior arrangements",
+      "freq": "128.95",
+      "plus_code": "73F5PXV5+H38",
+      "city": "Keahole-Kona",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "KKOA",
+      "iata": "KOA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"ce0af53c0909e144\""
+}

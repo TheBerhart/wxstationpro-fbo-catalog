@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEGE",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Vail",
+      "phone": "(970) 524-7700",
+      "website": "https://www.signatureaviation.com/locations/EGE",
+      "email": "customerservice@vvjc.com",
+      "street_address": "871 Cooley Mesa Road",
+      "hours": "0600L - 2100L Call out available on request",
+      "freq": "130.12",
+      "plus_code": "85FMJ3RR+82C",
+      "city": "Gypsum",
+      "state": "CO",
+      "airport_name": null,
+      "icao": "KEGE",
+      "iata": "EGE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"fce50a8a59d166ed\""
+}

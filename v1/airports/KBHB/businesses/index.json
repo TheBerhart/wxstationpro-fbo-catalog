@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBHB",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation Bar Harbor",
+      "phone": "(207) 667-5534",
+      "website": "https://modern-aviation.com/?location=bar-harbor-fbo",
+      "email": "BHB@modern-aviation.com",
+      "street_address": "112 Caruso Drive",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87PHCJVQ+J58",
+      "city": "Trenton",
+      "state": "ME",
+      "airport_name": null,
+      "icao": "KBHB",
+      "iata": "BHB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"eb3ef28a3db8e66d\""
+}

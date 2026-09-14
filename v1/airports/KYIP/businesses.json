@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KYIP",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Willow Run",
+      "phone": "+1 734-482-2621",
+      "website": "https://www.avflight.com/network/belleville-mi-kyip/",
+      "email": "yip@avflight.com",
+      "street_address": "2055 C Street",
+      "hours": "24 Hours / 7 Days a week",
+      "freq": "129.15",
+      "plus_code": "86JR6FQP+XHJ",
+      "city": "Belleville",
+      "state": "MI",
+      "airport_name": null,
+      "icao": "KYIP",
+      "iata": "YIP",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"99c6d337a1196a17\""
+}

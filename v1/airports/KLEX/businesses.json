@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLEX",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Lexington",
+      "phone": "(859) 255-7724",
+      "website": "https://www.signatureaviation.com/locations/LEX",
+      "email": "lexfbo@tacair.com",
+      "street_address": "4308 Hangar Drive",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "129.875",
+      "plus_code": "86CQ2CJ2+X43",
+      "city": "Lexington",
+      "state": "KY",
+      "airport_name": null,
+      "icao": "KLEX",
+      "iata": "LEX",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"9f39200e67bbe388\""
+}

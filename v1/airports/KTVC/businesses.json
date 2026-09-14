@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTVC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Traverse City",
+      "phone": "+1 231-929-1126",
+      "website": "https://www.avflight.com/network/traverse-city-mi-ktvc/",
+      "email": "tvc@avflight.com",
+      "street_address": "1150 Airport Access Rd.",
+      "hours": "0600-2200 (call out)",
+      "freq": "122.95",
+      "plus_code": "86PPQC29+759",
+      "city": "Traverse City",
+      "state": "MI",
+      "airport_name": null,
+      "icao": "KTVC",
+      "iata": "TVC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"24ca5667a8f578a3\""
+}

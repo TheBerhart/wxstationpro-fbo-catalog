@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHSV",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Huntsville",
+      "phone": "(256) 772-9341",
+      "website": "https://www.signatureaviation.com/locations/HSV",
+      "email": "HSV@signatureflight.com",
+      "street_address": "2000 Houston Goodson Way",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.375",
+      "plus_code": "866MJ6XH+MF4",
+      "city": "Huntsville",
+      "state": "AL",
+      "airport_name": null,
+      "icao": "KHSV",
+      "iata": "HSV",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"537b12ab0e962073\""
+}

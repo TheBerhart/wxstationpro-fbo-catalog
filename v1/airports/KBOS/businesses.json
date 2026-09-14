@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBOS",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Boston",
+      "phone": "(617) 561-2500",
+      "website": "https://www.signatureaviation.com/locations/BOS",
+      "email": "BOS@signatureflight.com",
+      "street_address": "240 Prescott Street 60 Logan South-Harborside",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "130.25",
+      "plus_code": "87JC9XFG+WPM",
+      "city": "East Boston",
+      "state": "MA",
+      "airport_name": null,
+      "icao": "KBOS",
+      "iata": "BOS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"695a24a4a9c662c0\""
+}

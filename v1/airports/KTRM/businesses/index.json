@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTRM",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Thermal",
+      "phone": "(760) 399-4300",
+      "website": "https://www.atlanticaviation.com/locations/trm/",
+      "email": "trmfrontdesk@atlanticaviation.com",
+      "street_address": "86-400 Lightning St",
+      "hours": "Mon-Sun: 0600-2200; June-August: 0600-2000; On-call services with prior arrangements",
+      "freq": "131.42",
+      "plus_code": "8555JRQQ+PF5",
+      "city": "Thermal",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KTRM",
+      "iata": "TRM",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"b8e776d0ff66cede\""
+}

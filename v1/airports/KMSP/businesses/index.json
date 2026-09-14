@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMSP",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Minneapolis-St. Paul",
+      "phone": "(612) 726-5700",
+      "website": "https://www.signatureaviation.com/locations/MSP",
+      "email": "MSP@signatureflight.com",
+      "street_address": "3800 East 70th Street",
+      "hours": "24 hours a day/7 days a week",
+      "freq": "128.95",
+      "plus_code": "86P8VQGJ+PXJ",
+      "city": "Minneapolis",
+      "state": "MN",
+      "airport_name": null,
+      "icao": "KMSP",
+      "iata": "MSP",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"8489a5b65e74c227\""
+}

@@ -1,0 +1,1353 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-14T03:31:07.396Z",
+  "source": "thin-seed",
+  "airport_count": 269,
+  "airports": [
+    {
+      "ident": "6N5",
+      "count": 1,
+      "path": "/v1/airports/6N5/businesses"
+    },
+    {
+      "ident": "KABQ",
+      "count": 2,
+      "path": "/v1/airports/KABQ/businesses"
+    },
+    {
+      "ident": "KACY",
+      "count": 1,
+      "path": "/v1/airports/KACY/businesses"
+    },
+    {
+      "ident": "KADS",
+      "count": 2,
+      "path": "/v1/airports/KADS/businesses"
+    },
+    {
+      "ident": "KAEG",
+      "count": 1,
+      "path": "/v1/airports/KAEG/businesses"
+    },
+    {
+      "ident": "KAEX",
+      "count": 1,
+      "path": "/v1/airports/KAEX/businesses"
+    },
+    {
+      "ident": "KAGC",
+      "count": 1,
+      "path": "/v1/airports/KAGC/businesses"
+    },
+    {
+      "ident": "KALB",
+      "count": 1,
+      "path": "/v1/airports/KALB/businesses"
+    },
+    {
+      "ident": "KAMA",
+      "count": 1,
+      "path": "/v1/airports/KAMA/businesses"
+    },
+    {
+      "ident": "KANC",
+      "count": 1,
+      "path": "/v1/airports/KANC/businesses"
+    },
+    {
+      "ident": "KANE",
+      "count": 1,
+      "path": "/v1/airports/KANE/businesses"
+    },
+    {
+      "ident": "KAPA",
+      "count": 4,
+      "path": "/v1/airports/KAPA/businesses"
+    },
+    {
+      "ident": "KAPC",
+      "count": 1,
+      "path": "/v1/airports/KAPC/businesses"
+    },
+    {
+      "ident": "KASE",
+      "count": 1,
+      "path": "/v1/airports/KASE/businesses"
+    },
+    {
+      "ident": "KATL",
+      "count": 1,
+      "path": "/v1/airports/KATL/businesses"
+    },
+    {
+      "ident": "KAUS",
+      "count": 3,
+      "path": "/v1/airports/KAUS/businesses"
+    },
+    {
+      "ident": "KAVL",
+      "count": 1,
+      "path": "/v1/airports/KAVL/businesses"
+    },
+    {
+      "ident": "KBAF",
+      "count": 1,
+      "path": "/v1/airports/KBAF/businesses"
+    },
+    {
+      "ident": "KBCT",
+      "count": 2,
+      "path": "/v1/airports/KBCT/businesses"
+    },
+    {
+      "ident": "KBDL",
+      "count": 2,
+      "path": "/v1/airports/KBDL/businesses"
+    },
+    {
+      "ident": "KBDR",
+      "count": 1,
+      "path": "/v1/airports/KBDR/businesses"
+    },
+    {
+      "ident": "KBED",
+      "count": 3,
+      "path": "/v1/airports/KBED/businesses"
+    },
+    {
+      "ident": "KBFI",
+      "count": 2,
+      "path": "/v1/airports/KBFI/businesses"
+    },
+    {
+      "ident": "KBFL",
+      "count": 2,
+      "path": "/v1/airports/KBFL/businesses"
+    },
+    {
+      "ident": "KBFM",
+      "count": 1,
+      "path": "/v1/airports/KBFM/businesses"
+    },
+    {
+      "ident": "KBHB",
+      "count": 1,
+      "path": "/v1/airports/KBHB/businesses"
+    },
+    {
+      "ident": "KBHM",
+      "count": 2,
+      "path": "/v1/airports/KBHM/businesses"
+    },
+    {
+      "ident": "KBIV",
+      "count": 1,
+      "path": "/v1/airports/KBIV/businesses"
+    },
+    {
+      "ident": "KBJC",
+      "count": 1,
+      "path": "/v1/airports/KBJC/businesses"
+    },
+    {
+      "ident": "KBKL",
+      "count": 1,
+      "path": "/v1/airports/KBKL/businesses"
+    },
+    {
+      "ident": "KBNA",
+      "count": 2,
+      "path": "/v1/airports/KBNA/businesses"
+    },
+    {
+      "ident": "KBOS",
+      "count": 1,
+      "path": "/v1/airports/KBOS/businesses"
+    },
+    {
+      "ident": "KBTR",
+      "count": 1,
+      "path": "/v1/airports/KBTR/businesses"
+    },
+    {
+      "ident": "KBUF",
+      "count": 1,
+      "path": "/v1/airports/KBUF/businesses"
+    },
+    {
+      "ident": "KBUR",
+      "count": 1,
+      "path": "/v1/airports/KBUR/businesses"
+    },
+    {
+      "ident": "KBWI",
+      "count": 1,
+      "path": "/v1/airports/KBWI/businesses"
+    },
+    {
+      "ident": "KBZN",
+      "count": 3,
+      "path": "/v1/airports/KBZN/businesses"
+    },
+    {
+      "ident": "KCAK",
+      "count": 1,
+      "path": "/v1/airports/KCAK/businesses"
+    },
+    {
+      "ident": "KCHA",
+      "count": 1,
+      "path": "/v1/airports/KCHA/businesses"
+    },
+    {
+      "ident": "KCHO",
+      "count": 1,
+      "path": "/v1/airports/KCHO/businesses"
+    },
+    {
+      "ident": "KCHS",
+      "count": 2,
+      "path": "/v1/airports/KCHS/businesses"
+    },
+    {
+      "ident": "KCID",
+      "count": 1,
+      "path": "/v1/airports/KCID/businesses"
+    },
+    {
+      "ident": "KCLE",
+      "count": 1,
+      "path": "/v1/airports/KCLE/businesses"
+    },
+    {
+      "ident": "KCLT",
+      "count": 1,
+      "path": "/v1/airports/KCLT/businesses"
+    },
+    {
+      "ident": "KCMH",
+      "count": 1,
+      "path": "/v1/airports/KCMH/businesses"
+    },
+    {
+      "ident": "KCOS",
+      "count": 2,
+      "path": "/v1/airports/KCOS/businesses"
+    },
+    {
+      "ident": "KCPR",
+      "count": 1,
+      "path": "/v1/airports/KCPR/businesses"
+    },
+    {
+      "ident": "KCPS",
+      "count": 1,
+      "path": "/v1/airports/KCPS/businesses"
+    },
+    {
+      "ident": "KCRP",
+      "count": 1,
+      "path": "/v1/airports/KCRP/businesses"
+    },
+    {
+      "ident": "KCRQ",
+      "count": 1,
+      "path": "/v1/airports/KCRQ/businesses"
+    },
+    {
+      "ident": "KCWF",
+      "count": 1,
+      "path": "/v1/airports/KCWF/businesses"
+    },
+    {
+      "ident": "KDAL",
+      "count": 6,
+      "path": "/v1/airports/KDAL/businesses"
+    },
+    {
+      "ident": "KDCA",
+      "count": 1,
+      "path": "/v1/airports/KDCA/businesses"
+    },
+    {
+      "ident": "KDEN",
+      "count": 1,
+      "path": "/v1/airports/KDEN/businesses"
+    },
+    {
+      "ident": "KDET",
+      "count": 1,
+      "path": "/v1/airports/KDET/businesses"
+    },
+    {
+      "ident": "KDJT",
+      "count": 1,
+      "path": "/v1/airports/KDJT/businesses"
+    },
+    {
+      "ident": "KDLO",
+      "count": 1,
+      "path": "/v1/airports/KDLO/businesses"
+    },
+    {
+      "ident": "KDRO",
+      "count": 1,
+      "path": "/v1/airports/KDRO/businesses"
+    },
+    {
+      "ident": "KDSM",
+      "count": 2,
+      "path": "/v1/airports/KDSM/businesses"
+    },
+    {
+      "ident": "KDTS",
+      "count": 1,
+      "path": "/v1/airports/KDTS/businesses"
+    },
+    {
+      "ident": "KDTW",
+      "count": 1,
+      "path": "/v1/airports/KDTW/businesses"
+    },
+    {
+      "ident": "KDVT",
+      "count": 1,
+      "path": "/v1/airports/KDVT/businesses"
+    },
+    {
+      "ident": "KEFD",
+      "count": 1,
+      "path": "/v1/airports/KEFD/businesses"
+    },
+    {
+      "ident": "KEGE",
+      "count": 1,
+      "path": "/v1/airports/KEGE/businesses"
+    },
+    {
+      "ident": "KELM",
+      "count": 1,
+      "path": "/v1/airports/KELM/businesses"
+    },
+    {
+      "ident": "KELP",
+      "count": 2,
+      "path": "/v1/airports/KELP/businesses"
+    },
+    {
+      "ident": "KEUG",
+      "count": 1,
+      "path": "/v1/airports/KEUG/businesses"
+    },
+    {
+      "ident": "KEWR",
+      "count": 1,
+      "path": "/v1/airports/KEWR/businesses"
+    },
+    {
+      "ident": "KEYW",
+      "count": 1,
+      "path": "/v1/airports/KEYW/businesses"
+    },
+    {
+      "ident": "KF45",
+      "count": 1,
+      "path": "/v1/airports/KF45/businesses"
+    },
+    {
+      "ident": "KFAI",
+      "count": 1,
+      "path": "/v1/airports/KFAI/businesses"
+    },
+    {
+      "ident": "KFAT",
+      "count": 2,
+      "path": "/v1/airports/KFAT/businesses"
+    },
+    {
+      "ident": "KFAY",
+      "count": 1,
+      "path": "/v1/airports/KFAY/businesses"
+    },
+    {
+      "ident": "KFDK",
+      "count": 1,
+      "path": "/v1/airports/KFDK/businesses"
+    },
+    {
+      "ident": "KFLL",
+      "count": 1,
+      "path": "/v1/airports/KFLL/businesses"
+    },
+    {
+      "ident": "KFMN",
+      "count": 1,
+      "path": "/v1/airports/KFMN/businesses"
+    },
+    {
+      "ident": "KFNL",
+      "count": 1,
+      "path": "/v1/airports/KFNL/businesses"
+    },
+    {
+      "ident": "KFNT",
+      "count": 1,
+      "path": "/v1/airports/KFNT/businesses"
+    },
+    {
+      "ident": "KFOE",
+      "count": 1,
+      "path": "/v1/airports/KFOE/businesses"
+    },
+    {
+      "ident": "KFOK",
+      "count": 2,
+      "path": "/v1/airports/KFOK/businesses"
+    },
+    {
+      "ident": "KFPR",
+      "count": 1,
+      "path": "/v1/airports/KFPR/businesses"
+    },
+    {
+      "ident": "KFRG",
+      "count": 4,
+      "path": "/v1/airports/KFRG/businesses"
+    },
+    {
+      "ident": "KFSD",
+      "count": 1,
+      "path": "/v1/airports/KFSD/businesses"
+    },
+    {
+      "ident": "KFSM",
+      "count": 1,
+      "path": "/v1/airports/KFSM/businesses"
+    },
+    {
+      "ident": "KFTW",
+      "count": 1,
+      "path": "/v1/airports/KFTW/businesses"
+    },
+    {
+      "ident": "KFTY",
+      "count": 1,
+      "path": "/v1/airports/KFTY/businesses"
+    },
+    {
+      "ident": "KFXE",
+      "count": 2,
+      "path": "/v1/airports/KFXE/businesses"
+    },
+    {
+      "ident": "KGEG",
+      "count": 1,
+      "path": "/v1/airports/KGEG/businesses"
+    },
+    {
+      "ident": "KGFK",
+      "count": 1,
+      "path": "/v1/airports/KGFK/businesses"
+    },
+    {
+      "ident": "KGON",
+      "count": 1,
+      "path": "/v1/airports/KGON/businesses"
+    },
+    {
+      "ident": "KGPI",
+      "count": 1,
+      "path": "/v1/airports/KGPI/businesses"
+    },
+    {
+      "ident": "KGPT",
+      "count": 1,
+      "path": "/v1/airports/KGPT/businesses"
+    },
+    {
+      "ident": "KGRB",
+      "count": 1,
+      "path": "/v1/airports/KGRB/businesses"
+    },
+    {
+      "ident": "KGRR",
+      "count": 2,
+      "path": "/v1/airports/KGRR/businesses"
+    },
+    {
+      "ident": "KGSO",
+      "count": 1,
+      "path": "/v1/airports/KGSO/businesses"
+    },
+    {
+      "ident": "KGTR",
+      "count": 1,
+      "path": "/v1/airports/KGTR/businesses"
+    },
+    {
+      "ident": "KGTU",
+      "count": 1,
+      "path": "/v1/airports/KGTU/businesses"
+    },
+    {
+      "ident": "KGUC",
+      "count": 1,
+      "path": "/v1/airports/KGUC/businesses"
+    },
+    {
+      "ident": "KHDN",
+      "count": 1,
+      "path": "/v1/airports/KHDN/businesses"
+    },
+    {
+      "ident": "KHEF",
+      "count": 1,
+      "path": "/v1/airports/KHEF/businesses"
+    },
+    {
+      "ident": "KHNL",
+      "count": 1,
+      "path": "/v1/airports/KHNL/businesses"
+    },
+    {
+      "ident": "KHOU",
+      "count": 5,
+      "path": "/v1/airports/KHOU/businesses"
+    },
+    {
+      "ident": "KHPN",
+      "count": 5,
+      "path": "/v1/airports/KHPN/businesses"
+    },
+    {
+      "ident": "KHSA",
+      "count": 1,
+      "path": "/v1/airports/KHSA/businesses"
+    },
+    {
+      "ident": "KHSV",
+      "count": 1,
+      "path": "/v1/airports/KHSV/businesses"
+    },
+    {
+      "ident": "KHWD",
+      "count": 2,
+      "path": "/v1/airports/KHWD/businesses"
+    },
+    {
+      "ident": "KHXD",
+      "count": 1,
+      "path": "/v1/airports/KHXD/businesses"
+    },
+    {
+      "ident": "KHYA",
+      "count": 1,
+      "path": "/v1/airports/KHYA/businesses"
+    },
+    {
+      "ident": "KIAD",
+      "count": 2,
+      "path": "/v1/airports/KIAD/businesses"
+    },
+    {
+      "ident": "KIAH",
+      "count": 2,
+      "path": "/v1/airports/KIAH/businesses"
+    },
+    {
+      "ident": "KICT",
+      "count": 1,
+      "path": "/v1/airports/KICT/businesses"
+    },
+    {
+      "ident": "KILG",
+      "count": 1,
+      "path": "/v1/airports/KILG/businesses"
+    },
+    {
+      "ident": "KILM",
+      "count": 1,
+      "path": "/v1/airports/KILM/businesses"
+    },
+    {
+      "ident": "KIND",
+      "count": 2,
+      "path": "/v1/airports/KIND/businesses"
+    },
+    {
+      "ident": "KINT",
+      "count": 1,
+      "path": "/v1/airports/KINT/businesses"
+    },
+    {
+      "ident": "KISM",
+      "count": 1,
+      "path": "/v1/airports/KISM/businesses"
+    },
+    {
+      "ident": "KISP",
+      "count": 1,
+      "path": "/v1/airports/KISP/businesses"
+    },
+    {
+      "ident": "KITO",
+      "count": 1,
+      "path": "/v1/airports/KITO/businesses"
+    },
+    {
+      "ident": "KIXD",
+      "count": 1,
+      "path": "/v1/airports/KIXD/businesses"
+    },
+    {
+      "ident": "KJAN",
+      "count": 1,
+      "path": "/v1/airports/KJAN/businesses"
+    },
+    {
+      "ident": "KJAX",
+      "count": 1,
+      "path": "/v1/airports/KJAX/businesses"
+    },
+    {
+      "ident": "KJFK",
+      "count": 1,
+      "path": "/v1/airports/KJFK/businesses"
+    },
+    {
+      "ident": "KJZI",
+      "count": 1,
+      "path": "/v1/airports/KJZI/businesses"
+    },
+    {
+      "ident": "KKOA",
+      "count": 1,
+      "path": "/v1/airports/KKOA/businesses"
+    },
+    {
+      "ident": "KLAN",
+      "count": 1,
+      "path": "/v1/airports/KLAN/businesses"
+    },
+    {
+      "ident": "KLAS",
+      "count": 2,
+      "path": "/v1/airports/KLAS/businesses"
+    },
+    {
+      "ident": "KLAX",
+      "count": 2,
+      "path": "/v1/airports/KLAX/businesses"
+    },
+    {
+      "ident": "KLBB",
+      "count": 1,
+      "path": "/v1/airports/KLBB/businesses"
+    },
+    {
+      "ident": "KLEX",
+      "count": 1,
+      "path": "/v1/airports/KLEX/businesses"
+    },
+    {
+      "ident": "KLFT",
+      "count": 1,
+      "path": "/v1/airports/KLFT/businesses"
+    },
+    {
+      "ident": "KLGA",
+      "count": 1,
+      "path": "/v1/airports/KLGA/businesses"
+    },
+    {
+      "ident": "KLGB",
+      "count": 2,
+      "path": "/v1/airports/KLGB/businesses"
+    },
+    {
+      "ident": "KLIH",
+      "count": 1,
+      "path": "/v1/airports/KLIH/businesses"
+    },
+    {
+      "ident": "KLIT",
+      "count": 2,
+      "path": "/v1/airports/KLIT/businesses"
+    },
+    {
+      "ident": "KLNK",
+      "count": 1,
+      "path": "/v1/airports/KLNK/businesses"
+    },
+    {
+      "ident": "KLNY",
+      "count": 1,
+      "path": "/v1/airports/KLNY/businesses"
+    },
+    {
+      "ident": "KLRD",
+      "count": 1,
+      "path": "/v1/airports/KLRD/businesses"
+    },
+    {
+      "ident": "KLUK",
+      "count": 1,
+      "path": "/v1/airports/KLUK/businesses"
+    },
+    {
+      "ident": "KMAF",
+      "count": 1,
+      "path": "/v1/airports/KMAF/businesses"
+    },
+    {
+      "ident": "KMBS",
+      "count": 1,
+      "path": "/v1/airports/KMBS/businesses"
+    },
+    {
+      "ident": "KMCI",
+      "count": 1,
+      "path": "/v1/airports/KMCI/businesses"
+    },
+    {
+      "ident": "KMCO",
+      "count": 2,
+      "path": "/v1/airports/KMCO/businesses"
+    },
+    {
+      "ident": "KMDT",
+      "count": 1,
+      "path": "/v1/airports/KMDT/businesses"
+    },
+    {
+      "ident": "KMDW",
+      "count": 2,
+      "path": "/v1/airports/KMDW/businesses"
+    },
+    {
+      "ident": "KMEM",
+      "count": 2,
+      "path": "/v1/airports/KMEM/businesses"
+    },
+    {
+      "ident": "KMFR",
+      "count": 1,
+      "path": "/v1/airports/KMFR/businesses"
+    },
+    {
+      "ident": "KMHR",
+      "count": 1,
+      "path": "/v1/airports/KMHR/businesses"
+    },
+    {
+      "ident": "KMHT",
+      "count": 1,
+      "path": "/v1/airports/KMHT/businesses"
+    },
+    {
+      "ident": "KMIA",
+      "count": 1,
+      "path": "/v1/airports/KMIA/businesses"
+    },
+    {
+      "ident": "KMKC",
+      "count": 2,
+      "path": "/v1/airports/KMKC/businesses"
+    },
+    {
+      "ident": "KMKE",
+      "count": 3,
+      "path": "/v1/airports/KMKE/businesses"
+    },
+    {
+      "ident": "KMLU",
+      "count": 1,
+      "path": "/v1/airports/KMLU/businesses"
+    },
+    {
+      "ident": "KMMU",
+      "count": 2,
+      "path": "/v1/airports/KMMU/businesses"
+    },
+    {
+      "ident": "KMOB",
+      "count": 1,
+      "path": "/v1/airports/KMOB/businesses"
+    },
+    {
+      "ident": "KMOT",
+      "count": 1,
+      "path": "/v1/airports/KMOT/businesses"
+    },
+    {
+      "ident": "KMQS",
+      "count": 1,
+      "path": "/v1/airports/KMQS/businesses"
+    },
+    {
+      "ident": "KMSP",
+      "count": 1,
+      "path": "/v1/airports/KMSP/businesses"
+    },
+    {
+      "ident": "KMSY",
+      "count": 2,
+      "path": "/v1/airports/KMSY/businesses"
+    },
+    {
+      "ident": "KMTH",
+      "count": 1,
+      "path": "/v1/airports/KMTH/businesses"
+    },
+    {
+      "ident": "KMTJ",
+      "count": 1,
+      "path": "/v1/airports/KMTJ/businesses"
+    },
+    {
+      "ident": "KMWH",
+      "count": 1,
+      "path": "/v1/airports/KMWH/businesses"
+    },
+    {
+      "ident": "KNEW",
+      "count": 1,
+      "path": "/v1/airports/KNEW/businesses"
+    },
+    {
+      "ident": "KNYL",
+      "count": 1,
+      "path": "/v1/airports/KNYL/businesses"
+    },
+    {
+      "ident": "KOAK",
+      "count": 1,
+      "path": "/v1/airports/KOAK/businesses"
+    },
+    {
+      "ident": "KOGD",
+      "count": 1,
+      "path": "/v1/airports/KOGD/businesses"
+    },
+    {
+      "ident": "KOGG",
+      "count": 1,
+      "path": "/v1/airports/KOGG/businesses"
+    },
+    {
+      "ident": "KOKC",
+      "count": 1,
+      "path": "/v1/airports/KOKC/businesses"
+    },
+    {
+      "ident": "KOMA",
+      "count": 2,
+      "path": "/v1/airports/KOMA/businesses"
+    },
+    {
+      "ident": "KOPF",
+      "count": 3,
+      "path": "/v1/airports/KOPF/businesses"
+    },
+    {
+      "ident": "KORD",
+      "count": 1,
+      "path": "/v1/airports/KORD/businesses"
+    },
+    {
+      "ident": "KORF",
+      "count": 1,
+      "path": "/v1/airports/KORF/businesses"
+    },
+    {
+      "ident": "KORH",
+      "count": 1,
+      "path": "/v1/airports/KORH/businesses"
+    },
+    {
+      "ident": "KORL",
+      "count": 1,
+      "path": "/v1/airports/KORL/businesses"
+    },
+    {
+      "ident": "KOXC",
+      "count": 2,
+      "path": "/v1/airports/KOXC/businesses"
+    },
+    {
+      "ident": "KPBG",
+      "count": 1,
+      "path": "/v1/airports/KPBG/businesses"
+    },
+    {
+      "ident": "KPBI",
+      "count": 3,
+      "path": "/v1/airports/KPBI/businesses"
+    },
+    {
+      "ident": "KPDK",
+      "count": 2,
+      "path": "/v1/airports/KPDK/businesses"
+    },
+    {
+      "ident": "KPDX",
+      "count": 1,
+      "path": "/v1/airports/KPDX/businesses"
+    },
+    {
+      "ident": "KPGA",
+      "count": 1,
+      "path": "/v1/airports/KPGA/businesses"
+    },
+    {
+      "ident": "KPHF",
+      "count": 1,
+      "path": "/v1/airports/KPHF/businesses"
+    },
+    {
+      "ident": "KPHK",
+      "count": 1,
+      "path": "/v1/airports/KPHK/businesses"
+    },
+    {
+      "ident": "KPHL",
+      "count": 1,
+      "path": "/v1/airports/KPHL/businesses"
+    },
+    {
+      "ident": "KPHX",
+      "count": 1,
+      "path": "/v1/airports/KPHX/businesses"
+    },
+    {
+      "ident": "KPIB",
+      "count": 1,
+      "path": "/v1/airports/KPIB/businesses"
+    },
+    {
+      "ident": "KPIE",
+      "count": 1,
+      "path": "/v1/airports/KPIE/businesses"
+    },
+    {
+      "ident": "KPIT",
+      "count": 1,
+      "path": "/v1/airports/KPIT/businesses"
+    },
+    {
+      "ident": "KPNE",
+      "count": 1,
+      "path": "/v1/airports/KPNE/businesses"
+    },
+    {
+      "ident": "KPRB",
+      "count": 1,
+      "path": "/v1/airports/KPRB/businesses"
+    },
+    {
+      "ident": "KPRC",
+      "count": 1,
+      "path": "/v1/airports/KPRC/businesses"
+    },
+    {
+      "ident": "KPSP",
+      "count": 2,
+      "path": "/v1/airports/KPSP/businesses"
+    },
+    {
+      "ident": "KPVD",
+      "count": 1,
+      "path": "/v1/airports/KPVD/businesses"
+    },
+    {
+      "ident": "KPVU",
+      "count": 1,
+      "path": "/v1/airports/KPVU/businesses"
+    },
+    {
+      "ident": "KPWA",
+      "count": 1,
+      "path": "/v1/airports/KPWA/businesses"
+    },
+    {
+      "ident": "KPWK",
+      "count": 2,
+      "path": "/v1/airports/KPWK/businesses"
+    },
+    {
+      "ident": "KRDU",
+      "count": 2,
+      "path": "/v1/airports/KRDU/businesses"
+    },
+    {
+      "ident": "KRIC",
+      "count": 1,
+      "path": "/v1/airports/KRIC/businesses"
+    },
+    {
+      "ident": "KRIL",
+      "count": 1,
+      "path": "/v1/airports/KRIL/businesses"
+    },
+    {
+      "ident": "KRIV",
+      "count": 1,
+      "path": "/v1/airports/KRIV/businesses"
+    },
+    {
+      "ident": "KRME",
+      "count": 1,
+      "path": "/v1/airports/KRME/businesses"
+    },
+    {
+      "ident": "KRNO",
+      "count": 1,
+      "path": "/v1/airports/KRNO/businesses"
+    },
+    {
+      "ident": "KROA",
+      "count": 1,
+      "path": "/v1/airports/KROA/businesses"
+    },
+    {
+      "ident": "KROC",
+      "count": 1,
+      "path": "/v1/airports/KROC/businesses"
+    },
+    {
+      "ident": "KROW",
+      "count": 1,
+      "path": "/v1/airports/KROW/businesses"
+    },
+    {
+      "ident": "KRST",
+      "count": 1,
+      "path": "/v1/airports/KRST/businesses"
+    },
+    {
+      "ident": "KRUT",
+      "count": 1,
+      "path": "/v1/airports/KRUT/businesses"
+    },
+    {
+      "ident": "KSAC",
+      "count": 1,
+      "path": "/v1/airports/KSAC/businesses"
+    },
+    {
+      "ident": "KSAF",
+      "count": 2,
+      "path": "/v1/airports/KSAF/businesses"
+    },
+    {
+      "ident": "KSAN",
+      "count": 1,
+      "path": "/v1/airports/KSAN/businesses"
+    },
+    {
+      "ident": "KSAT",
+      "count": 3,
+      "path": "/v1/airports/KSAT/businesses"
+    },
+    {
+      "ident": "KSAV",
+      "count": 1,
+      "path": "/v1/airports/KSAV/businesses"
+    },
+    {
+      "ident": "KSBA",
+      "count": 2,
+      "path": "/v1/airports/KSBA/businesses"
+    },
+    {
+      "ident": "KSBN",
+      "count": 2,
+      "path": "/v1/airports/KSBN/businesses"
+    },
+    {
+      "ident": "KSCK",
+      "count": 1,
+      "path": "/v1/airports/KSCK/businesses"
+    },
+    {
+      "ident": "KSDF",
+      "count": 1,
+      "path": "/v1/airports/KSDF/businesses"
+    },
+    {
+      "ident": "KSDL",
+      "count": 3,
+      "path": "/v1/airports/KSDL/businesses"
+    },
+    {
+      "ident": "KSEA",
+      "count": 1,
+      "path": "/v1/airports/KSEA/businesses"
+    },
+    {
+      "ident": "KSFB",
+      "count": 1,
+      "path": "/v1/airports/KSFB/businesses"
+    },
+    {
+      "ident": "KSFO",
+      "count": 1,
+      "path": "/v1/airports/KSFO/businesses"
+    },
+    {
+      "ident": "KSGJ",
+      "count": 1,
+      "path": "/v1/airports/KSGJ/businesses"
+    },
+    {
+      "ident": "KSGR",
+      "count": 1,
+      "path": "/v1/airports/KSGR/businesses"
+    },
+    {
+      "ident": "KSGU",
+      "count": 1,
+      "path": "/v1/airports/KSGU/businesses"
+    },
+    {
+      "ident": "KSHV",
+      "count": 1,
+      "path": "/v1/airports/KSHV/businesses"
+    },
+    {
+      "ident": "KSJC",
+      "count": 2,
+      "path": "/v1/airports/KSJC/businesses"
+    },
+    {
+      "ident": "KSJU",
+      "count": 1,
+      "path": "/v1/airports/KSJU/businesses"
+    },
+    {
+      "ident": "KSKF",
+      "count": 1,
+      "path": "/v1/airports/KSKF/businesses"
+    },
+    {
+      "ident": "KSLC",
+      "count": 2,
+      "path": "/v1/airports/KSLC/businesses"
+    },
+    {
+      "ident": "KSLN",
+      "count": 1,
+      "path": "/v1/airports/KSLN/businesses"
+    },
+    {
+      "ident": "KSMF",
+      "count": 1,
+      "path": "/v1/airports/KSMF/businesses"
+    },
+    {
+      "ident": "KSMO",
+      "count": 1,
+      "path": "/v1/airports/KSMO/businesses"
+    },
+    {
+      "ident": "KSNA",
+      "count": 1,
+      "path": "/v1/airports/KSNA/businesses"
+    },
+    {
+      "ident": "KSQL",
+      "count": 1,
+      "path": "/v1/airports/KSQL/businesses"
+    },
+    {
+      "ident": "KSRQ",
+      "count": 1,
+      "path": "/v1/airports/KSRQ/businesses"
+    },
+    {
+      "ident": "KSTL",
+      "count": 1,
+      "path": "/v1/airports/KSTL/businesses"
+    },
+    {
+      "ident": "KSTP",
+      "count": 1,
+      "path": "/v1/airports/KSTP/businesses"
+    },
+    {
+      "ident": "KSUA",
+      "count": 2,
+      "path": "/v1/airports/KSUA/businesses"
+    },
+    {
+      "ident": "KSUN",
+      "count": 1,
+      "path": "/v1/airports/KSUN/businesses"
+    },
+    {
+      "ident": "KSUS",
+      "count": 2,
+      "path": "/v1/airports/KSUS/businesses"
+    },
+    {
+      "ident": "KSWF",
+      "count": 2,
+      "path": "/v1/airports/KSWF/businesses"
+    },
+    {
+      "ident": "KSYR",
+      "count": 1,
+      "path": "/v1/airports/KSYR/businesses"
+    },
+    {
+      "ident": "KTAD",
+      "count": 1,
+      "path": "/v1/airports/KTAD/businesses"
+    },
+    {
+      "ident": "KTEB",
+      "count": 5,
+      "path": "/v1/airports/KTEB/businesses"
+    },
+    {
+      "ident": "KTLH",
+      "count": 1,
+      "path": "/v1/airports/KTLH/businesses"
+    },
+    {
+      "ident": "KTMB",
+      "count": 1,
+      "path": "/v1/airports/KTMB/businesses"
+    },
+    {
+      "ident": "KTPA",
+      "count": 1,
+      "path": "/v1/airports/KTPA/businesses"
+    },
+    {
+      "ident": "KTRM",
+      "count": 1,
+      "path": "/v1/airports/KTRM/businesses"
+    },
+    {
+      "ident": "KTTN",
+      "count": 1,
+      "path": "/v1/airports/KTTN/businesses"
+    },
+    {
+      "ident": "KTUL",
+      "count": 1,
+      "path": "/v1/airports/KTUL/businesses"
+    },
+    {
+      "ident": "KTUS",
+      "count": 2,
+      "path": "/v1/airports/KTUS/businesses"
+    },
+    {
+      "ident": "KTVC",
+      "count": 1,
+      "path": "/v1/airports/KTVC/businesses"
+    },
+    {
+      "ident": "KTXK",
+      "count": 1,
+      "path": "/v1/airports/KTXK/businesses"
+    },
+    {
+      "ident": "KTYS",
+      "count": 1,
+      "path": "/v1/airports/KTYS/businesses"
+    },
+    {
+      "ident": "KUAO",
+      "count": 1,
+      "path": "/v1/airports/KUAO/businesses"
+    },
+    {
+      "ident": "KUES",
+      "count": 1,
+      "path": "/v1/airports/KUES/businesses"
+    },
+    {
+      "ident": "KUGN",
+      "count": 1,
+      "path": "/v1/airports/KUGN/businesses"
+    },
+    {
+      "ident": "KVCV",
+      "count": 1,
+      "path": "/v1/airports/KVCV/businesses"
+    },
+    {
+      "ident": "KVNY",
+      "count": 4,
+      "path": "/v1/airports/KVNY/businesses"
+    },
+    {
+      "ident": "KVQQ",
+      "count": 1,
+      "path": "/v1/airports/KVQQ/businesses"
+    },
+    {
+      "ident": "KYIP",
+      "count": 1,
+      "path": "/v1/airports/KYIP/businesses"
+    },
+    {
+      "ident": "PANC",
+      "count": 1,
+      "path": "/v1/airports/PANC/businesses"
+    },
+    {
+      "ident": "PHJR",
+      "count": 1,
+      "path": "/v1/airports/PHJR/businesses"
+    },
+    {
+      "ident": "PHKO",
+      "count": 1,
+      "path": "/v1/airports/PHKO/businesses"
+    },
+    {
+      "ident": "PHLI",
+      "count": 1,
+      "path": "/v1/airports/PHLI/businesses"
+    },
+    {
+      "ident": "PHNL",
+      "count": 1,
+      "path": "/v1/airports/PHNL/businesses"
+    },
+    {
+      "ident": "PHNY",
+      "count": 1,
+      "path": "/v1/airports/PHNY/businesses"
+    },
+    {
+      "ident": "PHOG",
+      "count": 1,
+      "path": "/v1/airports/PHOG/businesses"
+    },
+    {
+      "ident": "PHTO",
+      "count": 1,
+      "path": "/v1/airports/PHTO/businesses"
+    },
+    {
+      "ident": "TIST",
+      "count": 1,
+      "path": "/v1/airports/TIST/businesses"
+    },
+    {
+      "ident": "TJIG",
+      "count": 1,
+      "path": "/v1/airports/TJIG/businesses"
+    },
+    {
+      "ident": "TJRV",
+      "count": 1,
+      "path": "/v1/airports/TJRV/businesses"
+    }
+  ]
+}

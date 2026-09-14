@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTXK",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Texarkana",
+      "phone": "(870) 773-6969",
+      "website": "https://www.signatureaviation.com/locations/TXK",
+      "email": "txkfbo@tacair.com",
+      "street_address": "501 Airport Dr",
+      "hours": "0600L - 2100L Call out available on request",
+      "freq": "130.07",
+      "plus_code": "8658F244+C5R",
+      "city": "Texarkana",
+      "state": "AR",
+      "airport_name": null,
+      "icao": "KTXK",
+      "iata": "TXK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"306f5030bfc462da\""
+}

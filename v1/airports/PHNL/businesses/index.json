@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "PHNL",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Signature Honolulu",
+      "phone": "(808) 839-2222",
+      "website": "https://www.signatureaviation.com/locations/HNL",
+      "email": "HNL@signatureaviation.com",
+      "street_address": "98 Kapalulu Place",
+      "hours": "0600L - 2200L Call out available on request",
+      "freq": null,
+      "plus_code": "73H483CQ+J55",
+      "city": "Honolulu",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "PHNL",
+      "iata": "HNL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"0b24877f282b7c8f\""
+}

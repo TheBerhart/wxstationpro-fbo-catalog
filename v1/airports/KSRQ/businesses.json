@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSRQ",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Sarasota",
+      "phone": "(941) 358-9600",
+      "website": "https://www.atlanticaviation.com/locations/srq/",
+      "email": "srqfrontdesk@atlanticaviation.com",
+      "street_address": "8250 15th Street",
+      "hours": "Sun - Fri: 0600 - 2200 Sat: 0600 - 2100",
+      "freq": "130.22",
+      "plus_code": "76VV9FV3+H2Q",
+      "city": "Sarasota",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KSRQ",
+      "iata": "SRQ",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"5bfcb0cb5d3e0911\""
+}

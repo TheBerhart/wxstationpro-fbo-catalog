@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KALB",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Albany",
+      "phone": "(518) 242-2444",
+      "website": "https://millionair.com/locations/alb/",
+      "email": "info.alb@millionair.com",
+      "street_address": "16 Jetway Drive",
+      "hours": "24/7",
+      "freq": "129.7",
+      "plus_code": "87J8P5RR+6QH",
+      "city": "Albany",
+      "state": "NY",
+      "airport_name": null,
+      "icao": "KALB",
+      "iata": "ALB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"d9080572d0682a60\""
+}

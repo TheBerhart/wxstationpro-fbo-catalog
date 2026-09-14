@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGFK",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Grand Forks",
+      "phone": "+1 701-772-5504",
+      "website": "https://www.avflight.com/network/grand-forks-nd-kgfk/",
+      "email": "gfk@avflight.com",
+      "street_address": "2403 Air Cargo Drive",
+      "hours": "0500-2200 (call out)",
+      "freq": "129.95",
+      "plus_code": "86V4WRVF+R73",
+      "city": "Grand Forks",
+      "state": "ND",
+      "airport_name": null,
+      "icao": "KGFK",
+      "iata": "GFK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2a7b81ae87b8e66d\""
+}

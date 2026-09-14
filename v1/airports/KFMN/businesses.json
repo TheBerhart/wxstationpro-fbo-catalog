@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFMN",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Farmington",
+      "phone": "(505) 325-2867",
+      "website": "https://www.atlanticaviation.com/locations/fmn/",
+      "email": "fmnfrontdesk@atlanticaviation.com",
+      "street_address": "1260 W. Navajo St.",
+      "hours": "Mon-Sun: 0400-2200",
+      "freq": null,
+      "plus_code": "858HPQQF+G95",
+      "city": "Farmington",
+      "state": "NM",
+      "airport_name": null,
+      "icao": "KFMN",
+      "iata": "FMN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"1de185eaf02a2676\""
+}

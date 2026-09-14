@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KITO",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Hilo",
+      "phone": "(808) 961-6601",
+      "website": "https://www.atlanticaviation.com/locations/ito/",
+      "email": "itofrontdesk@atlanticaviation.com",
+      "street_address": "137 Operations St",
+      "hours": "Mon-Sun: 0700-1700; On call services with prior arrangements",
+      "freq": "128.95",
+      "plus_code": "73F6PW8V+H5M",
+      "city": "Hilo",
+      "state": "HI",
+      "airport_name": null,
+      "icao": "KITO",
+      "iata": "ITO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"ecf9a2c1f0cbe70a\""
+}

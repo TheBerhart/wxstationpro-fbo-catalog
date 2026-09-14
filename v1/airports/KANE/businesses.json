@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KANE",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Blaine",
+      "phone": "(763) 780-2802",
+      "website": "https://www.atlanticaviation.com/locations/ane/",
+      "email": "anefrontdesk@atlanticaviation.com",
+      "street_address": "9877 N. Airport Road NE",
+      "hours": "24 Hours: Sun 0600 - Fri 2200; Sat: 0600-2200; On-call services with prior arrangements",
+      "freq": "129.6",
+      "plus_code": "86Q85Q2M+Q8W",
+      "city": "Blaine",
+      "state": "MN",
+      "airport_name": null,
+      "icao": "KANE",
+      "iata": "ANE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"c83752c8a9f8b701\""
+}

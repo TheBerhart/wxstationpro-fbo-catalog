@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPGA",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air Lake Powell",
+      "phone": "(928) 645-2987",
+      "website": "https://millionair.com/locations/pga/",
+      "email": "info.pga@millionair.com",
+      "street_address": "901 Sage Ave",
+      "hours": "0800-1700, call out available",
+      "freq": null,
+      "plus_code": "858CWHF2+47F",
+      "city": "Page",
+      "state": "AZ",
+      "airport_name": null,
+      "icao": "KPGA",
+      "iata": "PGA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"db90a3b76b111deb\""
+}

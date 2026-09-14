@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSJU",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Jet Aviation FBO Services San Juan, Puerto Rico",
+      "phone": "(787) 791-7005",
+      "website": "https://www.jetaviation.com/location/san-juan/",
+      "email": "sjufbo@jetaviation.com",
+      "street_address": "226 Central Sector, East Ramp",
+      "hours": "Mon – Sun: 06:00 – 00:00",
+      "freq": "129.475",
+      "plus_code": "77CPC2R2+FM",
+      "city": "Carolina",
+      "state": "PR",
+      "airport_name": null,
+      "icao": "KSJU",
+      "iata": "SJU",
+      "region": "PR",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"0501b75c47d6a63e\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPDX",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Portland",
+      "phone": "(503) 331-4220",
+      "website": "https://www.atlanticaviation.com/locations/pdx/",
+      "email": "pdxfrontdesk@atlanticaviation.com",
+      "street_address": "8089 NE Airport Way",
+      "hours": "Mon-Sun: 24 Hours",
+      "freq": null,
+      "plus_code": "84QVHCP8+4QX",
+      "city": "Portland",
+      "state": "OR",
+      "airport_name": null,
+      "icao": "KPDX",
+      "iata": "PDX",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"1c40f56a4a7f78e7\""
+}

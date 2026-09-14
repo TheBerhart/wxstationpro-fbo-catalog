@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSGU",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Million Air St George",
+      "phone": "(435) 688-8009",
+      "website": "https://millionair.com/locations/sgu/",
+      "email": "info@millionairsgu.com",
+      "street_address": "4196 S. Airport Parkway, Unit 2A",
+      "hours": "Mon-Fri 6:00am to 10:00pm Sat-Sun 6:00am to 8:00pm",
+      "freq": null,
+      "plus_code": "85982FPW+VX7",
+      "city": "St. George",
+      "state": "UT",
+      "airport_name": null,
+      "icao": "KSGU",
+      "iata": "SGU",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"7bdaecd2832faf23\""
+}

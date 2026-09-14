@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "TJIG",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation San Juan",
+      "phone": "(787) 289-2021",
+      "website": "https://modern-aviation.com/?location=san-juan-ceiba-fbo",
+      "email": "CSR.TJIG@modern-aviation.com",
+      "street_address": "Isla Grande Airport, Lot 10 South Side",
+      "hours": null,
+      "freq": null,
+      "plus_code": "77CMFW33+R8F",
+      "city": "San Juan",
+      "state": "PR",
+      "airport_name": null,
+      "icao": "TJIG",
+      "iata": "SIG",
+      "region": "PR",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"970b765dd570bb3d\""
+}

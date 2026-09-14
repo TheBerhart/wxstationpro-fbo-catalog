@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KROC",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Rochester",
+      "phone": "+1 585-235-9040",
+      "website": "https://www.avflight.com/network/rochester-ny-kroc/",
+      "email": "roc@avflight.com",
+      "street_address": "1205 Scottsville Road",
+      "hours": "24 Hours / 7 Days a week",
+      "freq": "122.775",
+      "plus_code": "87M4489R+HFW",
+      "city": "Rochester",
+      "state": "NY",
+      "airport_name": null,
+      "icao": "KROC",
+      "iata": "ROC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"700b8dc41bc9f177\""
+}

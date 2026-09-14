@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFAI",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation Fairbanks",
+      "phone": "(907) 474-0061",
+      "website": "https://www.atlanticaviation.com/locations/fai/",
+      "email": "faifrontdesk@atlanticaviation.com",
+      "street_address": "5904 Old Airport Road",
+      "hours": null,
+      "freq": null,
+      "plus_code": "93PJR5MF+XRW",
+      "city": "Fairbanks",
+      "state": "AK",
+      "airport_name": null,
+      "icao": "KFAI",
+      "iata": "FAI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"2c1eec72726e33aa\""
+}

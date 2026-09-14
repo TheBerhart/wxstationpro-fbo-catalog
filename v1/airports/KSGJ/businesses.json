@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSGJ",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Atlantic Aviation St. Augustine",
+      "phone": "(904) 824-1995",
+      "website": "https://www.atlanticaviation.com/locations/sgj/",
+      "email": "sgjfrontdesk@atlanticaviation.com",
+      "street_address": "4900 U.S. 1 North",
+      "hours": "Mon-Sun: 0600-2200",
+      "freq": "130.05",
+      "plus_code": "76XWXM34+PRW",
+      "city": "St. Augustine",
+      "state": "FL",
+      "airport_name": null,
+      "icao": "KSGJ",
+      "iata": "SGJ",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"6d0ee0aae49ee9ca\""
+}

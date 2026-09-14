@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KISP",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modern Aviation Long Island",
+      "phone": "(631) 588-0303",
+      "website": "https://modern-aviation.com/?location=long-island-fbo",
+      "email": "ISP@modern-aviation.com",
+      "street_address": "90 Arrival Ave.",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87G8QVQX+XF9",
+      "city": "Ronkonkoma",
+      "state": "NY",
+      "airport_name": null,
+      "icao": "KISP",
+      "iata": "ISP",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"9ce4fc373900836d\""
+}

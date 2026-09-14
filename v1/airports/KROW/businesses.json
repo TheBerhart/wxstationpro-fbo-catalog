@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KROW",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-09-14T03:31:07.396Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avflight Roswell",
+      "phone": "+1 575-347-2054",
+      "website": "https://www.avflight.com/network/roswell-nm-krow/",
+      "email": "row@avflight.com",
+      "street_address": "100 Southwest Way",
+      "hours": "M-F 0600-2100, S-S 0600-1900",
+      "freq": "122.95",
+      "plus_code": "855Q8F4F+C3R",
+      "city": "Roswell",
+      "state": "NM",
+      "airport_name": null,
+      "icao": "KROW",
+      "iata": "ROW",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-09-10"
+    }
+  ],
+  "etag": "\"f57b5d7acc9719f6\""
+}
