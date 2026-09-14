@@ -3,7 +3,7 @@
   "airport_ident": "KOXC",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:42:19.963Z",
+  "generated_at": "2026-09-14T04:04:59.880Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"d125f7b81fce17d8\""
+  "etag": "\"99189f6f3ed77588\""
 }

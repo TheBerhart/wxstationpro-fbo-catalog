@@ -3,7 +3,7 @@
   "airport_ident": "KVNY",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:42:19.963Z",
+  "generated_at": "2026-09-14T04:04:59.880Z",
   "count": 4,
   "businesses": [
     {
@@ -95,5 +95,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"8663ee2e99521275\""
+  "etag": "\"89f42f8e4dde5a72\""
 }

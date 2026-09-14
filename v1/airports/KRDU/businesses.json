@@ -3,7 +3,7 @@
   "airport_ident": "KRDU",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:42:19.963Z",
+  "generated_at": "2026-09-14T04:04:59.880Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"a1334ecb8b8396f7\""
+  "etag": "\"2b6ab04df4254cdc\""
 }

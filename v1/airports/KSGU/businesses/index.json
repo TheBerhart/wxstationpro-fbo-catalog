@@ -3,7 +3,7 @@
   "airport_ident": "KSGU",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:42:19.963Z",
+  "generated_at": "2026-09-14T04:04:59.880Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"3467b5d0e71f3598\""
+  "etag": "\"d6933ccbbedf8d6a\""
 }

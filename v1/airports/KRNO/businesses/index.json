@@ -3,7 +3,7 @@
   "airport_ident": "KRNO",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:42:19.963Z",
+  "generated_at": "2026-09-14T04:04:59.880Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"5d3bf9a95bc2545f\""
+  "etag": "\"a67dae50bf30d0b2\""
 }

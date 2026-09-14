@@ -3,7 +3,7 @@
   "airport_ident": "KROA",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:42:19.963Z",
+  "generated_at": "2026-09-14T04:04:59.880Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"2258483ebc33e7ac\""
+  "etag": "\"8ac1446fe34cef0a\""
 }

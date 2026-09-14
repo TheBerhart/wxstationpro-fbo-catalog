@@ -3,7 +3,7 @@
   "airport_ident": "KJAN",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:42:19.963Z",
+  "generated_at": "2026-09-14T04:04:59.880Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"82dda080b282705a\""
+  "etag": "\"96d2f3816fcf3ce6\""
 }
