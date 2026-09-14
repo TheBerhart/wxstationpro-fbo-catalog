@@ -3,7 +3,7 @@
   "airport_ident": "KABQ",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"56318499bf3e457c\""
+  "etag": "\"fd7578f578011c32\""
 }

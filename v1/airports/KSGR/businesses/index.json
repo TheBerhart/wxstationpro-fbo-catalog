@@ -3,7 +3,7 @@
   "airport_ident": "KSGR",
   "updated_at": "2026-09-11T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-11"
     }
   ],
-  "etag": "\"18251f528bc9c285\""
+  "etag": "\"f0ffa9e182a7db81\""
 }

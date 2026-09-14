@@ -3,7 +3,7 @@
   "airport_ident": "KTTN",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"fb3682a1c4ab9096\""
+  "etag": "\"15a21c8e75e55506\""
 }

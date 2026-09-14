@@ -3,7 +3,7 @@
   "airport_ident": "KSAV",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"3494c12d43cb0cd1\""
+  "etag": "\"01ee8b710bf8cbe2\""
 }

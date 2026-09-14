@@ -3,7 +3,7 @@
   "airport_ident": "KCHA",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"7f5a698960064ad6\""
+  "etag": "\"4d7accb6e6b48d2d\""
 }

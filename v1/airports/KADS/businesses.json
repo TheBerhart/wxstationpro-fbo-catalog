@@ -3,7 +3,7 @@
   "airport_ident": "KADS",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"7373e128912e1e7d\""
+  "etag": "\"3dd997c160eaa1bf\""
 }

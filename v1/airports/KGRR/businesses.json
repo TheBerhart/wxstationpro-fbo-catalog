@@ -3,7 +3,7 @@
   "airport_ident": "KGRR",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"2f187d8e0ab51f5d\""
+  "etag": "\"18ce0a65627150ef\""
 }

@@ -3,7 +3,7 @@
   "airport_ident": "KFRG",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 4,
   "businesses": [
     {
@@ -95,5 +95,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"a45647196684a467\""
+  "etag": "\"c95a3a5d78fd7143\""
 }

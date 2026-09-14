@@ -3,7 +3,7 @@
   "airport_ident": "KMTH",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T03:31:07.396Z",
+  "generated_at": "2026-09-14T03:42:19.963Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"51f0ef916975849c\""
+  "etag": "\"2fb6d50cb116e7f6\""
 }
