@@ -3,7 +3,7 @@
   "airport_ident": "KSAT",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T04:04:59.880Z",
+  "generated_at": "2026-09-14T17:08:03.810Z",
   "count": 3,
   "businesses": [
     {
@@ -73,5 +73,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"f511390ce3080a0a\""
+  "etag": "\"a231618ca9715ae5\""
 }

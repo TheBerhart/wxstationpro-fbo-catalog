@@ -3,7 +3,7 @@
   "airport_ident": "KDET",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T04:04:59.880Z",
+  "generated_at": "2026-09-14T17:08:03.810Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"559ca767d737ba23\""
+  "etag": "\"669817c8116f7ebb\""
 }

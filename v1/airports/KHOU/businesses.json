@@ -3,7 +3,7 @@
   "airport_ident": "KHOU",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T04:04:59.880Z",
+  "generated_at": "2026-09-14T17:08:03.810Z",
   "count": 5,
   "businesses": [
     {
@@ -117,5 +117,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"5d8a5875f6fbbc80\""
+  "etag": "\"de6d7815fc185c8e\""
 }

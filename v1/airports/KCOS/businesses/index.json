@@ -3,7 +3,7 @@
   "airport_ident": "KCOS",
   "updated_at": "2026-09-11T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T04:04:59.880Z",
+  "generated_at": "2026-09-14T17:08:03.810Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-11"
     }
   ],
-  "etag": "\"6bac1a7c8c186f5e\""
+  "etag": "\"edc4f5d801b18333\""
 }

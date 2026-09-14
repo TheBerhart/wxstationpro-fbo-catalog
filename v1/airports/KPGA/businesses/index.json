@@ -3,7 +3,7 @@
   "airport_ident": "KPGA",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T04:04:59.880Z",
+  "generated_at": "2026-09-14T17:08:03.810Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"caeb7ea9bbe174ef\""
+  "etag": "\"d79f1bf8e52c3b96\""
 }

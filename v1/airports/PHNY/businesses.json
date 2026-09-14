@@ -3,7 +3,7 @@
   "airport_ident": "PHNY",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T04:04:59.880Z",
+  "generated_at": "2026-09-14T17:08:03.810Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"ec3a0a6708b3231f\""
+  "etag": "\"f88eba07f9f69a6b\""
 }
