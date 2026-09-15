@@ -3,7 +3,7 @@
   "airport_ident": "KOPF",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T17:08:03.810Z",
+  "generated_at": "2026-09-15T00:06:46.751Z",
   "count": 3,
   "businesses": [
     {
@@ -73,5 +73,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"e4e14385de4d69b1\""
+  "etag": "\"f6ca489cbe108210\""
 }

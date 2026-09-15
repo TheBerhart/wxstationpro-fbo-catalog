@@ -3,7 +3,7 @@
   "airport_ident": "KROC",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T17:08:03.810Z",
+  "generated_at": "2026-09-15T00:06:46.751Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"709a0f0fb6ea4f77\""
+  "etag": "\"e7b1c6e3be47ed29\""
 }

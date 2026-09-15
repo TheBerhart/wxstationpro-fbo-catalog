@@ -3,7 +3,7 @@
   "airport_ident": "KBDL",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T17:08:03.810Z",
+  "generated_at": "2026-09-15T00:06:46.751Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"a55eba3099ff1555\""
+  "etag": "\"60c41ec989fc22c8\""
 }

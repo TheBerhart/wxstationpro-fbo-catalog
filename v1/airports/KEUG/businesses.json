@@ -3,7 +3,7 @@
   "airport_ident": "KEUG",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T17:08:03.810Z",
+  "generated_at": "2026-09-15T00:06:46.751Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"9d5c5ebce3697731\""
+  "etag": "\"4d54f046b2a4c119\""
 }

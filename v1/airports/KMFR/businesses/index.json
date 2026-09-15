@@ -3,7 +3,7 @@
   "airport_ident": "KMFR",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-14T17:08:03.810Z",
+  "generated_at": "2026-09-15T00:06:46.751Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"7ba0be10a85494e9\""
+  "etag": "\"0c0788df2b12aea6\""
 }
