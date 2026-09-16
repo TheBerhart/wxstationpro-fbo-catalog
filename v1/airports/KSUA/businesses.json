@@ -3,7 +3,7 @@
   "airport_ident": "KSUA",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"4a8740d86e105794\""
+  "etag": "\"1f6d400538e1eb04\""
 }

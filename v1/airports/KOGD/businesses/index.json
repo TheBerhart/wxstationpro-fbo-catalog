@@ -3,7 +3,7 @@
   "airport_ident": "KOGD",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"5015ba55be2e2194\""
+  "etag": "\"e1ac88db51322dec\""
 }

@@ -3,7 +3,7 @@
   "airport_ident": "KLIH",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"8ec92b5345dd8df1\""
+  "etag": "\"5a20bc1eb37c3cd5\""
 }

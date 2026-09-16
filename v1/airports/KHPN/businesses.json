@@ -3,7 +3,7 @@
   "airport_ident": "KHPN",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 5,
   "businesses": [
     {
@@ -117,5 +117,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"d674b78a94cd302f\""
+  "etag": "\"07a35a268af1ffa8\""
 }

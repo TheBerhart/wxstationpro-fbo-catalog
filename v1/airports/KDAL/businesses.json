@@ -3,7 +3,7 @@
   "airport_ident": "KDAL",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 6,
   "businesses": [
     {
@@ -139,5 +139,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"be26378f687df73d\""
+  "etag": "\"4357e419d17cc70b\""
 }

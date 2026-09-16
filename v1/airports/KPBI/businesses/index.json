@@ -3,7 +3,7 @@
   "airport_ident": "KPBI",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 3,
   "businesses": [
     {
@@ -73,5 +73,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"e607cbc677ecb69b\""
+  "etag": "\"6ebaacc4d9b582e8\""
 }

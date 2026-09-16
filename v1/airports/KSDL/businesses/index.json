@@ -3,7 +3,7 @@
   "airport_ident": "KSDL",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 3,
   "businesses": [
     {
@@ -73,5 +73,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"5b66f0deeb4b5c0f\""
+  "etag": "\"ae65f1c075e052ce\""
 }

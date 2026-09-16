@@ -3,7 +3,7 @@
   "airport_ident": "KSJC",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 2,
   "businesses": [
     {
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"e92e93593c944a9f\""
+  "etag": "\"58dce02291c36ec7\""
 }

@@ -3,7 +3,7 @@
   "airport_ident": "KFNL",
   "updated_at": "2026-09-11T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-11"
     }
   ],
-  "etag": "\"f51214aa3831e6ff\""
+  "etag": "\"62f2428dcaaf2027\""
 }

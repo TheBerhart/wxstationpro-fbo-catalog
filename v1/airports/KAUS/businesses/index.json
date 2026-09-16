@@ -3,7 +3,7 @@
   "airport_ident": "KAUS",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 3,
   "businesses": [
     {
@@ -73,5 +73,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"0ced180e61998624\""
+  "etag": "\"e8a7f0afd10c707c\""
 }

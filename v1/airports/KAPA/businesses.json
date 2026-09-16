@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAPA",
-  "updated_at": "2026-09-14T00:00:00Z",
+  "updated_at": "2026-09-15T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-15T00:06:46.751Z",
+  "generated_at": "2026-09-16T00:13:32.515Z",
   "count": 4,
   "businesses": [
     {
@@ -47,8 +47,8 @@
       "enrichment_status": "enriched",
       "validation_status": "verified",
       "confidence": "high",
-      "source": "operator_website|community-report",
-      "source_updated_at": "2026-09-14"
+      "source": "operator_website|community-report|community-confirm",
+      "source_updated_at": "2026-09-15"
     },
     {
       "name": "Signature Denver Centennial - North",
@@ -95,5 +95,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"2e38fe39f36491ba\""
+  "etag": "\"043f68d3b5e2e88b\""
 }

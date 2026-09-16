@@ -10,5 +10,5 @@
     "Static thin-seed export. No client write keys. No reporter PII.",
     "ETag is body hash; hosts may also send HTTP ETag."
   ],
-  "generated_at": "2026-09-15T00:06:46.751Z"
+  "generated_at": "2026-09-16T00:13:32.515Z"
 }
