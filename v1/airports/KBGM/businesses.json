@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBGM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "BGM Aviation Services",
+      "phone": "607-644-1062",
+      "website": "https://binghamtonairport.com/general-aviation/",
+      "email": "bgmservices@broomecountyny.gov",
+      "street_address": "2534 Airport Road, Box 16, Johnson City, NY 13790",
+      "hours": "Monday: 5:00 AM – 8:00 PM; Tuesday: 5:00 AM – 8:00 PM; Wednesday: 5:00 AM – 8:00 PM; Thursday: 5:00 AM – 8:00 PM; Friday: 5:00 AM – 8:00 PM; Saturday: 5:00 AM – 8:00 PM; Sunday: 5:00 AM – 8:00 PM",
+      "freq": null,
+      "plus_code": "87J66259+54",
+      "city": "Binghamton",
+      "state": "NY",
+      "airport_name": "Greater Binghamton/Edwin A Link field",
+      "icao": "KBGM",
+      "iata": "BGM",
+      "region": "US",
+      "services": "Staffed FBO; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d25434fefc126e6f\""
+}

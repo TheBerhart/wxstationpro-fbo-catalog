@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAUS",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 3,
   "businesses": [
     {
@@ -34,7 +34,7 @@
       "website": "https://millionair.com/locations/aus/",
       "email": "info.aus@millionair.com",
       "street_address": "4801 Emma Browning Ave",
-      "hours": null,
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": "130.6",
       "plus_code": "862458JM+8G8",
       "city": "Austin",
@@ -48,13 +48,13 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     },
     {
       "name": "Signature Austin",
       "phone": "(512) 530-5451",
       "website": "https://www.signatureaviation.com/locations/AUS",
-      "email": "AUS@signatureflight.com",
+      "email": "AUS@signatureaviation.com",
       "street_address": "4321 Emma Browning Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.375",
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"e8a7f0afd10c707c\""
+  "etag": "\"74f575c69f545ac1\""
 }

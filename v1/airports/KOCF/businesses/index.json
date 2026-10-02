@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOCF",
+  "updated_at": "2026-10-01T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sheltair Ocala",
+      "phone": "352-237-3444",
+      "website": "https://www.sheltairaviation.com/locations/ocf/",
+      "email": "info-ocf@sheltairaviation.com",
+      "street_address": "1770 SW 60th Avenue Suite 400, Ocala, FL 34474",
+      "hours": "0600-2100",
+      "freq": "129.375",
+      "plus_code": "76XV5QCJ+Q2",
+      "city": "Ocala",
+      "state": "FL",
+      "airport_name": "Ocala International Airport",
+      "icao": "KOCF",
+      "iata": "OCF",
+      "region": "US",
+      "services": "Fuel; self-serve AVGAS; ground support; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    }
+  ],
+  "etag": "\"58c6fcdb7fa94435\""
+}

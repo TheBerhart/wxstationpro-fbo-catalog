@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDAN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Averett University Aviation Services",
+      "phone": "434-791-7232",
+      "website": "https://www.danville-va.gov/514/Services",
+      "email": null,
+      "street_address": "424 Airport Dr, Danville, VA 24540",
+      "hours": null,
+      "freq": "123.05",
+      "plus_code": "8782HMG6+74",
+      "city": "Danville",
+      "state": "VA",
+      "airport_name": "Danville Regional Airport",
+      "icao": "KDAN",
+      "iata": "DAN",
+      "region": "US",
+      "services": "100LL; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"25a5690bb44e1868\""
+}

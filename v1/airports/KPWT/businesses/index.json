@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPWT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avian Flight Center",
+      "phone": "(360) 674-2111",
+      "website": "https://www.avianflight.com/fboservice",
+      "email": "notify@avianflight.com",
+      "street_address": "8900 State Highway 3 SW",
+      "hours": "9:00 AM-4:00 PM, seven days",
+      "freq": null,
+      "plus_code": "84VVF6RM+R5",
+      "city": "Bremerton",
+      "state": "WA",
+      "airport_name": "Bremerton National Airport",
+      "icao": "KPWT",
+      "iata": "PWT",
+      "region": "US",
+      "services": "Jet A; AvGas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d06ff4ed6289a6e0\""
+}

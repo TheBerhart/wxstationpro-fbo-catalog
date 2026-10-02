@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMFE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "McCreery Aviation",
+      "phone": "(956) 686-1774",
+      "website": "https://www.mccreeryaviation.com/fbo_services.htm",
+      "email": "csr@mccreeryaviation.com",
+      "street_address": "2400 S 10th Street, McAllen, TX 78503",
+      "hours": "Line service 4:00 AM–11:00 PM daily; after-hours on call",
+      "freq": null,
+      "plus_code": "76R35QJ8+G7",
+      "city": "McAllen",
+      "state": "TX",
+      "airport_name": "McAllen Miller International Airport",
+      "icao": "KMFE",
+      "iata": "MFE",
+      "region": "US",
+      "services": "Avfuel 100LL and Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1fac76ecf1081f1c\""
+}

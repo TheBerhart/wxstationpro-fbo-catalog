@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBAZ",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "City Terminal Flight Services",
+      "phone": "(830) 221-4290",
+      "website": "https://www.newbraunfels.gov/3489/FBO-Services",
+      "email": null,
+      "street_address": "New Braunfels National Airport & FBO, 2333 FM 758, New Braunfels, TX 78130",
+      "hours": "24-hour self-serve",
+      "freq": null,
+      "plus_code": "76X3MXX6+GH",
+      "city": "New Braunfels",
+      "state": "TX",
+      "airport_name": "New Braunfels National Airport",
+      "icao": "KBAZ",
+      "iata": null,
+      "region": "US",
+      "services": "Full and self-serve 100LL and Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c97b14c64cfefe36\""
+}

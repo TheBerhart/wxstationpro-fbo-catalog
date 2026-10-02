@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KERI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "North Coast Air",
+      "phone": "814-836-9220",
+      "website": "https://www.erieairport.org/aviation-services/north-coast-air",
+      "email": "csrep@ncair.com",
+      "street_address": "4645 West 12th Street, Erie, PA 16505",
+      "hours": "Monday-Friday 0700-2300; Saturday-Sunday 0700-2200",
+      "freq": "122.95",
+      "plus_code": "86JX3RJ7+GP",
+      "city": "Erie",
+      "state": "PA",
+      "airport_name": "Erie International Tom Ridge Field",
+      "icao": "KERI",
+      "iata": "ERI",
+      "region": "US",
+      "services": "Staffed FBO; fuel, maintenance, ground transportation",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6adc9d76501fb3cb\""
+}

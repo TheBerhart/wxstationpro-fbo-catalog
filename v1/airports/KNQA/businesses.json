@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KNQA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Millington-Memphis Airport",
+      "phone": "(901) 873-3835",
+      "website": "https://millingtonairport.com/pilot-information/",
+      "email": "nqa.fuel@millingtontn.gov",
+      "street_address": "8182 Hornet Avenue",
+      "hours": "Seven days a week",
+      "freq": null,
+      "plus_code": "867G84XJ+P4",
+      "city": "Millington",
+      "state": "TN",
+      "airport_name": "Millington-Memphis Airport",
+      "icao": "KNQA",
+      "iata": "NQA",
+      "region": "US",
+      "services": "Staffed FBO; fueling",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8f224e7c0822c035\""
+}

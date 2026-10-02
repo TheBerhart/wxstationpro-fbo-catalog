@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KABY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Albany Jet Center",
+      "phone": "(229) 434-8787",
+      "website": "https://airport.albanyga.gov/Airport-Guide/General-Aviation",
+      "email": "customerservice@albanyjetcenter.com",
+      "street_address": "3905 Newton Road, Albany, GA 31701",
+      "hours": null,
+      "freq": null,
+      "plus_code": "863QGRP5+33",
+      "city": "Albany",
+      "state": "GA",
+      "airport_name": "Southwest Georgia Regional Airport",
+      "icao": "KABY",
+      "iata": "ABY",
+      "region": "US",
+      "services": "Staffed FBO; fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a4a6d416c5c95fb1\""
+}

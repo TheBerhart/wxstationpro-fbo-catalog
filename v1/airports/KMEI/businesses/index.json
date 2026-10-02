@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMEI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Meridian Aviation",
+      "phone": "(601) 693-7282",
+      "website": "https://www.meridianaviation.aero/",
+      "email": null,
+      "street_address": "2607 US-11, Meridian, MS 39307",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "864H87P4+JQ",
+      "city": "Meridian",
+      "state": "MS",
+      "airport_name": "Key Field / Meridian Regional Airport",
+      "icao": "KMEI",
+      "iata": "MEI",
+      "region": "US",
+      "services": "Titan-branded FBO; fuel for all civilian aircraft on the airport",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"275406a0c11cca51\""
+}

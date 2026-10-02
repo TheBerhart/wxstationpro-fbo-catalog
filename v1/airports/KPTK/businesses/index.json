@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPTK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "PremierFBO Oakland County",
+      "phone": "248-666-4300",
+      "website": "https://premierprivatejets.com/fbo/detroit-michigan-ptk/",
+      "email": "csr@premierfbo.aero",
+      "street_address": "6740 S Service Dr, Waterford Twp, MI 48327",
+      "hours": "24 HRS",
+      "freq": "129.15",
+      "plus_code": "86JRJHVP+HR",
+      "city": "Waterford Twp",
+      "state": "MI",
+      "airport_name": "Oakland County International Airport",
+      "icao": "KPTK",
+      "iata": "PTK",
+      "region": "US",
+      "services": "FBO",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4f4884b4713b234a\""
+}

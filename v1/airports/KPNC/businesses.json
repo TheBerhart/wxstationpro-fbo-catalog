@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPNC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Fuel PNC",
+      "phone": "(580) 767-0429",
+      "website": "https://www.poncacityok.gov/181/Ponca-City-Regional-Airport",
+      "email": "airport@poncacityok.gov",
+      "street_address": "2213 N. Waverly Street",
+      "hours": "Fueling attended 7 days, 0700-1900 CST",
+      "freq": null,
+      "plus_code": "8684PVHX+M9",
+      "city": "Ponca City",
+      "state": "OK",
+      "airport_name": "Ponca City Regional Airport",
+      "icao": "KPNC",
+      "iata": "PNC",
+      "region": "US",
+      "services": "100LL; Jet-A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7f137d8319a76951\""
+}

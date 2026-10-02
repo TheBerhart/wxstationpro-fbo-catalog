@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCTB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cut Bank International Airport",
+      "phone": "406-873-8683",
+      "website": "https://cutbankairport.org/",
+      "email": null,
+      "street_address": "2705 Valier Highway, Cut Bank, MT 59427",
+      "hours": "Self-serve fuel available at any time",
+      "freq": null,
+      "plus_code": "85W9JJ9R+56",
+      "city": "Cut Bank",
+      "state": "MT",
+      "airport_name": "Cut Bank International Airport",
+      "icao": "KCTB",
+      "iata": "CTB",
+      "region": "US",
+      "services": "Self-serve fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"acd63a8e67ef56d8\""
+}

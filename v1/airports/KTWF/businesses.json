@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTWF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Jackson Jet Center",
+      "phone": "208-644-7636",
+      "website": "https://jacksonjetcenter.com/jackson-jet-acquires-reeder-jet-center-fbo-at-magic-valley-regional-airport-ktwf",
+      "email": null,
+      "street_address": "644 Airport Loop",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85J7FGM7+HC",
+      "city": "Twin Falls",
+      "state": "ID",
+      "airport_name": "Joslin Field Magic Valley Regional Airport",
+      "icao": "KTWF",
+      "iata": "TWF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1c547fc272516694\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBLV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "MidAmerica St. Louis Airport",
+      "phone": "(618) 566-5265",
+      "website": "https://flymidamerica.com/business/general-aviation-fbo/",
+      "email": null,
+      "street_address": "9656 Air Terminal Dr, Mascoutah, IL 62258",
+      "hours": "8:00 a.m.-7:00 p.m. daily; 24/7 with prior approval",
+      "freq": "122.95",
+      "plus_code": "86CGG5WM+XP",
+      "city": "Belleville",
+      "state": "IL",
+      "airport_name": "Scott AFB/Midamerica Airport",
+      "icao": "KBLV",
+      "iata": "BLV",
+      "region": "US",
+      "services": "Fueling for airline, corporate, and military aircraft",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1ad4dfbb083f5831\""
+}

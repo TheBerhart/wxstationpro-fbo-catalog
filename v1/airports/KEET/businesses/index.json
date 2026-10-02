@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEET",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Shelby County Airport",
+      "phone": "205-670-6359",
+      "website": "https://www.shelbyal.com/920/Shelby-County-Airport",
+      "email": null,
+      "street_address": "265 Weather Vane Road, Calera, AL 35040",
+      "hours": "Full-service Jet and avgas 7a-7p; self-serve avgas 24 hours",
+      "freq": "122.7",
+      "plus_code": "865M56G9+JM",
+      "city": "Alabaster",
+      "state": "AL",
+      "airport_name": "Shelby County Airport",
+      "icao": "KEET",
+      "iata": null,
+      "region": "US",
+      "services": "Full-service Jet A and avgas 7a-7p; self-serve avgas 24 hours; line service; hangars; tie-downs",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0c9e10a5f8da80d6\""
+}

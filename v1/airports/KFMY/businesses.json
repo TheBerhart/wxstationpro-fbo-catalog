@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFMY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Base Operations at Page Field",
+      "phone": "239-590-6600",
+      "website": "https://www.baseoperationsfmy.com/services/",
+      "email": "pagefield@flylcpa.com",
+      "street_address": "5200 Captain Channing Page Drive, Fort Myers, FL 33907",
+      "hours": "7 AM-8 PM, 7 days",
+      "freq": null,
+      "plus_code": "76RWH4PJ+MW",
+      "city": "Fort Myers",
+      "state": "FL",
+      "airport_name": "Page Field",
+      "icao": "KFMY",
+      "iata": "FMY",
+      "region": "US",
+      "services": "Full-service 100LL and Jet A; self-serve 100LL; hangar; tie-downs",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ccc2546663dcc59a\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFME",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Fort Meade Executive Airport",
+      "phone": "(410) 222-6815",
+      "website": "https://tiptonairport.org/",
+      "email": "info@fmeairport.org",
+      "street_address": "7515 General Aviation Drive, Suite 1, Fort Meade, MD 20755",
+      "hours": "Weekdays 8:30 AM-6:00 PM; weekends 9:00 AM-6:00 PM",
+      "freq": null,
+      "plus_code": "87F536QR+4F",
+      "city": "Fort Meade",
+      "state": "MD",
+      "airport_name": "Fort Meade Executive Airport",
+      "icao": "KFME",
+      "iata": "FME",
+      "region": "US",
+      "services": "100LL and Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5c6e0a3c15499d77\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KECG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Elizabeth City Regional Airport",
+      "phone": "(252) 335-5634",
+      "website": "https://ecgairport.com/for-pilots/airport-information.html",
+      "email": null,
+      "street_address": "Elizabeth City Regional Airport, 1028 Consolidated Rd, Elizabeth City, NC 27909",
+      "hours": "Mon-Fri 8:00am-9:00pm; Sat-Sun and holidays 8:00am-5:00pm",
+      "freq": "122.95",
+      "plus_code": "87857R3H+C3",
+      "city": "Elizabeth City",
+      "state": "NC",
+      "airport_name": "Elizabeth City Regional Airport & Coast Guard Air Station",
+      "icao": "KECG",
+      "iata": "ECG",
+      "region": "US",
+      "services": "Full and self-serve 100LL; full-service Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4a316d8d1f86a5e1\""
+}

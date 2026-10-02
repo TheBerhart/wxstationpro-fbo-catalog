@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHYI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Berry Aviation",
+      "phone": "800-229-2379",
+      "website": "https://www.berryaviation.com/fbo/",
+      "email": "fbocustomerservice@berryaviation.com",
+      "street_address": "1807 Airport Drive, San Marcos, TX 78666",
+      "hours": "6:00 AM-10:00 PM, seven days",
+      "freq": "131.15",
+      "plus_code": "76X4V4QG+92",
+      "city": "San Marcos",
+      "state": "TX",
+      "airport_name": "San Marcos Regional Airport",
+      "icao": "KHYI",
+      "iata": null,
+      "region": "US",
+      "services": "Full-service 100LL and Jet A with additive; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2002657b18590941\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEVW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Evanston Aviation",
+      "phone": "307-789-2256",
+      "website": "https://www.evanstonaviation.com/",
+      "email": null,
+      "street_address": "2160 County Road 111, Evanston, WY 82930",
+      "hours": "8 AM-6 PM, 7 days; 24 hours on call or by appointment",
+      "freq": null,
+      "plus_code": "85HC7XG8+6W",
+      "city": "Evanston",
+      "state": "WY",
+      "airport_name": "Evanston-Uinta County Airport-Burns Field",
+      "icao": "KEVW",
+      "iata": "EVW",
+      "region": "US",
+      "services": "Staffed fuel stop",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"abbaab91804d5374\""
+}

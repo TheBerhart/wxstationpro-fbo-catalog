@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KF45",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature North Palm Beach County",
       "phone": "(561) 626-9799",
       "website": "https://www.signatureaviation.com/locations/F45",
-      "email": "F45@signatureflight.com",
+      "email": "F45@signatureaviation.com",
       "street_address": "11600 Aviation Boulevard Suite 13",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.25",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"7e722c785dd15a06\""
+  "etag": "\"5cb6157a7b76060d\""
 }

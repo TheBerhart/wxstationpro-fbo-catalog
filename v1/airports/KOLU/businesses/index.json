@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOLU",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Avcraft, Inc.",
+      "phone": "(402) 564-7884",
+      "website": "https://www.avcraftinc.com/fuel",
+      "email": null,
+      "street_address": "1334 Bill Babka Dr",
+      "hours": "Seven days, sunrise to sunset or 7:00 AM-7:00 PM, whichever is longer",
+      "freq": null,
+      "plus_code": "86H4CMV4+CJ",
+      "city": "Columbus",
+      "state": "NE",
+      "airport_name": "Columbus Municipal Airport",
+      "icao": "KOLU",
+      "iata": "OLU",
+      "region": "US",
+      "services": "Avgas; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"010c3f11756ce04b\""
+}

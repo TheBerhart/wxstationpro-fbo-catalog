@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSHD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Shenandoah Valley Airport",
+      "phone": "(540) 234-8304",
+      "website": "https://flyshd.com/general-aviation/fbo-services/",
+      "email": null,
+      "street_address": "77 Aviation Circle",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": "123.000",
+      "plus_code": "87C3736X+3M",
+      "city": "Weyers Cave",
+      "state": "VA",
+      "airport_name": "Shenandoah Valley Regional Airport",
+      "icao": "KSHD",
+      "iata": "SHD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d883bb2e7a3ee4cb\""
+}

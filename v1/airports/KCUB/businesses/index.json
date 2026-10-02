@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCUB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Eagle Aviation",
+      "phone": "(803) 771-7915",
+      "website": "https://eagle-aviation.com/locations/jim-hamilton-lb-owens",
+      "email": "CUB@Eagle-Aviation.com",
+      "street_address": "1400 Jim Hamilton Blvd, Columbia, SC 29205",
+      "hours": "Monday: 6:00 AM – 7:00 PM; Tuesday: 6:00 AM – 7:00 PM; Wednesday: 6:00 AM – 7:00 PM; Thursday: 6:00 AM – 7:00 PM; Friday: 6:00 AM – 7:00 PM; Saturday: 6:00 AM – 7:00 PM; Sunday: 6:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "865XX2F3+2H",
+      "city": "Columbia",
+      "state": "SC",
+      "airport_name": "Jim Hamilton L.B. Owens Airport",
+      "icao": "KCUB",
+      "iata": "CUB",
+      "region": "US",
+      "services": "100LL; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"dec93083d654d7ae\""
+}

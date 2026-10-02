@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRYY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ascension Atlanta",
+      "phone": "(770) 422-4300",
+      "website": "https://ascensionfbo.com/location/atlanta/",
+      "email": "ryy@ascensionfbo.com",
+      "street_address": "1723 McCollum Parkway",
+      "hours": "Open from 6:00 AM to 11:00 PM; 24/7 hour availability",
+      "freq": null,
+      "plus_code": "866Q298V+4W",
+      "city": "Atlanta",
+      "state": "GA",
+      "airport_name": "Cobb County International Airport-McCollum Field",
+      "icao": "KRYY",
+      "iata": null,
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e4340286299419aa\""
+}

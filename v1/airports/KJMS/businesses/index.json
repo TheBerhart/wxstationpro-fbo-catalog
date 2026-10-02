@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJMS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "First Class Aviation",
+      "phone": "701-952-1515",
+      "website": "https://www.firstclassaviation.us/fueling-ground-support",
+      "email": "info@firstclassaviation.us",
+      "street_address": "1600 21st Ave NE, Unit 7, Jamestown, ND 58401",
+      "hours": "Daily 7:00 AM–10:00 PM",
+      "freq": null,
+      "plus_code": "86R3W8CC+PX",
+      "city": "Jamestown",
+      "state": "ND",
+      "airport_name": "Jamestown Regional Airport",
+      "icao": "KJMS",
+      "iata": "JMS",
+      "region": "US",
+      "services": "Full-service Jet-A; full- and self-service 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ec3c742fdfe7f928\""
+}

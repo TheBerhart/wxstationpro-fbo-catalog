@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KVGT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "North Las Vegas Airport",
+      "phone": "702.261.3803",
+      "website": "https://vgt.aero/",
+      "email": "nlva@lasairport.com",
+      "street_address": "2730 Airport Drive Suite 101",
+      "hours": "FBO 0500-2230 year-round; full-service fuel 0530-2200; self-service 100LL 24 hours",
+      "freq": null,
+      "plus_code": "85866R52+M6",
+      "city": "Las Vegas",
+      "state": "NV",
+      "airport_name": "North Las Vegas Airport",
+      "icao": "KVGT",
+      "iata": "VGT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7b85e7ba5d652524\""
+}

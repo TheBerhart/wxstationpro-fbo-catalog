@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KEGE",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Vail",
       "phone": "(970) 524-7700",
       "website": "https://www.signatureaviation.com/locations/EGE",
-      "email": "customerservice@vvjc.com",
+      "email": "EGE@signatureaviation.com",
       "street_address": "871 Cooley Mesa Road",
       "hours": "0600L - 2100L Call out available on request",
       "freq": "130.12",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"0fa59e022fa40940\""
+  "etag": "\"ced6451c610397f2\""
 }

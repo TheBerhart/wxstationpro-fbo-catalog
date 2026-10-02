@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KALS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Centric Aviation",
+      "phone": "719-992-0201",
+      "website": "https://centricaviation.com/alamosa-colorado",
+      "email": "info@centricaviation.com",
+      "street_address": "2501 State Ave, Alamosa, CO 81101",
+      "hours": "8:00 am-6:00 pm daily; 24/7 fueling",
+      "freq": null,
+      "plus_code": "859PC4VM+6W",
+      "city": "Alamosa",
+      "state": "CO",
+      "airport_name": "San Luis Valley Regional Airport/Bergman Field",
+      "icao": "KALS",
+      "iata": "ALS",
+      "region": "US",
+      "services": "Full-service Jet A and 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0e7077136afd71fa\""
+}

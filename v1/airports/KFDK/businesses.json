@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KFDK",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Frederick",
       "phone": "(301) 662-8156",
       "website": "https://www.signatureaviation.com/locations/FDK",
-      "email": "FDK@signatureflight.com",
+      "email": "FDK@signatureaviation.com",
       "street_address": "330 Aviation Way",
       "hours": "0700L - 2000L Call out available on request",
       "freq": "130.275",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"0475a0505803f78e\""
+  "etag": "\"0b85b9c6f379fbd6\""
 }

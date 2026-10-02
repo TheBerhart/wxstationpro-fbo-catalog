@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCOD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ascension FBO",
+      "phone": "(307) 527-0727",
+      "website": "https://ascensionfbo.com/location/cody/",
+      "email": "cod@ascensionfbo.com",
+      "street_address": "3001 Duggleby Drive, Cody, WY 82414",
+      "hours": "7:00 AM-7:00 PM; 24/7 availability",
+      "freq": null,
+      "plus_code": "85PGGX79+9W",
+      "city": "Cody",
+      "state": "WY",
+      "airport_name": "Yellowstone Regional Airport",
+      "icao": "KCOD",
+      "iata": "COD",
+      "region": "US",
+      "services": "Staffed full-service FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"52f37eb63a22fcee\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIPT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Energy Aviation",
+      "phone": "(570) 368-2651",
+      "website": "https://www.energyipt.com/",
+      "email": null,
+      "street_address": "580 S Loyalsock Ave, Montoursville, PA 17754",
+      "hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 7:00 AM – 8:00 PM",
+      "freq": null,
+      "plus_code": "87H563VF+C2",
+      "city": "Williamsport",
+      "state": "PA",
+      "airport_name": "Williamsport Regional Airport",
+      "icao": "KIPT",
+      "iata": "IPT",
+      "region": "US",
+      "services": "Aircraft fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"96effee6ad6a85a8\""
+}

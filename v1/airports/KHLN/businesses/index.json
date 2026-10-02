@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHLN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Skyservice Helena FBO",
+      "phone": "(406) 442-2190",
+      "website": "https://helenaairport.com/fbos/",
+      "email": null,
+      "street_address": "2430 Airport Rd, Helena, MT 59601, USA",
+      "hours": "5:00 AM-midnight, 365 days",
+      "freq": "122.95",
+      "plus_code": "85RCJ223+X6",
+      "city": "Helena",
+      "state": "MT",
+      "airport_name": "Helena Regional Airport",
+      "icao": "KHLN",
+      "iata": "HLN",
+      "region": "US",
+      "services": "100LL and Jet A; self-serve 100LL; maintenance; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"49338eebd9f36ced\""
+}

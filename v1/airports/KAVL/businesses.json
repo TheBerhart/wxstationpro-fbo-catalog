@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KAVL",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Asheville",
       "phone": "(828) 687-7110",
       "website": "https://www.signatureaviation.com/locations/AVL",
-      "email": "AVL@signatureflight.com",
+      "email": "AVL@signatureaviation.com",
       "street_address": "40 Lindbergh Lane",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.275",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"53f9d5b6bbb0e0ab\""
+  "etag": "\"8b54bdbe58d19a40\""
 }

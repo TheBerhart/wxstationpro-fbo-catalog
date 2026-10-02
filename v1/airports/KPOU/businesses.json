@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPOU",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "FlightLevel Dutchess",
+      "phone": "(845) 849-3770",
+      "website": "https://www.flightlevelaviation.com/dutchess-ny/",
+      "email": null,
+      "street_address": "263 New Hackensack Road",
+      "hours": "Daily 0630-2000",
+      "freq": null,
+      "plus_code": "87H8J4F8+QW",
+      "city": "Poughkeepsie",
+      "state": "NY",
+      "airport_name": "Dutchess County Airport",
+      "icao": "KPOU",
+      "iata": "POU",
+      "region": "US",
+      "services": "Full-service Jet-A; full-service 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"137e926c132e15f2\""
+}

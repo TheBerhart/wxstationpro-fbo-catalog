@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRSL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Russell Municipal Airport (RSL)",
+      "phone": "785-483-6911",
+      "website": "https://russellcity.org/155/Airport",
+      "email": null,
+      "street_address": "4243 Airport Terrace",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86C3V5GR+PG",
+      "city": "Russell",
+      "state": "KS",
+      "airport_name": "Russell Municipal Airport",
+      "icao": "KRSL",
+      "iata": "RSL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a5cf07b96498aa8d\""
+}

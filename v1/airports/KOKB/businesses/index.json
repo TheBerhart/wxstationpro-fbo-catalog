@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOKB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Oceanside Municipal Airport",
+      "phone": "(760) 901-4260",
+      "website": "https://okbairport.com/services",
+      "email": "management@okbairport.com",
+      "street_address": "480 Airport Road",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85546J8W+VH",
+      "city": "Oceanside",
+      "state": "CA",
+      "airport_name": "Oceanside Municipal Airport",
+      "icao": "KOKB",
+      "iata": "OCN",
+      "region": "US",
+      "services": "Self-serve 100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"54b349dfd43d16a1\""
+}

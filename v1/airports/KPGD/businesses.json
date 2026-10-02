@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPGD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "PGD Air Center",
+      "phone": "(941) 639-4119",
+      "website": "https://pgdaircenter.com/aircraft-fuel/",
+      "email": "GAinfo@FlyPGD.com",
+      "street_address": "27450 Challenger Blvd.",
+      "hours": "6:00 AM-9:00 PM, seven days; self-serve 24/7",
+      "freq": null,
+      "plus_code": "76RWW2G3+RH",
+      "city": "Punta Gorda",
+      "state": "FL",
+      "airport_name": "Punta Gorda Airport",
+      "icao": "KPGD",
+      "iata": "PGD",
+      "region": "US",
+      "services": "Titan Jet-A; Avgas 100LL; self-serve",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"eb27a8cb689e2ddc\""
+}

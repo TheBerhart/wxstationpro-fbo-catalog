@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "K79J",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "South Alabama Regional Airport",
+      "phone": "(334) 222-6598",
+      "website": "https://www.flysara.org/refueling",
+      "email": null,
+      "street_address": "21861 Bill Benton Lane, Andalusia, AL 36421",
+      "hours": "Mon-Fri 7:00 am-11:30 pm; Sat 7:00 am-3:30 pm; Sun 10:00 am-3:30 pm",
+      "freq": null,
+      "plus_code": "863M8J44+7R",
+      "city": "Andalusia/Opp",
+      "state": "AL",
+      "airport_name": "South Alabama Regional At Bill Benton Field Airport",
+      "icao": "K79J",
+      "iata": null,
+      "region": "US",
+      "services": "Jet A; self-serve avgas; full-serve avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c1fd969e7c015b7c\""
+}

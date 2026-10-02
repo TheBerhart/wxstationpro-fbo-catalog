@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCVG",
+  "updated_at": "2026-10-01T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "PremierFBO Cincinnati/Northern Kentucky",
+      "phone": "859-534-4301",
+      "website": "https://premierprivatejets.com/fbo/premierfbo-cincinnati-cvg/",
+      "email": "CVG@premierfbo.aero",
+      "street_address": "2042 Tower Dr., Hebron, KY 41048",
+      "hours": "24 HRS",
+      "freq": "122.950",
+      "plus_code": "86FQ28VV+38",
+      "city": "Hebron",
+      "state": "KY",
+      "airport_name": "Cincinnati Northern Kentucky International Airport",
+      "icao": "KCVG",
+      "iata": "CVG",
+      "region": "US",
+      "services": "Fuel; ground handling; hangar; deicing; customs",
+      "enrichment_status": null,
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    }
+  ],
+  "etag": "\"d5f8d5635e2f9a9e\""
+}

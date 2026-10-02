@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGSP",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cerulean Aviation",
+      "phone": "(864) 655-5221",
+      "website": "https://www.ceruleanaviation.com/general-aviation/",
+      "email": "csr@ceruleanaviation.com",
+      "street_address": "2104 GSP Drive, Greer, SC 29651",
+      "hours": "24 hours, 7 days",
+      "freq": null,
+      "plus_code": "866VVQXQ+F8",
+      "city": "Greer",
+      "state": "SC",
+      "airport_name": "Greenville-Spartanburg International Airport",
+      "icao": "KGSP",
+      "iata": "GSP",
+      "region": "US",
+      "services": "Jet A and 100LL; contract fuel; deice; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"52f0c25eec283e53\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSBD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Luxivair SBD",
+      "phone": "(909) 382-6068",
+      "website": "https://www.luxivairsbd.com/",
+      "email": null,
+      "street_address": "295 N. Leland Norton Way",
+      "hours": "Monday: 7:00 AM – 10:00 PM; Tuesday: 7:00 AM – 10:00 PM; Wednesday: 7:00 AM – 10:00 PM; Thursday: 7:00 AM – 10:00 PM; Friday: 7:00 AM – 10:00 PM; Saturday: 7:00 AM – 10:00 PM; Sunday: 7:00 AM – 10:00 PM",
+      "freq": "122.975",
+      "plus_code": "85644Q33+RC",
+      "city": "San Bernardino",
+      "state": "CA",
+      "airport_name": "San Bernardino International Airport",
+      "icao": "KSBD",
+      "iata": "SBD",
+      "region": "US",
+      "services": "Fuel; self-serve AVGAS; ground support; concierge",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e202a5e4981e1895\""
+}

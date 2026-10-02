@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBPT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Jefferson County FBO",
+      "phone": "(409) 719-4950",
+      "website": "https://flysetx.com/general-aviation/fuel-service/",
+      "email": null,
+      "street_address": "5000 Jerry Ware Drive, Beaumont, TX 77705",
+      "hours": "Open 24 hours",
+      "freq": null,
+      "plus_code": "76X7WXWV+48",
+      "city": "Beaumont/Port Arthur",
+      "state": "TX",
+      "airport_name": "Jack Brooks Regional Airport",
+      "icao": "KBPT",
+      "iata": "BPT",
+      "region": "US",
+      "services": "Jet A; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7c7319c4684a3f08\""
+}

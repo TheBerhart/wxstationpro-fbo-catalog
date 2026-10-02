@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCEW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Emerald Coast Aviation",
+      "phone": "(850) 398-6749",
+      "website": "https://www.emeraldcoastaviation.com/fuel-other-services/",
+      "email": "info@emeraldcoastaviation.com",
+      "street_address": "5535 John Givens Rd, Crestview, FL 32539",
+      "hours": "Daily 6:00 a.m.-8:00 p.m.",
+      "freq": null,
+      "plus_code": "862MQFGG+29",
+      "city": "Crestview",
+      "state": "FL",
+      "airport_name": "Bob Sikes Airport",
+      "icao": "KCEW",
+      "iata": "CEW",
+      "region": "US",
+      "services": "Full-service Jet A; full-service avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4fd2cc2721cd2655\""
+}

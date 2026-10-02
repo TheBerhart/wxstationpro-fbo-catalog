@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPLN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Pellston Regional Airport",
+      "phone": "(231) 539-8442 ext 3",
+      "website": "https://petosega.emmetcounty.org/experiences/airport/general_aviaton.php",
+      "email": "pellstonairport@emmetcounty.org",
+      "street_address": "1395 North U.S. 31",
+      "hours": "Monday: 5:30 AM – 11:00 PM; Tuesday: 5:30 AM – 11:00 PM; Wednesday: 5:30 AM – 11:00 PM; Thursday: 5:30 AM – 11:00 PM; Friday: 5:30 AM – 11:00 PM; Saturday: 5:30 AM – 11:00 PM; Sunday: 5:30 AM – 11:00 PM",
+      "freq": null,
+      "plus_code": "86QQH5CX+XF",
+      "city": "Pellston",
+      "state": "MI",
+      "airport_name": "Pellston Regional Airport of Emmet County Airport",
+      "icao": "KPLN",
+      "iata": "PLN",
+      "region": "US",
+      "services": "Jet-A; 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ebef938f08df9701\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAKR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Summit Airport Services",
+      "phone": "330-733-4760",
+      "website": "https://www.summitairportservices.com/home/pilot-dashboard",
+      "email": null,
+      "street_address": "1600 Triplett Blvd, Akron, Ohio",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "86HW2GQJ+XP",
+      "city": "Akron",
+      "state": "OH",
+      "airport_name": "Akron Fulton International Airport",
+      "icao": "KAKR",
+      "iata": "AKC",
+      "region": "US",
+      "services": "Full-service 100LL; full-service Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c71793f9ac94caa4\""
+}

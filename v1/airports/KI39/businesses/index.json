@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KI39",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Eastern Kentucky University",
+      "phone": "859-986-3913",
+      "website": "https://airport.madisoncountyky.us/index.php/fbo",
+      "email": null,
+      "street_address": null,
+      "hours": "Monday-Friday 7:00 AM–7:00 PM; Saturday-Sunday 7:00 AM–6:00 PM; self-serve pumps 24 hours",
+      "freq": null,
+      "plus_code": null,
+      "city": "Richmond",
+      "state": "KY",
+      "airport_name": "Central Kentucky Regional Airport",
+      "icao": "KI39",
+      "iata": null,
+      "region": "US",
+      "services": "Full-service and self-serve avgas and Jet A; Titan fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a59168c5317b1a2d\""
+}

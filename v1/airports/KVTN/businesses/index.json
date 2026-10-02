@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KVTN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sandhill Aero Services",
+      "phone": "402-376-1611",
+      "website": "https://www.valentinene.gov/1199/Miller-Field-Airport",
+      "email": null,
+      "street_address": "500 S Hall St",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85JXVF52+WH",
+      "city": "Valentine",
+      "state": "NE",
+      "airport_name": "Miller Field",
+      "icao": "KVTN",
+      "iata": "VTN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c558030d2a54a0e8\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAFW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Alliance Aviation Services",
+      "phone": "817.890.1000",
+      "website": "https://www.perotfield.com/aviation-services",
+      "email": null,
+      "street_address": "13901 Aviator Way, Suite 100, Fort Worth, TX 76177",
+      "hours": "7 days a week, 6am-10pm; after hours 800.318.9268",
+      "freq": null,
+      "plus_code": "8644XMMP+QM",
+      "city": "Fort Worth",
+      "state": "TX",
+      "airport_name": "Perot Field/Fort Worth Alliance Airport",
+      "icao": "KAFW",
+      "iata": "AFW",
+      "region": "US",
+      "services": "Jet A; avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"450e22917b077e1d\""
+}

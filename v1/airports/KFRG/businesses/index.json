@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFRG",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 4,
   "businesses": [
     {
@@ -34,7 +34,7 @@
       "website": "https://modern-aviation.com/?location=farmingdale-fbo",
       "email": "FRG@modern-aviation.com",
       "street_address": "1100 New Highway",
-      "hours": null,
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
       "plus_code": "87G8PHCR+84W",
       "city": "Farmingdale",
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     },
     {
       "name": "Modern Aviation Farmingdale North",
@@ -56,7 +56,7 @@
       "website": "https://modern-aviation.com/?location=farmingdale-fbo",
       "email": "FRG@modern-aviation.com",
       "street_address": "7160 Republic Airport",
-      "hours": null,
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
       "plus_code": "87G8PHHM+437",
       "city": "Farmingdale",
@@ -70,7 +70,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     },
     {
       "name": "Modern Aviation Farmingdale West",
@@ -78,7 +78,7 @@
       "website": "https://modern-aviation.com/?location=farmingdale-fbo",
       "email": "FRG@modern-aviation.com",
       "street_address": "7110 Republic Airport",
-      "hours": null,
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
       "plus_code": "87G8PHFH+5FM",
       "city": "Farmingdale",
@@ -92,8 +92,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"67ecc94158a3262f\""
+  "etag": "\"f786da0beda13deb\""
 }

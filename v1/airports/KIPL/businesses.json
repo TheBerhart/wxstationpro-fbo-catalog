@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIPL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Imperial Flying Service",
+      "phone": "(760) 353-1182",
+      "website": "https://airport.imperialcounty.org/general-aviation/",
+      "email": "impfly@sbcglobal.net",
+      "street_address": null,
+      "hours": "Monday–Thursday 7:00 AM–11:00 PM; Friday 7:00 AM–7:00 PM; after-hours callout",
+      "freq": null,
+      "plus_code": null,
+      "city": "Imperial",
+      "state": "CA",
+      "airport_name": "Imperial County Airport",
+      "icao": "KIPL",
+      "iata": "IPL",
+      "region": "US",
+      "services": "100LL and Jet A full service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"067d4ed6c86c89af\""
+}

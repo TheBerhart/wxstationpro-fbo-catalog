@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMTN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Martin State Airport",
+      "phone": "(410) 682-8810",
+      "website": "https://martinstateairport.com/pilot-information/",
+      "email": null,
+      "street_address": "701 Wilson Point Rd",
+      "hours": "Daily 6:00 AM-9:00 PM",
+      "freq": "122.95",
+      "plus_code": "87F58HGP+P2",
+      "city": "Baltimore",
+      "state": "MD",
+      "airport_name": "Martin State Airport",
+      "icao": "KMTN",
+      "iata": "MTN",
+      "region": "US",
+      "services": "Full-service fuel; Phillips Jet-A; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7518d6d715723efb\""
+}

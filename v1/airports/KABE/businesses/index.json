@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KABE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Lehigh Valley Aviation Services",
+      "phone": "610-266-7343",
+      "website": "https://www.flyabe.com/lvas/fuel/",
+      "email": null,
+      "street_address": "600 Hayden Circle, Allentown, PA 18109",
+      "hours": "Monday: 5:30 AM – 10:00 PM; Tuesday: 5:30 AM – 10:00 PM; Wednesday: 5:30 AM – 10:00 PM; Thursday: 5:30 AM – 10:00 PM; Friday: 5:30 AM – 10:00 PM; Saturday: 5:30 AM – 10:00 PM; Sunday: 5:30 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "87G6JHX5+F8",
+      "city": "Allentown/Bethlehem",
+      "state": "PA",
+      "airport_name": "Lehigh Valley International Airport",
+      "icao": "KABE",
+      "iata": "ABE",
+      "region": "US",
+      "services": "Jet A; avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f15071463ab19fb8\""
+}

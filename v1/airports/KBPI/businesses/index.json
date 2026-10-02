@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBPI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Miley Memorial Field",
+      "phone": "307-276-4022",
+      "website": "https://bpiairport.com/",
+      "email": "info@bpiairport.com",
+      "street_address": "56 Big Piney Airport Road, Big Piney, WY 83113",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "85JFHVHW+6V",
+      "city": "Big Piney",
+      "state": "WY",
+      "airport_name": "Miley Memorial Field",
+      "icao": "KBPI",
+      "iata": "BPI",
+      "region": "US",
+      "services": "Full-service Jet A; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d51f0626a8e63a8d\""
+}

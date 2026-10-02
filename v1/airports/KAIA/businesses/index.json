@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAIA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Heartland Aviation",
+      "phone": "(308) 762-5311",
+      "website": "https://heartlandaviationinc.com/services/",
+      "email": "heartlandav@bbc.net",
+      "street_address": "5641 Sarpy Road, Alliance, NE 69301",
+      "hours": "Mon-Fri 7:00 AM-5:30 PM; Sat-Sun 7:00 AM-4:00 PM",
+      "freq": "123.00",
+      "plus_code": "85JV356R+Q7",
+      "city": "Alliance",
+      "state": "NE",
+      "airport_name": "Alliance Municipal Airport",
+      "icao": "KAIA",
+      "iata": "AIA",
+      "region": "US",
+      "services": "Jet A; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5632c4c27f1fe1dc\""
+}

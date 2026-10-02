@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDPA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "DuPage Flight Center",
+      "phone": "+1 (630) 208-5600",
+      "website": "https://dupageflightcenter.com/fuel-prices/",
+      "email": "dfcfuel@dupageflightcenter.com",
+      "street_address": "2700 International Drive, West Chicago, IL 60185",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86HHWP4V+MX",
+      "city": "Chicago/West Chicago",
+      "state": "IL",
+      "airport_name": "Dupage Airport",
+      "icao": "KDPA",
+      "iata": "DPA",
+      "region": "US",
+      "services": "Jet A; avgas; self-fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7d4c4f942834960b\""
+}

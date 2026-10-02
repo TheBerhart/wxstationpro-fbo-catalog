@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KINT",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Winston-Salem",
       "phone": "(336) 776-6060",
       "website": "https://www.signatureaviation.com/locations/INT",
-      "email": "INT@signatureflight.com",
+      "email": "INT@signatureaviation.com",
       "street_address": "3801 N Liberty Street",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.575",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"5ff929ccd4706073\""
+  "etag": "\"3478b197ec93b21d\""
 }

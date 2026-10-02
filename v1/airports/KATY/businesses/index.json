@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KATY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Watertown Regional Airport FBO",
+      "phone": "(605) 753-1230",
+      "website": "https://watertownsd.us/469/General-Aviation",
+      "email": null,
+      "street_address": "704 Airport Drive, Watertown, SD 57201",
+      "hours": "Monday: 5:30 AM – 9:00 PM; Tuesday: 5:30 AM – 7:00 PM; Wednesday: 5:30 AM – 9:00 PM; Thursday: 5:30 AM – 9:00 PM; Friday: 5:30 AM – 9:00 PM; Saturday: 5:30 AM – 3:00 PM; Sunday: Closed",
+      "freq": null,
+      "plus_code": "86P4WRCR+F4",
+      "city": "Watertown",
+      "state": "SD",
+      "airport_name": "Watertown Regional Airport",
+      "icao": "KATY",
+      "iata": "ATY",
+      "region": "US",
+      "services": "Staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a89e54cc98de117f\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDTO",
+  "updated_at": "2026-10-01T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sheltair Denton",
+      "phone": "940-297-6411",
+      "website": "https://www.sheltairaviation.com/locations/dto/",
+      "email": "info-dto@sheltairaviation.com",
+      "street_address": "5035 Warbird Drive, Denton, TX 76207",
+      "hours": "0600-2200",
+      "freq": "130.575",
+      "plus_code": "86546R34+M9",
+      "city": "Denton",
+      "state": "TX",
+      "airport_name": "Denton Enterprise Airport",
+      "icao": "KDTO",
+      "iata": "DTO",
+      "region": "US",
+      "services": "Fuel; ground support; concierge; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    }
+  ],
+  "etag": "\"4ee9a0af75b82609\""
+}

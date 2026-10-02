@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGUY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Guymon Municipal Airport",
+      "phone": "580-338-7700",
+      "website": "https://oklahoma.gov/aerospace/airports/find-an-airport/guymon-municipal.html",
+      "email": null,
+      "street_address": "1701 NW 12th St, Guymon, OK 73942, USA",
+      "hours": null,
+      "freq": null,
+      "plus_code": "858WMFMV+45",
+      "city": "Guymon",
+      "state": "OK",
+      "airport_name": "Guymon Municipal Airport",
+      "icao": "KGUY",
+      "iata": "GUY",
+      "region": "US",
+      "services": "100LL and Jet A; attended",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"66dda48925d277b5\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KONT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Guardian Jet Center",
+      "phone": "(909) 605-6366",
+      "website": "https://www.guardianjetcenter.com/",
+      "email": "fbo@guardianjetcenter.com",
+      "street_address": "1150 S Vineyard Avenue",
+      "hours": "24-hour access; after-hours service upon request",
+      "freq": null,
+      "plus_code": "8564392Q+G7",
+      "city": "Ontario",
+      "state": "CA",
+      "airport_name": "Ontario International Airport",
+      "icao": "KONT",
+      "iata": "ONT",
+      "region": "US",
+      "services": "Fuel; ground handling; hangar; maintenance; concierge",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"35e354ca95ec6c18\""
+}

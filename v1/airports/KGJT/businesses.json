@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGJT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "West Star Aviation",
+      "phone": "800-255-4193",
+      "website": "https://gjairport.com/fbo-services/",
+      "email": null,
+      "street_address": "796 Heritage Way, Grand Junction, CO 81506",
+      "hours": "FBO 5:00 AM-10:00 PM daily; on call 24/7",
+      "freq": "122.95",
+      "plus_code": "85FH4F9G+HC",
+      "city": "Grand Junction",
+      "state": "CO",
+      "airport_name": "Grand Junction Regional Airport",
+      "icao": "KGJT",
+      "iata": "GJT",
+      "region": "US",
+      "services": "Avgas and Jet A; tie-downs; oxygen; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"85ba6dcf2705d6d4\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KWRL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Hellyer Aviation",
+      "phone": "307-347-9022",
+      "website": "https://www.cityofworland.org/airport",
+      "email": null,
+      "street_address": "1472 Airport Road",
+      "hours": "8:00 am-5:00 p.m., 7 days a week; after-hours fuel available",
+      "freq": null,
+      "plus_code": "85MJX2CX+8W",
+      "city": "Worland",
+      "state": "WY",
+      "airport_name": "Worland Municipal Airport",
+      "icao": "KWRL",
+      "iata": "WRL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b6dadd89818fcbac\""
+}

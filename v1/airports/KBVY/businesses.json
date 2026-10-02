@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBVY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "FlightLevel Aviation",
+      "phone": "978-774-2070",
+      "website": "https://www.flightlevelaviation.com/beverly-ma/",
+      "email": null,
+      "street_address": "191 Old Burley Street, Danvers, MA 01923",
+      "hours": "Daily 0600-2030",
+      "freq": null,
+      "plus_code": "87JFH3PH+6J",
+      "city": "Beverly / Danvers",
+      "state": "MA",
+      "airport_name": "Beverly Regional Airport",
+      "icao": "KBVY",
+      "iata": "BVY",
+      "region": "US",
+      "services": "Jet A; avgas; self-serve avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0efb4152a08be021\""
+}

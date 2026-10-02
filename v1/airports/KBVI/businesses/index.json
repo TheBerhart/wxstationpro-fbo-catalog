@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBVI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "AirQuest Aviation",
+      "phone": "724-624-8100",
+      "website": "https://airquestaviation.com/",
+      "email": null,
+      "street_address": "145 Cessna Drive, Beaver Falls, PA 15010",
+      "hours": "Mon-Fri 7am-7pm; Sat-Sun 9am-5pm",
+      "freq": null,
+      "plus_code": "86GXQJG4+5W",
+      "city": "Beaver Falls",
+      "state": "PA",
+      "airport_name": "Beaver County Airport",
+      "icao": "KBVI",
+      "iata": "BFP",
+      "region": "US",
+      "services": "100LL; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d472133512c17fad\""
+}

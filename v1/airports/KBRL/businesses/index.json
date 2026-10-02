@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBRL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Jet Air",
+      "phone": "(319) 237-8500",
+      "website": "https://jetairinc.com/kbrl/",
+      "email": null,
+      "street_address": "2501 Summer St, Burlington, IA 52601",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+      "freq": "123.0",
+      "plus_code": "86GCQVJH+9X",
+      "city": "Burlington",
+      "state": "IA",
+      "airport_name": "Southeast Iowa Regional Airport",
+      "icao": "KBRL",
+      "iata": "BRL",
+      "region": "US",
+      "services": "100LL full and self-serve; Jet A full service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2e37198ce28b9de5\""
+}

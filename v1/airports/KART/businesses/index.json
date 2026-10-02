@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KART",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Watertown International Airport FBO",
+      "phone": "(315) 786-6001",
+      "website": "https://www.watertownairport.com/general-aviation-services/",
+      "email": null,
+      "street_address": "22564 Airport Drive, Dexter, NY 13634",
+      "hours": "Summer 6 a.m.-8 p.m.; winter 6 a.m.-5 p.m.; seven days",
+      "freq": null,
+      "plus_code": "87M5XXVH+M4",
+      "city": "Watertown",
+      "state": "NY",
+      "airport_name": "Watertown International Airport",
+      "icao": "KART",
+      "iata": "ART",
+      "region": "US",
+      "services": "100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2d46d75c613ae8fc\""
+}

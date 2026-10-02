@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KINK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Winkler County Airport",
+      "phone": "432-527-3481",
+      "website": "https://www.co.winkler.tx.us/188/County-Airport",
+      "email": null,
+      "street_address": "2750 S Farm to Market Road 1232, Wink, TX 79789",
+      "hours": null,
+      "freq": null,
+      "plus_code": "853RQRM3+4X",
+      "city": "Wink",
+      "state": "TX",
+      "airport_name": "Winkler County Airport",
+      "icao": "KINK",
+      "iata": "INK",
+      "region": "US",
+      "services": "Fueling station",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"63159e018207c7d7\""
+}

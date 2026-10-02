@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMLB",
+  "updated_at": "2026-10-01T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sheltair Melbourne",
+      "phone": "321-956-8695",
+      "website": "https://www.sheltairaviation.com/locations/mlb/",
+      "email": "info-mlb@sheltairaviation.com",
+      "street_address": "140 South Apollo Boulevard, Melbourne, FL 32901",
+      "hours": "0600-2200",
+      "freq": "130.875",
+      "plus_code": "76WX494C+2M",
+      "city": "Melbourne",
+      "state": "FL",
+      "airport_name": "Melbourne Orlando International Airport",
+      "icao": "KMLB",
+      "iata": "MLB",
+      "region": "US",
+      "services": "Fuel; ground support; concierge; hangar; customs",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    }
+  ],
+  "etag": "\"09dc888d36d8e7fc\""
+}

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KVNY",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
-  "count": 4,
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 5,
   "businesses": [
     {
       "name": "Clay Lacy Aviation Van Nuys",
@@ -51,10 +51,10 @@
       "source_updated_at": "2026-09-10"
     },
     {
-      "name": "Signature Van Nuys – East",
+      "name": "Signature Van Nuys - East",
       "phone": "(818) 989-2300",
       "website": "https://www.signatureaviation.com/locations/VNY-E",
-      "email": "VNY@signatureflight.com",
+      "email": "VNY@signatureaviation.com",
       "street_address": "7155 Valjean Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.025",
@@ -70,13 +70,35 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     },
     {
-      "name": "Signature Van Nuys – West",
+      "name": "Signature Van Nuys - North",
+      "phone": "(818) 988-8385",
+      "website": "https://www.signatureaviation.com/locations/VNY-N",
+      "email": "VnyNorthCustomerService@signatureaviation.com",
+      "street_address": "7415 Hayvenhurst Place",
+      "hours": "0500L - 2130L",
+      "freq": "128.95",
+      "plus_code": "85636G44+CXG",
+      "city": "Van Nuys",
+      "state": "CA",
+      "airport_name": null,
+      "icao": "KVNY",
+      "iata": "VNY",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    },
+    {
+      "name": "Signature Van Nuys - West",
       "phone": "(818) 464-9500",
       "website": "https://www.signatureaviation.com/locations/VNY-W",
-      "email": "VNY@signatureflight.com",
+      "email": "VNY@signatureaviation.com",
       "street_address": "7240 Hayvenhurst Place",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.575",
@@ -92,8 +114,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"54d2608182cb18b0\""
+  "etag": "\"37fbb1398eb505b2\""
 }

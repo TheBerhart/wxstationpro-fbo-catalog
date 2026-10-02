@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPIH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "AVCenter Pocatello FBO",
+      "phone": "(208) 234-2141",
+      "website": "https://avcenter.com/services/fixed-based-operation/",
+      "email": null,
+      "street_address": "1483 Flightline",
+      "hours": "24 hour availability",
+      "freq": null,
+      "plus_code": "85J9WC58+M5",
+      "city": "Pocatello",
+      "state": "ID",
+      "airport_name": "Pocatello Regional Airport",
+      "icao": "KPIH",
+      "iata": "PIH",
+      "region": "US",
+      "services": "Staffed FBO; Avfuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4660d2b9e163a26b\""
+}

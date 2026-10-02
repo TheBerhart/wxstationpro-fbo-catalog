@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSNY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "L&L Aviation",
+      "phone": "(308) 254-5058",
+      "website": "https://lnlaviation.com/",
+      "email": "lnlaviation@gmail.com",
+      "street_address": "11149 County Rd 16",
+      "hours": "Mon-Fri 7am-6pm; Saturday 7am-5pm; Sunday 8am-4pm; after-hours callouts",
+      "freq": null,
+      "plus_code": "85HV4238+5C",
+      "city": "Sidney",
+      "state": "NE",
+      "airport_name": "Sidney Municipal Airport Lloyd W Carr Field",
+      "icao": "KSNY",
+      "iata": "SNY",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"9d793ef22d92f397\""
+}

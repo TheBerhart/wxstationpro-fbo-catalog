@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMCW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "North Iowa Air Service",
+      "phone": "(641) 424-9366",
+      "website": "https://northiowaair.com/mcw-northiowaairservice/",
+      "email": "info@northiowaair.com",
+      "street_address": "9184 265th St., Ste. 10, Clear Lake, IA 50428",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "86M85M59+4F",
+      "city": "Mason City",
+      "state": "IA",
+      "airport_name": "Mason City Municipal Airport",
+      "icao": "KMCW",
+      "iata": "MCW",
+      "region": "US",
+      "services": "Full-service fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d3089add08163d01\""
+}

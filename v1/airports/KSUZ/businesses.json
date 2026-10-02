@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSUZ",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Saline County Regional Airport",
+      "phone": "(501) 672-9809",
+      "website": "https://www.salinecounty.org/government/saline_county_airport/index.php",
+      "email": null,
+      "street_address": "1100 Hill Farm Rd.",
+      "hours": "24-hour self-serve; fuel truck Monday-Friday 8:00AM to 4:30PM",
+      "freq": null,
+      "plus_code": "8669HGQ8+2R",
+      "city": "Bryant",
+      "state": "AR",
+      "airport_name": "Saline County Regional Airport",
+      "icao": "KSUZ",
+      "iata": null,
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"fd3f516fa2974bd7\""
+}

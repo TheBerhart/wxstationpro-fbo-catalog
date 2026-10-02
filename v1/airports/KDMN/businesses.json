@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDMN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Deming Municipal Airport",
+      "phone": "575-546-8848",
+      "website": "https://www.cityofdeming.org/government/department/municipal_airport.php",
+      "email": null,
+      "street_address": "Deming City Airport, 310 Airport Rd, Deming, NM 88030",
+      "hours": null,
+      "freq": null,
+      "plus_code": "854J778G+62",
+      "city": "Deming",
+      "state": "NM",
+      "airport_name": "Deming Municipal Airport",
+      "icao": "KDMN",
+      "iata": "DMN",
+      "region": "US",
+      "services": "Fueling; staffed line service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e302f22143984ad4\""
+}

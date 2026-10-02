@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHBG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Southeast Aviation",
+      "phone": "601-544-8661",
+      "website": "https://hattiesburgairport.com/",
+      "email": "info@hattiesburgairport.com",
+      "street_address": "29 Academy Drive, Hattiesburg, MS 39401",
+      "hours": null,
+      "freq": null,
+      "plus_code": "863G7PCW+69",
+      "city": "Hattiesburg",
+      "state": "MS",
+      "airport_name": "Hattiesburg Bobby L Chain Municipal Airport",
+      "icao": "KHBG",
+      "iata": "HBG",
+      "region": "US",
+      "services": "Jet A and avgas; transient hangar; 24-hour service available",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e4aa5c8fd528af74\""
+}

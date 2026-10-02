@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KFSM",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Fort Smith",
       "phone": "(479) 646-1611",
       "website": "https://www.signatureaviation.com/locations/FSM",
-      "email": "FSM@Signatureaviation.com",
+      "email": "FSM@signatureaviation.com",
       "street_address": "5300 Airport Boulevard",
       "hours": "Monday - Friday 24 Hours/ Saturday & Sunday 0600-2200",
       "freq": "129.87",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"39df787197666c6c\""
+  "etag": "\"8f6ad717fe9d02af\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KOPF",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 3,
   "businesses": [
     {
@@ -54,7 +54,7 @@
       "name": "Signature Opa-Locka",
       "phone": "(305) 687-8410",
       "website": "https://www.signatureaviation.com/locations/OPF",
-      "email": "OPF@signatureflight.com",
+      "email": "OPF@signatureaviation.com",
       "street_address": "15001 Nw 42nd Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.85",
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"91ab2be94ce66bd6\""
+  "etag": "\"e12aef6ef83294ff\""
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBFD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Bradford Regional Airport",
+      "phone": "814-368-5928",
+      "website": "https://www.bradfordairport.net/general-aviation",
+      "email": "fueloffice@bradfordairport.net",
+      "street_address": "Bradford Regional Airport, 212 Airport Rd, Lewis Run, PA 16738",
+      "hours": "Sun-Fri 7am-8pm; Sat 8am-8pm",
+      "freq": null,
+      "plus_code": "87H3Q9X6+P4",
+      "city": "Bradford",
+      "state": "PA",
+      "airport_name": "Bradford Regional Airport",
+      "icao": "KBFD",
+      "iata": "BFD",
+      "region": "US",
+      "services": "Jet A; 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f7c1c269294996da\""
+}

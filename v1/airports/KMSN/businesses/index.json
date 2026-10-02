@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMSN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Wisconsin Aviation",
+      "phone": "(608) 268-5000",
+      "website": "https://www.wisconsinaviation.com/FBO-Madison/fuel",
+      "email": "wafl@WisconsinAviation.com",
+      "street_address": "3606 Corben Court",
+      "hours": "Open 24/7",
+      "freq": null,
+      "plus_code": "86MG4MRF+29",
+      "city": "Madison",
+      "state": "WI",
+      "airport_name": "Dane County Regional Truax Field",
+      "icao": "KMSN",
+      "iata": "MSN",
+      "region": "US",
+      "services": "Jet-A; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ad3c4431e080ce1f\""
+}

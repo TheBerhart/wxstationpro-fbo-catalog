@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGCK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Crosby Flying Services",
+      "phone": "(620) 275-5055",
+      "website": "https://www.crosbyflying.com/",
+      "email": "gck@crosbyflying.com",
+      "street_address": "2117 South Air Service Road, Garden City, KS 67846",
+      "hours": "7 AM-10 PM; after-hours callout",
+      "freq": null,
+      "plus_code": "859XW7HJ+23",
+      "city": "Garden City",
+      "state": "KS",
+      "airport_name": "Garden City Regional Airport",
+      "icao": "KGCK",
+      "iata": "GCK",
+      "region": "US",
+      "services": "Staffed FBO; fueling and maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1a97040154514296\""
+}

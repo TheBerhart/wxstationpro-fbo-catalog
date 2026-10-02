@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KJFK",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://modern-aviation.com/?location=new-york-city-jfk-fbo",
       "email": "JFK@modern-aviation.com",
       "street_address": "145 General Aviation Way",
-      "hours": null,
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
       "plus_code": "87G8J5XR+W6Q",
       "city": "Jamaica",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"d5ac1cb346c56019\""
+  "etag": "\"e01f0ea24774f4ae\""
 }

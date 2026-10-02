@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDSM",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 2,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://modern-aviation.com/?location=des-moines-fbo",
       "email": "DSM@modern-aviation.com",
       "street_address": "2700 McKinley Avenue",
-      "hours": null,
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
       "plus_code": "86H8G8RW+8CV",
       "city": "Des Moines",
@@ -26,13 +26,13 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     },
     {
       "name": "Signature Des Moines",
       "phone": "(515) 256-5330",
       "website": "https://www.signatureaviation.com/locations/DSM",
-      "email": "dsm@signatureaviation.com",
+      "email": "DSM@signatureaviation.com",
       "street_address": "6213 Sw 28th Street",
       "hours": "24 hours a day/7 days a week",
       "freq": "131",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"65a0897b1f6a3c76\""
+  "etag": "\"7d08c9312ef3ea59\""
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDLH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Vantage Aviation",
+      "phone": "(218) 727-2911",
+      "website": "https://vantageair.com/fbo/duluth-international-airport-dlh/",
+      "email": "dlh@vantageair.com",
+      "street_address": "4535 Airport Approach Road, Duluth, MN 55811",
+      "hours": "24/7",
+      "freq": "122.95",
+      "plus_code": "86R9RRQ4+MQ",
+      "city": "Duluth",
+      "state": "MN",
+      "airport_name": "Duluth International Airport",
+      "icao": "KDLH",
+      "iata": "DLH",
+      "region": "US",
+      "services": "Jet A; 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e17d07c2cd3d97ea\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSGF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Midwest Premier SGF Aviation",
+      "phone": "(417) 868-0590",
+      "website": "https://www.midwestpremiersgf.com/",
+      "email": "ga@flyspringfield.com",
+      "street_address": "2801 N General Aviation Ave",
+      "hours": "Counter 5 AM - 10 PM; fueling 24/7",
+      "freq": "122.95",
+      "plus_code": "86986JXC+H9",
+      "city": "Springfield",
+      "state": "MO",
+      "airport_name": "Springfield Branson National Airport",
+      "icao": "KSGF",
+      "iata": "SGF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2433d8e9ece88382\""
+}

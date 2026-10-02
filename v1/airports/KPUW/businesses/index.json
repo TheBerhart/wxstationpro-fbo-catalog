@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPUW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Inter-State Aviation",
+      "phone": "(509) 332-6596",
+      "website": "https://inter-stateaviation.com/services/fuel-services",
+      "email": null,
+      "street_address": "3625 NE Airport Dr, BLDG 590",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85R4PVVR+M9",
+      "city": "Pullman",
+      "state": "WA",
+      "airport_name": "Pullman-Moscow Regional Airport",
+      "icao": "KPUW",
+      "iata": "PUW",
+      "region": "US",
+      "services": "Self-serve and full-service Jet-A; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7134aefa6b7d94bd\""
+}

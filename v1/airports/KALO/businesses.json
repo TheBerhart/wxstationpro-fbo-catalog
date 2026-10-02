@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KALO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Livingston Aviation",
+      "phone": "(319) 234-1783",
+      "website": "https://www.livingstonaviation.com/fbo-services/",
+      "email": null,
+      "street_address": "2814 Betsworth Drive, Waterloo, IA 50703",
+      "hours": "Mon-Sun 6AM-8PM; after hours 319-961-3137",
+      "freq": "122.95",
+      "plus_code": "86J9GJX2+VW",
+      "city": "Waterloo",
+      "state": "IA",
+      "airport_name": "Waterloo Regional Airport",
+      "icao": "KALO",
+      "iata": "ALO",
+      "region": "US",
+      "services": "Contract fuel; full FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e3a4a685dd47cd68\""
+}

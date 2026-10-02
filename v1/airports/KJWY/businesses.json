@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJWY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Southern Star Aviation",
+      "phone": "972-937-5515",
+      "website": "https://www.ssajwy.com/services/",
+      "email": null,
+      "street_address": "131 Airport Drive, Midlothian, TX 76065",
+      "hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 9:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": "8645F34P+H8",
+      "city": "Midlothian/Waxahachie",
+      "state": "TX",
+      "airport_name": "Mid-Way Regional Airport",
+      "icao": "KJWY",
+      "iata": null,
+      "region": "US",
+      "services": "100LL and Jet A; 100LL self-serve",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8b81a010041da039\""
+}

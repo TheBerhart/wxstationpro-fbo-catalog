@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMYV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Honeycutt Aviation",
+      "phone": "(530) 741-1345",
+      "website": "https://honeycuttaviation.com/",
+      "email": "info@honeycuttaviation.com",
+      "street_address": "1489 Sky Harbor Dr",
+      "hours": "Monday-Friday 8:00 AM-5:00 PM",
+      "freq": null,
+      "plus_code": "84FW3CWM+J9",
+      "city": "Marysville",
+      "state": "CA",
+      "airport_name": "Yuba County Airport",
+      "icao": "KMYV",
+      "iata": "MYV",
+      "region": "US",
+      "services": "100LL self-serve and full-service; Jet-A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"cadf57e616365de2\""
+}

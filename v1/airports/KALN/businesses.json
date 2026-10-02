@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KALN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "West Star Aviation",
+      "phone": "618-259-3230",
+      "website": "https://www.weststaraviation.com/east-alton/",
+      "email": null,
+      "street_address": "18 Terminal Drive, East Alton, IL 62024",
+      "hours": "24 Hours",
+      "freq": null,
+      "plus_code": "86CFVWRV+RQ",
+      "city": "Alton/St Louis",
+      "state": "IL",
+      "airport_name": "St Louis Regional Airport",
+      "icao": "KALN",
+      "iata": "ALN",
+      "region": "US",
+      "services": "Full-service FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"75cb9231e0af7738\""
+}

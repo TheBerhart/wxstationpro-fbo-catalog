@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KADH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Heartland Aviation",
+      "phone": "(580) 421-7742",
+      "website": "http://heartlandaviationada.com/?page_id=45",
+      "email": "HeartlandAviation@cableone.net",
+      "street_address": "2800 Ray Stout Blvd, Ada, OK 74820",
+      "hours": "Mon-Sat 8am-5pm; Sun 12pm-5pm",
+      "freq": "122.80",
+      "plus_code": "8665R83F+P8",
+      "city": "Ada",
+      "state": "OK",
+      "airport_name": "Ada Regional Airport",
+      "icao": "KADH",
+      "iata": "ADT",
+      "region": "US",
+      "services": "Aviation fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b7986bf032132c5c\""
+}

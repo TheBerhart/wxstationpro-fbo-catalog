@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOLS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Copper Mountain Air",
+      "phone": "(520) 287-9120",
+      "website": "https://coppermountainair.com/",
+      "email": "operations@coppermountainair.com",
+      "street_address": "11 Access Way",
+      "hours": null,
+      "freq": null,
+      "plus_code": "853FC592+3H",
+      "city": "Nogales",
+      "state": "AZ",
+      "airport_name": "Nogales International Airport",
+      "icao": "KOLS",
+      "iata": "OLS",
+      "region": "US",
+      "services": "Full-service FBO; 100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"40ba93f5fe6c886d\""
+}

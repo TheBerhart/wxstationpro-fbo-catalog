@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMCE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "TDL Aero Enterprises / Gateway Air Center",
+      "phone": "(209) 722-6300",
+      "website": "https://www.gatewayaircenter.com/fuel--line-service.html",
+      "email": null,
+      "street_address": "44 Macready Dr, Merced, CA 95341",
+      "hours": "Line service 24/7",
+      "freq": null,
+      "plus_code": "849X7FQP+JX",
+      "city": "Merced",
+      "state": "CA",
+      "airport_name": "Merced Regional Macready Field",
+      "icao": "KMCE",
+      "iata": "MCE",
+      "region": "US",
+      "services": "Self-serve fuel; line service 24/7",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"179496bb52178da2\""
+}

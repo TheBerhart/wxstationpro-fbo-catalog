@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KICT",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Wichita",
       "phone": "(316) 522-2010",
       "website": "https://www.signatureaviation.com/locations/ICT",
-      "email": "ICT@signatureflight.com",
+      "email": "ICT@signatureaviation.com",
       "street_address": "1980 S Airport Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.57",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"5caabedd4be6aa42\""
+  "etag": "\"173e66e52611ea0a\""
 }

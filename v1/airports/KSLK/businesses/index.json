@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSLK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Adirondack Regional Airport",
+      "phone": "518-891-4600",
+      "website": "https://www.adirondackairport.com/general-aviation",
+      "email": null,
+      "street_address": "96 Airport Road",
+      "hours": "7 days a week; May-October 6:00am-9:00pm; November-April 6:00am-8:00pm; after hours for a fee",
+      "freq": null,
+      "plus_code": "87P79QJW+6J",
+      "city": "Saranac Lake",
+      "state": "NY",
+      "airport_name": "Adirondack Regional Airport",
+      "icao": "KSLK",
+      "iata": "SLK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f2b2d23f27f1fb73\""
+}

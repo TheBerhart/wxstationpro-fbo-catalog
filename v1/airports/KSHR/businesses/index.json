@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSHR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Bighorn Airways",
+      "phone": "(307) 672-3421",
+      "website": "https://www.bighornairways.com/fbo-services",
+      "email": null,
+      "street_address": "912 West Brundage Lane",
+      "hours": "Staffed daily 5 AM to 9 PM",
+      "freq": "123.00",
+      "plus_code": "85PMQ2FJ+RH",
+      "city": "Sheridan",
+      "state": "WY",
+      "airport_name": "Sheridan County Airport",
+      "icao": "KSHR",
+      "iata": "SHR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7da4b3041625bd10\""
+}

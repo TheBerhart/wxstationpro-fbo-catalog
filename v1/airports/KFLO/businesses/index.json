@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFLO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Precision Air",
+      "phone": "(843) 667-9627",
+      "website": "https://pa-flo.aero/services/fbo/",
+      "email": null,
+      "street_address": "430 South McCall Boulevard, Florence, SC 29506",
+      "hours": "Monday-Sunday 6:00 AM-8:00 PM EST; holiday hours differ",
+      "freq": null,
+      "plus_code": "876257R8+XV",
+      "city": "Florence",
+      "state": "SC",
+      "airport_name": "Florence Regional Airport",
+      "icao": "KFLO",
+      "iata": "FLO",
+      "region": "US",
+      "services": "Jet A with Prist and 100LL; 24-hour service available; line service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"eae27ccc81d8b7a0\""
+}

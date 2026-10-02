@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHVN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Robinson Aviation",
+      "phone": "203-467-9555",
+      "website": "https://robinsonaviation.com/",
+      "email": "csr@robav.aero",
+      "street_address": "50 Thompson Ave, East Haven, CT 06512",
+      "hours": "Monday-Friday 0600-2000; Saturday-Sunday 0700-1900",
+      "freq": "122.70",
+      "plus_code": "87H97488+JQ",
+      "city": "New Haven",
+      "state": "CT",
+      "airport_name": "Tweed New Haven Airport",
+      "icao": "KHVN",
+      "iata": "HVN",
+      "region": "US",
+      "services": "Full-service Jet A and 100LL; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"56872411a3aab094\""
+}

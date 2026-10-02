@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KALM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Alamogordo-White Sands Regional Airport",
+      "phone": "575-439-4110",
+      "website": "https://ci.alamogordo.nm.us/167/Airport",
+      "email": null,
+      "street_address": "3500 Airport Road, Alamogordo, NM 88310",
+      "hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: 7:00 AM – 5:00 PM; Sunday: 7:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "854PR2Q4+Q6",
+      "city": "Alamogordo",
+      "state": "NM",
+      "airport_name": "Alamogordo White Sands Regional Airport",
+      "icao": "KALM",
+      "iata": "ALM",
+      "region": "US",
+      "services": "100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"50ccbbd8ccc6642f\""
+}

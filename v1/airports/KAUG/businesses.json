@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAUG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Maine Instrument Flight",
+      "phone": "(207) 622-1211",
+      "website": "https://maineinstrumentflight.com/fbo",
+      "email": "mail@mif.aero",
+      "street_address": "215 Winthrop Street, Augusta, ME 04330",
+      "hours": "Staffed 0700-1800 EST; winter 7 AM-6 PM; summer 7 AM-7 PM",
+      "freq": null,
+      "plus_code": "87PG8694+6V",
+      "city": "Augusta",
+      "state": "ME",
+      "airport_name": "Augusta State Airport",
+      "icao": "KAUG",
+      "iata": "AUG",
+      "region": "US",
+      "services": "Refueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"dd6ab2f31af113c7\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KESC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Delta County Airport",
+      "phone": "(906) 786-4902",
+      "website": "https://deltacountymi.gov/airport/fbo-services-general-aviation/",
+      "email": null,
+      "street_address": "3300 Airport Road, Escanaba, MI 49829",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86QJPW94+65",
+      "city": "Escanaba",
+      "state": "MI",
+      "airport_name": "Delta County Airport",
+      "icao": "KESC",
+      "iata": "ESC",
+      "region": "US",
+      "services": "Full-service Jet A; 24/7 self-serve 100LL; transient hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"005f1e399a54d889\""
+}

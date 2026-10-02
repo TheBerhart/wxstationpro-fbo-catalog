@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDAB",
+  "updated_at": "2026-10-01T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sheltair Daytona Beach",
+      "phone": "386-255-0471",
+      "website": "https://www.sheltairaviation.com/locations/dab/",
+      "email": "info-dab@sheltairaviation.com",
+      "street_address": "563 Pearl Harbor Dr., Daytona Beach, FL 32114",
+      "hours": "0600-2100",
+      "freq": "130.1",
+      "plus_code": "76XW5WPV+M3",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "airport_name": "Daytona Beach International Airport",
+      "icao": "KDAB",
+      "iata": "DAB",
+      "region": "US",
+      "services": "Fuel; ground support; concierge; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    }
+  ],
+  "etag": "\"ca10ef0dbab47013\""
+}

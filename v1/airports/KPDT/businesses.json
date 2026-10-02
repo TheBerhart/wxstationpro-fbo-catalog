@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPDT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Wildhorse Aviation",
+      "phone": "(541) 310-9542",
+      "website": "https://www.pendletonairport.com/business",
+      "email": null,
+      "street_address": null,
+      "hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": null,
+      "city": "Pendleton",
+      "state": "OR",
+      "airport_name": "Eastern Oregon Regional Airport at Pendleton",
+      "icao": "KPDT",
+      "iata": "PDT",
+      "region": "US",
+      "services": "Aviation fueling",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7def8b56a3828ddb\""
+}

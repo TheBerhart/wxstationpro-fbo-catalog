@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBFF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Valley Airways",
+      "phone": "308-635-1331",
+      "website": "https://www.valleyairways.com/",
+      "email": "ValleyAirwaysfbo@gmail.com",
+      "street_address": "250042 Robertson Road, Scottsbluff, NE 69361",
+      "hours": "24/7",
+      "freq": "123.0",
+      "plus_code": "85HRVCC3+4J",
+      "city": "Scottsbluff",
+      "state": "NE",
+      "airport_name": "Western Neb. Rgnl/William B. Heilig Airport",
+      "icao": "KBFF",
+      "iata": "BFF",
+      "region": "US",
+      "services": "Phillips 66 fuel; full FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f44e4cd2ab324cac\""
+}

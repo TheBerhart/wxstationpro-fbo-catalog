@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSTC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "St. Cloud Aviation",
+      "phone": "320.253.1500",
+      "website": "https://www.stcloudaviation.com/line-customer-service",
+      "email": null,
+      "street_address": "1544 45th Avenue SE",
+      "hours": "Monday-Friday 5:00am-10:00pm; Saturday-Sunday 6:00am-9:00pm; after hours callout",
+      "freq": "123.50",
+      "plus_code": "86Q7GWWM+XP",
+      "city": "Saint Cloud",
+      "state": "MN",
+      "airport_name": "Saint Cloud Regional Airport",
+      "icao": "KSTC",
+      "iata": "STC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ada255079bc01117\""
+}

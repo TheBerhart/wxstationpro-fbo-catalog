@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAPA",
-  "updated_at": "2026-09-15T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 4,
   "businesses": [
     {
@@ -13,7 +13,7 @@
       "email": "conciergeapa@jetcentersofcolorado.com",
       "street_address": "7625 S Peoria Street",
       "hours": "Open 24/7",
-      "freq": "130.575",
+      "freq": null,
       "plus_code": "85FQH5H2+7W8",
       "city": "Englewood",
       "state": "CO",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website|community-report",
-      "source_updated_at": "2026-09-14"
+      "source_updated_at": "2026-10-01"
     },
     {
       "name": "Modern Aviation Denver",
@@ -34,8 +34,8 @@
       "website": "https://modern-aviation.com/?location=centennial-fbo",
       "email": "APA@modern-aviation.com",
       "street_address": "8207 InterPort Boulevard",
-      "hours": null,
-      "freq": "129.62",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
       "plus_code": "85FQH593+52F",
       "city": "Englewood",
       "state": "CO",
@@ -47,8 +47,8 @@
       "enrichment_status": "enriched",
       "validation_status": "verified",
       "confidence": "high",
-      "source": "operator_website|community-report|community-confirm",
-      "source_updated_at": "2026-09-15"
+      "source": "operator_website|community-report",
+      "source_updated_at": "2026-10-02"
     },
     {
       "name": "Signature Denver Centennial - North",
@@ -95,5 +95,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"043f68d3b5e2e88b\""
+  "etag": "\"9aa632ffb7e86417\""
 }

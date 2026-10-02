@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHKY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Hickory Regional Airport",
+      "phone": "(828) 327-0147",
+      "website": "https://www.hickorync.gov/airportfbopilot-services",
+      "email": null,
+      "street_address": "3103 9th Ave Dr NW, Hickory, NC 28601, USA",
+      "hours": "Daily 7:00 AM-7:00 PM; closed Thanksgiving and Christmas",
+      "freq": null,
+      "plus_code": "867WPJV6+57",
+      "city": "Hickory",
+      "state": "NC",
+      "airport_name": "Hickory Regional Airport",
+      "icao": "KHKY",
+      "iata": "HKY",
+      "region": "US",
+      "services": "100LL and Jet A; city-operated FBO; hangars; tie-downs",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"814fd89d569b09ae\""
+}

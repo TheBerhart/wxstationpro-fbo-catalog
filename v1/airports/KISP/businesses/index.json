@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KISP",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://modern-aviation.com/?location=long-island-fbo",
       "email": "ISP@modern-aviation.com",
       "street_address": "90 Arrival Ave.",
-      "hours": null,
+      "hours": "Monday: 6:00 AM – 10:30 PM; Tuesday: 6:00 AM – 10:30 PM; Wednesday: 6:00 AM – 10:30 PM; Thursday: 6:00 AM – 10:30 PM; Friday: 6:00 AM – 10:30 PM; Saturday: 6:00 AM – 10:30 PM; Sunday: 6:00 AM – 10:30 PM",
       "freq": null,
       "plus_code": "87G8QVQX+XF9",
       "city": "Ronkonkoma",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"b5dd30a41b3f938d\""
+  "etag": "\"fa2b5146d9fb35f8\""
 }

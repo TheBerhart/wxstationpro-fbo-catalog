@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDDC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Crotts Aircraft Service",
+      "phone": "620-227-3553",
+      "website": "https://crottsaircraft.com/ddc/",
+      "email": "crotts@ucom.net",
+      "street_address": "102 Airport Road, Dodge City, KS 67801",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": "122.70",
+      "plus_code": "8692Q26J+7V",
+      "city": "Dodge City",
+      "state": "KS",
+      "airport_name": "Dodge City Regional Airport",
+      "icao": "KDDC",
+      "iata": "DDC",
+      "region": "US",
+      "services": "100LL; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5426dcf3e4e91ef9\""
+}

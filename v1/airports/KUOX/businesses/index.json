@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUOX",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "University-Oxford Airport",
+      "phone": "662-234-2036",
+      "website": "https://olemiss.edu/airport/",
+      "email": "airport@olemiss.edu",
+      "street_address": "1 Airport Road",
+      "hours": "7 am - 7 pm",
+      "freq": null,
+      "plus_code": "866G9FJ6+X3",
+      "city": "Oxford",
+      "state": "MS",
+      "airport_name": "University Oxford Airport",
+      "icao": "KUOX",
+      "iata": "UOX",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2c7d737bf6ddd364\""
+}

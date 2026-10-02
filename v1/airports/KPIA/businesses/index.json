@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPIA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Byerly Aviation Inc.",
+      "phone": "(309) 697-6300",
+      "website": "https://www.flypia.com/airport/aviation/",
+      "email": null,
+      "street_address": "6100 West Everett M. Dirksen Parkway #2B",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "86GGM887+F3",
+      "city": "Peoria",
+      "state": "IL",
+      "airport_name": "General Wayne A. Downing Peoria International Airport",
+      "icao": "KPIA",
+      "iata": "PIA",
+      "region": "US",
+      "services": "Staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"23d1d1da219b75ab\""
+}

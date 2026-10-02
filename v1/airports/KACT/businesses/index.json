@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KACT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Freeman Jet Center Waco",
+      "phone": "+1-254-752-9731",
+      "website": "https://freemanholdingsgroup.com/aviation/freeman-jet-center-waco/",
+      "email": "info.act@freemanjetcenter.com",
+      "street_address": "7815 Karl May Drive, Waco, TX 76708",
+      "hours": "06:00-22:00",
+      "freq": "130.35",
+      "plus_code": "8634JQ5H+Q6",
+      "city": "Waco",
+      "state": "TX",
+      "airport_name": "Waco Regional Airport",
+      "icao": "KACT",
+      "iata": "ACT",
+      "region": "US",
+      "services": "Aviation fuel; hangar; ground services",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0846aac66cba3263\""
+}

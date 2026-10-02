@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KX51",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Homestead Executive Jet Center",
+      "phone": "305-248-3595",
+      "website": "https://hejc.miami/amenities-%26-services",
+      "email": null,
+      "street_address": "28790 SW 217th Ave",
+      "hours": "Monday-Sunday 8:00 am-6:00 pm; full service during hours, self service available",
+      "freq": "122.85",
+      "plus_code": "76QXGC2W+78",
+      "city": "Homestead",
+      "state": "FL",
+      "airport_name": "Miami Homestead General Aviation Airport",
+      "icao": "KX51",
+      "iata": null,
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e4db525208f238a6\""
+}

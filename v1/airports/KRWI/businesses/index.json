@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRWI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Rocky Mount – Wilson Airport Authority",
+      "phone": "(252) 446-7057",
+      "website": "https://www.krwiairport.org/pilot-information",
+      "email": "fbodesk@krwiairport.com",
+      "street_address": "7265 Air Terminal Dr.",
+      "hours": "7am to 7pm Daily and 8am to 5pm on Sat. & Sun and on Holidays",
+      "freq": null,
+      "plus_code": "8774V432+9M",
+      "city": "Rocky Mount",
+      "state": "NC",
+      "airport_name": "Rocky Mount Wilson Regional Airport",
+      "icao": "KRWI",
+      "iata": "RWI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"84d2931de84ba590\""
+}

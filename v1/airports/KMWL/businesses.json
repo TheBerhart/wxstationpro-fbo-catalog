@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMWL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Mineral Wells Regional Airport",
+      "phone": "(940) 328-7808",
+      "website": "https://www.mineralwellstx.gov/78/Mineral-Wells-Regional-Airport",
+      "email": "airport@mineralwellstx.gov",
+      "street_address": "5300 Airport Road",
+      "hours": "Daily 6:00 AM-6:00 PM",
+      "freq": "122.725",
+      "plus_code": "8643QWMR+XG",
+      "city": "Mineral Wells",
+      "state": "TX",
+      "airport_name": "Mineral Wells Regional Airport",
+      "icao": "KMWL",
+      "iata": "MWL",
+      "region": "US",
+      "services": "Full-service Jet A; full-service and self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0321b2494a4f7eb3\""
+}

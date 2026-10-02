@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIGM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Air'Zona Aircraft Services, Inc.",
+      "phone": "(928) 757-7744",
+      "website": "https://airzonaaircraft.com/",
+      "email": "sales@airzonaaircraft.com",
+      "street_address": "7100 Flightline Drive, Kingman, AZ 86401",
+      "hours": "Self-serve 100LL and Jet A 24/7",
+      "freq": null,
+      "plus_code": "85787365+74",
+      "city": "Kingman",
+      "state": "AZ",
+      "airport_name": "Kingman Airport",
+      "icao": "KIGM",
+      "iata": "IGM",
+      "region": "US",
+      "services": "Full-service FBO; 100LL and Jet A full service and self-serve 24/7",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e165f2e098ad9fe4\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGLD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Butterfly Aviation",
+      "phone": "(785) 890-7531",
+      "website": "https://www.butterflyaviation.net/line-services.html",
+      "email": "butterfly@st-tel.net",
+      "street_address": "602 Renner Field Road, Goodland, KS 67735",
+      "hours": "7 AM-7 PM MDT; 7 AM-6 PM MST",
+      "freq": null,
+      "plus_code": "85FW97CW+H3",
+      "city": "Goodland",
+      "state": "KS",
+      "airport_name": "Goodland Municipal Airport",
+      "icao": "KGLD",
+      "iata": "GLD",
+      "region": "US",
+      "services": "Full-service FBO; Jet A and 100LL; maintenance; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"fce37537535b5246\""
+}

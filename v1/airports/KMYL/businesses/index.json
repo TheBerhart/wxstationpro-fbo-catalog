@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMYL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "McCall Aviation Inc",
+      "phone": "(208) 634-7137",
+      "website": "https://www.mccallaviation.com/services/",
+      "email": "McCallaviation@outlook.com",
+      "street_address": "300 Deinhard Ln",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "85P5VVWH+VX",
+      "city": "McCall",
+      "state": "ID",
+      "airport_name": "McCall Municipal Airport",
+      "icao": "KMYL",
+      "iata": "MYL",
+      "region": "US",
+      "services": "Fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6f0c74a429596f9d\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSMX",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Central Coast Jet Center",
+      "phone": "(888) 934-2252",
+      "website": "https://www.centralcoastjetcenter.com/services/",
+      "email": "CSR@CCJC.US",
+      "street_address": "1211 Citation Court",
+      "hours": "Monday: 5:00 AM – 9:00 PM; Tuesday: 5:00 AM – 9:00 PM; Wednesday: 5:00 AM – 9:00 PM; Thursday: 5:00 AM – 9:00 PM; Friday: 5:00 AM – 9:00 PM; Saturday: 5:00 AM – 9:00 PM; Sunday: 5:00 AM – 9:00 PM",
+      "freq": null,
+      "plus_code": null,
+      "city": "Santa Maria",
+      "state": "CA",
+      "airport_name": "Santa Maria Public Airport Captain G Allan Hancock Field",
+      "icao": "KSMX",
+      "iata": "SMX",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"59ea88c4ec5e4096\""
+}

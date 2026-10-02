@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KWWD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "FlightLevel Aviation",
+      "phone": "609.889.0750",
+      "website": "https://www.flightlevelaviation.com/cape-may-nj/",
+      "email": null,
+      "street_address": "201 Forrestal Rd",
+      "hours": "Monday-Sunday 0800-1700; after hours 1701-0759 with one hour notice",
+      "freq": null,
+      "plus_code": "87F7233P+XQ",
+      "city": "Wildwood",
+      "state": "NJ",
+      "airport_name": "Cape May County Airport",
+      "icao": "KWWD",
+      "iata": "WWD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f6af22bab132a7d5\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMKL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Jackson Regional Airport",
+      "phone": "(731) 423-0995",
+      "website": "https://www.flyjackson.com/fbo",
+      "email": "support@flyjackson.com",
+      "street_address": "308 Grady Montgomery Drive",
+      "hours": "Mon-Fri 6:00 AM-8:30 PM; Sat-Sun 7:00 AM-7:30 PM",
+      "freq": null,
+      "plus_code": "867HJ32H+Q9",
+      "city": "Jackson",
+      "state": "TN",
+      "airport_name": "McKellar-Sipes Regional Airport",
+      "icao": "KMKL",
+      "iata": "MKL",
+      "region": "US",
+      "services": "Plane-side and self-serve 100LL; Jet-A; FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a20d658aeba494c5\""
+}

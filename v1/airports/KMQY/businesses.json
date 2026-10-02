@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMQY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Azure Flight Support",
+      "phone": "(615) 220-2957",
+      "website": "https://azureflightsupport.com/locations/smyrna-rutherford-county-airport-kmqy/",
+      "email": "kmqy@azureflightsupport.com",
+      "street_address": "276 Doug Warpoole Road",
+      "hours": "24 hours Sunday-Thursday; Friday until 10:00 PM; Saturday 6:00 AM-10:00 PM; 24/7 on call",
+      "freq": null,
+      "plus_code": "868M2F3F+JG",
+      "city": "Smyrna",
+      "state": "TN",
+      "airport_name": "Smyrna Airport",
+      "icao": "KMQY",
+      "iata": "MQY",
+      "region": "US",
+      "services": "Staffed FBO; Titan contract fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f444a36a3ddc5778\""
+}

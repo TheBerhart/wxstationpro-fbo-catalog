@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDRT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Pico Aviation",
+      "phone": "830-768-0898",
+      "website": "https://picoaviation.com/line-services.html",
+      "email": "admin@picoaviation.com",
+      "street_address": "1102 W 10th St, Del Rio, TX 78840",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "75XX93CJ+34",
+      "city": "Del Rio",
+      "state": "TX",
+      "airport_name": "Del Rio International Airport",
+      "icao": "KDRT",
+      "iata": "DRT",
+      "region": "US",
+      "services": "Full and self-serve 100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"deda8deecd48a569\""
+}

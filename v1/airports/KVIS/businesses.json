@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KVIS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Visalia Municipal Airport",
+      "phone": "559-713-4282",
+      "website": "https://www.visalia.gov/342/Airport-Services",
+      "email": null,
+      "street_address": "9501 W Airport Drive",
+      "hours": "Monday-Friday 8 a.m. to 6 p.m.; Saturday 8 a.m. to 4 p.m.; Sunday 10 a.m. to 4 p.m.; 24-hour self-service; after-hour fuel call-out",
+      "freq": "123.05",
+      "plus_code": "85828JG2+GW",
+      "city": "Visalia",
+      "state": "CA",
+      "airport_name": "Visalia Municipal Airport",
+      "icao": "KVIS",
+      "iata": "VIS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1a89f7277da837ca\""
+}

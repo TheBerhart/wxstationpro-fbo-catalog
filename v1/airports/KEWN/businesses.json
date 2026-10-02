@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEWN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Tidewater Air Services",
+      "phone": "(252) 633-1400",
+      "website": "https://tidewaterair.aero/",
+      "email": null,
+      "street_address": "1210 Aviation Drive, New Bern, NC 28562",
+      "hours": "6 AM-8 PM daily; after-hours callout",
+      "freq": "123.05",
+      "plus_code": "87743XG4+W4",
+      "city": "New Bern",
+      "state": "NC",
+      "airport_name": "Coastal Carolina Regional Airport",
+      "icao": "KEWN",
+      "iata": "EWN",
+      "region": "US",
+      "services": "Jet fuel and avgas; line service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8d045f3da6a3ae21\""
+}

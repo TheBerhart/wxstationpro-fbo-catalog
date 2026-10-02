@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLFK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Angelina County Airport",
+      "phone": "936-634-7511",
+      "website": "https://angelinacounty.net/airservices/",
+      "email": null,
+      "street_address": "800 Airport Blvd., Diboll, TX 75941",
+      "hours": null,
+      "freq": "123.0",
+      "plus_code": "863766HX+98",
+      "city": "Lufkin",
+      "state": "TX",
+      "airport_name": "Angelina County Airport",
+      "icao": "KLFK",
+      "iata": "LFK",
+      "region": "US",
+      "services": "Jet-A and 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a26b7c173f6b2293\""
+}

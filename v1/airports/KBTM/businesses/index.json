@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBTM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Butte Aviation",
+      "phone": "406-494-6694",
+      "website": "https://www.butteaviation.com/fbo-services",
+      "email": null,
+      "street_address": "4602 Harrison Ave, Butte, MT 59701",
+      "hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: 7:30 AM – 5:30 PM; Sunday: 7:30 AM – 5:30 PM",
+      "freq": null,
+      "plus_code": "85Q9XF3X+8F",
+      "city": "Butte",
+      "state": "MT",
+      "airport_name": "Bert Mooney Airport",
+      "icao": "KBTM",
+      "iata": "BTM",
+      "region": "US",
+      "services": "Jet A; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a4f7b9e58ff8b33a\""
+}

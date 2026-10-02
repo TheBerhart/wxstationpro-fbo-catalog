@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KANB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Anniston Aviation",
+      "phone": "(256) 831-4410",
+      "website": "https://annistonaviation.com/airport-information/",
+      "email": null,
+      "street_address": "2504 Anniston Airport Blvd, Anniston, AL 36203",
+      "hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": "123.0",
+      "plus_code": "865PH5R2+H3",
+      "city": "Anniston",
+      "state": "AL",
+      "airport_name": "Anniston Regional Airport",
+      "icao": "KANB",
+      "iata": "ANB",
+      "region": "US",
+      "services": "100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"958413e765518960\""
+}

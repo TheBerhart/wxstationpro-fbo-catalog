@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMKE",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 3,
   "businesses": [
     {
@@ -54,7 +54,7 @@
       "name": "Signature Milwaukee",
       "phone": "(414) 747-5100",
       "website": "https://www.signatureaviation.com/locations/MKE",
-      "email": "mke@signatureflight.com",
+      "email": "MKE@signatureaviation.com",
       "street_address": "923 East Layton Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "131",
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"433d64737fe95992\""
+  "etag": "\"0d14f0a79ea455d1\""
 }

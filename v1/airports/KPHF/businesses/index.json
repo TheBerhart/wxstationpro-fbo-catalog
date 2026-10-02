@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPHF",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://www.atlanticaviation.com/locations/phf/",
       "email": "phffrontdesk@atlanticaviation.com",
       "street_address": "1200 Bland Blvd.",
-      "hours": null,
+      "hours": "Monday: 4:00 AM – 10:00 PM; Tuesday: 4:00 AM – 10:00 PM; Wednesday: 4:00 AM – 10:00 PM; Thursday: 4:00 AM – 10:00 PM; Friday: 4:00 AM – 10:00 PM; Saturday: 4:00 AM – 10:00 PM; Sunday: 4:00 AM – 10:00 PM",
       "freq": null,
       "plus_code": "87954FGM+5C3",
       "city": "Newport News",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"710223f80b28e9b4\""
+  "etag": "\"07d117d5b46c54f7\""
 }

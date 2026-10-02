@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHHR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Jet Center Los Angeles",
+      "phone": "310-676-4673",
+      "website": "https://jetcenterla.com/jet-center-los-angeles/",
+      "email": "info@jetcenterla.com",
+      "street_address": "12101 Crenshaw Blvd, Hawthorne, CA 90250",
+      "hours": null,
+      "freq": null,
+      "plus_code": "8553WMF7+3W",
+      "city": "Hawthorne",
+      "state": "CA",
+      "airport_name": "Jack Northrop Field Hawthorne Municipal Airport",
+      "icao": "KHHR",
+      "iata": "HHR",
+      "region": "US",
+      "services": "Staffed full-service FBO; refueling; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7040fbb313735672\""
+}

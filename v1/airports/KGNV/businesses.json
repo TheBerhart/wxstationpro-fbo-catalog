@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGNV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "University Air Center",
+      "phone": "(352) 335-4681",
+      "website": "https://uac.aero/",
+      "email": null,
+      "street_address": "4701 NE 40th Terr, Gainesville, FL 32609",
+      "hours": "Open 24 hours, 7 days",
+      "freq": null,
+      "plus_code": "76XVMPWC+HM",
+      "city": "Gainesville",
+      "state": "FL",
+      "airport_name": "Gainesville Regional Airport",
+      "icao": "KGNV",
+      "iata": "GNV",
+      "region": "US",
+      "services": "Jet A; 100LL line service and self-serve; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7dfaf9e16378ea3f\""
+}

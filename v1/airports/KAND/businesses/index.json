@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAND",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Anderson Regional Airport",
+      "phone": "(864) 260-4163",
+      "website": "https://www.andersoncountysc.org/work-live/for-businesses/airport/",
+      "email": null,
+      "street_address": "5805 Airport Road, Anderson, SC 29626",
+      "hours": null,
+      "freq": null,
+      "plus_code": "866VF7VP+MM",
+      "city": "Anderson",
+      "state": "SC",
+      "airport_name": "Anderson Regional Airport",
+      "icao": "KAND",
+      "iata": "AND",
+      "region": "US",
+      "services": "Full-service avgas; self-serve avgas; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ebd4afa2b77f91c3\""
+}

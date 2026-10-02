@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMLS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Miles City Airport",
+      "phone": "(406) 951-0955",
+      "website": "https://milescitymtairport.com/fuel/",
+      "email": null,
+      "street_address": "77 Frank Wiley Field",
+      "hours": "Mon-Sat 8:00 AM-5:00 PM; call ahead Sundays; 24-hour callout",
+      "freq": null,
+      "plus_code": "85RPC4GG+G3",
+      "city": "Miles City",
+      "state": "MT",
+      "airport_name": "Miles City Airport - Frank Wiley Field",
+      "icao": "KMLS",
+      "iata": "MLS",
+      "region": "US",
+      "services": "Jet A with Prist; 100LL; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ccd496c8990dd486\""
+}

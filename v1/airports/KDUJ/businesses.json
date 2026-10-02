@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDUJ",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "DuBois Regional Airport",
+      "phone": "814-328-2622",
+      "website": "https://duboisairport.com/general-aviation/",
+      "email": null,
+      "street_address": "Dubois Regional Airport, 377 Aviation Way A, Reynoldsville, PA 15851",
+      "hours": "Monday: 5:00 AM – 9:00 PM; Tuesday: 5:00 AM – 9:00 PM; Wednesday: 5:00 AM – 9:00 PM; Thursday: 5:00 AM – 9:00 PM; Friday: 5:00 AM – 9:00 PM; Saturday: 5:00 AM – 9:00 PM; Sunday: 5:00 AM – 9:00 PM",
+      "freq": null,
+      "plus_code": "87H354J5+X3",
+      "city": "Dubois",
+      "state": "PA",
+      "airport_name": "DuBois Regional Airport",
+      "icao": "KDUJ",
+      "iata": "DUJ",
+      "region": "US",
+      "services": "Fuel; after-hours fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7a44628e23d013f8\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSVC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Grant County Fuel",
+      "phone": "575-388-4554",
+      "website": "https://www.grantcountynm.gov/160/Pilot-Information",
+      "email": null,
+      "street_address": "188 Airport Road",
+      "hours": "100LL self-service 24/7; Jet-A with Prist full service, call for details",
+      "freq": "122.8",
+      "plus_code": "854HJRJV+P3",
+      "city": "Silver City",
+      "state": "NM",
+      "airport_name": "Grant County Airport",
+      "icao": "KSVC",
+      "iata": "SVC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"565a10b955bf4481\""
+}

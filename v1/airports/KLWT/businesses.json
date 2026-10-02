@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLWT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Lewistown Municipal Airport - LWT",
+      "phone": "406-535-3264",
+      "website": "http://lewistownairport.com/",
+      "email": "lwt@midrivers.com",
+      "street_address": "190 Terminal Drive, Lewistown, MT 59457",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85VG2GXQ+3R",
+      "city": "Lewistown",
+      "state": "MT",
+      "airport_name": "Lewistown Municipal Airport",
+      "icao": "KLWT",
+      "iata": "LWT",
+      "region": "US",
+      "services": "Full-service FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5639c6df83b8f940\""
+}

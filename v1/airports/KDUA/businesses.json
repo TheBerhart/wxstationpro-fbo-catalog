@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDUA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Durant Regional Airport",
+      "phone": "580-920-0574",
+      "website": "https://flydurant.com/fbo-amenities/",
+      "email": "eakerfield@durant.org",
+      "street_address": "10 Waldron Rd, Durant, OK 74701",
+      "hours": "Mon-Fri 0700-1800; Sat-Sun 0800-1800",
+      "freq": null,
+      "plus_code": "8655WJV2+WC",
+      "city": "Durant",
+      "state": "OK",
+      "airport_name": "Durant Regional Airport - Eaker Field",
+      "icao": "KDUA",
+      "iata": "DUA",
+      "region": "US",
+      "services": "Self-serve 100LL; full-service Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"22def62d793f3aec\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCMA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sun Air Jets",
+      "phone": "(805) 389-9301",
+      "website": "https://www.sunairjets.com/fbo-services/",
+      "email": null,
+      "street_address": "855 Aviation Drive, Camarillo, CA 93010",
+      "hours": "24/7",
+      "freq": null,
+      "plus_code": "85626W65+33",
+      "city": "Camarillo",
+      "state": "CA",
+      "airport_name": "Camarillo Airport",
+      "icao": "KCMA",
+      "iata": null,
+      "region": "US",
+      "services": "Jet A; 100LL; SAF; UL94",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7a186fc7f34348e0\""
+}

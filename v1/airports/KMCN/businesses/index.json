@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMCN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "HighNote Aviation",
+      "phone": "(478) 310-4689",
+      "website": "https://iflymacon.com/flights/general-aviation/",
+      "email": null,
+      "street_address": "1000 Terminal Dr, Macon, GA 31216",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "864RP82X+JW",
+      "city": "Macon",
+      "state": "GA",
+      "airport_name": "Middle Georgia Regional Airport",
+      "icao": "KMCN",
+      "iata": "MCN",
+      "region": "US",
+      "services": "Full-service FBO; refueling",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"45f0579fb7f4a6c8\""
+}

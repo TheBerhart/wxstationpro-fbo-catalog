@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPNS",
+  "updated_at": "2026-10-01T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Pensacola Aviation Center",
+      "phone": "850-434-0636",
+      "website": "https://www.pensacolaaviation.com/html/webpages/line.html",
+      "email": null,
+      "street_address": "4145 Jerry L Maygarden Rd",
+      "hours": "Open 24 / 7",
+      "freq": "122.95",
+      "plus_code": "862JFR99+Q8",
+      "city": "Pensacola",
+      "state": "FL",
+      "airport_name": "Pensacola International Airport",
+      "icao": "KPNS",
+      "iata": "PNS",
+      "region": "US",
+      "services": "Fuel; ground support; catering; rental cars",
+      "enrichment_status": null,
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    }
+  ],
+  "etag": "\"05b0985e0a4f49b8\""
+}

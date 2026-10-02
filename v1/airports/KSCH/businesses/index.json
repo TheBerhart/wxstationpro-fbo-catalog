@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSCH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Richmor Aviation",
+      "phone": "(845) 336-5638",
+      "website": "https://www.schenectadycountyny.gov/airport",
+      "email": null,
+      "street_address": "19 Airport Rd.",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87J8V327+PC",
+      "city": "Schenectady",
+      "state": "NY",
+      "airport_name": "Schenectady County Airport",
+      "icao": "KSCH",
+      "iata": "SCH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f14deabc7552cd06\""
+}

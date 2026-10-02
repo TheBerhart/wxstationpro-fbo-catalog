@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KWYS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ascension",
+      "phone": "(406) 646-7359",
+      "website": "https://ascensionfbo.com/location/westyellowstone/",
+      "email": "wys@ascensionfbo.com",
+      "street_address": "607 Airport Road",
+      "hours": "Open from 8:00 AM to 5:00 PM; seasonal, typically May through October",
+      "freq": null,
+      "plus_code": "85PCMVQP+9H",
+      "city": "West Yellowstone",
+      "state": "MT",
+      "airport_name": "Yellowstone Airport",
+      "icao": "KWYS",
+      "iata": "WYS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1c09e51f993276e9\""
+}

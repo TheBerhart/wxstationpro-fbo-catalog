@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMIV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Big Sky Aviation",
+      "phone": "(856) 825-3160",
+      "website": "https://bigskyaviation.net/fbo-services/",
+      "email": "frontdesk@bigskyaviation.net",
+      "street_address": "2 Thunderbolt Drive",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87F69WGF+7Q",
+      "city": "Millville",
+      "state": "NJ",
+      "airport_name": "Millville Municipal Airport",
+      "icao": "KMIV",
+      "iata": "MIV",
+      "region": "US",
+      "services": "Jet-A; 100LL; FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"eecaaabecbaba5a7\""
+}

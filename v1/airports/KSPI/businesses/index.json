@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSPI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Stellar Aviation",
+      "phone": "(217) 523-5080",
+      "website": "https://stellaraviationgroup.com/locations/stellar-aviation-of-springfield/",
+      "email": "spifbo@StellarAviationGroup.com",
+      "street_address": "900 Capital Airport",
+      "hours": "Monday: 5:00 AM – 10:00 PM; Tuesday: 5:00 AM – 10:00 PM; Wednesday: 5:00 AM – 10:00 PM; Thursday: 5:00 AM – 10:00 PM; Friday: 5:00 AM – 10:00 PM; Saturday: 5:00 AM – 10:00 PM; Sunday: 5:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "86FGR8VM+4H",
+      "city": "Springfield",
+      "state": "IL",
+      "airport_name": "Abraham Lincoln Capital Airport",
+      "icao": "KSPI",
+      "iata": "SPI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"814a417675efbdd3\""
+}

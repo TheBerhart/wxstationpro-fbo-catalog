@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBLF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Mercer County Airport",
+      "phone": "(304) 327-5308",
+      "website": "https://www.mercercountyairport.com/",
+      "email": "kblfmgr@gmail.com",
+      "street_address": "300 Markell Drive, Suite 201, Bluefield, WV 24701",
+      "hours": "Daily 7:00 a.m.-7:00 p.m.",
+      "freq": null,
+      "plus_code": "869W7QRR+V6",
+      "city": "Bluefield",
+      "state": "WV",
+      "airport_name": "Mercer County Airport",
+      "icao": "KBLF",
+      "iata": "BLF",
+      "region": "US",
+      "services": "Aircraft fueling; line services",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"eb3d22dbb2b4f967\""
+}

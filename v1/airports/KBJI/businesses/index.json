@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBJI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Bemidji Aviation",
+      "phone": "(218) 751-1880",
+      "website": "https://bemidjiaviation.com/fuel/",
+      "email": "info@bemidjiaviation.com",
+      "street_address": "4125 Hangar Drive Northwest, Bemidji, MN 56601",
+      "hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+      "freq": null,
+      "plus_code": "86V7G348+H4",
+      "city": "Bemidji",
+      "state": "MN",
+      "airport_name": "Bemidji Regional Airport",
+      "icao": "KBJI",
+      "iata": "BJI",
+      "region": "US",
+      "services": "100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f7ade3051e1db36a\""
+}

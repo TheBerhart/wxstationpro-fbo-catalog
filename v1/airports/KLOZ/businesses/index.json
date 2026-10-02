@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLOZ",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "London - Corbin Airport",
+      "phone": "(606) 878-9100",
+      "website": "https://www.london-corbinairport.com/services.html",
+      "email": "londoncorbinairport@gmail.com",
+      "street_address": "566 Hal Rogers Dr, London, KY 40744",
+      "hours": "8:00 AM–4:00 PM; 24/7 self-serve fuel",
+      "freq": null,
+      "plus_code": "869Q3WQH+6W",
+      "city": "London",
+      "state": "KY",
+      "airport_name": "London-Corbin Airport/Magee Field",
+      "icao": "KLOZ",
+      "iata": "LOZ",
+      "region": "US",
+      "services": "Jet A and 100LL, full service and self service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"aa92a992975d0487\""
+}

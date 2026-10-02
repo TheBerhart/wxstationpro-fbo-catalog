@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSAW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kubick Aviation",
+      "phone": "(906) 346-6440",
+      "website": "https://kubickaviation.com/sawyer/",
+      "email": "Ksaw.info@kubickaviation.com",
+      "street_address": "401 Ave F",
+      "hours": "MON-FRI: 7AM - 8PM; SAT-SUN: 7AM - 6PM",
+      "freq": null,
+      "plus_code": "86RJ8JQ6+P8",
+      "city": "Gwinn",
+      "state": "MI",
+      "airport_name": "Marquette Sawyer Regional Airport",
+      "icao": "KSAW",
+      "iata": "MQT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d3ff04df00e54747\""
+}

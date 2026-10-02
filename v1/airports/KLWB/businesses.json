@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLWB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Greenbrier Valley Airport",
+      "phone": "(304) 645-3961",
+      "website": "https://mylwb.com/about/general-aviation",
+      "email": "services@gvairport.com",
+      "street_address": "584 Airport Road, Lewisburg, WV 24901",
+      "hours": "Terminal open 24 hours",
+      "freq": "122.95",
+      "plus_code": "869XVH4W+WC",
+      "city": "Lewisburg",
+      "state": "WV",
+      "airport_name": "Greenbrier Valley Airport",
+      "icao": "KLWB",
+      "iata": "LWB",
+      "region": "US",
+      "services": "Staffed FBO; Shell fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2ba48d5535ac5785\""
+}

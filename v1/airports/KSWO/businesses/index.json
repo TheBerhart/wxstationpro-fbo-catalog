@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSWO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Stillwater Flight Center",
+      "phone": "(405) 624-5463",
+      "website": "https://www.stillwaterflightcenter.com/",
+      "email": null,
+      "street_address": "2020 W Airport Rd # 3",
+      "hours": "Open daily 7am – 10pm",
+      "freq": null,
+      "plus_code": "86845W58+3F",
+      "city": "Stillwater",
+      "state": "OK",
+      "airport_name": "Stillwater Regional Airport",
+      "icao": "KSWO",
+      "iata": "SWO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"21199cc7c86c6e69\""
+}

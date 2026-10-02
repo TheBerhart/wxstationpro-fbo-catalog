@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSBA",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 2,
   "businesses": [
     {
@@ -32,7 +32,7 @@
       "name": "Signature Santa Barbara",
       "phone": "(805) 967-5608",
       "website": "https://www.signatureaviation.com/locations/SBA",
-      "email": "SBA@signatureflight.com",
+      "email": "SBA@signatureaviation.com",
       "street_address": "515 Marxmiller Place",
       "hours": "0600L - 2200L For service outside these hours, our team is available with advance coordination",
       "freq": "131.475",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"4273d8cdbdad9552\""
+  "etag": "\"fbe16002528ed0c3\""
 }

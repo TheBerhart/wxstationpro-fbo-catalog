@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOFK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Norfolk Airport Services",
+      "phone": "(402) 379-7810",
+      "website": "https://norfolkairportservices.com/fuel/",
+      "email": "adminofk@norfolkneairport.com",
+      "street_address": "4100 South 13 Street",
+      "hours": "Jet fuel Mon-Fri 7:00 AM-7:00 PM; Sat 7:00 AM-5:00 PM; Sun 10:00 AM-5:00 PM; 100LL self-serve 24/7",
+      "freq": null,
+      "plus_code": "86H4XHPC+HJ",
+      "city": "Norfolk",
+      "state": "NE",
+      "airport_name": "Karl Stefan Memorial Airport",
+      "icao": "KOFK",
+      "iata": "OFK",
+      "region": "US",
+      "services": "Jet fuel; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"cf47d8abc3469e86\""
+}

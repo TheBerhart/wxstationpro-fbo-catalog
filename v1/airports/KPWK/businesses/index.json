@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPWK",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 2,
   "businesses": [
     {
@@ -32,7 +32,7 @@
       "name": "Signature Chicago Executive",
       "phone": "(847) 537-1200",
       "website": "https://www.signatureaviation.com/locations/PWK",
-      "email": "PWK@signatureflight.com",
+      "email": "PWK@signatureaviation.com",
       "street_address": "1100 South Milwaukee Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.95",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"cf2b6ab20eae8ba1\""
+  "etag": "\"1b9f1b0c1d29dc46\""
 }

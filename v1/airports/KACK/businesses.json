@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KACK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Nantucket Memorial Airport",
+      "phone": "(508) 325-5307",
+      "website": "https://www.nantucket-ma.gov/628/FBO-Services",
+      "email": null,
+      "street_address": "14 Airport Road, Nantucket, MA 02554",
+      "hours": "May 15-Sep 30: 6:00 am-10:00 pm; Oct 1-May 14: 6:00 am-9:00 pm",
+      "freq": "122.95",
+      "plus_code": "87HF7W4P+J9",
+      "city": "Nantucket",
+      "state": "MA",
+      "airport_name": "Nantucket Memorial Airport",
+      "icao": "KACK",
+      "iata": "ACK",
+      "region": "US",
+      "services": "100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8d77e916b9d2b9df\""
+}

@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KSAV",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
-  "count": 1,
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Sheltair Savannah",
+      "phone": "912-965-0095",
+      "website": "https://www.sheltairaviation.com/locations/sav/",
+      "email": "info-sav@sheltairaviation.com",
+      "street_address": "100 Eddie Jungemann Dr., Savannah, GA 31408",
+      "hours": "0600-2200",
+      "freq": "130.1",
+      "plus_code": "864W4QGV+97",
+      "city": "Savannah",
+      "state": "GA",
+      "airport_name": "Savannah/Hilton Head International Airport",
+      "icao": "KSAV",
+      "iata": "SAV",
+      "region": "US",
+      "services": "Fuel; ground support; concierge; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    },
     {
       "name": "Signature Savannah",
       "phone": "(912) 964-1557",
@@ -29,5 +51,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"45a94ad2ed7c0078\""
+  "etag": "\"b15cba5623928e73\""
 }

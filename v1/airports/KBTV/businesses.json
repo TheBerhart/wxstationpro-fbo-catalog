@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBTV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Heritage Aviation",
+      "phone": "(802) 863-3626",
+      "website": "https://flyheritage.com/fbo/",
+      "email": "csr@flyheritage.com",
+      "street_address": "228 Aviation Avenue, South Burlington, VT 05403",
+      "hours": "Daily 5:00am-10:00pm",
+      "freq": "129.92",
+      "plus_code": "87P8FV73+J4",
+      "city": "Burlington",
+      "state": "VT",
+      "airport_name": "Patrick Leahy Burlington International Airport",
+      "icao": "KBTV",
+      "iata": "BTV",
+      "region": "US",
+      "services": "Jet A; avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"85eae98001a617cc\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBXM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "FlightLevel Aviation",
+      "phone": "207-406-2081",
+      "website": "https://www.flightlevelaviation.com/brunswick-me/",
+      "email": null,
+      "street_address": "15 Terminal Road, Suite 100, Brunswick, ME 04011",
+      "hours": "Daily 0800-1700",
+      "freq": null,
+      "plus_code": "87MGV3X8+88",
+      "city": "Brunswick",
+      "state": "ME",
+      "airport_name": "Brunswick Executive Airport",
+      "icao": "KBXM",
+      "iata": "NHZ",
+      "region": "US",
+      "services": "Jet A; avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"804897f7daa93579\""
+}

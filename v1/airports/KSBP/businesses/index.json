@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSBP",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "ACI Jet",
+      "phone": "(805) 548-1330",
+      "website": "https://fbo.acijet.com/san-luis-obispo/",
+      "email": "sbp@acijet.com",
+      "street_address": "4751 Aviadores Way",
+      "hours": "6:00am - 9:00pm, On Call 24/7",
+      "freq": "131.175",
+      "plus_code": "847X69P7+JV",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "airport_name": "San Luis County Regional Airport",
+      "icao": "KSBP",
+      "iata": "SBP",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8752694587c83240\""
+}

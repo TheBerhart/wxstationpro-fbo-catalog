@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMMH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Hot Creek Aviation",
+      "phone": "(760) 924-9127",
+      "website": "https://hotcreekaviation.com/services/",
+      "email": "CustomerServiceHCA@yahoo.com",
+      "street_address": "1334 Airport Road",
+      "hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+      "freq": "122.8",
+      "plus_code": "8593J5H3+34",
+      "city": "Mammoth Lakes",
+      "state": "CA",
+      "airport_name": "Mammoth Yosemite Airport",
+      "icao": "KMMH",
+      "iata": "MMH",
+      "region": "US",
+      "services": "Jet-A; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c13773a499865120\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHOT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Hot Springs Memorial Field",
+      "phone": "(501) 321-6750",
+      "website": "https://www.hotspringsar.gov/125/Airport",
+      "email": null,
+      "street_address": "525 Airport Road, Hot Springs, AR 71913",
+      "hours": "FBO daily 5:00 AM-10:00 PM",
+      "freq": null,
+      "plus_code": "8668FWM3+3P",
+      "city": "Hot Springs",
+      "state": "AR",
+      "airport_name": "Memorial Field Airport",
+      "icao": "KHOT",
+      "iata": "HOT",
+      "region": "US",
+      "services": "Airport-operated FBO; fueling; tie-downs",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c4a027d219e783ab\""
+}

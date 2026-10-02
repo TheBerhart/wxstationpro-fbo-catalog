@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGRI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Trego/Dugan Aviation",
+      "phone": "(308) 382-5788",
+      "website": "https://flygrandisland.com/fbo-aircraft-services/",
+      "email": null,
+      "street_address": "3853 Sky Park Road, Grand Island, NE 68801",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86G3XMCJ+XG",
+      "city": "Grand Island",
+      "state": "NE",
+      "airport_name": "Central Nebraska Regional Airport",
+      "icao": "KGRI",
+      "iata": "GRI",
+      "region": "US",
+      "services": "Jet A and 100LL; GPU; deice; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"92d403d3fa461934\""
+}

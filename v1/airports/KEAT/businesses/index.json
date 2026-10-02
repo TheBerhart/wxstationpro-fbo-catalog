@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEAT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Pangborn Aviation Services",
+      "phone": "509-884-4700",
+      "website": "https://www.flywenatchee.com/fbo-services",
+      "email": "info@cdrpa.org",
+      "street_address": "3764 Airport Way, East Wenatchee, WA 98802",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "84VXCQ2V+V5",
+      "city": "Wenatchee",
+      "state": "WA",
+      "airport_name": "Pangborn Memorial Airport",
+      "icao": "KEAT",
+      "iata": "EAT",
+      "region": "US",
+      "services": "Avgas; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"285d129159d3cf7a\""
+}

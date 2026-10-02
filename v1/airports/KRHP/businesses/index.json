@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRHP",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Western Carolina Regional Airport",
+      "phone": "(828) 321-5114",
+      "website": "http://cherokeecounty-nc.gov/149/Airport",
+      "email": null,
+      "street_address": "5840 Airport Road",
+      "hours": "Monday - Sunday 8:00 a.m. - 5 p.m.; after hours self-serve fueling",
+      "freq": null,
+      "plus_code": "867R54WP+FX",
+      "city": "Andrews",
+      "state": "NC",
+      "airport_name": "Western Carolina Regional Airport",
+      "icao": "KRHP",
+      "iata": null,
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6f8314adcabadb3d\""
+}

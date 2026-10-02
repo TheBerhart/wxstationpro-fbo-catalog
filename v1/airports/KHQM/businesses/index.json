@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHQM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Port of Grays Harbor",
+      "phone": "(360) 589-1895",
+      "website": "https://www.portofgraysharbor.com/bowerman-airport",
+      "email": "bowerman@portgrays.org",
+      "street_address": null,
+      "hours": "Jet A cardlock 24 hours; full-service 8 AM-7 PM daily",
+      "freq": null,
+      "plus_code": null,
+      "city": "Hoquiam",
+      "state": "WA",
+      "airport_name": "Bowerman Airport",
+      "icao": "KHQM",
+      "iata": "HQM",
+      "region": "US",
+      "services": "Jet A self-serve 24 hours; full-service Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c99d4511f0ce9ead\""
+}

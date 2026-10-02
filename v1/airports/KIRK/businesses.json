@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIRK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kirksville Regional Airport",
+      "phone": "660-665-5020",
+      "website": "https://www.kirksvillecity.com/p/general-aviation",
+      "email": null,
+      "street_address": "27161 David Hall Trail, Kirksville, MO 63501",
+      "hours": "24/7 fuel with prearranged after-hours service",
+      "freq": null,
+      "plus_code": "86G93FV4+7M",
+      "city": "Kirksville",
+      "state": "MO",
+      "airport_name": "Kirksville Regional Airport",
+      "icao": "KIRK",
+      "iata": "IRK",
+      "region": "US",
+      "services": "Jet A fuel; 24/7 fuel service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"37a6f2f336380092\""
+}

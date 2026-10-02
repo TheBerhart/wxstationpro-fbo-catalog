@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPCW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Erie-Ottawa International Airport",
+      "phone": "(419) 734-6297",
+      "website": "https://www.portclintonairport.com/fuel",
+      "email": "info@portclintonairport.com",
+      "street_address": "3255 E. State Rd",
+      "hours": "Full service 7:00 AM-6:00 PM daily; self-serve 24/7",
+      "freq": "122.8",
+      "plus_code": "86HVG46H+8W",
+      "city": "Port Clinton",
+      "state": "OH",
+      "airport_name": "Erie-Ottawa International Airport",
+      "icao": "KPCW",
+      "iata": null,
+      "region": "US",
+      "services": "100LL and Jet A+ self-serve; full service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f0fd299adc479c9f\""
+}

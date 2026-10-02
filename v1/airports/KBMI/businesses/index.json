@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBMI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Synergy Flight Center",
+      "phone": "(309) 828-4448",
+      "website": "https://synergyflightcenter.com/flying-into-bmi",
+      "email": "info@synergyfbo.com",
+      "street_address": "2823 E Empire Street, Bloomington, IL 61704",
+      "hours": "Mon-Fri 7am-8pm; Sat-Sun 8am-5pm",
+      "freq": "129.100",
+      "plus_code": "86GHF3P9+9V",
+      "city": "Bloomington/Normal",
+      "state": "IL",
+      "airport_name": "Central Illinois Regional Airport at Bloomington-Normal",
+      "icao": "KBMI",
+      "iata": "BMI",
+      "region": "US",
+      "services": "100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"25ab8d8609888df5\""
+}

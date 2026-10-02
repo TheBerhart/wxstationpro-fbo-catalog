@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPAO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Rossi Aircraft Inc",
+      "phone": "(650) 493-1673",
+      "website": "https://rossiaircraft.com/",
+      "email": null,
+      "street_address": "1903 Embarcadero Rd",
+      "hours": null,
+      "freq": null,
+      "plus_code": "849VFV3P+RH",
+      "city": "Palo Alto",
+      "state": "CA",
+      "airport_name": "Palo Alto Airport",
+      "icao": "KPAO",
+      "iata": "PAO",
+      "region": "US",
+      "services": "Aviation fuel; full-service fueling",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4db1c448b3db548a\""
+}

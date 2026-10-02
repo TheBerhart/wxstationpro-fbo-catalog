@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLVM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Yellowstone Air Service",
+      "phone": "406-222-6504",
+      "website": "https://www.yellowstoneairservice.com/fbo",
+      "email": "office@yellowstoneair.net",
+      "street_address": "84 Airport Road, Livingston, MT 59047",
+      "hours": "Monday–Friday 8:00 AM–5:00 PM; 100LL self-serve 24 hours",
+      "freq": null,
+      "plus_code": "85QFMGWW+RC",
+      "city": "Livingston",
+      "state": "MT",
+      "airport_name": "Mission Field",
+      "icao": "KLVM",
+      "iata": "LVM",
+      "region": "US",
+      "services": "Phillips 66; 24-hour self-serve 100LL; full-service Jet-A and 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c4e7236123d3d3f7\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEKN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Elkins-Randolph County Regional Airport",
+      "phone": "(304) 636-2726",
+      "website": "https://elkinsairport.com/pilots/",
+      "email": null,
+      "street_address": "400 Airport Road, Elkins, WV 26241",
+      "hours": "Attended 8:30 AM-5:00 PM daily excluding some holidays; self-serve 100LL and Jet A 24 hours",
+      "freq": null,
+      "plus_code": null,
+      "city": "Elkins",
+      "state": "WV",
+      "airport_name": "Elkins-Randolph County Regional Airport",
+      "icao": "KEKN",
+      "iata": "EKN",
+      "region": "US",
+      "services": "Self-serve 100LL and Jet A 24/7; Jet A with additive during attended hours",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"fb7b25c29b8b884c\""
+}

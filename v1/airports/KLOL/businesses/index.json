@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLOL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Derby Field",
+      "phone": "(775) 857-7197",
+      "website": "https://www.pershingcountynv.gov/residents/derby_field_airport/index.php",
+      "email": null,
+      "street_address": "1 Derby Field Rd, Lovelock, NV 89419",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85G33CCJ+57",
+      "city": "Lovelock",
+      "state": "NV",
+      "airport_name": "Derby Field",
+      "icao": "KLOL",
+      "iata": "LOL",
+      "region": "US",
+      "services": "Self-serve Air BP 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4b09b47230596401\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSKX",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Taos Aviation",
+      "phone": "575-737-9790",
+      "website": "https://www.taosaviation.com/",
+      "email": "CustomerService@TAOSAviation.com",
+      "street_address": "24662 US Highway 64",
+      "hours": "7:30am-6pm, 7 days a week; after hours on request",
+      "freq": null,
+      "plus_code": "858PF85G+7R",
+      "city": "Taos",
+      "state": "NM",
+      "airport_name": "Taos Regional Airport",
+      "icao": "KSKX",
+      "iata": "TSM",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"037dbde178ac6709\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRDG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Reading Aviation",
+      "phone": "610-374-0100",
+      "website": "https://readingaviation.com/",
+      "email": "csr@readingairport.org",
+      "street_address": "20 Liberator Way",
+      "hours": "6:00 AM–11:00 PM, after hours on request, closed major holidays",
+      "freq": "122.95",
+      "plus_code": null,
+      "city": "Reading",
+      "state": "PA",
+      "airport_name": "Reading Regional Airport (Carl A Spaatz Field)",
+      "icao": "KRDG",
+      "iata": "RDG",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1929050a0d72b5c7\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCVO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Corvallis Aero Services",
+      "phone": "541-753-4466",
+      "website": "https://www.corvallisoregon.gov/airport/page/fbos-and-sasos",
+      "email": null,
+      "street_address": "5695 SW Airport Ave, Corvallis, OR 97333",
+      "hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "84PRGP38+84",
+      "city": "Corvallis",
+      "state": "OR",
+      "airport_name": "Corvallis Municipal Airport",
+      "icao": "KCVO",
+      "iata": "CVO",
+      "region": "US",
+      "services": "Avgas; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2d49b8dc08667dad\""
+}

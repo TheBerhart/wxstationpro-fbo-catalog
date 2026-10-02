@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFTW",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://modern-aviation.com/?location=fort-worth-fbo",
       "email": "FTW@modern-aviation.com",
       "street_address": "251 American Concourse",
-      "hours": null,
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": null,
       "plus_code": "8644RJCW+F5J",
       "city": "Fort Worth",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"46bcb07d0b60f70e\""
+  "etag": "\"8d2ccfb62e642dad\""
 }

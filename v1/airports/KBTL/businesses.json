@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBTL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Duncan Aviation",
+      "phone": "+1 269-969-8400",
+      "website": "https://www.duncanaviation.aero/services/fbo/btl",
+      "email": null,
+      "street_address": "15745 South Airport Road, Battle Creek, MI 49015",
+      "hours": null,
+      "freq": "122.95",
+      "plus_code": "86JP8P2V+7W",
+      "city": "Battle Creek",
+      "state": "MI",
+      "airport_name": "Battle Creek Executive Airport at Kellogg Field",
+      "icao": "KBTL",
+      "iata": "BTL",
+      "region": "US",
+      "services": "Fuel; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"dac1b833fe842631\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFWA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Fort Wayne Aero Center",
+      "phone": "(260) 446-3456",
+      "website": "https://fwaerocenter.com/",
+      "email": "csr@fwaerocenter.com",
+      "street_address": "4401 Altitude Dr, Fort Wayne, IN 46809",
+      "hours": "Daily 5:00 AM-11:00 PM",
+      "freq": null,
+      "plus_code": "86GPXRJ4+F6",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "airport_name": "Fort Wayne International Airport",
+      "icao": "KFWA",
+      "iata": "FWA",
+      "region": "US",
+      "services": "100LL and Jet A; oxygen; tie-down; de-ice; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e1dcdc98d34a7a4f\""
+}

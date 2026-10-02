@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDBQ",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Dubuque Jet Center",
+      "phone": "563-589-4136",
+      "website": "https://www.flydbq.com/3283/Fueling",
+      "email": null,
+      "street_address": "11000 Airport Rd, Dubuque, IA 52003",
+      "hours": "Self-serve 100LL 24 hours",
+      "freq": null,
+      "plus_code": "86JFC73X+85",
+      "city": "Dubuque",
+      "state": "IA",
+      "airport_name": "Dubuque Regional Airport",
+      "icao": "KDBQ",
+      "iata": "DBQ",
+      "region": "US",
+      "services": "Full-service Jet A; full and self-serve 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f165de2a71c28028\""
+}

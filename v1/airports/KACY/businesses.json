@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KACY",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Atlantic City",
       "phone": "(609) 383-3993",
       "website": "https://www.signatureaviation.com/locations/ACY",
-      "email": "ACY@signatureflight.com",
+      "email": "ACY@signatureaviation.com",
       "street_address": "Atlantic City International Airport",
       "hours": "24 hours a day/7 days a week",
       "freq": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"b75f763445be3baa\""
+  "etag": "\"c4cd0d2db608b757\""
 }

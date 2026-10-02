@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KYKM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "McCormick Air Center",
+      "phone": "(509) 248-1680",
+      "website": "https://mccormickaircenter.com/",
+      "email": null,
+      "street_address": "3210 W. Washington Ave.",
+      "hours": "Monday-Friday 6:00AM-7:00PM; Saturday and Sunday 6:00AM-6:00PM",
+      "freq": null,
+      "plus_code": "84RXHCFW+7R",
+      "city": "Yakima",
+      "state": "WA",
+      "airport_name": "Yakima Air Terminal McAllister Field",
+      "icao": "KYKM",
+      "iata": "YKM",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"3af243b81495a1e5\""
+}

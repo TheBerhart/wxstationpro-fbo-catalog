@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBKW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Raleigh County Memorial Airport",
+      "phone": "(304) 255-0476",
+      "website": "https://flybeckley.com/aviation-services/",
+      "email": null,
+      "street_address": "176 Airport Circle, Rm 115, Beaver, WV 25813",
+      "hours": null,
+      "freq": "123.0",
+      "plus_code": "869WRV2F+C7",
+      "city": "Beaver",
+      "state": "WV",
+      "airport_name": "Raleigh County Memorial Airport",
+      "icao": "KBKW",
+      "iata": "BKW",
+      "region": "US",
+      "services": "Jet fuel; avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"979c4ce96fabd677\""
+}

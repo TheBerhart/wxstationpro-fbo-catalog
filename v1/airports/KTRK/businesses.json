@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTRK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Truckee Tahoe Airport",
+      "phone": "(530) 587-4119",
+      "website": "https://truckeetahoeairport.com/aviation/services",
+      "email": "info@truckeetahoeairport.com",
+      "street_address": "10356 Truckee Airport Road",
+      "hours": "Full service 100LL and Jet-A 7am to 7pm; self-serve 100LL 7am to 8pm",
+      "freq": "122.95",
+      "plus_code": "84FX8V93+PW",
+      "city": "Truckee",
+      "state": "CA",
+      "airport_name": "Truckee Tahoe Airport",
+      "icao": "KTRK",
+      "iata": "TKF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7525ce2ee41240ba\""
+}

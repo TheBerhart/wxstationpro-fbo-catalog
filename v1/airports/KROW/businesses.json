@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KROW",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -11,10 +11,10 @@
       "phone": "+1 575-347-2054",
       "website": "https://www.avflight.com/network/roswell-nm-krow/",
       "email": "row@avflight.com",
-      "street_address": "100 Southwest Way",
+      "street_address": "Roswell Air Center, 1 Jerry Smith Cir, Roswell, NM 88203",
       "hours": "M-F 0600-2100, S-S 0600-1900",
       "freq": "122.95",
-      "plus_code": "855Q8F4F+C3R",
+      "plus_code": "855Q8F2F+XM",
       "city": "Roswell",
       "state": "NM",
       "airport_name": null,
@@ -23,11 +23,11 @@
       "region": "US",
       "services": null,
       "enrichment_status": "enriched",
-      "validation_status": "verified",
-      "confidence": "high",
+      "validation_status": "needs_review",
+      "confidence": "low",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"1599f42834a2d29e\""
+  "etag": "\"3de6dffe9a39ab44\""
 }

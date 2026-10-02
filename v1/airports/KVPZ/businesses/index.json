@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KVPZ",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Porter County Regional Airport",
+      "phone": "800-462-6508",
+      "website": "https://vpz.org/",
+      "email": "vpz@vpz.org",
+      "street_address": "4207 Murvihill Road",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86HJFX2Q+2F",
+      "city": "Valparaiso",
+      "state": "IN",
+      "airport_name": "Porter County Municipal Airport",
+      "icao": "KVPZ",
+      "iata": "VPZ",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"35dfe338dc2c0d26\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBAK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Jet Access",
+      "phone": "+1 (812) 372-1819",
+      "website": "https://www.flyjetaccess.com/fbo-locations/columbus-municipal-airport-bak/",
+      "email": "BAKinfo@flyjetaccess.com",
+      "street_address": "4770 Ray Boll Blvd, Columbus, IN 47203",
+      "hours": "Mon-Fri 6:00 AM-7:00 PM; Sat-Sun 8:00 AM-6:00 PM",
+      "freq": "122.95",
+      "plus_code": "86FP7443+6C",
+      "city": "Columbus",
+      "state": "IN",
+      "airport_name": "Columbus Municipal Airport",
+      "icao": "KBAK",
+      "iata": "CLU",
+      "region": "US",
+      "services": "Staffed FBO; 100LL; Jet-premix",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6c9456438547b728\""
+}

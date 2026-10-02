@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KELD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "South Arkansas Regional Airport",
+      "phone": "870-881-4192",
+      "website": "https://flyeld.com/services/airport-services/",
+      "email": null,
+      "street_address": "418 Airport Drive, El Dorado, AR",
+      "hours": "Monday-Friday 7am-8pm; Saturday 9am-6pm; Sunday 9am-8pm",
+      "freq": null,
+      "plus_code": "8659658Q+QQ",
+      "city": "El Dorado",
+      "state": "AR",
+      "airport_name": "South Arkansas Regional Airport at Goodwin Field",
+      "icao": "KELD",
+      "iata": "ELD",
+      "region": "US",
+      "services": "Full-service 100LL and Jet A; hangar; tie-downs; deice",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ac8a61a7c80eca43\""
+}

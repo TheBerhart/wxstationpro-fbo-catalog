@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KBTR",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Baton Rouge",
       "phone": "(225) 356-1401",
       "website": "https://www.signatureaviation.com/locations/BTR",
-      "email": "BTR@signatureflight.com",
+      "email": "BTR@signatureaviation.com",
       "street_address": "4303 Chuck Yeager Boulevard",
       "hours": "0600L - 2100L Call out available on request",
       "freq": "129.3",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"3e91488cacbe952d\""
+  "etag": "\"c6d9cac46d8bcacc\""
 }

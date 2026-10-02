@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KVEL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Dinaland Aviation",
+      "phone": "435-261-9000",
+      "website": "https://dinalandaviation.com/",
+      "email": null,
+      "street_address": "830 E 500 S",
+      "hours": "Fueling hours 8am-5pm Monday-Friday; 9am-5pm Saturday-Sunday; after-hours call-out available 24-7",
+      "freq": "122.7",
+      "plus_code": "85GGCFXP+56",
+      "city": "Vernal",
+      "state": "UT",
+      "airport_name": "Vernal Regional Airport",
+      "icao": "KVEL",
+      "iata": "VEL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5e3ef2b839379795\""
+}

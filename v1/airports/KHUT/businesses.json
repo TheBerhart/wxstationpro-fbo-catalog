@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHUT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Wells Aircraft",
+      "phone": "(620) 663-1546",
+      "website": "https://wellsac.com/pages/line-service",
+      "email": null,
+      "street_address": "800 Airport Road, Hutchinson, KS 67501",
+      "hours": "Monday-Friday 8:00 AM-6:00 PM; Saturday-Sunday 8:00 AM-5:00 PM",
+      "freq": null,
+      "plus_code": "86C4346M+PH",
+      "city": "Hutchinson",
+      "state": "KS",
+      "airport_name": "Hutchinson Municipal Airport",
+      "icao": "KHUT",
+      "iata": "HUT",
+      "region": "US",
+      "services": "Jet A and 100LL full and self serve; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"25cbbb5a69e1272a\""
+}

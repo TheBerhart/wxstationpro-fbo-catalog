@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCEF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Westover Metropolitan Airport",
+      "phone": "413-593-5543",
+      "website": "https://westoverairport.com/",
+      "email": "operations@westoverairport.com",
+      "street_address": "255 Padgette Street, Chicopee, MA 01022",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87J95CHR+5V",
+      "city": "Chicopee",
+      "state": "MA",
+      "airport_name": "Westover Metropolitan Airport / Westover Air Reserve Base",
+      "icao": "KCEF",
+      "iata": "CEF",
+      "region": "US",
+      "services": "Fuel sales",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"28e1aefce9776b9d\""
+}

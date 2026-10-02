@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLAA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Southeast Colorado Regional Airport",
+      "phone": "719-336-7701",
+      "website": "https://ci.lamar.co.us/southeast-colorado-regional-airport",
+      "email": null,
+      "street_address": "3562 County Rd GG #2, Lamar, CO 81052",
+      "hours": "Office Monday–Friday 7:00 AM–4:00 PM",
+      "freq": null,
+      "plus_code": "85CV389Q+74",
+      "city": "Lamar",
+      "state": "CO",
+      "airport_name": "Southeast Colorado Regional Airport",
+      "icao": "KLAA",
+      "iata": "LAA",
+      "region": "US",
+      "services": "Sells fuel from a city-owned fuel farm",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"9db9b4ab9615c70b\""
+}

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KBKL",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Cleveland",
       "phone": "(216) 861-2030",
       "website": "https://www.signatureaviation.com/locations/BKL",
-      "email": "BKL@signatureflight.com",
+      "email": "BKL@signatureaviation.com",
       "street_address": "1571 N Marginal Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.7",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"39696761fb724a5d\""
+  "etag": "\"d2bad904cfafd28b\""
 }

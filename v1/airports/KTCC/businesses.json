@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTCC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Tucumcari Municipal Airport",
+      "phone": "(575) 461-3229",
+      "website": "https://www.cityoftucumcari.com/departments/airport.php",
+      "email": null,
+      "street_address": "6352 Quay Road AI",
+      "hours": "Monday-Thursday 7:00am-5:00pm",
+      "freq": "122.95",
+      "plus_code": "857R59MR+3F",
+      "city": "Tucumcari",
+      "state": "NM",
+      "airport_name": "Tucumcari Municipal Airport",
+      "icao": "KTCC",
+      "iata": "TCC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ce8ecaf730c9b9cc\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJXN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Skyway Aviation",
+      "phone": "517-787-2460",
+      "website": "https://www.jacksoncountyairport-mi.com/directory",
+      "email": null,
+      "street_address": "3608 Wildwood Ave, Jackson, MI 49202",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86JQ7G4Q+GP",
+      "city": "Jackson",
+      "state": "MI",
+      "airport_name": "Jackson County Airport/Reynolds Field",
+      "icao": "KJXN",
+      "iata": "JXN",
+      "region": "US",
+      "services": "Full-service FBO; Texaco 100LL and Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"891bb20b09391445\""
+}

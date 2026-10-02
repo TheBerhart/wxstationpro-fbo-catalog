@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDHN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Aero-One Aviation",
+      "phone": "334-983-4541",
+      "website": "https://aero-oneaviation.com/",
+      "email": "csr@aero-oneaviation.com",
+      "street_address": "927 Flightline Dr, Dothan, AL",
+      "hours": "Monday: 6:00 AM – 8:00 PM; Tuesday: 6:00 AM – 8:00 PM; Wednesday: 6:00 AM – 8:00 PM; Thursday: 6:00 AM – 8:00 PM; Friday: 6:00 AM – 8:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "863P8G8X+RV",
+      "city": "Dothan",
+      "state": "AL",
+      "airport_name": "Dothan Regional Airport",
+      "icao": "KDHN",
+      "iata": "DHN",
+      "region": "US",
+      "services": "Full-service 100LL; full-service Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7b2bb5dffc80cd14\""
+}

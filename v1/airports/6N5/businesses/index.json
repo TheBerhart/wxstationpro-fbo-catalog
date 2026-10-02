@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "6N5",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://www.atlanticaviation.com/locations/6n5/",
       "email": "6n5frontdesk@atlanticaviation.com",
       "street_address": "499 E. 34th St.",
-      "hours": null,
+      "hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: Closed; Sunday: Closed",
       "freq": null,
       "plus_code": "87G8J3V4+Q3G",
       "city": "New York",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"114af06f7a0c64ca\""
+  "etag": "\"f40f899d5fe784b6\""
 }

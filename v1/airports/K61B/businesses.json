@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "K61B",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Boulder City Aviation Services",
+      "phone": "702-638-3205",
+      "website": "https://www.flybcas.com/",
+      "email": null,
+      "street_address": "1201 Airport Rd, Boulder City, NV 89005",
+      "hours": "Open daily 8:00AM to 5:00PM",
+      "freq": null,
+      "plus_code": "8577W4XW+9F",
+      "city": "Boulder City",
+      "state": "NV",
+      "airport_name": "Boulder City Municipal Airport",
+      "icao": "K61B",
+      "iata": "BLD",
+      "region": "US",
+      "services": "100LL; Jet A; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a5eff0a1fd3f0550\""
+}

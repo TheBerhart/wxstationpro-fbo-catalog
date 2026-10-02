@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSUX",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ascension FBO",
+      "phone": "(712) 258-6563",
+      "website": "https://ascensionfbo.com/location/sioux-city/",
+      "email": "sux@ascensionfbo.com",
+      "street_address": "5701 Al Haynes Dr.",
+      "hours": "Monday-Friday 6 AM - 10 PM; Saturday and Sunday 6 AM - 9 PM",
+      "freq": null,
+      "plus_code": "86J5CJ5G+46",
+      "city": "Sioux City",
+      "state": "IA",
+      "airport_name": "Sioux Gateway Airport / Brigadier General Bud Day Field",
+      "icao": "KSUX",
+      "iata": "SUX",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5a891fd31e5eb848\""
+}

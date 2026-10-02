@@ -1,16 +1,38 @@
 {
   "schema_version": 1,
   "airport_ident": "KPIE",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
-  "count": 1,
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Sheltair Clearwater",
+      "phone": "727-530-3453",
+      "website": "https://www.sheltairaviation.com/locations/pie/",
+      "email": "info-pie@sheltairaviation.com",
+      "street_address": "15875 Fairchild Dr., Clearwater, FL 33762",
+      "hours": "0600-2200",
+      "freq": "131.975",
+      "plus_code": "76VVW885+F4",
+      "city": "Clearwater",
+      "state": "FL",
+      "airport_name": "St. Petersburg-Clearwater International Airport",
+      "icao": "KPIE",
+      "iata": "PIE",
+      "region": "US",
+      "services": "Fuel; ground support; concierge; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    },
     {
       "name": "Signature St. Pete-Clearwater",
       "phone": "(727) 531-1441",
       "website": "https://www.signatureaviation.com/locations/PIE",
-      "email": "PIE@signatureflight.com",
+      "email": "PIE@signatureaviation.com",
       "street_address": "14525 Airport Parkway",
       "hours": "0600L - 2200L Call out available on request",
       "freq": "130.375",
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"ca81bfeb0d6f60b9\""
+  "etag": "\"3975323f7955643a\""
 }

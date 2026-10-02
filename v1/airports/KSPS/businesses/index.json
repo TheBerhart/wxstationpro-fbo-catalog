@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSPS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Wichita falls Regional FBO",
+      "phone": "(940) 855-5460",
+      "website": "https://flywichitafalls.net/fbo-operations/",
+      "email": null,
+      "street_address": "4000 Armstrong Dr",
+      "hours": "Monday: 6:00 AM – 9:00 PM; Tuesday: 6:00 AM – 9:00 PM; Wednesday: 6:00 AM – 9:00 PM; Thursday: 6:00 AM – 9:00 PM; Friday: 6:00 AM – 9:00 PM; Saturday: 6:00 AM – 9:00 PM; Sunday: 6:00 AM – 9:00 PM",
+      "freq": null,
+      "plus_code": "8653XGQ6+44",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "airport_name": "Wichita Falls Municipal Airport / Sheppard Air Force Base",
+      "icao": "KSPS",
+      "iata": "SPS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"81bd176df1780e1f\""
+}

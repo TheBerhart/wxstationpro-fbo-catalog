@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KFTY",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Atlanta Fulton County",
       "phone": "(404) 443-0231",
       "website": "https://www.signatureaviation.com/locations/FTY",
-      "email": "FTY@signatureflight.com",
+      "email": "FTY@signatureaviation.com",
       "street_address": "3956 Aviation Circle",
       "hours": "0600L - 2200L Call out available on request",
       "freq": "130.575",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"2857ca1c96d5e753\""
+  "etag": "\"e6d7ea2e0b77b036\""
 }

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KSUA",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
-  "count": 2,
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 3,
   "businesses": [
     {
       "name": "APP Jet Center Stuart",
@@ -12,7 +12,7 @@
       "website": "https://appjetcenter.com/locations/stuart-florida/",
       "email": "dlawrence@appjetcenter.com",
       "street_address": "2240 SE Witham Field Dr",
-      "hours": null,
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": "130.85",
       "plus_code": "76VX5QGG+W35",
       "city": "Stuart",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     },
     {
       "name": "Atlantic Aviation Stuart",
@@ -49,7 +49,29 @@
       "confidence": "high",
       "source": "operator_website",
       "source_updated_at": "2026-09-10"
+    },
+    {
+      "name": "PremierFBO Stuart",
+      "phone": "772-223-1219",
+      "website": "https://premierprivatejets.com/",
+      "email": null,
+      "street_address": "2580 SE Aviation Way, Stuart, FL 34996",
+      "hours": null,
+      "freq": null,
+      "plus_code": "76VX5QGJ+2R",
+      "city": "Stuart",
+      "state": "FL",
+      "airport_name": "Witham Field",
+      "icao": "KSUA",
+      "iata": "SUA",
+      "region": "US",
+      "services": "FBO",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"1f6d400538e1eb04\""
+  "etag": "\"be49cf9fe25c3906\""
 }

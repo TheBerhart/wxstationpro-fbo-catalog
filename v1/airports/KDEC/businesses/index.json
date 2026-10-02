@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDEC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Gaitros Aviation",
+      "phone": "(217) 423-9903",
+      "website": "https://gaitrosaviation.com/",
+      "email": "info@gaitrosaviation.com",
+      "street_address": "790 South Airport Rd, Decatur, IL 62521",
+      "hours": "Mon-Fri 0500-2100; Sat 0500-1900; Sun 0700-1900",
+      "freq": "122.95",
+      "plus_code": "86FHR4PF+43",
+      "city": "Decatur",
+      "state": "IL",
+      "airport_name": "Decatur Airport",
+      "icao": "KDEC",
+      "iata": "DEC",
+      "region": "US",
+      "services": "100LL; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"73c13de8682f7698\""
+}

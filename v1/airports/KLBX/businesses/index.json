@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLBX",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Texas Gulf Coast Regional Airport",
+      "phone": "(979) 849-5755",
+      "website": "https://www.flylbx.org/page/FuelPrices",
+      "email": null,
+      "street_address": "8000 Airport Way, Angleton, TX 77515",
+      "hours": "Monday: 6:30 AM – 6:30 PM; Tuesday: 6:30 AM – 6:30 PM; Wednesday: 6:30 AM – 6:30 PM; Thursday: 6:30 AM – 6:30 PM; Friday: 6:30 AM – 6:30 PM; Saturday: 8:00 AM – 6:30 PM; Sunday: 8:00 AM – 6:30 PM",
+      "freq": null,
+      "plus_code": "76X64G6R+99",
+      "city": "Angleton",
+      "state": "TX",
+      "airport_name": "Texas Gulf Coast Regional Airport",
+      "icao": "KLBX",
+      "iata": "LJN",
+      "region": "US",
+      "services": "Avgas and Jet A truck retail; self-serve avgas out of service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8ce89851a57be5ac\""
+}

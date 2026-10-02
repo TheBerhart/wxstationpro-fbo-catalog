@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJQF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Concord-Padgett Regional Airport",
+      "phone": "(704) 920-5901",
+      "website": "https://concordairportnc.com/General-Aviation-FBO/FBO-Information/Aviation-Fuel",
+      "email": null,
+      "street_address": "9000 Aviation Blvd., Concord, NC 28027",
+      "hours": null,
+      "freq": null,
+      "plus_code": "867X97PQ+72",
+      "city": "Concord",
+      "state": "NC",
+      "airport_name": "Concord-Padgett Regional Airport",
+      "icao": "KJQF",
+      "iata": "USA",
+      "region": "US",
+      "services": "Phillips 66 avgas and Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5d664e12bd74bed0\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLAR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cowboy Aviation",
+      "phone": "(307) 742-4164",
+      "website": "https://www.flylaramie.com/cowboy-aviation",
+      "email": null,
+      "street_address": "555 N General Brees Road, Laramie, WY 82070",
+      "hours": "7:00 AM–8:00 PM daily",
+      "freq": null,
+      "plus_code": "85HP888H+G5",
+      "city": "Laramie",
+      "state": "WY",
+      "airport_name": "Laramie Regional Airport",
+      "icao": "KLAR",
+      "iata": "LAR",
+      "region": "US",
+      "services": "Jet A and 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6796b1f6d58a4f33\""
+}

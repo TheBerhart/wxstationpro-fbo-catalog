@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSJU",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "226 Central Sector, East Ramp",
       "hours": "Mon – Sun: 06:00 – 00:00",
       "freq": "129.475",
-      "plus_code": "77CPC2R2+FM",
+      "plus_code": "77CPC2R2+FMG",
       "city": "Carolina",
       "state": "PR",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"bbefea40671706fb\""
+  "etag": "\"45c28d6fc70c1333\""
 }

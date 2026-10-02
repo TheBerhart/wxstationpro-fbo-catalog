@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMRB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "MRB Aviation",
+      "phone": "(304) 262-2507",
+      "website": "https://www.flymrb.com/flightline-services/",
+      "email": null,
+      "street_address": "170 Aviation Way, Suite 105",
+      "hours": "Daily 7:00 AM-7:00 PM",
+      "freq": null,
+      "plus_code": "87F4C229+35",
+      "city": "Martinsburg",
+      "state": "WV",
+      "airport_name": "Eastern WV Regional Airport/Shepherd Field",
+      "icao": "KMRB",
+      "iata": "MRB",
+      "region": "US",
+      "services": "Full-service 100LL; Jet-A; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0b1a6f7d0ffe5e08\""
+}

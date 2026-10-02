@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMKG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Executive Air Transport Inc.",
+      "phone": "(231) 798-2126",
+      "website": "https://flymuskegon.com/fbo-services",
+      "email": "frontdesk@ea-transport.com",
+      "street_address": "103 Sinclair Dr",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 7:00 AM – 10:00 PM; Sunday: 7:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "86MM5Q87+4C",
+      "city": "Muskegon",
+      "state": "MI",
+      "airport_name": "Muskegon County Airport",
+      "icao": "KMKG",
+      "iata": "MKG",
+      "region": "US",
+      "services": "Fueling; FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b1fcf852a42d3fad\""
+}

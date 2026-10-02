@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGCC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Thunder Basin Aviation",
+      "phone": "307-687-6469",
+      "website": "https://www.iflygillette.com/170/General-Aviation",
+      "email": null,
+      "street_address": "2000 Airport Rd Ste 160, Gillette, WY 82716, USA",
+      "hours": "Monday-Sunday 6:00 AM-8:00 PM (temporary hours); on-call overnight",
+      "freq": null,
+      "plus_code": "85PP8FX8+FF",
+      "city": "Gillette",
+      "state": "WY",
+      "airport_name": "Northeast Wyoming Regional Airport",
+      "icao": "KGCC",
+      "iata": "GCC",
+      "region": "US",
+      "services": "Aviation fuel; deice; tie-downs; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d5fc600b243ae82f\""
+}

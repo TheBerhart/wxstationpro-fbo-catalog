@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJLN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Mizzou Aviation",
+      "phone": "417-623-1331",
+      "website": "https://www.flyjoplin.com/general-aviation",
+      "email": null,
+      "street_address": "5497 Dennis Weaver Dr, Webb City, MO 64870",
+      "hours": "Monday: 5:00 AM – 9:30 PM; Tuesday: 5:00 AM – 9:30 PM; Wednesday: 5:00 AM – 9:30 PM; Thursday: 5:00 AM – 9:30 PM; Friday: 5:00 AM – 9:30 PM; Saturday: 5:00 AM – 9:30 PM; Sunday: 5:00 AM – 9:30 PM",
+      "freq": null,
+      "plus_code": "86974FWX+J7",
+      "city": "Joplin",
+      "state": "MO",
+      "airport_name": "Joplin Regional Airport",
+      "icao": "KJLN",
+      "iata": "JLN",
+      "region": "US",
+      "services": "Full-service FBO; handles fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d6db0496d0000197\""
+}

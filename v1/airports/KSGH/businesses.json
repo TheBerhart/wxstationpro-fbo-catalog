@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSGH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Springfield-Beckley Municipal Airport",
+      "phone": "(937) 323-5804",
+      "website": "https://springfieldohio.gov/city_services/general-airport-information/",
+      "email": "sgh.fbo@springfieldohio.gov",
+      "street_address": "1251 W Blee Rd",
+      "hours": "Monday-Friday 7:30 AM to 4:00 PM; closed weekends; callouts available",
+      "freq": null,
+      "plus_code": "86FRR5V4+69",
+      "city": "Springfield",
+      "state": "OH",
+      "airport_name": "Springfield-Beckley Municipal Airport",
+      "icao": "KSGH",
+      "iata": "SGH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d11201bf8e7ac7bb\""
+}

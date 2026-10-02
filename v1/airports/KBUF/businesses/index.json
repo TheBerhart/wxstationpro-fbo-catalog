@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KBUF",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Buffalo Niagara",
       "phone": "(716) 633-1000",
       "website": "https://www.signatureaviation.com/locations/BUF",
-      "email": "buf@signatureflight.com",
+      "email": "BUF@signatureaviation.com",
       "street_address": "50 N Airport Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.75",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"05a113a1b4094f43\""
+  "etag": "\"d4d0b8fdd929d001\""
 }

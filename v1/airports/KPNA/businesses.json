@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPNA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "TOP Flight",
+      "phone": "(307) 367-2290",
+      "website": "https://www.topflightpna.com/",
+      "email": "info@TOPFlightPNA.com",
+      "street_address": "9357 US-191",
+      "hours": "Seven days a week, 365 days a year",
+      "freq": null,
+      "plus_code": "85JGQ5XW+84",
+      "city": "Pinedale",
+      "state": "WY",
+      "airport_name": "Ralph Wenz Field",
+      "icao": "KPNA",
+      "iata": "PWY",
+      "region": "US",
+      "services": "Self-serve 100LL; full-service Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a24da997fc2b4eb8\""
+}

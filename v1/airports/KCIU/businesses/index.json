@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCIU",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Chippewa County International Airport",
+      "phone": "(906) 495-5631",
+      "website": "https://airciu.com/about-us/",
+      "email": null,
+      "street_address": "5019 Airport Drive, Kincheloe, MI 49788",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86RQ7G5J+6P",
+      "city": "Kincheloe",
+      "state": "MI",
+      "airport_name": "Chippewa County International Airport",
+      "icao": "KCIU",
+      "iata": "CIU",
+      "region": "US",
+      "services": "Fueling; general aviation services",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"db1b81eca7ca06cd\""
+}

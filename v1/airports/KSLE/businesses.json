@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSLE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Salem Aviation Fueling",
+      "phone": "503-364-4158",
+      "website": "http://salemaviation.biz/",
+      "email": "info@salemaviation.biz",
+      "street_address": "3300 25th St SE",
+      "hours": "Monday-Friday 7 a.m.-7 p.m.; Saturday and Sunday 7 a.m.-5 p.m.; 24-hour self-serve AvGas",
+      "freq": "122.95",
+      "plus_code": "84PRWX4V+H3",
+      "city": "Salem",
+      "state": "OR",
+      "airport_name": "Salem-Willamette Valley Airport/McNary Field",
+      "icao": "KSLE",
+      "iata": "SLE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e1adff6792c96c00\""
+}

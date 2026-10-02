@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSAT",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 3,
   "businesses": [
     {
@@ -32,7 +32,7 @@
       "name": "Signature San Antonio - North",
       "phone": "(210) 828-0551",
       "website": "https://www.signatureaviation.com/locations/SAT-N",
-      "email": "SATNorth@signatureflight.com",
+      "email": "SAT@signatureaviation.com",
       "street_address": "557 Sandau Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "130",
@@ -48,13 +48,13 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     },
     {
       "name": "Signature San Antonio - South",
       "phone": "(210) 625-9100",
       "website": "https://www.signatureaviation.com/locations/SAT-S",
-      "email": "SAT@signatureflight.com",
+      "email": "SAT@signatureaviation.com",
       "street_address": "1115 Paul Wilkins Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "130",
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"b4f64f24f160dd5a\""
+  "etag": "\"0eb967284ad00e94\""
 }

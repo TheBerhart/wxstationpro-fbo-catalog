@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KWJF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "MH Aviation",
+      "phone": "(661) 518-2700",
+      "website": "https://mhaviation.com/services/fbo-services-and-fueling/",
+      "email": null,
+      "street_address": "4651 William J Barnes Avenue",
+      "hours": "Monday-Friday 8:00 am-5:00 pm; fueling available 24/7, after-hours call-out fees may apply",
+      "freq": null,
+      "plus_code": "8563PQQP+F6",
+      "city": "Lancaster",
+      "state": "CA",
+      "airport_name": "General William J Fox Airfield",
+      "icao": "KWJF",
+      "iata": "WJF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"9e8c4a1b93bc2d4a\""
+}

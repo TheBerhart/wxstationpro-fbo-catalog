@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDLS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Hood Aero",
+      "phone": "509-767-0005",
+      "website": "https://www.flycgra.com/pilots",
+      "email": "fbo@hoodaero.com",
+      "street_address": "45 Airport Way, Dallesport, WA 98617",
+      "hours": "Daily 8am-5pm",
+      "freq": null,
+      "plus_code": "84QWJR9G+9W",
+      "city": "Dallesport / The Dalles",
+      "state": "OR",
+      "airport_name": "Columbia Gorge Regional Airport",
+      "icao": "KDLS",
+      "iata": "DLS",
+      "region": "US",
+      "services": "Jet A; full and self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"060a4368eef7792f\""
+}

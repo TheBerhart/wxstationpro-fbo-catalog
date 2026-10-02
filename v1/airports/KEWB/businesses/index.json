@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEWB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "NorEast Aviation Services",
+      "phone": "508-996-1832",
+      "website": "https://noreastaviationservices.com/",
+      "email": "neaviation@comcast.net",
+      "street_address": "1475 Airport Road, New Bedford, MA 02746",
+      "hours": "Monday-Friday 6:00 AM-6:00 PM; Saturday-Sunday 7:00 AM-6:00 PM",
+      "freq": null,
+      "plus_code": null,
+      "city": "New Bedford",
+      "state": "MA",
+      "airport_name": "New Bedford Regional Airport",
+      "icao": "KEWB",
+      "iata": "EWB",
+      "region": "US",
+      "services": "100LL, Jet-A, and Jet-A with Prist; hangar; line service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1baef361fabc25df\""
+}

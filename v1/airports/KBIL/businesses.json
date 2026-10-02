@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBIL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Edwards Jet Center",
+      "phone": "406-252-0508",
+      "website": "https://www.edwardsjetcenter.com/fbo-services/",
+      "email": "info@edwardsjetcenter.com",
+      "street_address": "1691 Aviation Place, Billings, MT 59105",
+      "hours": "Staffed 24/7",
+      "freq": "123.3",
+      "plus_code": "85QHRF39+7P",
+      "city": "Billings",
+      "state": "MT",
+      "airport_name": "Billings Logan International Airport",
+      "icao": "KBIL",
+      "iata": "BIL",
+      "region": "US",
+      "services": "Jet A; 100LL self-serve; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"15fbbcbfa311b9a8\""
+}

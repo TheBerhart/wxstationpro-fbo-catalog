@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLCK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Rickenbacker Aviation",
+      "phone": "(614) 409-3660",
+      "website": "https://flycolumbus.com/rickenbacker-aviation/",
+      "email": "rickenbackeraviation@columbusairports.com",
+      "street_address": "7250 Star Check Dr, Columbus, OH 43217",
+      "hours": "24/7",
+      "freq": null,
+      "plus_code": "86FVR396+HP",
+      "city": "Columbus",
+      "state": "OH",
+      "airport_name": "Rickenbacker International Airport",
+      "icao": "KLCK",
+      "iata": "LCK",
+      "region": "US",
+      "services": "Staffed FBO; NATA-certified fuelers",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"91902d58e39a83cc\""
+}

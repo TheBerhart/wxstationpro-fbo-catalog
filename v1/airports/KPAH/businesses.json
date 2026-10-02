@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPAH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Four Rivers Aviation",
+      "phone": "(270) 744-5401",
+      "website": "https://flybarkley.com/general-aviation/",
+      "email": null,
+      "street_address": "200 Hardy Roberts Dr",
+      "hours": "Daily 6:00 AM-7:00 PM",
+      "freq": null,
+      "plus_code": "869H369G+9W",
+      "city": "Paducah",
+      "state": "KY",
+      "airport_name": "Barkley Regional Airport",
+      "icao": "KPAH",
+      "iata": "PAH",
+      "region": "US",
+      "services": "Jet A with FSII; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"3838f5b8ad6a7572\""
+}

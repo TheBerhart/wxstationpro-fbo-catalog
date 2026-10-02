@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCSG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Flightways Columbus",
+      "phone": "706-324-2453",
+      "website": "https://flightwayscolumbus.com/about/",
+      "email": "csr@flightwayscolumbus.com",
+      "street_address": "1000 Airport Thruway, Suite A, Columbus, GA 31909",
+      "hours": "Monday: 7:00 AM – 9:00 PM; Tuesday: 7:00 AM – 9:00 PM; Wednesday: 7:00 AM – 9:00 PM; Thursday: 7:00 AM – 9:00 PM; Friday: 7:00 AM – 9:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": "864QG394+3R",
+      "city": "Columbus",
+      "state": "GA",
+      "airport_name": "Columbus Airport",
+      "icao": "KCSG",
+      "iata": "CSG",
+      "region": "US",
+      "services": "Avgas; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"275ef4dca1889e60\""
+}

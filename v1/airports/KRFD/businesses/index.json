@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRFD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Emery Air",
+      "phone": "815-968-8287",
+      "website": "https://emeryair.net/ground-services/",
+      "email": "customerserviceRFD@emeryair.net",
+      "street_address": "One Airport Circle",
+      "hours": "24 hours a day, 7 days a week",
+      "freq": null,
+      "plus_code": "86JG6W34+74",
+      "city": "Chicago/Rockford",
+      "state": "IL",
+      "airport_name": "Chicago Rockford International Airport",
+      "icao": "KRFD",
+      "iata": "RFD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b2a93586276093e4\""
+}

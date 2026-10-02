@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJAC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Jackson Hole Flight Services",
+      "phone": "(307) 733-4767",
+      "website": "https://www.jacksonholeflightservices.com/fuel-facilities",
+      "email": "info@jhflight.org",
+      "street_address": "1215 East Airport Road, Jackson, WY 83001",
+      "hours": "Daily 6:00 AM–9:30 PM",
+      "freq": null,
+      "plus_code": "85MFH7X6+JP",
+      "city": "Jackson",
+      "state": "WY",
+      "airport_name": "Jackson Hole Airport",
+      "icao": "KJAC",
+      "iata": "JAC",
+      "region": "US",
+      "services": "FBO fuel sales",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1e5d4eeccebd59ec\""
+}

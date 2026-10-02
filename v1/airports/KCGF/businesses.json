@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCGF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cleveland Jet Center",
+      "phone": "216-261-8800",
+      "website": "https://www.clevelandjetcenter.com/",
+      "email": "info@clevelandjetcenter.com",
+      "street_address": "26380 Curtiss Wright Parkway, Richmond Heights, OH 44143",
+      "hours": "Monday: 6:00 AM – 11:00 PM; Tuesday: 6:00 AM – 11:00 PM; Wednesday: 6:00 AM – 11:00 PM; Thursday: 6:00 AM – 11:00 PM; Friday: 6:00 AM – 11:00 PM; Saturday: 6:00 AM – 11:00 PM; Sunday: 6:00 AM – 11:00 PM",
+      "freq": "122.95",
+      "plus_code": "86HWHG96+3J",
+      "city": "Cleveland",
+      "state": "OH",
+      "airport_name": "Cuyahoga County Airport",
+      "icao": "KCGF",
+      "iata": "CGF",
+      "region": "US",
+      "services": "Staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b2da9e413754b453\""
+}

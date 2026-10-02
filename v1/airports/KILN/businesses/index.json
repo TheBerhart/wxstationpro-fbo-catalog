@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KILN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Wilmington Air Park",
+      "phone": "937-655-7040",
+      "website": "https://www.wilmingtonairpark.com/Airport-fees",
+      "email": null,
+      "street_address": "1113 Airport Rd, Wilmington, OH 45177",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86FRC6R9+P9",
+      "city": "Wilmington",
+      "state": "OH",
+      "airport_name": "Wilmington Airpark",
+      "icao": "KILN",
+      "iata": "ILN",
+      "region": "US",
+      "services": "Jet A fuel for sale",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"172e758a6d7e883f\""
+}

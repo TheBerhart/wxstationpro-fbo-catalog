@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KISO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kinston Jet Center",
+      "phone": "(252) 523-1351",
+      "website": "https://www.kinstonjetcenter.com/services",
+      "email": "info@kinstonjetcenter.com",
+      "street_address": "2860 Jetport Rd, Kinston, NC 28504",
+      "hours": null,
+      "freq": "122.95",
+      "plus_code": "877489FQ+P8",
+      "city": "Kinston",
+      "state": "NC",
+      "airport_name": "Kinston Regional Jetport At Stallings Field",
+      "icao": "KISO",
+      "iata": "ISO",
+      "region": "US",
+      "services": "Full-service fuel; Jet A and avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"cc1973791caa19b4\""
+}

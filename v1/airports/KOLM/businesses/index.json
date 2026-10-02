@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOLM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Safety in Motion Flight Center",
+      "phone": "(253) 840-5758",
+      "website": "https://www.safetyinmotion.aero/olympia-regional-airport",
+      "email": "info@simflightcenter.com",
+      "street_address": "7825 Old Highway 99 SE",
+      "hours": "8:00 AM-8:00 PM",
+      "freq": null,
+      "plus_code": "84RVX4F4+67",
+      "city": "Olympia",
+      "state": "WA",
+      "airport_name": "Olympia Regional Airport",
+      "icao": "KOLM",
+      "iata": "OLM",
+      "region": "US",
+      "services": "Full-service 100LL; Jet-A; Jet-A+",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4afea20a09c48320\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSNS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "GateOne Salinas",
+      "phone": "831-422-9400",
+      "website": "https://gateone.com/",
+      "email": "frontdesksns@gateone.com",
+      "street_address": "280 Mortensen Ave.",
+      "hours": "7 days a week 0700 to 1900",
+      "freq": "123.00",
+      "plus_code": "848WM98Q+M7",
+      "city": "Salinas",
+      "state": "CA",
+      "airport_name": "Salinas Municipal Airport",
+      "icao": "KSNS",
+      "iata": "SNS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"db8f80694f54e095\""
+}

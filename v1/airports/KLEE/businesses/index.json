@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLEE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sunair Aviation",
+      "phone": "(352) 787-2211",
+      "website": "https://sunairaviation.com/line-services",
+      "email": "administration@sunairaviation.com",
+      "street_address": "8806 Airport Boulevard, Leesburg, FL 34788",
+      "hours": "Daily 7:00 AM–7:00 PM",
+      "freq": null,
+      "plus_code": "76WWR5HQ+4J",
+      "city": "Leesburg",
+      "state": "FL",
+      "airport_name": "Leesburg International Airport",
+      "icao": "KLEE",
+      "iata": "LEE",
+      "region": "US",
+      "services": "Full-service 100LL and Jet A; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"05a245d6a4e66c3f\""
+}

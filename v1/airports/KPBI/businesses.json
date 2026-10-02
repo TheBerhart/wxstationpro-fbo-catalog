@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPBI",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 3,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1515 Perimeter Road",
       "hours": "Mon – Sun: 24 hours",
       "freq": "130.375",
-      "plus_code": "76RXMWQC+VCH",
+      "plus_code": "76RXMWH9+HWP",
       "city": "West Palm Beach",
       "state": "FL",
       "airport_name": null,
@@ -26,13 +26,13 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     },
     {
       "name": "Signature Palm Beach",
       "phone": "(561) 478-8700",
       "website": "https://www.signatureaviation.com/locations/DJT-S",
-      "email": "PBI@signatureaviation.com",
+      "email": "DJT@signatureaviation.com",
       "street_address": "1500 Perimeter Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "128.975",
@@ -48,13 +48,13 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     },
     {
       "name": "Signature Palm Beach North",
       "phone": "(561) 478-8700",
       "website": "https://www.signatureaviation.com/locations/DJT-N",
-      "email": "PBINorth@signatureaviation.com",
+      "email": "DJTNorth@signatureaviation.com",
       "street_address": "817 Morrison Field Road",
       "hours": "24 hours a day/7 days a week",
       "freq": null,
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"6ebaacc4d9b582e8\""
+  "etag": "\"4f6b3e250511d2bc\""
 }

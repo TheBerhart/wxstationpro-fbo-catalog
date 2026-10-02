@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KITH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Taughannock Aviation",
+      "phone": "607-257-7500",
+      "website": "https://www.flyithaca.com/fbo",
+      "email": null,
+      "street_address": "66 Brown Road, Ithaca, NY 14850",
+      "hours": "Terminal 3:30 AM–midnight",
+      "freq": "131.6",
+      "plus_code": "87J5FGQR+73",
+      "city": "Ithaca",
+      "state": "NY",
+      "airport_name": "Ithaca Tompkins Regional Airport",
+      "icao": "KITH",
+      "iata": "ITH",
+      "region": "US",
+      "services": "Staffed FBO; aircraft fueling",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"959fb0dd3b16cd3d\""
+}

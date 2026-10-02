@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KKLS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cascade Air FBO & Flight Training",
+      "phone": "360-232-8936",
+      "website": "https://www.cascadeair-nw.com/fbo-corporate-services",
+      "email": "info@cascadeair-nw.com",
+      "street_address": "2215 A Parrott Way, Kelso, WA 98626",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "84RV4492+XJ",
+      "city": "Kelso",
+      "state": "WA",
+      "airport_name": "Southwest Washington Regional Airport",
+      "icao": "KKLS",
+      "iata": "KLS",
+      "region": "US",
+      "services": "Full-service Jet-A and self-service 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"44fd4cb0efa00e15\""
+}

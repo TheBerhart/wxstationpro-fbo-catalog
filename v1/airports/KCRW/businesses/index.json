@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCRW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Capital Jet Center",
+      "phone": "304-346-9977",
+      "website": "https://flycrw.com/capital-jet-center-at-crw/",
+      "email": null,
+      "street_address": "100 Airport Rd, Suite 165, Charleston, WV 25311",
+      "hours": "24/7",
+      "freq": "122.95",
+      "plus_code": "86CW9CC3+36",
+      "city": "Charleston",
+      "state": "WV",
+      "airport_name": "Yeager Airport",
+      "icao": "KCRW",
+      "iata": "CRW",
+      "region": "US",
+      "services": "Jet A; avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4fe55efce1da7b18\""
+}

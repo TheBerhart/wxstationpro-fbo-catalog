@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBKE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Baker Aircraft",
+      "phone": "541-523-5663",
+      "website": "https://www.bakeraircraft.com/",
+      "email": null,
+      "street_address": "43769 Heilner Dr, Baker City, OR 97814",
+      "hours": "Spring/summer daily 8am-5pm; fall/winter daily 7am-4pm",
+      "freq": null,
+      "plus_code": "85P4R5PR+G6",
+      "city": "Baker City",
+      "state": "OR",
+      "airport_name": "Baker City Municipal Airport",
+      "icao": "KBKE",
+      "iata": "BKE",
+      "region": "US",
+      "services": "Fuel; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a34a118b5a9bc169\""
+}

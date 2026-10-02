@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPQI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Presque Isle International Airport",
+      "phone": "(207) 764-2555",
+      "website": "https://www.flypresqueisle.com/general-aviation-cargo/",
+      "email": "ga@flypresqueisle.com",
+      "street_address": "650 Airport Drive, Suite 11",
+      "hours": "Mon-Fri 4:00 AM-7:30 PM; Sat-Sun 4:00 AM-4:00 PM",
+      "freq": null,
+      "plus_code": "87RHMXR3+VW",
+      "city": "Presque Isle",
+      "state": "ME",
+      "airport_name": "Presque Isle International Airport",
+      "icao": "KPQI",
+      "iata": "PQI",
+      "region": "US",
+      "services": "Jet-A; 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5fad061b0798e6db\""
+}

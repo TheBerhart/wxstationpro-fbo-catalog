@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAST",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Astoria Regional Airport",
+      "phone": "(503) 861-1222",
+      "website": "https://www.portofastoria.com/airport",
+      "email": "flight@portofastoria.com",
+      "street_address": "1110 SE Flightline Drive, Warrenton, OR 97146",
+      "hours": "Daily 8:00 AM-5:00 PM; 100LL self-serve 24/7",
+      "freq": "122.8",
+      "plus_code": "84RR5449+86",
+      "city": "Astoria",
+      "state": "OR",
+      "airport_name": "Astoria Regional Airport",
+      "icao": "KAST",
+      "iata": "AST",
+      "region": "US",
+      "services": "100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"91a44f3437e9df11\""
+}

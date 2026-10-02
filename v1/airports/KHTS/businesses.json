@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHTS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Huntington Jet Center",
+      "phone": "304-453-6165",
+      "website": "https://www.tristateairport.com/jet-center/",
+      "email": null,
+      "street_address": "1449 Co Rte 3/1, Huntington, WV 25704, USA",
+      "hours": "24 hours, 365 days",
+      "freq": null,
+      "plus_code": "86CV9CCR+4H",
+      "city": "Huntington",
+      "state": "WV",
+      "airport_name": "Tri-State Airport / Milton J. Ferguson Field",
+      "icao": "KHTS",
+      "iata": "HTS",
+      "region": "US",
+      "services": "100LL and Jet A; hangars; tie-downs; GPU; deice",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7471d2be256e8ba1\""
+}

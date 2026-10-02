@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLBT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Lumberton Regional Airport",
+      "phone": "910-739-6480",
+      "website": "https://www.lumbertonnc.gov/291/Fuel",
+      "email": null,
+      "street_address": "163 Airport Blvd, Lumberton, NC 28358",
+      "hours": "100LL credit-card 24 hours; Jet A after 5:00 PM ET by arrangement",
+      "freq": null,
+      "plus_code": "8762JW7R+H2",
+      "city": "Lumberton",
+      "state": "NC",
+      "airport_name": "Lumberton Regional Airport",
+      "icao": "KLBT",
+      "iata": "LBT",
+      "region": "US",
+      "services": "Phillips 66 full-service fuel; 100LL 24-hour credit card",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e985258aae3790f6\""
+}

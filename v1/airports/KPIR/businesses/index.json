@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPIR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Mustang Aviation",
+      "phone": "(605) 224-9000",
+      "website": "https://www.mustangaviation.aero/fbo-services",
+      "email": "info@mustangaviation.aero",
+      "street_address": "4000 Airport Road",
+      "hours": "7 days, 6:00 AM-10:00 PM",
+      "freq": "122.95",
+      "plus_code": "85PX9PH5+GM",
+      "city": "Pierre",
+      "state": "SD",
+      "airport_name": "Pierre Regional Airport",
+      "icao": "KPIR",
+      "iata": "PIR",
+      "region": "US",
+      "services": "Jet A with Prist; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ea1d8d9a3aabed26\""
+}

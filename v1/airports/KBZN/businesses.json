@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBZN",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 3,
   "businesses": [
     {
@@ -54,7 +54,7 @@
       "name": "Signature Bozeman Yellowstone",
       "phone": "(406) 388-4152",
       "website": "https://www.signatureaviation.com/locations/BZN",
-      "email": "BZN@signatureflight.com",
+      "email": "BZN@signatureaviation.com",
       "street_address": "456 Wings Way",
       "hours": "0600L - 2100L Call out available on request",
       "freq": "123.3",
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"9879c6eb7da00879\""
+  "etag": "\"49b5921ef518c508\""
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBRD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "NorthPoint Aviation",
+      "phone": "218-829-3398",
+      "website": "https://northpointaviation.net/services/",
+      "email": null,
+      "street_address": "16384 Airport Rd, Suite 8, Brainerd, MN 56401",
+      "hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 7:00 AM – 8:00 PM",
+      "freq": null,
+      "plus_code": "86R79VV5+8Q",
+      "city": "Brainerd",
+      "state": "MN",
+      "airport_name": "Brainerd Lakes Regional Airport",
+      "icao": "KBRD",
+      "iata": "BRD",
+      "region": "US",
+      "services": "Jet A; 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"069b85936cba3aea\""
+}

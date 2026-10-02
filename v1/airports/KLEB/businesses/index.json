@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLEB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Granite Air Center",
+      "phone": "603-298-6555",
+      "website": "https://www.graniteair.com/fuel-pricing",
+      "email": "info@graniteair.com",
+      "street_address": "58 Airport Road, West Lebanon, NH 03784",
+      "hours": "Daily 6:00 AM–10:00 PM",
+      "freq": "122.95",
+      "plus_code": "87M9JMHQ+CV",
+      "city": "Lebanon",
+      "state": "NH",
+      "airport_name": "Lebanon Municipal Airport",
+      "icao": "KLEB",
+      "iata": "LEB",
+      "region": "US",
+      "services": "Jet A and 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8122d59ba095e5d7\""
+}

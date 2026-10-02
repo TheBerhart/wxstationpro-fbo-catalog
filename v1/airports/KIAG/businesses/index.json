@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIAG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Calspan Air Services",
+      "phone": "716-298-9307",
+      "website": "https://www.calspanairservices.com/services/fbo/",
+      "email": "CustomerService.IAG@calspan.com",
+      "street_address": "9900 Porter Road, Niagara Falls, NY 14304",
+      "hours": "24/7",
+      "freq": null,
+      "plus_code": "87M333X3+WX",
+      "city": "Niagara Falls",
+      "state": "NY",
+      "airport_name": "Niagara Falls International Airport",
+      "icao": "KIAG",
+      "iata": "IAG",
+      "region": "US",
+      "services": "24/7 full-service FBO; Jet A and 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"015b9b67d41a2f35\""
+}

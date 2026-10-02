@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBLH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Patton Aviation",
+      "phone": "760-922-6125",
+      "website": "https://patton-aviation.com/",
+      "email": null,
+      "street_address": "17240 W Hobsonway, Blythe, CA 92225",
+      "hours": "Daily 0700-1600",
+      "freq": null,
+      "plus_code": "8557J77P+HH",
+      "city": "Blythe",
+      "state": "CA",
+      "airport_name": "Blythe Airport",
+      "icao": "KBLH",
+      "iata": "BLH",
+      "region": "US",
+      "services": "Jet A; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"05ccb7fd1e695665\""
+}

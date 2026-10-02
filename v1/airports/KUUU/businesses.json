@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUUU",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "FlightLevel Aviation",
+      "phone": "401.846.9400",
+      "website": "https://www.flightlevelaviation.com/newport-sate-airport-ri/",
+      "email": "custserv.uuu@flightlevelaviation.com",
+      "street_address": "211 Airport Access Road",
+      "hours": "Monday-Sunday 0800-1600",
+      "freq": null,
+      "plus_code": "87HCGPJ9+W4",
+      "city": "Newport",
+      "state": "RI",
+      "airport_name": "Newport State Airport",
+      "icao": "KUUU",
+      "iata": "NPT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"183091a5e75c15cb\""
+}

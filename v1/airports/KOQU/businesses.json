@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOQU",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "FlightLevel Aviation",
+      "phone": "(401) 295-5020",
+      "website": "https://flyquonsetairport.com/our-services/",
+      "email": null,
+      "street_address": "150 Airport Street",
+      "hours": "0700-2200 daily",
+      "freq": null,
+      "plus_code": "87HCHHVP+PH",
+      "city": "North Kingstown",
+      "state": "RI",
+      "airport_name": "Quonset State Airport",
+      "icao": "KOQU",
+      "iata": "NCO",
+      "region": "US",
+      "services": "Full-service 100LL; full-service Jet fuel; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"407315359018e773\""
+}

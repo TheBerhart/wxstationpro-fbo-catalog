@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIFP",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Touch & Go FBO",
+      "phone": "928-754-3020",
+      "website": "https://flyifp.com/general-aviation/",
+      "email": "FBO@flyifp.com",
+      "street_address": "2550 Laughlin View Dr. Bldg 40, Bullhead City, AZ 86429",
+      "hours": "6:00 AM–10:00 PM",
+      "freq": "122.85",
+      "plus_code": "85775C4R+GJ",
+      "city": "Bullhead City",
+      "state": "AZ",
+      "airport_name": "Laughlin Bullhead International Airport",
+      "icao": "KIFP",
+      "iata": "IFP",
+      "region": "US",
+      "services": "Staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"fab54e0d245293ab\""
+}

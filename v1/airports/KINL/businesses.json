@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KINL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Einarson Flying Service",
+      "phone": "218-283-4461",
+      "website": "https://einarsonflying.com/",
+      "email": "info@einarsonflying.com",
+      "street_address": "3214 2nd Avenue East, International Falls, MN 56649",
+      "hours": "24/7",
+      "freq": "122.80",
+      "plus_code": "86W8HJ82+JJ",
+      "city": "International Falls",
+      "state": "MN",
+      "airport_name": "Falls International Airport",
+      "icao": "KINL",
+      "iata": "INL",
+      "region": "US",
+      "services": "24/7 FBO; fuel sales",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8904464e9b31d9be\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMYR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Beach Aviation Services",
+      "phone": "(843) 839-6740",
+      "website": "https://www.beachaviationservices.com/myrtle-beach-general-aviation-terminal-myr/",
+      "email": "myrtlebeachaviation@flymyrtlebeach.com",
+      "street_address": "1250 Airdrome Avenue",
+      "hours": "FBO 0600-2100 year round; after-hours fee",
+      "freq": null,
+      "plus_code": "8753M3F8+C8",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "airport_name": "Myrtle Beach International Airport",
+      "icao": "KMYR",
+      "iata": "MYR",
+      "region": "US",
+      "services": "Fuel; self-serve 100LL; ground handling; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2388262768200657\""
+}

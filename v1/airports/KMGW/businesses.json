@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMGW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Morgantown Airport FBO",
+      "phone": "(304) 296-2359",
+      "website": "https://www.morgantownairport.com/793/FBO-Lounge-Hangar-Space",
+      "email": null,
+      "street_address": "100 Hart Field Road Suite 217",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87F2J3VH+MX",
+      "city": "Morgantown",
+      "state": "WV",
+      "airport_name": "Morgantown Municipal Airport Walter L. (Bill) Hart Field",
+      "icao": "KMGW",
+      "iata": "MGW",
+      "region": "US",
+      "services": "Jet A; 100LL; Prist; FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"9eea78a32b127504\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCYS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Legend AeroServe",
+      "phone": "307-634-7079",
+      "website": "https://www.legendfbo.com/",
+      "email": "info@legendfbo.com",
+      "street_address": "3913 Evans Ave, Cheyenne, WY 82001",
+      "hours": "6 a.m.-10 p.m.; after hours on request",
+      "freq": "122.95",
+      "plus_code": "85HQ552J+PQ",
+      "city": "Cheyenne",
+      "state": "WY",
+      "airport_name": "Cheyenne Regional Jerry Olson Field",
+      "icao": "KCYS",
+      "iata": "CYS",
+      "region": "US",
+      "services": "Fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c391da33e9fc03ff\""
+}

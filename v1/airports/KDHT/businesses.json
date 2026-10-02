@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDHT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Dalhart Municipal Airport",
+      "phone": "806-244-5521",
+      "website": "https://www.gcr1.com/5010ReportRouter/DHT.pdf",
+      "email": null,
+      "street_address": "Dalhart Municipal Airport, 11908 E Airport Rd, Dalhart, TX 79022",
+      "hours": null,
+      "freq": null,
+      "plus_code": "858V2FF2+4M",
+      "city": "Dalhart",
+      "state": "TX",
+      "airport_name": "Dalhart Municipal Airport",
+      "icao": "KDHT",
+      "iata": "DHT",
+      "region": "US",
+      "services": "100LL full and self-serve; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b14ba8014fdb2b15\""
+}

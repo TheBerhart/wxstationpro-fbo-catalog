@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSSF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "GateOne Stinson",
+      "phone": "210-922-1203",
+      "website": "https://gateone.com/",
+      "email": "stinson@gateone.com",
+      "street_address": "8535 Mission Rd.",
+      "hours": "Monday-Friday 0730-1900; Saturday 0800-1800; Sunday 0800-1800; self-serve 24/7",
+      "freq": "122.95",
+      "plus_code": "76X38GQH+F6",
+      "city": "San Antonio",
+      "state": "TX",
+      "airport_name": "Stinson Municipal Airport",
+      "icao": "KSSF",
+      "iata": "SSF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"928e3fb3a2d9c8d4\""
+}

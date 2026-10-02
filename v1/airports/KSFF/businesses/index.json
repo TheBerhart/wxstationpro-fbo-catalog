@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSFF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Aero Center Felts Field",
+      "phone": "509-534-7371",
+      "website": "https://aerocenters.com/sff-spokane-wa/",
+      "email": "sff@aerocenters.com",
+      "street_address": "6095 E Rutter Ave",
+      "hours": "0600-2200 Daily",
+      "freq": null,
+      "plus_code": "85V4MMJH+2H",
+      "city": "Spokane",
+      "state": "WA",
+      "airport_name": "Felts Field",
+      "icao": "KSFF",
+      "iata": "SFF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"52b5cd6ff0c9c6fa\""
+}

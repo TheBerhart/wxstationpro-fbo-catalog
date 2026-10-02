@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMFD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Niss Aviation FBO",
+      "phone": "(419) 524-4261",
+      "website": "https://www.nissaviationfbo.com/services",
+      "email": "support@nissaviationfbo.com",
+      "street_address": "2000 Harrington Memorial Rd, Mansfield, OH 44903",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": "86GVRF6Q+8W",
+      "city": "Mansfield",
+      "state": "OH",
+      "airport_name": "Mansfield Lahm Regional Airport",
+      "icao": "KMFD",
+      "iata": "MFD",
+      "region": "US",
+      "services": "Full-service fuel; 100LL self-serve",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1624f7e5a6a9fe29\""
+}

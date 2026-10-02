@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KENW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kenosha Aviation",
+      "phone": "(262) 605-0474",
+      "website": "https://www.kenoshaairport.com/",
+      "email": null,
+      "street_address": "9894 52nd Street, Kenosha, WI",
+      "hours": "Daily 6:30 AM-9:00 PM; self-serve 100LL 24 hours",
+      "freq": null,
+      "plus_code": "86JJH3VF+C5",
+      "city": "Kenosha",
+      "state": "WI",
+      "airport_name": "Kenosha Regional Airport",
+      "icao": "KENW",
+      "iata": "ENW",
+      "region": "US",
+      "services": "100LL full and self serve; Jet A with additive; line service; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e0023232f5a27290\""
+}

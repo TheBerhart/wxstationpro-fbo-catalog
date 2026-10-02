@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEVV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "United Companies Air Center",
+      "phone": "812-426-1221",
+      "website": "https://unitedcompaniesaircenter.com/air-center/",
+      "email": null,
+      "street_address": "6101 Flightline Drive, Evansville, IN 47725",
+      "hours": "7 days 6 AM-11 PM CST; after hours on request",
+      "freq": null,
+      "plus_code": "86CJ2FP7+J5",
+      "city": "Evansville",
+      "state": "IN",
+      "airport_name": "Evansville Regional Airport",
+      "icao": "KEVV",
+      "iata": "EVV",
+      "region": "US",
+      "services": "Jet fuel; hangar; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"db5a3c4463733709\""
+}

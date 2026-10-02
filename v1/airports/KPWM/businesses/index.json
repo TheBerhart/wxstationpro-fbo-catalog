@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPWM",
+  "updated_at": "2026-10-01T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Northeast Air",
+      "phone": "(207) 774-6318",
+      "website": "https://northeastair.com/contact/",
+      "email": "info@northeastair.com",
+      "street_address": "1011 Westbrook Street, Portland, ME 04102",
+      "hours": "5:30am-10:30 pm daily",
+      "freq": "122.95",
+      "plus_code": "87MFJMXR+HF",
+      "city": "Portland",
+      "state": "ME",
+      "airport_name": "Portland International Jetport",
+      "icao": "KPWM",
+      "iata": "PWM",
+      "region": "US",
+      "services": "Fuel; ground handling; hangar; maintenance",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    }
+  ],
+  "etag": "\"6e46c7197fc05f77\""
+}

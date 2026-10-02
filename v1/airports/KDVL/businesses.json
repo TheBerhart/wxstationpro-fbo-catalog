@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDVL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Devils Lake Aero Service",
+      "phone": "701-662-4416",
+      "website": "https://www.devilslakeaero.com/",
+      "email": "dlaero@hotmail.com",
+      "street_address": "300 Dakota Aero Dr, Devils Lake, ND 58301",
+      "hours": "Mon-Fri 8-5; 24-hour fuel",
+      "freq": null,
+      "plus_code": "86W3436R+8F",
+      "city": "Devils Lake",
+      "state": "ND",
+      "airport_name": "Devils Lake Regional Airport",
+      "icao": "KDVL",
+      "iata": "DVL",
+      "region": "US",
+      "services": "Jet A; fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2f9314d9842252ae\""
+}

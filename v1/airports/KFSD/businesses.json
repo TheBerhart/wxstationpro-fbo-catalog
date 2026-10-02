@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KFSD",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Sioux Falls",
       "phone": "(605) 336-7791",
       "website": "https://www.signatureaviation.com/locations/FSD",
-      "email": "FSD@signatureflight.com",
+      "email": "FSD@signatureaviation.com",
       "street_address": "3501 Aviation Avenue",
       "hours": "0500L - 2200L",
       "freq": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"1c24fdd2a86a352c\""
+  "etag": "\"b7416088ba9feed9\""
 }

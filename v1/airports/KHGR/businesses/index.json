@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHGR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Rider Jet Center",
+      "phone": "301-791-9119",
+      "website": "https://www.riderjetcenter.com/",
+      "email": null,
+      "street_address": "18421 Henson Blvd., Hagerstown, MD 21742",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87F4P76C+C7",
+      "city": "Hagerstown",
+      "state": "MD",
+      "airport_name": "Hagerstown Regional Richard A Henson Field",
+      "icao": "KHGR",
+      "iata": "HGR",
+      "region": "US",
+      "services": "Avfuel Jet A and 100LL; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"10b34cef377e755c\""
+}

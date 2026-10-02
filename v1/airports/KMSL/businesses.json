@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMSL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Shoals Flight Center",
+      "phone": "(256) 383-2270",
+      "website": "https://www.flytheshoals.com/shoalsflightcenter/fuel.php",
+      "email": "customerservice@flytheshoals.com",
+      "street_address": "1729 T. Ed Campbell Drive",
+      "hours": "6:00 AM-6:00 PM daily; after-hours callout",
+      "freq": null,
+      "plus_code": "866JP9WJ+59",
+      "city": "Muscle Shoals",
+      "state": "AL",
+      "airport_name": "Northwest Alabama Regional Airport",
+      "icao": "KMSL",
+      "iata": "MSL",
+      "region": "US",
+      "services": "100LL; Jet A; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1dd71d4c13b98eb4\""
+}

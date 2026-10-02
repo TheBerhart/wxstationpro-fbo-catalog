@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRNH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "East Metro Jet Center",
+      "phone": "715-246-5338",
+      "website": "https://www.eastmetrojetcenter.net/menu",
+      "email": null,
+      "street_address": "625 W Hanger Rd #11-12",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "86Q95F24+GF",
+      "city": "New Richmond",
+      "state": "WI",
+      "airport_name": "New Richmond Regional Airport",
+      "icao": "KRNH",
+      "iata": "RNH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"95f8b27b6b8354ab\""
+}

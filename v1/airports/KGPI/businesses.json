@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGPI",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://www.atlanticaviation.com/locations/gpi/",
       "email": "gpifrontdesk@atlanticaviation.com",
       "street_address": "4170 US Highway 2 East, Suite 10",
-      "hours": null,
+      "hours": "Monday: 5:00 AM – 12:00 AM; Tuesday: 5:00 AM – 12:00 AM; Wednesday: 5:00 AM – 12:00 AM; Thursday: 5:00 AM – 12:00 AM; Friday: 5:00 AM – 12:00 AM; Saturday: 5:00 AM – 12:00 AM; Sunday: 5:00 AM – 12:00 AM",
       "freq": null,
       "plus_code": "85W78P5X+GV2",
       "city": "Kalispell",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"2479617290f4b740\""
+  "etag": "\"39f47c3eb877b74c\""
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEDC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Henriksen Jet Center",
+      "phone": "(512) 247-7678",
+      "website": "https://www.austinexecutiveairport.com/hjc",
+      "email": null,
+      "street_address": "6012 Aviation Drive, Pflugerville, TX 78660",
+      "hours": null,
+      "freq": "122.975",
+      "plus_code": "86249CXG+VH",
+      "city": "Pflugerville",
+      "state": "TX",
+      "airport_name": "Austin Executive Airport",
+      "icao": "KEDC",
+      "iata": null,
+      "region": "US",
+      "services": "Fuel; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"cf6b5966a9bfe8a8\""
+}

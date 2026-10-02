@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTPL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Temple Executive Air Center",
+      "phone": "254-298-5770",
+      "website": "https://flytemple.com/temple-executive-air-center-fbo/",
+      "email": "airportfbo@templetx.gov",
+      "street_address": "7720 Airport Rd.",
+      "hours": "7:00 a.m. – 8:00 p.m.",
+      "freq": null,
+      "plus_code": "86345H2Q+77",
+      "city": "Temple",
+      "state": "TX",
+      "airport_name": "Draughon Miller Central Texas Regional Airport",
+      "icao": "KTPL",
+      "iata": "TPL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d21269e25d1b3b25\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KZZV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Zanesville Aviation",
+      "phone": "(740) 452-3625",
+      "website": "https://www.zanesvilleaviation.com/fbo",
+      "email": null,
+      "street_address": "850 Airport Rd.",
+      "hours": "Monday-Friday 7am-7pm; Saturday 8am-6pm; Sunday 8am-6pm",
+      "freq": null,
+      "plus_code": "86FWW4X5+6J",
+      "city": "Zanesville",
+      "state": "OH",
+      "airport_name": "Zanesville Municipal Airport",
+      "icao": "KZZV",
+      "iata": "ZZV",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"edc90a2dbc15d38d\""
+}

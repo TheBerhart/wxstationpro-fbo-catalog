@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "TJRV",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://modern-aviation.com/?location=ceiba",
       "email": "CSR.TJIG@modern-aviation.com",
       "street_address": "Carr. 3 Antigua Base Naval, Roosevelt Route",
-      "hours": null,
+      "hours": "Monday: 6:00 – 7:00 AM; Tuesday: 6:00 – 7:00 AM; Wednesday: 6:00 – 7:00 AM; Thursday: 6:00 – 7:00 AM; Friday: 6:00 – 7:00 AM; Saturday: 6:00 – 7:00 AM; Sunday: 6:00 – 7:00 AM",
       "freq": null,
       "plus_code": "77CP69X5+4VQ",
       "city": "Ceiba",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"5867119ba33d9ebb\""
+  "etag": "\"2b8476940160cff6\""
 }

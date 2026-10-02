@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEAR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kearney Flight Services",
+      "phone": "308-234-4072",
+      "website": "https://www.kearneyflightservices.org/services",
+      "email": null,
+      "street_address": "4985 Airport Road, Kearney, NE 68847",
+      "hours": "Daily 0700-2000",
+      "freq": null,
+      "plus_code": "86G2PXGQ+52",
+      "city": "Kearney",
+      "state": "NE",
+      "airport_name": "Kearney Regional Airport",
+      "icao": "KEAR",
+      "iata": "EAR",
+      "region": "US",
+      "services": "Jet A; 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"de6f00ae42bde1c6\""
+}

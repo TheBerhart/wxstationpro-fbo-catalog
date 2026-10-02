@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRMG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Russell Regional Airport",
+      "phone": "706-295-7835",
+      "website": "https://russellregionalairport.com/pilots/fuel_prices.php",
+      "email": "rmgfbo@floydcountyga.org",
+      "street_address": "304 Russell Field Road NE",
+      "hours": "MON - FRI: 7:00AM-8:00PM; SAT - SUN: 9:00AM-6:00PM; self-serve AvGas 24 hours",
+      "freq": null,
+      "plus_code": "866P9R2P+JM",
+      "city": "Rome",
+      "state": "GA",
+      "airport_name": "Richard B Russell Airport",
+      "icao": "KRMG",
+      "iata": "RMG",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"fe43e5b6ab64a8c0\""
+}

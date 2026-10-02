@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLSE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Colgan Air Services",
+      "phone": "(608) 783-8359",
+      "website": "https://business.lseairport.com/general-aviation-resources/",
+      "email": null,
+      "street_address": "2709 Fanta Reed Road, La Crosse, WI 54603",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "86MCVP9V+WQ",
+      "city": "La Crosse",
+      "state": "WI",
+      "airport_name": "La Crosse Regional Airport",
+      "icao": "KLSE",
+      "iata": "LSE",
+      "region": "US",
+      "services": "Staffed FBO; fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"07265fa46e793c70\""
+}

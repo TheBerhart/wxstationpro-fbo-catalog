@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEKO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Mountain West Aviation",
+      "phone": "775-738-7123",
+      "website": "https://flyelko.com/fbos/",
+      "email": null,
+      "street_address": "815 Murray Way, Elko, NV 89801",
+      "hours": "7 days 6:00 AM-6:00 PM (7:00 PM summer)",
+      "freq": "122.7",
+      "plus_code": "85G6R6H9+8Q",
+      "city": "Elko",
+      "state": "NV",
+      "airport_name": "Elko Regional Airport",
+      "icao": "KEKO",
+      "iata": "EKO",
+      "region": "US",
+      "services": "Jet A with Prist; 100LL full and self serve; hangar; de-ice; GPU",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2304a08f980e9d55\""
+}

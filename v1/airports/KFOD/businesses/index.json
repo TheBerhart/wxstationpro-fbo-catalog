@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFOD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Fort Dodge Flight Support",
+      "phone": "(515) 955-3434",
+      "website": "https://fortdodgeflightsupport.com/",
+      "email": null,
+      "street_address": "1639 Nelson Ave, Suite 4, Fort Dodge, IA 50501",
+      "hours": "Monday-Friday 7:00 AM-6:00 PM; Saturday-Sunday 9:00 AM-4:00 PM",
+      "freq": null,
+      "plus_code": "86J7HR3C+7M",
+      "city": "Fort Dodge",
+      "state": "IA",
+      "airport_name": "Fort Dodge Regional Airport",
+      "icao": "KFOD",
+      "iata": "FOD",
+      "region": "US",
+      "services": "Jet A and 100LL full and self service; 24-hour self-serve 100LL; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d0cbcfba090aab7f\""
+}

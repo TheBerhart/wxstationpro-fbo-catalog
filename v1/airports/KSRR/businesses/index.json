@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSRR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sierra Blanca Regional Airport",
+      "phone": "575-336-8111",
+      "website": "https://www.ruidoso-nm.gov/sbra-terminal-services",
+      "email": "sbra@ruidoso-nm.gov",
+      "street_address": "1000 NM-220",
+      "hours": "7:00 AM - 5:00 PM MST daily winter; 7:00 AM - 7:00 PM MDST summer",
+      "freq": null,
+      "plus_code": "855PFF86+58",
+      "city": "Alto",
+      "state": "NM",
+      "airport_name": "Sierra Blanca Regional Airport",
+      "icao": "KSRR",
+      "iata": "RUI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"9bc3993f8dbdbad4\""
+}

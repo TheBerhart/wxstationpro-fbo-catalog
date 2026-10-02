@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMOD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Modesto Jet Center",
+      "phone": "(209) 577-4654",
+      "website": "https://modestojet.com/fbo-services",
+      "email": "fly@modestojet.com",
+      "street_address": "825 Airport Way",
+      "hours": "24 hours",
+      "freq": null,
+      "plus_code": "849XJ2GX+FW",
+      "city": "Modesto",
+      "state": "CA",
+      "airport_name": "Modesto City Co-Harry Sham Field",
+      "icao": "KMOD",
+      "iata": "MOD",
+      "region": "US",
+      "services": "24-hour full-service FBO; Avfuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"d11db843c9a9390b\""
+}

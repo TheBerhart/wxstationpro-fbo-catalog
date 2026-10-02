@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KHXD",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Hilton Head",
       "phone": "(843) 689-3200",
       "website": "https://www.signatureaviation.com/locations/HXD",
-      "email": "HXD@signatureflight.com",
+      "email": "HXD@signatureaviation.com",
       "street_address": "52 Gateway Circle",
       "hours": "0600L - 2200L Call out available on request",
       "freq": "128.875",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"2a9291b625a43484\""
+  "etag": "\"2aeec3428be4fc10\""
 }

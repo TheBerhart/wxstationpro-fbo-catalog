@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGUP",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "KT Aero",
+      "phone": "(505) 879-0639",
+      "website": "https://www.gallupnm.gov/291/Airport",
+      "email": "operations@ktaero.com",
+      "street_address": null,
+      "hours": "8:00 AM-5:00 PM, 7 days",
+      "freq": null,
+      "plus_code": null,
+      "city": "Gallup",
+      "state": "NM",
+      "airport_name": "Gallup Municipal Airport",
+      "icao": "KGUP",
+      "iata": "GUP",
+      "region": "US",
+      "services": "Full FBO services",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"50a68384020b8e54\""
+}

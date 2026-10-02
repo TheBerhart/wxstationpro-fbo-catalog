@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHOU",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 5,
   "businesses": [
     {
@@ -56,7 +56,7 @@
       "website": "https://millionair.com/locations/hou/",
       "email": "info.hou@millionair.com",
       "street_address": "7555 Ipswich Rd.",
-      "hours": null,
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": "131.9",
       "plus_code": "76X6JPR7+W2F",
       "city": "Houston",
@@ -70,13 +70,13 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     },
     {
       "name": "Signature Houston",
       "phone": "(713) 353-5300",
       "website": "https://www.signatureaviation.com/locations/HOU",
-      "email": "HOU@signatureaviation.com",
+      "email": "Houston@signatureaviation.com",
       "street_address": "8402 Nelms Street",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.575",
@@ -92,7 +92,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     },
     {
       "name": "Wilson Air Center Houston",
@@ -117,5 +117,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"6eae9c6c0e5833d5\""
+  "etag": "\"d41d2f328db677a5\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFPR",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://appjetcenter.com/locations/fort-pierce-florida/",
       "email": "zmcdonald@appjetcenter.com",
       "street_address": "2982 Curtis King Boulevard",
-      "hours": null,
+      "hours": "Monday: 7:00 AM – 9:00 PM; Tuesday: 7:00 AM – 9:00 PM; Wednesday: 7:00 AM – 9:00 PM; Thursday: 7:00 AM – 9:00 PM; Friday: 7:00 AM – 9:00 PM; Saturday: 7:00 AM – 9:00 PM; Sunday: 7:00 AM – 9:00 PM",
       "freq": "129.025",
       "plus_code": "76VXFJMM+PJ8",
       "city": "Fort Pierce",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"2969350c253b70bf\""
+  "etag": "\"80cee5c3ba771c00\""
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KL45",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "BEST Aviation, LLC.",
+      "phone": "661-827-1121",
+      "website": "https://www.bestaviationllc.com/",
+      "email": "info@bestaviationllc.com",
+      "street_address": "410 E. Planz Road, Bakersfield, CA 93307",
+      "hours": "Monday: 7:00 AM – 5:30 PM; Tuesday: 7:00 AM – 5:30 PM; Wednesday: 7:00 AM – 5:30 PM; Thursday: 7:00 AM – 5:30 PM; Friday: 7:00 AM – 5:30 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "857382G2+4P",
+      "city": "Bakersfield",
+      "state": "CA",
+      "airport_name": "Bakersfield International Airport",
+      "icao": "KL45",
+      "iata": null,
+      "region": "US",
+      "services": "Fuel services; full-service ground support",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6d6036751655ba5b\""
+}

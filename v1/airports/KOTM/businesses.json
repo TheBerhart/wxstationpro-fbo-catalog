@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOTM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ottumwa Regional Airport",
+      "phone": "(641) 683-0619",
+      "website": "https://www.ottumwa.us/departments/airport/services.php",
+      "email": null,
+      "street_address": "14802 Terminal St",
+      "hours": "Summer Mon-Fri 7:00 AM-7:00 PM, Sat-Sun 8:00 AM-6:00 PM; winter Mon-Fri 7:00 AM-6:00 PM, Sat-Sun 8:00 AM-5:00 PM",
+      "freq": null,
+      "plus_code": "86H94H44+H5",
+      "city": "Ottumwa",
+      "state": "IA",
+      "airport_name": "Ottumwa Regional Airport",
+      "icao": "KOTM",
+      "iata": "OTM",
+      "region": "US",
+      "services": "100LL full-service and self-serve; Jet A full-service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"707f087920c1267b\""
+}

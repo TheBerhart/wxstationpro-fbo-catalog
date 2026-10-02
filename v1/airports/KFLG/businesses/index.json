@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFLG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Wiseman Aviation",
+      "phone": "928-779-9585",
+      "website": "https://flyflagstaffaz.com/general-aviation/fbo-and-fuel-sales/",
+      "email": null,
+      "street_address": "6200 S Pulliam Drive, Flagstaff, AZ 86005",
+      "hours": null,
+      "freq": null,
+      "plus_code": "857C48QG+H2",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "airport_name": "Flagstaff Pulliam Airport",
+      "icao": "KFLG",
+      "iata": "FLG",
+      "region": "US",
+      "services": "Fueling and ground services; pilot lounge; oxygen; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"81961b3cd7f28c31\""
+}

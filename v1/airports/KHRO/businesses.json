@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHRO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Fly Arkansas",
+      "phone": "(870) 741-4510",
+      "website": "https://flyarkansas.com/hro.html",
+      "email": "hro@flyarkansas.com",
+      "street_address": null,
+      "hours": "7 AM-7 PM daily",
+      "freq": "123.0",
+      "plus_code": null,
+      "city": "Harrison",
+      "state": "AR",
+      "airport_name": "Boone County Airport",
+      "icao": "KHRO",
+      "iata": "HRO",
+      "region": "US",
+      "services": "Full-service FBO; fueling",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2611000c73cbbf67\""
+}

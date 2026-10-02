@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMGC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Michigan City Municipal Airport",
+      "phone": "(219) 872-0121",
+      "website": "https://mgcairport.com/pilot-information/",
+      "email": null,
+      "street_address": "1300 IN-212, Michigan City, IN 46360",
+      "hours": "Staffed Monday–Friday 8:00 AM–4:00 PM CT; self-serve fuel 24/7",
+      "freq": null,
+      "plus_code": "86HMP53H+6M",
+      "city": "Michigan City",
+      "state": "IN",
+      "airport_name": "Michigan City Municipal Airport",
+      "icao": "KMGC",
+      "iata": "MGC",
+      "region": "US",
+      "services": "Phillips 66 Jet A with Prist, 100LL, and Swift UL-94; self-serve 24/7",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"16f7315e689765bf\""
+}

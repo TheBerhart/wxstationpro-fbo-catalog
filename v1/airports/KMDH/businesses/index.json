@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMDH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Flightline FBO",
+      "phone": "(618) 529-3377",
+      "website": "https://siairport.com/services/",
+      "email": null,
+      "street_address": null,
+      "hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": null,
+      "city": "Murphysboro",
+      "state": "IL",
+      "airport_name": "Southern Illinois Airport",
+      "icao": "KMDH",
+      "iata": "MDH",
+      "region": "US",
+      "services": "100LL and Jet A, full service and self-serve",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b2f3208d16f47167\""
+}

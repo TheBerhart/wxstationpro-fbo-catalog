@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGGW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Glasgow Valley County Airport",
+      "phone": "(406) 228-2719",
+      "website": "http://www.valleycountymtairport.com/airport-information.html",
+      "email": null,
+      "street_address": "89 Airport Road, Glasgow, MT 59230",
+      "hours": "Attended 0600-2000 daily; 100LL self-serve 24 hours",
+      "freq": "122.8",
+      "plus_code": "85WM695C+VV",
+      "city": "Glasgow",
+      "state": "MT",
+      "airport_name": "Glasgow Valley County Airport Wokal Field",
+      "icao": "KGGW",
+      "iata": "GGW",
+      "region": "US",
+      "services": "Phillips 66 Jet A premixed; 100LL truck and 24-hour self-serve; hangars; tie-downs",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e946a5dc857af9f1\""
+}

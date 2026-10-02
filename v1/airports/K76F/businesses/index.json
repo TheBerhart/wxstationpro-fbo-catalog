@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "K76F",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Van Zandt County Regional Airport",
+      "phone": "903-873-3381",
+      "website": "https://www.willspointtx.gov/airport",
+      "email": "ppearson@willspointtx.gov",
+      "street_address": "Van Zandt County Rgnl Airport, 36671 State Hwy 64, Wills Point, TX 75169",
+      "hours": null,
+      "freq": null,
+      "plus_code": "8646M2J8+9V",
+      "city": "Wills Point",
+      "state": "TX",
+      "airport_name": "Van Zandt County Regional Airport",
+      "icao": "K76F",
+      "iata": null,
+      "region": "US",
+      "services": "Self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"dd2a26045d25ce24\""
+}

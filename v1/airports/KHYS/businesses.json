@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHYS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Hays Aircraft",
+      "phone": "1-888-628-8881",
+      "website": "https://flyhays.com/fbo-services/",
+      "email": null,
+      "street_address": "3950 E 8th St., Hays, KS 67601",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "86C2VP3G+9G",
+      "city": "Hays",
+      "state": "KS",
+      "airport_name": "Hays Regional Airport",
+      "icao": "KHYS",
+      "iata": "HYS",
+      "region": "US",
+      "services": "Fuel service; maintenance; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5f18a8888bfe70b5\""
+}

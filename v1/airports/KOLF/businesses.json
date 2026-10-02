@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOLF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "L.M. Clayton Airport",
+      "phone": "(406) 653-1852",
+      "website": "https://ci.wolf-point.mt.us/publicworks/page/airport",
+      "email": "wppublicworks@nemont.net",
+      "street_address": "7057 MT-25",
+      "hours": "24-hour self-serve",
+      "freq": null,
+      "plus_code": "85WP3CWG+6R",
+      "city": "Wolf Point",
+      "state": "MT",
+      "airport_name": "L M Clayton Airport",
+      "icao": "KOLF",
+      "iata": "OLF",
+      "region": "US",
+      "services": "24-hour self-serve fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"bf690e38098df5fa\""
+}

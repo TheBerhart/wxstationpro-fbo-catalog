@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCEC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cal-Ore Life Flight",
+      "phone": "(707) 465-3804",
+      "website": "https://www.flycrescentcity.com/",
+      "email": null,
+      "street_address": "1741 Dale Rupert Road, Crescent City, CA 95531",
+      "hours": null,
+      "freq": null,
+      "plus_code": "84HQQQH8+25",
+      "city": "Crescent City",
+      "state": "CA",
+      "airport_name": "Jack Mc Namara Field Airport",
+      "icao": "KCEC",
+      "iata": "CEC",
+      "region": "US",
+      "services": "Mobile fueling; self-service fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"401d21445bbf8825\""
+}

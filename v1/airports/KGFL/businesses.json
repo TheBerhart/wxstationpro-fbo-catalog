@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGFL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Rich Air",
+      "phone": "(518) 798-3091",
+      "website": "https://flyrichair.com/about",
+      "email": null,
+      "street_address": "443 Queensbury Ave., Queensbury, NY 12804",
+      "hours": "Self-serve 100LL 24/7",
+      "freq": "123.0",
+      "plus_code": "87M889RV+MX",
+      "city": "Glens Falls",
+      "state": "NY",
+      "airport_name": "Floyd Bennett Memorial Airport",
+      "icao": "KGFL",
+      "iata": "GFL",
+      "region": "US",
+      "services": "Full-service fuel; self-serve 100LL 24/7; hangar; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"47c270ec684e5728\""
+}

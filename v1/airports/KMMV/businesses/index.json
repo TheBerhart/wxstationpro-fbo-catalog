@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMMV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Trimble Aviation",
+      "phone": "(503) 577-6371",
+      "website": "https://trimbleaviation.com/fbo",
+      "email": null,
+      "street_address": null,
+      "hours": "Mon-Fri 8:00 AM-5:00 PM; fuel available 24/7",
+      "freq": "122.8",
+      "plus_code": null,
+      "city": "McMinnville",
+      "state": "OR",
+      "airport_name": "McMinnville Municipal Airport",
+      "icao": "KMMV",
+      "iata": null,
+      "region": "US",
+      "services": "Full-service FBO; 100LL self and full; Jet A; JetPlus",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a0b086a53b0dd479\""
+}

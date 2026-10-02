@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KVRB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sun Aviation",
+      "phone": "772-562-9257",
+      "website": "https://www.sunaviation.com/fbo.htm",
+      "email": null,
+      "street_address": "3350 Cherokee Dr",
+      "hours": "Ramp and fuel services available 24/7",
+      "freq": null,
+      "plus_code": "76VXMH2M+C6",
+      "city": "Vero Beach",
+      "state": "FL",
+      "airport_name": "Vero Beach Regional Airport",
+      "icao": "KVRB",
+      "iata": "VRB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"3b67e8e249e52429\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIKK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kankakee Valley Airport Authority",
+      "phone": "815-939-1422",
+      "website": "https://www.greaterkankakeeairport.com/fbo-services",
+      "email": "admin@kvaa.com",
+      "street_address": "813 A East 4000 S Rd, Kankakee, IL 60901",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "86HJ3582+HC",
+      "city": "Kankakee",
+      "state": "IL",
+      "airport_name": "Greater Kankakee Airport",
+      "icao": "KIKK",
+      "iata": "IKK",
+      "region": "US",
+      "services": "100LL and Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"54c98709db2cee31\""
+}

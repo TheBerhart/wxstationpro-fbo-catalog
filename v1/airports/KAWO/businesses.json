@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAWO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Arlington Flight Services",
+      "phone": "360-435-5700",
+      "website": "https://www.arlingtonflightservices.org/",
+      "email": "business@arlingtonflightservices.com",
+      "street_address": "18810 59th Dr. NE, Bldg. 44A, Arlington, WA 98223",
+      "hours": "Mon-Fri 8:00 AM-4:30 PM; weekends by appointment",
+      "freq": null,
+      "plus_code": "84WV5R8W+QP",
+      "city": "Arlington",
+      "state": "WA",
+      "airport_name": "Arlington Municipal Airport",
+      "icao": "KAWO",
+      "iata": null,
+      "region": "US",
+      "services": "100LL; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"443c2e5fbe9010e6\""
+}

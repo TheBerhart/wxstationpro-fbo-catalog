@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSSI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Velocity KSSI",
+      "phone": "912-638-8617",
+      "website": "https://velocityfbo.com/locations/saint-simons-island-kssi/",
+      "email": "info.kssi@velocityfbo.com",
+      "street_address": "115 Terminal Way",
+      "hours": "24/7 full-service operations",
+      "freq": null,
+      "plus_code": "863W5J47+59",
+      "city": "St Simons Island",
+      "state": "GA",
+      "airport_name": "St Simons Island Airport",
+      "icao": "KSSI",
+      "iata": "SSI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a4df20942dd8fb9e\""
+}

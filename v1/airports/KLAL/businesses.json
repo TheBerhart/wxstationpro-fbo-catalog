@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLAL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Aero Center Lakeland West",
+      "phone": "863-644-4460",
+      "website": "https://www.flylakeland.com/pilot-information",
+      "email": null,
+      "street_address": "4050 Airport Rd, Lakeland, FL 33811",
+      "hours": "6:00 AM–10:00 PM daily; fuel available 24/7",
+      "freq": "129.95",
+      "plus_code": "76VVXXRJ+RG",
+      "city": "Lakeland",
+      "state": "FL",
+      "airport_name": "Lakeland Linder International Airport",
+      "icao": "KLAL",
+      "iata": "LAL",
+      "region": "US",
+      "services": "Jet-A and 100LL; fuel available 24/7; full service 6:00 AM–10:00 PM",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1aac7f3122fc984b\""
+}

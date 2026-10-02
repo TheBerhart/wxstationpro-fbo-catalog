@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPRX",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cox Field",
+      "phone": "(903) 784-4648",
+      "website": "https://paristexas.gov/airport",
+      "email": null,
+      "street_address": "6780 Collier Dr",
+      "hours": "8:00 AM-5:00 PM Monday-Saturday",
+      "freq": "122.975",
+      "plus_code": "8656JGPR+R5",
+      "city": "Paris",
+      "state": "TX",
+      "airport_name": "Cox Field",
+      "icao": "KPRX",
+      "iata": "PRX",
+      "region": "US",
+      "services": "100LL self-serve and full-service; Jet-A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"bbe21132dd2f1692\""
+}

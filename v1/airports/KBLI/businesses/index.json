@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBLI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Bellingham Aviation Services",
+      "phone": "(360) 676-8878",
+      "website": "https://bli-jet.com/",
+      "email": "info@bli-jet.com",
+      "street_address": "4201 Mitchell Way, Bellingham, WA 98226",
+      "hours": "05:00-21:00 daily; avgas self-serve 24 hours",
+      "freq": null,
+      "plus_code": "84WVQFV9+GC",
+      "city": "Bellingham",
+      "state": "WA",
+      "airport_name": "Bellingham International Airport",
+      "icao": "KBLI",
+      "iata": "BLI",
+      "region": "US",
+      "services": "Jet A; avgas; self-serve avgas",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"390e1dfa822de407\""
+}

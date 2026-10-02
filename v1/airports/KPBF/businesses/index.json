@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPBF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Pine Bluff Regional Airport",
+      "phone": "(870) 534-4131",
+      "website": "https://www.pbf-airport.com/fbo/",
+      "email": null,
+      "street_address": "709 Hangar Row",
+      "hours": "8:00 AM-6:00 PM, seven days",
+      "freq": null,
+      "plus_code": "866C53J6+5M",
+      "city": "Pine Bluff",
+      "state": "AR",
+      "airport_name": "Pine Bluff Regional Airport, Grider Field",
+      "icao": "KPBF",
+      "iata": "PBF",
+      "region": "US",
+      "services": "100LL and Jet-A full-service and self-serve",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5e9a837bffda29f2\""
+}

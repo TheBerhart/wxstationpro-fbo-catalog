@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOSH",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Basler Flight Service",
+      "phone": "(920) 236-7827",
+      "website": "https://www.baslerflightservice.com/general-information.html",
+      "email": "bfs@baslerflightservice.com",
+      "street_address": "525 W 20th Ave",
+      "hours": "Monday-Friday 7:00 AM-7:00 PM; Saturday-Sunday 8:00 AM-5:00 PM; 100LL self-serve 24 hours",
+      "freq": null,
+      "plus_code": "86MHXCVX+P5",
+      "city": "Oshkosh",
+      "state": "WI",
+      "airport_name": "Wittman Regional Airport",
+      "icao": "KOSH",
+      "iata": "OSH",
+      "region": "US",
+      "services": "Titan Jet A; 100LL; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ed0ab3cbaa9b25e4\""
+}

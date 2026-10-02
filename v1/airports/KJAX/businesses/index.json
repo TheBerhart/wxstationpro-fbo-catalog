@@ -1,16 +1,38 @@
 {
   "schema_version": 1,
   "airport_ident": "KJAX",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
-  "count": 1,
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Sheltair Jacksonville",
+      "phone": "904-741-0904",
+      "website": "https://www.sheltairaviation.com/locations/jax/",
+      "email": "info-jax@sheltairaviation.com",
+      "street_address": "14600 Whirlwind Ave., Jacksonville, FL 32218",
+      "hours": "24/7",
+      "freq": "130.8",
+      "plus_code": "862WF8W9+V8",
+      "city": "Jacksonville",
+      "state": "FL",
+      "airport_name": "Jacksonville International Airport",
+      "icao": "KJAX",
+      "iata": "JAX",
+      "region": "US",
+      "services": "Fuel; ground support; concierge; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    },
     {
       "name": "Signature Jacksonville",
       "phone": "(904) 741-2201",
       "website": "https://www.signatureaviation.com/locations/JAX",
-      "email": "JAX@signatureflight.com",
+      "email": "JAX@signatureaviation.com",
       "street_address": "14700 Yonge Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "132",
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"20c64c9cce7d5568\""
+  "etag": "\"9f6dbb37bb03297a\""
 }

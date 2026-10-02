@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSTJ",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Pan Am Flight Services",
+      "phone": "816-233-3444",
+      "website": "https://fbo.panam.com/",
+      "email": "staff@panamfs.com",
+      "street_address": "300 NW Rosecrans Road",
+      "hours": "7 a.m. to 7 p.m.",
+      "freq": null,
+      "plus_code": "86F7Q3FW+5R",
+      "city": "St Joseph",
+      "state": "MO",
+      "airport_name": "Rosecrans Memorial Airport",
+      "icao": "KSTJ",
+      "iata": "STJ",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"85d321285600f019\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEAU",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ascension FBO",
+      "phone": "(715) 835-3181",
+      "website": "https://ascensionfbo.com/location/eauclaire/",
+      "email": "eau@ascensionfbo.com",
+      "street_address": "3800 Starr Ave, Eau Claire, WI 54703",
+      "hours": "Daily 5:00 AM-10:00 PM; after hours on request",
+      "freq": null,
+      "plus_code": "86PCVG79+FF",
+      "city": "Eau Claire",
+      "state": "WI",
+      "airport_name": "Chippewa Valley Regional Airport",
+      "icao": "KEAU",
+      "iata": "EAU",
+      "region": "US",
+      "services": "100LL; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"144543fa480580e8\""
+}

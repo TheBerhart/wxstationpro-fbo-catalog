@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCSV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Crossville Memorial Airport",
+      "phone": "(931) 484-5278",
+      "website": "https://www.flycrossville.com/aviation-fuel/",
+      "email": "kcsv@azureflightsupport.com",
+      "street_address": "103 Airport Way, Crossville, TN 38555",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "867PXW38+JQ",
+      "city": "Crossville",
+      "state": "TN",
+      "airport_name": "Crossville Memorial Airport Whitson Field",
+      "icao": "KCSV",
+      "iata": "CSV",
+      "region": "US",
+      "services": "Titan aviation fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"662e7bd644acb153\""
+}

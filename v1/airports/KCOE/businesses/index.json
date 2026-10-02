@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCOE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "StanCraft Jet Center",
+      "phone": "208-772-6404",
+      "website": "https://www.stancraftjet.com/service/fuel",
+      "email": "frontdesk@stancraftjet.com",
+      "street_address": "3300 Aviation Way, Hayden, ID 83835",
+      "hours": "Monday: 6:30 AM – 8:30 PM; Tuesday: 6:30 AM – 8:30 PM; Wednesday: 6:30 AM – 8:30 PM; Thursday: 6:30 AM – 8:30 PM; Friday: 6:30 AM – 8:30 PM; Saturday: 6:30 AM – 8:30 PM; Sunday: 6:30 AM – 8:30 PM",
+      "freq": null,
+      "plus_code": null,
+      "city": "Coeur d'Alene",
+      "state": "ID",
+      "airport_name": "Coeur D'Alene Airport - Pappy Boyington Field",
+      "icao": "KCOE",
+      "iata": "COE",
+      "region": "US",
+      "services": "Full and self-serve Jet A; full and self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b2888909d1ca48f0\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOSU",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "The Ohio State University Airport",
+      "phone": "(614) 292-5580",
+      "website": "https://osuairportfbo.org/fuel-prices-and-fees",
+      "email": "fbo@osu.edu",
+      "street_address": "2160 W Case Rd",
+      "hours": "Daily 7:00 AM-10:00 PM",
+      "freq": null,
+      "plus_code": "86GR3WGG+22",
+      "city": "Columbus",
+      "state": "OH",
+      "airport_name": "The Ohio State University Airport - Don Scott Field",
+      "icao": "KOSU",
+      "iata": "OSU",
+      "region": "US",
+      "services": "Avfuel; jet fuel; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"bcdef3b3b01b4959\""
+}

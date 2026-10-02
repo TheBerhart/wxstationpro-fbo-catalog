@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KSAN",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature San Diego",
       "phone": "(619) 298-7704",
       "website": "https://www.signatureaviation.com/locations/SAN",
-      "email": "SAN@signatureflight.com",
+      "email": "SAN@signatureaviation.com",
       "street_address": "3300 Admiral Boland Way",
       "hours": "0530L - 2200L Call out available on request",
       "freq": "129.975",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"a980dc95ed4aed22\""
+  "etag": "\"dc11761fa4c9646f\""
 }

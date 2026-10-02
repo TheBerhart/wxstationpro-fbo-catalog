@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KABI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Freeman Jet Center",
+      "phone": "325-677-2601",
+      "website": "https://fjcabi.com/aircraft-fueling-abilene-tx/",
+      "email": null,
+      "street_address": "2850 Airport Blvd, Abilene, TX 79602",
+      "hours": "24 hour fueling",
+      "freq": "122.95",
+      "plus_code": "8642C879+9G",
+      "city": "Abilene",
+      "state": "TX",
+      "airport_name": "Abilene Regional Airport",
+      "icao": "KABI",
+      "iata": "ABI",
+      "region": "US",
+      "services": "Full-service Jet A and 100LL; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"47e70820874f1930\""
+}

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMDW",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 2,
   "businesses": [
     {
@@ -32,7 +32,7 @@
       "name": "Signature Chicago Midway",
       "phone": "(773) 767-4400",
       "website": "https://www.signatureaviation.com/locations/MDW",
-      "email": "mdw@signatureaviation.com",
+      "email": "MDW@signatureaviation.com",
       "street_address": "5821 S Central Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "128.925",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"62aea76f1f3191ff\""
+  "etag": "\"3016e306cb471e33\""
 }

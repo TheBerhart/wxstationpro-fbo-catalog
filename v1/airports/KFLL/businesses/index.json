@@ -1,16 +1,38 @@
 {
   "schema_version": 1,
   "airport_ident": "KFLL",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
-  "count": 1,
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Sheltair Fort Lauderdale",
+      "phone": "954-359-3200",
+      "website": "https://www.sheltairaviation.com/locations/fll/",
+      "email": "info-fll@sheltairaviation.com",
+      "street_address": "1100 Lee Wagener Blvd., Fort Lauderdale, FL 33315",
+      "hours": "24/7",
+      "freq": "130.1",
+      "plus_code": "76RX3R9V+QM",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "airport_name": "Fort Lauderdale-Hollywood International Airport",
+      "icao": "KFLL",
+      "iata": "FLL",
+      "region": "US",
+      "services": "Fuel; ground support; concierge; hangar; customs",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    },
     {
       "name": "Signature Fort Lauderdale Hollywood",
       "phone": "(954) 359-0000",
       "website": "https://www.signatureaviation.com/locations/FLL",
-      "email": "FLL@signatureflight.com",
+      "email": "FLL@signatureaviation.com",
       "street_address": "4050 Sw 11th Terrace",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.72",
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"c66b668ea5602bc1\""
+  "etag": "\"0199b6c40bd00259\""
 }

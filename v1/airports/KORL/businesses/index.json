@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KORL",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
-  "count": 1,
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Atlantic Aviation Orlando",
@@ -27,7 +27,29 @@
       "confidence": "high",
       "source": "operator_website",
       "source_updated_at": "2026-09-10"
+    },
+    {
+      "name": "Sheltair Orlando Executive",
+      "phone": "407-392-0440",
+      "website": "https://www.sheltairaviation.com/locations/orl/",
+      "email": "info-orl@sheltairaviation.com",
+      "street_address": "3051 East Livingston Street, Orlando, FL 32803",
+      "hours": "0600-2200",
+      "freq": "131.6",
+      "plus_code": "76WWGMX4+4F",
+      "city": "Orlando",
+      "state": "FL",
+      "airport_name": "Orlando Executive Airport",
+      "icao": "KORL",
+      "iata": "ORL",
+      "region": "US",
+      "services": "Fuel; self-serve AVGAS; ground support; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"a06e9b396ac32247\""
+  "etag": "\"507785fdf288d9ae\""
 }

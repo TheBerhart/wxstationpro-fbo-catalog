@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHZY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Northeast Ohio Regional Airport",
+      "phone": "(440) 576-9271",
+      "website": "https://flyhzy.com/aircraft-services/",
+      "email": "manager@flyhzy.com",
+      "street_address": "2382 Airport Road, Jefferson, OH 44047",
+      "hours": "Self-serve 100LL 24 hours; Jet-A after-hours callout",
+      "freq": null,
+      "plus_code": "86HXQ8H2+HR",
+      "city": "Ashtabula",
+      "state": "OH",
+      "airport_name": "Northeast Ohio Regional Airport",
+      "icao": "KHZY",
+      "iata": "JFN",
+      "region": "US",
+      "services": "Self-serve 100LL 24 hours; Jet-A from a truck, pre-mixed with Prist",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0898b3d3d85d2d55\""
+}

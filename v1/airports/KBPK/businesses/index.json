@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBPK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Big Air",
+      "phone": "870-402-9000",
+      "website": "https://flybigair.com/fuel/",
+      "email": "fbo@bayirdbigair.com",
+      "street_address": "59 Airport Place, Midway, AR 72651",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86899GCM+2R",
+      "city": "Mountain Home",
+      "state": "AR",
+      "airport_name": "Ozark Regional Airport",
+      "icao": "KBPK",
+      "iata": "WMH",
+      "region": "US",
+      "services": "Full-service Jet A; full and self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4d05bed0e7df5304\""
+}

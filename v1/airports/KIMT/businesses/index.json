@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIMT",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kubick Aviation",
+      "phone": "(906) 779-5500",
+      "website": "https://kubickaviation.com/ford-airport-kimt-aviation-services-kubick-aviation/",
+      "email": "info@kubickaviation.com",
+      "street_address": "250 Riverhills Rd, Kingsford, MI 49802",
+      "hours": "Monday–Friday 7:00 AM–7:00 PM; Saturday–Sunday 7:00 AM–5:00 PM; after-hours available",
+      "freq": null,
+      "plus_code": "86QHRV7J+8V",
+      "city": "Kingsford",
+      "state": "MI",
+      "airport_name": "Ford Airport",
+      "icao": "KIMT",
+      "iata": "IMT",
+      "region": "US",
+      "services": "Full-service FBO; Jet A and 100LL full-service and call-out",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"95428844cbe8427e\""
+}

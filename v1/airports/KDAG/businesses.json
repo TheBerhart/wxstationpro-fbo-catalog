@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDAG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Barstow-Daggett Airport",
+      "phone": "(760) 247-2371",
+      "website": "https://airports.sbcounty.gov/barstow-daggett-airport/",
+      "email": null,
+      "street_address": "39500 National Trails Highway, Box 3, Daggett, CA 92327",
+      "hours": null,
+      "freq": null,
+      "plus_code": "8565V645+F9",
+      "city": "Daggett",
+      "state": "CA",
+      "airport_name": "Barstow Daggett Airport",
+      "icao": "KDAG",
+      "iata": "DAG",
+      "region": "US",
+      "services": "Fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"cccaffe89e1717dd\""
+}

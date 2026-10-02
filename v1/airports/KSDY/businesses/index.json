@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSDY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Richland Aviation",
+      "phone": "(406) 482-1832",
+      "website": "https://richlandaviation.com/sidney-montana-aviation-services/fbo-services-maintenance/",
+      "email": "fbo@richlandaviation.com",
+      "street_address": "544 Airport Rd.",
+      "hours": "Open daily 0700 – 2000 MST; available 24 hours",
+      "freq": "122.800",
+      "plus_code": "85VQPR68+C8",
+      "city": "Sidney",
+      "state": "MT",
+      "airport_name": "Sidney - Richland Regional Airport",
+      "icao": "KSDY",
+      "iata": "SDY",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6f0874b3f8b9882d\""
+}

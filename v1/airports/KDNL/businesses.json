@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDNL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Augusta Aviation, Inc",
+      "phone": "(706) 733-8970",
+      "website": "https://augustaaviation.com/line-services/",
+      "email": "info@augustaaviation.com",
+      "street_address": "1775 Highland Ave, Augusta, GA 30904",
+      "hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "865VFX87+J8",
+      "city": "Augusta",
+      "state": "GA",
+      "airport_name": "Daniel Field",
+      "icao": "KDNL",
+      "iata": "DNL",
+      "region": "US",
+      "services": "Avgas; line fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"735d3ea582f7bd2a\""
+}

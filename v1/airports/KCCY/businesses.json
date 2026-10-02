@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCCY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Charles City Aeronautics",
+      "phone": "(641) 228-3553",
+      "website": "https://northiowaair.com/",
+      "email": "info@northiowaair.com",
+      "street_address": "3129 HWY 18, Charles City, IA 50616",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86M939CQ+FW",
+      "city": "Charles City",
+      "state": "IA",
+      "airport_name": "Northeast Iowa Regional Airport",
+      "icao": "KCCY",
+      "iata": "CCY",
+      "region": "US",
+      "services": "Aircraft fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"45bce9cbe98255af\""
+}

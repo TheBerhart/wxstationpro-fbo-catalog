@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCDR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "J&J Aero Services",
+      "phone": "(605) 423-1010",
+      "website": "https://chadron-nebraska.com/486/Fixed-Base-Operator",
+      "email": "JandJaero20@gmail.com",
+      "street_address": "100 Airport Rd, Chadron, NE 69337",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85JRRWH2+HW",
+      "city": "Chadron",
+      "state": "NE",
+      "airport_name": "Chadron Municipal Airport",
+      "icao": "KCDR",
+      "iata": "CDR",
+      "region": "US",
+      "services": "Jet A; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"58a7763c42a8b692\""
+}

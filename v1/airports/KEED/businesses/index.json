@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEED",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Paradice Aviation",
+      "phone": "(760) 326-5263",
+      "website": "https://airports.sbcounty.gov/needles-airport/",
+      "email": null,
+      "street_address": "711 Airport Road, Needles, CA 92363",
+      "hours": null,
+      "freq": null,
+      "plus_code": "8567Q97H+49",
+      "city": "Needles",
+      "state": "CA",
+      "airport_name": "Needles Airport",
+      "icao": "KEED",
+      "iata": "EED",
+      "region": "US",
+      "services": "Fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e436319cbc6b34ca\""
+}

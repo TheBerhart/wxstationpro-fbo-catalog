@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHUF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Hoosier Aviation",
+      "phone": "(812) 877-7600",
+      "website": "https://hoosieraviation.com/index.php/fbo-pilot-services.html",
+      "email": null,
+      "street_address": "581 South Airport Street, Terre Haute, IN 47803",
+      "hours": "Monday-Saturday 7 AM-9 PM; Sunday 7 AM-7 PM",
+      "freq": null,
+      "plus_code": "86FJFM6X+JG",
+      "city": "Terre Haute",
+      "state": "IN",
+      "airport_name": "Terre Haute Regional Airport, Hulman Field",
+      "icao": "KHUF",
+      "iata": "HUF",
+      "region": "US",
+      "services": "100LL and Jet A with Prist; deice; hangar; maintenance",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"f4fb6072b37df004\""
+}

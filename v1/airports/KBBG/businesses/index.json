@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBBG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Branson Jet Center",
+      "phone": "417-334-8234",
+      "website": "https://bransonjetcenter.com/",
+      "email": null,
+      "street_address": "130 Wright Brothers Rd, Hollister, MO 65672",
+      "hours": "Open 7:00 AM-7:00 PM daily; 24-hour fueling available",
+      "freq": "122.95",
+      "plus_code": "8688GRP2+4V",
+      "city": "Branson",
+      "state": "MO",
+      "airport_name": "Branson Airport",
+      "icao": "KBBG",
+      "iata": "BKG",
+      "region": "US",
+      "services": "Jet A; 100LL full service; 100LL self service",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"54b945defdf59f40\""
+}

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KMHT",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Manchester-Boston",
       "phone": "(603) 782-0151",
       "website": "https://www.signatureaviation.com/locations/MHT",
-      "email": "MHT@signatureflight.com",
+      "email": "MHT@signatureaviation.com",
       "street_address": "1 Garside Way",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.325",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"382ef758a7286127\""
+  "etag": "\"d448d1456b5e33fa\""
 }

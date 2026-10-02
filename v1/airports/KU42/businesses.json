@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KU42",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "SkyShare",
+      "phone": null,
+      "website": "https://www.skyshare.com/press-release/skyshare-selected-to-operate-fbo-and-lead-real-estate-development-at-south-valley-regional-airport/",
+      "email": null,
+      "street_address": null,
+      "hours": null,
+      "freq": null,
+      "plus_code": null,
+      "city": "Salt Lake City",
+      "state": "UT",
+      "airport_name": "South Valley Regional Airport",
+      "icao": "KU42",
+      "iata": null,
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"fc12d8e7d530c1a7\""
+}

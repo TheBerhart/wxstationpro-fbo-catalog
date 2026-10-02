@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMPV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Vermont Flying Service",
+      "phone": "(802) 223-2221",
+      "website": "https://vtrans.vermont.gov/aviation/airports/knapp",
+      "email": "vtflysvc@myfairpoint.net",
+      "street_address": "1979 Airport Rd",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87P95CXQ+WM",
+      "city": "Barre/Montpelier",
+      "state": "VT",
+      "airport_name": "Edward F Knapp State Airport",
+      "icao": "KMPV",
+      "iata": "MPV",
+      "region": "US",
+      "services": "Jet A; 100LL; FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"00a9ed2740998b9c\""
+}

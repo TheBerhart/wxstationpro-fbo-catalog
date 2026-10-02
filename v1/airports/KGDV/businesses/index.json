@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGDV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Dawson Community Airport",
+      "phone": "(406) 687-3372",
+      "website": "https://www.dawsonmt.gov/departments/airport/fuel_facilities.php",
+      "email": null,
+      "street_address": "400 Airport Rd, Glendive, MT 59330, USA",
+      "hours": "100LL self-serve 24 hours",
+      "freq": null,
+      "plus_code": "85VQ45PR+FH",
+      "city": "Glendive",
+      "state": "MT",
+      "airport_name": "Dawson Community Airport",
+      "icao": "KGDV",
+      "iata": "GDV",
+      "region": "US",
+      "services": "Self-serve Jet A with anti-ice; self-serve 100LL 24 hours",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"87aa43bfaec5c595\""
+}

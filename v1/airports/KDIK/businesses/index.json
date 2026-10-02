@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDIK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Western Edge Aviation",
+      "phone": "(701) 483-4221",
+      "website": "https://www.westernedgeaviation.com/fbo-services",
+      "email": null,
+      "street_address": "11160 42 St SW, Dickinson, ND 58601",
+      "hours": "Daily 8am-5pm; 24/7 on call; self-serve 100LL 24 hours",
+      "freq": null,
+      "plus_code": "85RVR53X+6J",
+      "city": "Dickinson",
+      "state": "ND",
+      "airport_name": "Dickinson Theodore Roosevelt Regional Airport",
+      "icao": "KDIK",
+      "iata": "DIK",
+      "region": "US",
+      "services": "Jet A; 100LL; self-serve 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"3fba9fffec784b7f\""
+}

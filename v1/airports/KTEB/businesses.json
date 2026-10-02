@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KTEB",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 5,
   "businesses": [
     {
@@ -98,7 +98,7 @@
       "name": "Signature Teterboro - Terminal West",
       "phone": "(201) 288-1880",
       "website": "https://www.signatureaviation.com/locations/TEB-W",
-      "email": "teb@meridian.aero",
+      "email": "TEBWest@signatureaviation.com",
       "street_address": "485 Industrial Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.525",
@@ -114,8 +114,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"40a7961d295cc96d\""
+  "etag": "\"dff4723299b4e343\""
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOGB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Orangeburg Municipal Airport",
+      "phone": "(803) 534-5545",
+      "website": "https://www.orangeburg.sc.us/orangeburg-municipal-airport",
+      "email": null,
+      "street_address": "1811 Airport Road",
+      "hours": "100LL and Jet-A available 24/7",
+      "freq": null,
+      "plus_code": "865XF48V+8H",
+      "city": "Orangeburg",
+      "state": "SC",
+      "airport_name": "Orangeburg Municipal Airport",
+      "icao": "KOGB",
+      "iata": "OGB",
+      "region": "US",
+      "services": "100LL; Jet-A; city FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0ef010d12459501c\""
+}

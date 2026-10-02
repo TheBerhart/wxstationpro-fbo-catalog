@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KONO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Silverhawk Aviation Academy Oregon",
+      "phone": "(541) 889-9197",
+      "website": "https://www.silverhawkaviation.net/ontariofbo",
+      "email": null,
+      "street_address": "581 SW 33rd St",
+      "hours": "Monday-Friday 9:00 AM-5:00 PM; after-hours by appointment",
+      "freq": null,
+      "plus_code": "85P42XFR+35",
+      "city": "Ontario",
+      "state": "OR",
+      "airport_name": "Ontario Municipal Airport",
+      "icao": "KONO",
+      "iata": "ONO",
+      "region": "US",
+      "services": "Self-serve and full-service 100LL and Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"dec945fdf3294965\""
+}

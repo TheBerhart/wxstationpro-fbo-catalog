@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCRE",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Beach Aviation Services",
+      "phone": "(843) 848-7400",
+      "website": "https://www.beachaviationservices.com/grand-strand-airport-cre/",
+      "email": "nmba@flymyrtlebeach.com",
+      "street_address": "2800 Terminal Street, North Myrtle Beach, SC 29582",
+      "hours": "FBO 0700-2100; self-serve 100LL 24 hours",
+      "freq": "122.95",
+      "plus_code": "8753R76H+39",
+      "city": "North Myrtle Beach",
+      "state": "SC",
+      "airport_name": "Grand Strand Airport",
+      "icao": "KCRE",
+      "iata": "CRE",
+      "region": "US",
+      "services": "Full-service Jet A and 100LL; self-serve 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"869ecfdb19d8796d\""
+}

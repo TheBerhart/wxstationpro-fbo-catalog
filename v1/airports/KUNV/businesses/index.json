@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUNV",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Penn State Aviation Center",
+      "phone": "814-865-4042",
+      "website": "https://aviationcenter.psu.edu/fuel",
+      "email": null,
+      "street_address": "2535 Fox Hill Road",
+      "hours": "Open 24/7",
+      "freq": null,
+      "plus_code": "87G4V544+JX",
+      "city": "State College",
+      "state": "PA",
+      "airport_name": "State College Regional Airport",
+      "icao": "KUNV",
+      "iata": "SCE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c3b320eaaeaf9c20\""
+}

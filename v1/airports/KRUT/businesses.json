@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRUT",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
@@ -12,7 +12,7 @@
       "website": "https://modern-aviation.com/?location=rutland-fbo",
       "email": "RUT@modern-aviation.com",
       "street_address": "1004 Airport Road",
-      "hours": null,
+      "hours": "Monday: 7:00 AM – 7:30 PM; Tuesday: 7:00 AM – 7:30 PM; Wednesday: 7:00 AM – 7:30 PM; Thursday: 7:00 AM – 7:30 PM; Friday: 7:00 AM – 7:30 PM; Saturday: 7:00 AM – 7:30 PM; Sunday: 7:00 AM – 7:30 PM",
       "freq": null,
       "plus_code": "87M9G3H3+3VF",
       "city": "North Clarendon",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"b2b8e582b801aeb2\""
+  "etag": "\"d4ad6499b320c954\""
 }

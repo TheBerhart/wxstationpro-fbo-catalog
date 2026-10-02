@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGGG",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "KRS Jet Center",
+      "phone": "(903) 643-2010",
+      "website": "https://www.krsjetcenter.com/about-us",
+      "email": null,
+      "street_address": "151 Skyway Drive, Longview, TX 75603",
+      "hours": "Full-service 5:30 AM-9:00 PM; self-serve 24 hours",
+      "freq": null,
+      "plus_code": "864797JJ+V8",
+      "city": "Longview",
+      "state": "TX",
+      "airport_name": "East Texas Regional Airport",
+      "icao": "KGGG",
+      "iata": "GGG",
+      "region": "US",
+      "services": "Self-serve fuel 24 hours; full-service fuel; hangar",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"27e3323be1dd244e\""
+}

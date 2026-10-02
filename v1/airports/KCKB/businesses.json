@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCKB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "V1 Aviation",
+      "phone": "(304) 848-6700",
+      "website": "https://flyckb.com/contact/",
+      "email": null,
+      "street_address": "2000 Aviation Way, Bridgeport, WV 26330",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "86FX7QW9+PH",
+      "city": "Bridgeport",
+      "state": "WV",
+      "airport_name": "North Central West Virginia Airport",
+      "icao": "KCKB",
+      "iata": "CKB",
+      "region": "US",
+      "services": "Staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b45c81154e668317\""
+}

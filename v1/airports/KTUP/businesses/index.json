@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTUP",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Tupelo Aviation Unlimited",
+      "phone": "662.823.4359",
+      "website": "https://www.airlinems.com/fbo-management/tupelo-aviation-unlimited/",
+      "email": null,
+      "street_address": "105 Lemons Dr",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "866H767M+77",
+      "city": "Tupelo",
+      "state": "MS",
+      "airport_name": "Tupelo Regional Airport",
+      "icao": "KTUP",
+      "iata": "TUP",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1a8cc183457c1a82\""
+}

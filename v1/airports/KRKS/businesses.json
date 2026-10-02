@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRKS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sweetwater Aviation",
+      "phone": "307-352-6888",
+      "website": "https://sweetwaterfbo.com/fbo-services/",
+      "email": "ops@flyrks.com",
+      "street_address": "468 HWY 370",
+      "hours": "Monday: 4:00 AM – 10:00 PM; Tuesday: 4:00 AM – 10:00 PM; Wednesday: 4:00 AM – 10:00 PM; Thursday: 4:00 AM – 10:00 PM; Friday: 4:00 AM – 10:00 PM; Saturday: 4:00 AM – 10:00 PM; Sunday: 4:00 AM – 10:00 PM",
+      "freq": "122.80",
+      "plus_code": "85HGJW2J+JP",
+      "city": "Rock Springs",
+      "state": "WY",
+      "airport_name": "Southwest Wyoming Regional Airport",
+      "icao": "KRKS",
+      "iata": "RKS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"eb31bf328aee4417\""
+}

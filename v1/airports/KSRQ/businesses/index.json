@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KSRQ",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
-  "count": 1,
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Atlantic Aviation Sarasota",
@@ -27,7 +27,29 @@
       "confidence": "high",
       "source": "operator_website",
       "source_updated_at": "2026-09-10"
+    },
+    {
+      "name": "Sheltair Sarasota",
+      "phone": "941-274-5100",
+      "website": "https://www.sheltairaviation.com/locations/srq/",
+      "email": "info-srq@sheltairaviation.com",
+      "street_address": "814 Clyde Jones Road, Sarasota, FL 34243",
+      "hours": "0600-2200",
+      "freq": "122.775",
+      "plus_code": "76VVCC3W+2M",
+      "city": "Sarasota",
+      "state": "FL",
+      "airport_name": "Sarasota Bradenton International Airport",
+      "icao": "KSRQ",
+      "iata": "SRQ",
+      "region": "US",
+      "services": "Fuel; ground support; concierge; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"358ee2f0faaf79cb\""
+  "etag": "\"0e523e796b330d4f\""
 }

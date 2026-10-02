@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KARA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Freeman Jet Center Acadiana",
+      "phone": "+1-337-367-1401",
+      "website": "https://freemanholdingsgroup.com/aviation/freemanjetcenterara/",
+      "email": "info.ara@freemanjetcenter.com",
+      "street_address": "1314 Hangar Dr, New Iberia, LA 70560",
+      "hours": "Weekdays 07:00-19:30; weekends 08:00-18:30",
+      "freq": "122.95",
+      "plus_code": "862C24JF+R9",
+      "city": "New Iberia",
+      "state": "LA",
+      "airport_name": "Acadiana Regional Airport",
+      "icao": "KARA",
+      "iata": "ARA",
+      "region": "US",
+      "services": "Aviation fuel; ground services",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c5b88e27c3bc1c31\""
+}

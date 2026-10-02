@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCGI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cape Aviation",
+      "phone": "573-335-6632",
+      "website": "https://flycgi.com/general-aviation/",
+      "email": null,
+      "street_address": "750 Rush H. Limbaugh Jr. Memorial Drive, Cape Girardeau, MO 63703",
+      "hours": "Mon-Fri 6am-7pm; Sat-Sun 6am-6pm",
+      "freq": "122.95",
+      "plus_code": null,
+      "city": "Cape Girardeau",
+      "state": "MO",
+      "airport_name": "Cape Girardeau Regional Airport",
+      "icao": "KCGI",
+      "iata": "CGI",
+      "region": "US",
+      "services": "Fueling; Jet A with FSII; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7b6aead046cf01cf\""
+}

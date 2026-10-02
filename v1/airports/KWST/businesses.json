@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KWST",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "FlightLevel Aviation",
+      "phone": "401.596.2357",
+      "website": "https://www.flightlevelaviation.com/westerly-ri/",
+      "email": null,
+      "street_address": "56 Airport Road",
+      "hours": "Monday-Sunday 0800-1600; 24-hour self-serve 100LL",
+      "freq": null,
+      "plus_code": "87HC85XV+X7",
+      "city": "Westerly",
+      "state": "RI",
+      "airport_name": "Westerly State Airport",
+      "icao": "KWST",
+      "iata": "WST",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6833b527c9b7c2a6\""
+}

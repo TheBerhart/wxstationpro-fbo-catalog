@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLGU",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "LE Aviation - Leading Edge Aviation",
+      "phone": "(435) 752-5955",
+      "website": "https://leaviation.com/fbo-services-klgu/",
+      "email": null,
+      "street_address": "2500 N 900 W, Logan, UT 84321",
+      "hours": "Monday–Saturday 7:00 AM–7:00 PM; Sunday 9:00 AM–5:00 PM; 24-hour callout",
+      "freq": null,
+      "plus_code": "85HCQ4JW+2Q",
+      "city": "Logan",
+      "state": "UT",
+      "airport_name": "Logan-Cache Airport",
+      "icao": "KLGU",
+      "iata": "LGU",
+      "region": "US",
+      "services": "Avgas and jet fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"951b8ef467e56f10\""
+}

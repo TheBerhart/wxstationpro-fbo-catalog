@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCVN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "CVN Aviation",
+      "phone": "575-769-7890",
+      "website": "https://www.clovisnm.gov/312/Airport",
+      "email": "airport@cityofclovis.org",
+      "street_address": "459 Circle 11.5, Texico, NM",
+      "hours": "24-hour fueling; no call-out fee",
+      "freq": null,
+      "plus_code": null,
+      "city": "Clovis",
+      "state": "NM",
+      "airport_name": "Clovis Municipal Airport",
+      "icao": "KCVN",
+      "iata": "CVN",
+      "region": "US",
+      "services": "Fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"0f0d6a443320c44e\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAVP",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ascension Scranton",
+      "phone": "(570) 457-4485",
+      "website": "https://ascensionfbo.com/location/scranton/",
+      "email": "avp@ascensionfbo.com",
+      "street_address": "101 Hangar Rd, Avoca, PA 18641",
+      "hours": "Open 5:00 AM-10:00 PM",
+      "freq": null,
+      "plus_code": "87H687M9+RF",
+      "city": "Wilkes-Barre/Scranton",
+      "state": "PA",
+      "airport_name": "Wilkes-Barre/Scranton International Airport",
+      "icao": "KAVP",
+      "iata": "AVP",
+      "region": "US",
+      "services": "Aviation fuel; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"567ea0f525a2269c\""
+}

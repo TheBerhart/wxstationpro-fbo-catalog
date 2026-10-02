@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIWA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Gateway Aviation Services",
+      "phone": "(480) 988-7700",
+      "website": "https://www.gatewayfbo.com/",
+      "email": "gas@gatewayairport.com",
+      "street_address": "5803 South Sossaman Road, Suite 116, Mesa, AZ 85212",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": "129.875",
+      "plus_code": "855C886J+73",
+      "city": "Mesa",
+      "state": "AZ",
+      "airport_name": "Mesa Gateway Airport",
+      "icao": "KIWA",
+      "iata": "AZA",
+      "region": "US",
+      "services": "100LL, Jet A, and Jet A with additive",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"8f87fd4f6e505808\""
+}

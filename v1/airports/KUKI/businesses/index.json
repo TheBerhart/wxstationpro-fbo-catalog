@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUKI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ukiah Municipal Airport",
+      "phone": "707-272-5515",
+      "website": "https://cityofukiah.com/departments/ukiah-airport/",
+      "email": "airport@cityofukiah.com",
+      "street_address": "1403 S. State Street",
+      "hours": null,
+      "freq": null,
+      "plus_code": "84FR4QHW+CH",
+      "city": "Ukiah",
+      "state": "CA",
+      "airport_name": "Ukiah Municipal Airport",
+      "icao": "KUKI",
+      "iata": "UKI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b5da72ea72ffbb7b\""
+}

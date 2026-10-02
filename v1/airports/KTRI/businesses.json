@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTRI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Tri-City Aviation, Inc.",
+      "phone": "(423) 325-6261",
+      "website": "https://www.tricityaviation.com/",
+      "email": null,
+      "street_address": "350 Aviation Dr.",
+      "hours": null,
+      "freq": null,
+      "plus_code": "868VFHMV+7V",
+      "city": "Blountville",
+      "state": "TN",
+      "airport_name": "Tri-Cities Regional TN/VA Airport",
+      "icao": "KTRI",
+      "iata": "TRI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"e69eef2437f1d45a\""
+}

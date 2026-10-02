@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAPF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Naples Aviation",
+      "phone": "239.643.0404",
+      "website": "https://www.flynaples.com/fbo/",
+      "email": "csr@flynaples.com",
+      "street_address": "160 Aviation Drive North, Naples, FL 34104",
+      "hours": "Self-service anytime; full-service unavailable 9:30 PM-6:30 AM",
+      "freq": null,
+      "plus_code": "76RW562J+55",
+      "city": "Naples",
+      "state": "FL",
+      "airport_name": "Naples Municipal Airport",
+      "icao": "KAPF",
+      "iata": "APF",
+      "region": "US",
+      "services": "Jet A; self-serve and full-service fuel",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"3a1b72d9737d0282\""
+}

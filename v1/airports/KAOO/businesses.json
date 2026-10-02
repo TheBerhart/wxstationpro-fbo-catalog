@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAOO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Altoona Flight Services",
+      "phone": "(814) 386-9398",
+      "website": "https://www.altoonaflightservices.com/",
+      "email": null,
+      "street_address": "222 Aviation Way, Martinsburg, PA 16662",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87G37MVG+75",
+      "city": "Altoona",
+      "state": "PA",
+      "airport_name": "Altoona Blair County Airport",
+      "icao": "KAOO",
+      "iata": "AOO",
+      "region": "US",
+      "services": "Staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"00379c9010d956ba\""
+}

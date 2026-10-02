@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPKB",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "MOV Aviation",
+      "phone": "(304) 464-5115",
+      "website": "https://flymovra.com/fbo/",
+      "email": null,
+      "street_address": "543 Co. Rte. 31/1",
+      "hours": "5:30 AM-10:30 PM daily",
+      "freq": null,
+      "plus_code": "86FW8HW8+32",
+      "city": "Parkersburg (Williamstown)",
+      "state": "WV",
+      "airport_name": "Mid Ohio Valley Regional Airport",
+      "icao": "KPKB",
+      "iata": "PKB",
+      "region": "US",
+      "services": "Fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"5f67b64257affc4b\""
+}

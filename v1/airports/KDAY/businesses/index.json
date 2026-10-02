@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KDAY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "PremierFBO Dayton",
+      "phone": "937-265-4500",
+      "website": "https://premierprivatejets.com/fbo/dayton-ohio-day/",
+      "email": "day@premierfbo.aero",
+      "street_address": "501 N. Dixie Drive, Vandalia, OH 45377",
+      "hours": "7 AM-8 PM daily; after-hours on request",
+      "freq": "130.60",
+      "plus_code": "86FQVRX2+H4",
+      "city": "Vandalia",
+      "state": "OH",
+      "airport_name": "James M Cox Dayton International Airport",
+      "icao": "KDAY",
+      "iata": "DAY",
+      "region": "US",
+      "services": "FBO",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"671bcebfc0a5600d\""
+}

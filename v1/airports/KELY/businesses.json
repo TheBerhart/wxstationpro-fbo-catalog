@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KELY",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ely Airport Yelland Field",
+      "phone": "775-293-3347",
+      "website": "https://whitepinecounty.net/127/Airport",
+      "email": null,
+      "street_address": "1472 McGill Highway, Ely, NV 89301",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85F77426+6J",
+      "city": "Ely",
+      "state": "NV",
+      "airport_name": "Ely Airport Yelland Field",
+      "icao": "KELY",
+      "iata": "ELY",
+      "region": "US",
+      "services": "Fuel sales (tie-down fee waived with fuel purchase); tie-downs; hangars",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"58e3f8cb5a716b13\""
+}

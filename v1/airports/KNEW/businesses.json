@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KNEW",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature New Orleans Lakefront",
       "phone": "(504) 241-2800",
       "website": "https://www.signatureaviation.com/locations/NEW",
-      "email": "NEW@signatureflight.com",
+      "email": "NEW@signatureaviation.com",
       "street_address": "5801 Walter Beech Street",
       "hours": "0600 to 2200. On-call basis from 2200 to 0600",
       "freq": "129.07",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"060d3e6b00e0e6ed\""
+  "etag": "\"6bb0226fa6726bc4\""
 }

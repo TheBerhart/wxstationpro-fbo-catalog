@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KSTL",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature St. Louis",
       "phone": "(314) 731-7111",
       "website": "https://www.signatureaviation.com/locations/STL",
-      "email": "stl@signatureflight.com",
+      "email": "STL@signatureaviation.com",
       "street_address": "5995 James S Mcdonnell Boulevard",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.35",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"7987dcc07b687667\""
+  "etag": "\"827fde80311e82d1\""
 }

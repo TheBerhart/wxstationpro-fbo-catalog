@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTVF",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Thief River Falls Regional Airport",
+      "phone": "218-681-5585",
+      "website": "https://www.trfairport.com/about",
+      "email": null,
+      "street_address": "13722 Airport Drive",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86W53R88+RP",
+      "city": "Thief River Falls",
+      "state": "MN",
+      "airport_name": "Thief River Falls Regional Airport",
+      "icao": "KTVF",
+      "iata": "TVF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"4239af711b588e04\""
+}

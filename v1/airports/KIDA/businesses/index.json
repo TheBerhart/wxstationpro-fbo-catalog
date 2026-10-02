@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KIDA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Aero Mark, Inc.",
+      "phone": "(208) 524-1202",
+      "website": "https://www.aeromark.com/",
+      "email": "info@aeromark.com",
+      "street_address": "1940 International Way, Idaho Falls, ID 83402",
+      "hours": "5:30 AM–9:30 PM MST; after-hours callout; self-serve 100LL 24 hours",
+      "freq": null,
+      "plus_code": "85M9GW6H+GP",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "airport_name": "Idaho Falls Regional Airport",
+      "icao": "KIDA",
+      "iata": "IDA",
+      "region": "US",
+      "services": "Full-service Jet-A and 100LL; self-serve 100LL 24 hours",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"140622c70474d609\""
+}

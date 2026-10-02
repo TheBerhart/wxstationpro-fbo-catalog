@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHUL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Houlton International Airport",
+      "phone": "(207) 538-7997",
+      "website": "https://www.houlton-maine.com/airport/",
+      "email": null,
+      "street_address": "5 Terminal Drive, Houlton, ME 04730",
+      "hours": null,
+      "freq": null,
+      "plus_code": "87RJ46G7+2M",
+      "city": "Houlton",
+      "state": "ME",
+      "airport_name": "Houlton International Airport",
+      "icao": "KHUL",
+      "iata": "HUL",
+      "region": "US",
+      "services": "100LL and Jet A sales",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"834812e6b54954e8\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTTD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Gorge Winds Aviation",
+      "phone": "(503) 665-2823",
+      "website": "https://gorgewindsaviation.com/fbo/",
+      "email": "GorgeWinds@gmail.com",
+      "street_address": "920 NW Perimeter Way",
+      "hours": "Monday-Friday 7:00AM-5:00PM; Saturday and Sunday 8:00AM-5:00PM",
+      "freq": null,
+      "plus_code": "84QVHJ23+79",
+      "city": "Portland",
+      "state": "OR",
+      "airport_name": "Portland Troutdale Airport",
+      "icao": "KTTD",
+      "iata": "TTD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"036fe20a47f2c7cf\""
+}

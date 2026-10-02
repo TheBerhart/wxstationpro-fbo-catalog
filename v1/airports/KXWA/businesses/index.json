@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KXWA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Overland Aviation",
+      "phone": "701-875-4334",
+      "website": "https://flywilliston.net/general_aviation/fixed_based_operator/index.php",
+      "email": "services@overlandaviation.com",
+      "street_address": "14151 Commerce Drive",
+      "hours": "Monday-Friday 07:00-19:00; Saturday and Sunday 09:00-17:00",
+      "freq": null,
+      "plus_code": "85WR7782+FC",
+      "city": "Williston",
+      "state": "ND",
+      "airport_name": "Williston Basin International Airport",
+      "icao": "KXWA",
+      "iata": "XWA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c449eadb00d6dd82\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRKD",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Downeast Air",
+      "phone": "(207) 594-2171",
+      "website": "https://www.downeastair.com/",
+      "email": "fbo@downeastair.com",
+      "street_address": "19 Airport Rd.",
+      "hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+      "freq": "129.72",
+      "plus_code": "87PG3W74+36",
+      "city": "Rockland",
+      "state": "ME",
+      "airport_name": "Knox County Regional Airport",
+      "icao": "KRKD",
+      "iata": "RKD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"02a9c035b2d49cf6\""
+}

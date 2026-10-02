@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTCS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Truth or Consequences Municipal Airport",
+      "phone": "575-894-6199",
+      "website": "https://www.ktcsairport.com/fuel",
+      "email": "ktcs@tech-45.com",
+      "street_address": "28 Shooting Star Rd",
+      "hours": "Open daily 8:00 am - 4:00 pm; closed major holidays",
+      "freq": null,
+      "plus_code": "855J6PQJ+92",
+      "city": "Truth or Consequences",
+      "state": "NM",
+      "airport_name": "Truth or Consequences Municipal Airport",
+      "icao": "KTCS",
+      "iata": "TCS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2a3522ab5e1e95c3\""
+}

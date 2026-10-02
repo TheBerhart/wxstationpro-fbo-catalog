@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRSW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "PrivateSky Aviation",
+      "phone": "239.225.6100",
+      "website": "https://privatesky.net/terms",
+      "email": "customer.service@privatesky.net",
+      "street_address": "11545 Private Sky Way, Fort Myers, FL 33913",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": "130.30",
+      "plus_code": "76RWG6PP+PF",
+      "city": "Fort Myers",
+      "state": "FL",
+      "airport_name": "Southwest Florida International Airport",
+      "icao": "KRSW",
+      "iata": "RSW",
+      "region": "US",
+      "services": "FBO",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"a5e50a411640aa12\""
+}

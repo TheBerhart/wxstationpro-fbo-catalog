@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCWA",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ovation",
+      "phone": "715-693-6111",
+      "website": "https://www.ovationfbo.com/",
+      "email": null,
+      "street_address": "400 CWA Dr, Mosinee, WI 54455",
+      "hours": "Monday: 5:00 AM – 9:00 PM; Tuesday: 5:00 AM – 9:00 PM; Wednesday: 5:00 AM – 9:00 PM; Thursday: 5:00 AM – 9:00 PM; Friday: 5:00 AM – 9:00 PM; Saturday: 5:00 AM – 7:00 PM; Sunday: 5:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "86PGQ8MJ+M5",
+      "city": "Mosinee",
+      "state": "WI",
+      "airport_name": "Central Wisconsin Airport",
+      "icao": "KCWA",
+      "iata": "CWA",
+      "region": "US",
+      "services": "Aircraft fuel; refueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"31c7400742718bf2\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSPG",
+  "updated_at": "2026-10-01T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sheltair St. Petersburg",
+      "phone": "727-824-2880",
+      "website": "https://www.sheltairaviation.com/locations/spg/",
+      "email": "info-spg@sheltairaviation.com",
+      "street_address": "540 First. Street SE, St. Petersburg, FL 33701",
+      "hours": "0600-2100",
+      "freq": "128.925",
+      "plus_code": "76VVQ978+VM",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "airport_name": "Albert Whitted Airport",
+      "icao": "KSPG",
+      "iata": "SPG",
+      "region": "US",
+      "services": "Fuel; self-serve AVGAS; ground support; hangar",
+      "enrichment_status": null,
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-01"
+    }
+  ],
+  "etag": "\"93995f8195cd9fa4\""
+}

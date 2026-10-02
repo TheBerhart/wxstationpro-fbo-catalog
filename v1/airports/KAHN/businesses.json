@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KAHN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Athens-Ben Epps Airport",
+      "phone": "706-613-3420",
+      "website": "https://www.accgov.com/9052/Airport-Services",
+      "email": null,
+      "street_address": "1010 Ben Epps Drive, Athens, GA 30603",
+      "hours": null,
+      "freq": null,
+      "plus_code": "865RXM2F+PW",
+      "city": "Athens",
+      "state": "GA",
+      "airport_name": "Athens Ben Epps Airport",
+      "icao": "KAHN",
+      "iata": "AHN",
+      "region": "US",
+      "services": "100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"2b2bc9f3bde61906\""
+}

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "KBFM",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Mobile Downtown",
       "phone": "(251) 433-2800",
       "website": "https://www.signatureaviation.com/locations/BFM",
-      "email": "BFM@signatureflight.com",
+      "email": "BFM@signatureaviation.com",
       "street_address": "2495 Michigan Avenue",
       "hours": "0500L - 2359L Call out available on request",
       "freq": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"6f84e61f509fea37\""
+  "etag": "\"0a28073eb784b27a\""
 }

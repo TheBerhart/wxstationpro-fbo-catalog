@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCAR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Caribou Municipal Airport",
+      "phone": "(207) 493-5961",
+      "website": "https://www.cariboumaine.org/living-in-caribou/airport/",
+      "email": null,
+      "street_address": "12 Airport Drive, Caribou, ME 04736",
+      "hours": "Terminal open during daylight hours; after dark by appointment",
+      "freq": "122.8",
+      "plus_code": null,
+      "city": "Caribou",
+      "state": "ME",
+      "airport_name": "Caribou Municipal Airport",
+      "icao": "KCAR",
+      "iata": "CAR",
+      "region": "US",
+      "services": "100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"ea2f7974e9d76f4f\""
+}

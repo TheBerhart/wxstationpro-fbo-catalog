@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KATW",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Appleton Flight Center",
+      "phone": "920-738-3034",
+      "website": "https://appletonflight.com/fbo-services/fuel/",
+      "email": "info@appletonflight.com",
+      "street_address": "N259 Ares Drive, Appleton, WI 54914",
+      "hours": "Self-serve 24 hours",
+      "freq": null,
+      "plus_code": "86PH6FXJ+M6",
+      "city": "Appleton",
+      "state": "WI",
+      "airport_name": "Appleton International Airport",
+      "icao": "KATW",
+      "iata": "ATW",
+      "region": "US",
+      "services": "Full and self-serve Jet A and 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"189fb2fb3535bd85\""
+}

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHPN",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 5,
   "businesses": [
     {
@@ -76,7 +76,7 @@
       "name": "Signature White Plains - Terminal East",
       "phone": "(914) 682-7770",
       "website": "https://www.signatureaviation.com/locations/HPN-E",
-      "email": "HPN@signatureflight.com",
+      "email": "HPN@signatureaviation.com",
       "street_address": "2 Hangar Road Box 1",
       "hours": "0600 to 2200 / 7 days a week",
       "freq": "132",
@@ -92,13 +92,13 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     },
     {
       "name": "Signature White Plains - Terminal West",
       "phone": "(914) 428-3730",
       "website": "https://www.signatureaviation.com/locations/HPN-W",
-      "email": "HPN@signatureflight.com",
+      "email": "HPN@signatureaviation.com",
       "street_address": "85 Tower Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.1",
@@ -114,8 +114,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"07a35a268af1ffa8\""
+  "etag": "\"6a4ab77b5d4d0763\""
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCNM",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Chandler Aviation",
+      "phone": "(575) 887-1500",
+      "website": "https://flycaverncity.com/services/",
+      "email": null,
+      "street_address": "1505 Terminal Dr, Carlsbad, NM 88220",
+      "hours": "24/7 self-serve; call-out available",
+      "freq": null,
+      "plus_code": "854Q8PVX+X4",
+      "city": "Carlsbad",
+      "state": "NM",
+      "airport_name": "Cavern City Air Terminal",
+      "icao": "KCNM",
+      "iata": "CNM",
+      "region": "US",
+      "services": "Full and self-serve 100LL; full and self-serve Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b86d9c2f36438d10\""
+}

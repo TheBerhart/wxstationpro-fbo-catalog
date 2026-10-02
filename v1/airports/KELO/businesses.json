@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KELO",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ely Municipal Airport",
+      "phone": "218-365-5600",
+      "website": "https://www.ely.mn.us/airport",
+      "email": null,
+      "street_address": "1583 Hwy 1, Ely, MN 55731",
+      "hours": null,
+      "freq": "122.8",
+      "plus_code": "86VCR5H8+2R",
+      "city": "Ely",
+      "state": "MN",
+      "airport_name": "Ely Municipal Airport",
+      "icao": "KELO",
+      "iata": "LYU",
+      "region": "US",
+      "services": "FBO fuel sales: 100LL and Jet A; tie-downs; hangars",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"295db984d5382911\""
+}

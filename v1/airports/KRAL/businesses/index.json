@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRAL",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ras Jetport",
+      "phone": "951-352-2631",
+      "website": "https://ralair.com/services/",
+      "email": "info@ralair.com",
+      "street_address": "6741 Gemende Drive",
+      "hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": "122.95",
+      "plus_code": "8554XH23+6J",
+      "city": "Riverside",
+      "state": "CA",
+      "airport_name": "Riverside Municipal Airport",
+      "icao": "KRAL",
+      "iata": "RAL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"207c85a9c4689a08\""
+}

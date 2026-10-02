@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFAR",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Fargo Jet Center",
+      "phone": "(701) 373-8800",
+      "website": "https://www.fargojet.com/fargo-far/",
+      "email": null,
+      "street_address": "3802 20th Street North, Fargo, ND 58102",
+      "hours": "24 hours, 7 days",
+      "freq": "130.525",
+      "plus_code": "86R5W5HQ+WW",
+      "city": "Fargo",
+      "state": "ND",
+      "airport_name": "Hector International Airport",
+      "icao": "KFAR",
+      "iata": "FAR",
+      "region": "US",
+      "services": "24/7 staffed FBO; fuel; hangar; de-ice",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"68ce09354db251da\""
+}

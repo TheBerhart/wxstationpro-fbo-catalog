@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCMI",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Flightstar",
+      "phone": "217-351-7700",
+      "website": "https://flightstar.com/fbo/",
+      "email": null,
+      "street_address": "7 Airport Road, Savoy, IL 61874",
+      "hours": "Daily 5 am-10 pm",
+      "freq": "130.075",
+      "plus_code": "86GH2PQH+RQ",
+      "city": "Savoy",
+      "state": "IL",
+      "airport_name": "University of Illinois Willard Airport",
+      "icao": "KCMI",
+      "iata": "CMI",
+      "region": "US",
+      "services": "100LL; Jet A; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7ccbd05827a24ece\""
+}

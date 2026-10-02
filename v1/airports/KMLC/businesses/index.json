@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMLC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "McAlester Regional Airport",
+      "phone": "(918) 423-9300 ext 2092",
+      "website": "https://www.cityofmcalester.com/residents/city_services___departments/public_works/mcalester_regional_airport.php",
+      "email": "mcalesterairport@cityofmcalester.com",
+      "street_address": "104 Airport Rd",
+      "hours": "0800-1700 local; after hours as required",
+      "freq": "122.95",
+      "plus_code": "8666V6M8+W5",
+      "city": "Mc Alester",
+      "state": "OK",
+      "airport_name": "Mc Alester Regional Airport",
+      "icao": "KMLC",
+      "iata": "MLC",
+      "region": "US",
+      "services": "Jet-A; 100LL",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c6e7c842fcd5561f\""
+}

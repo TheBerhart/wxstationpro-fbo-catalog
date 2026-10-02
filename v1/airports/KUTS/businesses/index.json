@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUTS",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Huntsville Aviation",
+      "phone": "936-294-5336",
+      "website": "https://www.huntsvilletx.gov/1059/Huntsville-Municipal-Airport",
+      "email": "airport@huntsvilletx.gov",
+      "street_address": null,
+      "hours": null,
+      "freq": null,
+      "plus_code": null,
+      "city": "Huntsville",
+      "state": "TX",
+      "airport_name": "Huntsville Regional Airport",
+      "icao": "KUTS",
+      "iata": "HTV",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"10b6a39d399092bb\""
+}

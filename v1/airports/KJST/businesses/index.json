@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJST",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Nulton Aviation Services",
+      "phone": "(814) 361-3500",
+      "website": "https://flyjst.com/pilot-information/",
+      "email": null,
+      "street_address": "479 Airport Rd, Johnstown, PA 15904",
+      "hours": "Daily 6:00 AM–11:00 PM; after-hours (814) 254-2421",
+      "freq": "122.95",
+      "plus_code": "87G38598+QR",
+      "city": "Johnstown",
+      "state": "PA",
+      "airport_name": "John Murtha Johnstown Cambria County Airport",
+      "icao": "KJST",
+      "iata": "JST",
+      "region": "US",
+      "services": "100LL and Jet A; Air BP",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"c6dea9f8c00ce31f\""
+}

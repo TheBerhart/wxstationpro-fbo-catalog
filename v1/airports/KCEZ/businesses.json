@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCEZ",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Cortez Flying Service",
+      "phone": "970-565-3721",
+      "website": "https://www.cortezflyingservice.com/full-service-fuel",
+      "email": null,
+      "street_address": "22874 CR F, Cortez, CO 81321",
+      "hours": "Summer 7:00-7:00; winter 7:00-6:00; on call after hours",
+      "freq": "122.80",
+      "plus_code": "859H79WC+WV",
+      "city": "Cortez",
+      "state": "CO",
+      "airport_name": "Cortez Municipal Airport",
+      "icao": "KCEZ",
+      "iata": "CEZ",
+      "region": "US",
+      "services": "Jet A; 100LL; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"b35373b44a0343fd\""
+}

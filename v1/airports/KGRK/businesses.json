@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGRK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Killeen Regional Airport",
+      "phone": "254-501-6100",
+      "website": "https://flygrk.com/general-aviation/killeen-fort-hood-regional-airport-grk/",
+      "email": "airport@killeentexas.gov",
+      "street_address": "8101 Clear Creek Rd, Killeen, TX 76549",
+      "hours": null,
+      "freq": null,
+      "plus_code": "8634356J+47",
+      "city": "Killeen",
+      "state": "TX",
+      "airport_name": "Killeen Regional Airport / Robert Gray Army Airfield",
+      "icao": "KGRK",
+      "iata": "GRK",
+      "region": "US",
+      "services": "Full-service Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "airport_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"6a66aa3e700a324e\""
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBQK",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Manning Aviation",
+      "phone": "(912) 264-9200",
+      "website": "https://manningaviation.com/",
+      "email": null,
+      "street_address": "425 Aviation Parkway, Brunswick, GA 31525",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "863W7G4P+C2",
+      "city": "Brunswick",
+      "state": "GA",
+      "airport_name": "Brunswick Golden Isles Airport",
+      "icao": "KBQK",
+      "iata": "BQK",
+      "region": "US",
+      "services": "Fueling; staffed FBO",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"1e183ccec2b3a9e5\""
+}

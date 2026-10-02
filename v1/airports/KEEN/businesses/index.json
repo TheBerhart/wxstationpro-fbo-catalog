@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEEN",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Monadnock Aviation",
+      "phone": "603-357-7600",
+      "website": "https://monadnockaviation.com/fbo-services/",
+      "email": "FBO@MonadnockAviation.com",
+      "street_address": "80 Airport Road, Keene, NH 03431",
+      "hours": "100LL self-serve 24/7; full-service 100LL during business hours",
+      "freq": "123.00",
+      "plus_code": "87J9WP4G+HX",
+      "city": "Keene",
+      "state": "NH",
+      "airport_name": "Dillant Hopkins Airport",
+      "icao": "KEEN",
+      "iata": "EEN",
+      "region": "US",
+      "services": "Self and full-service 100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"59adf160c2fa4886\""
+}

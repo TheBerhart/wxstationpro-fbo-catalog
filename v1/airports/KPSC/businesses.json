@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPSC",
+  "updated_at": "2026-10-02T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-02T21:06:34.546Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Bergstrom Aircraft, Inc.",
+      "phone": "(509) 547-6271",
+      "website": "https://bergstromaircraft.com/services/",
+      "email": "info@bergstromaircraft.com",
+      "street_address": "4102 N Stearman Ave.",
+      "hours": "Line service daily 7:00 AM-8:30 PM",
+      "freq": null,
+      "plus_code": "85R27V7V+RX",
+      "city": "Pasco",
+      "state": "WA",
+      "airport_name": "Tri Cities Airport",
+      "icao": "KPSC",
+      "iata": "PSC",
+      "region": "US",
+      "services": "Full-service 100LL; Jet A",
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "high",
+      "source": "operator_website",
+      "source_updated_at": "2026-10-02"
+    }
+  ],
+  "etag": "\"7b7d7edbf35b803d\""
+}

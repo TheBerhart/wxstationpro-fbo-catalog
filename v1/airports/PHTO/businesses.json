@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "airport_ident": "PHTO",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-01T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-09-16T00:13:32.515Z",
+  "generated_at": "2026-10-02T21:06:34.546Z",
   "count": 1,
   "businesses": [
     {
       "name": "Signature Hilo",
       "phone": "(808) 934-7757",
       "website": "https://www.signatureaviation.com/locations/ITO",
-      "email": "ITO@signatureflight.com",
+      "email": "ITO@signatureaviation.com",
       "street_address": "2450 Kekuanaoa Street 206 Suite 206",
       "hours": "0800L - 1700L Call out available on request",
       "freq": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-01"
     }
   ],
-  "etag": "\"03c1e4de905ae9d5\""
+  "etag": "\"41cd1b20bfcc6927\""
 }
