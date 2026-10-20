@@ -3,7 +3,7 @@
   "airport_ident": "KDLO",
   "updated_at": "2026-09-11T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-02T21:06:34.546Z",
+  "generated_at": "2026-10-20T23:29:40.398Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-11"
     }
   ],
-  "etag": "\"5706aa1aeb2023a1\""
+  "etag": "\"216d1294b38b7ed4\""
 }

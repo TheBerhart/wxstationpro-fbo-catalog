@@ -3,7 +3,7 @@
   "airport_ident": "KLOU",
   "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-02T21:06:34.546Z",
+  "generated_at": "2026-10-20T23:29:40.398Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"e6f2d2e86ebad8c1\""
+  "etag": "\"14086e43e39dd9be\""
 }

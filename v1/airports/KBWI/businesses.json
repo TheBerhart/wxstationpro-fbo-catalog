@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "airport_ident": "KBWI",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-03T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-02T21:06:34.546Z",
+  "generated_at": "2026-10-20T23:29:40.398Z",
   "count": 1,
   "businesses": [
     {
-      "name": "Signature Baltimore",
+      "name": "Signature Aviation BWI",
       "phone": "(410) 859-8393",
       "website": "https://www.signatureaviation.com/locations/BWI",
       "email": "BWI@signatureaviation.com",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-03"
     }
   ],
-  "etag": "\"ae86b55d87e09655\""
+  "etag": "\"39d328233d0a5bca\""
 }

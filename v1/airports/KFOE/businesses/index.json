@@ -3,7 +3,7 @@
   "airport_ident": "KFOE",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-02T21:06:34.546Z",
+  "generated_at": "2026-10-20T23:29:40.398Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"7cbe1e0155a5487c\""
+  "etag": "\"cfb94d0b7a4f1e30\""
 }
