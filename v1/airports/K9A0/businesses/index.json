@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "K9A0",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Lumpkin County Airport FBO",
+      "phone": null,
+      "website": "https://www.lumpkincounty.gov/266/Wimpys-Airport",
+      "email": "airportauthority@lumpkincounty.gov",
+      "street_address": "1682 Camp Wahsega Rd, Dahlonega, GA 30533",
+      "hours": null,
+      "freq": null,
+      "plus_code": "866QHXHJ+8QP",
+      "city": "Dahlonega",
+      "state": "GA",
+      "airport_name": "Lumpkin County Wimpys Airport",
+      "icao": "K9A0",
+      "iata": "9A0",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"384063e3d90bb80e\""
+}

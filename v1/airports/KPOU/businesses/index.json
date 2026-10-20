@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPOU",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "263 New Hackensack Road",
       "hours": "Daily 0630-2000",
       "freq": null,
-      "plus_code": "87H8J4F8+QW",
+      "plus_code": "87H8J4F8+QXQ",
       "city": "Poughkeepsie",
       "state": "NY",
       "airport_name": "Dutchess County Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1791eaae0ad492d0\""
+  "etag": "\"23a35a8c2c6d3c5e\""
 }

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KLBE",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 2,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
     {
       "name": "L.J. Aviation",
@@ -36,7 +36,7 @@
       "street_address": "148 Aviation Lane, Suite 109, Latrobe, PA 15650",
       "hours": "Monday–Sunday 6:00 AM–10:00 PM; support staff 24/7",
       "freq": null,
-      "plus_code": "87G27HFR+6P",
+      "plus_code": "87G27HCV+V62",
       "city": "Latrobe",
       "state": "PA",
       "airport_name": "Arnold Palmer Regional Airport",
@@ -48,8 +48,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Vee Neal Aviation",
+      "phone": "(800) 278-2710",
+      "website": "https://www.laurelhighlandsjet.com/",
+      "email": null,
+      "street_address": "148 Aviation Ln #109, Latrobe, PA 15650",
+      "hours": "Monday: 5:30 AM – 10:00 PM; Tuesday: 5:30 AM – 10:00 PM; Wednesday: 5:30 AM – 10:00 PM; Thursday: 5:30 AM – 10:00 PM; Friday: 5:30 AM – 10:00 PM; Saturday: 5:30 AM – 10:00 PM; Sunday: 5:30 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "87G27HCV+W52",
+      "city": "Latrobe",
+      "state": "PA",
+      "airport_name": "Arnold Palmer Regional Airport",
+      "icao": "KLBE",
+      "iata": "LBE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"4068a7ed650a27ee\""
+  "etag": "\"49fef7ae70a840fe\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPSC",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4102 N Stearman Ave.",
       "hours": "Line service daily 7:00 AM-8:30 PM",
       "freq": null,
-      "plus_code": "85R27V7V+RX",
+      "plus_code": "85R27V7W+R2J",
       "city": "Pasco",
       "state": "WA",
       "airport_name": "Tri Cities Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"8f03211ccee6f6ea\""
+  "etag": "\"baca33805f544b70\""
 }

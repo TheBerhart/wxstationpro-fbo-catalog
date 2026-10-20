@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KFXE",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 2,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
     {
       "name": "Atlantic Aviation Fort Lauderdale",
@@ -14,7 +14,7 @@
       "street_address": "6020 NW 28th Way",
       "hours": "Mon-Sun: 0600 - 2200; On-call services with prior arrangements",
       "freq": "130.65",
-      "plus_code": "76RX6R28+3G6",
+      "plus_code": "76RX6R29+86M",
       "city": "Fort Lauderdale",
       "state": "FL",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Fort Lauderdale Exec",
@@ -36,7 +36,7 @@
       "street_address": "1525 Nw 56th Street",
       "hours": "0600-0000",
       "freq": "131.275",
-      "plus_code": "76RX5RWP+G96",
+      "plus_code": "76RX5RWP+C96",
       "city": "Fort Lauderdale",
       "state": "FL",
       "airport_name": null,
@@ -48,8 +48,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "W Aviation FBO",
+      "phone": "(954) 915-7024",
+      "website": "http://waviationfbo.com/",
+      "email": null,
+      "street_address": "2400 W Cypress Creek Rd, Fort Lauderdale, FL 33309",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "76RX6R2C+MCJ",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "airport_name": "Fort Lauderdale Executive Airport",
+      "icao": "KFXE",
+      "iata": "FXE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"7a7bba8dad17fde4\""
+  "etag": "\"c6104132b3b27dcd\""
 }

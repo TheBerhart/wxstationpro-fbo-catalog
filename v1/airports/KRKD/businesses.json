@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRKD",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "19 Airport Rd.",
       "hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
       "freq": "129.72",
-      "plus_code": "87PG3W74+36",
+      "plus_code": "87PG3W74+25C",
       "city": "Rockland",
       "state": "ME",
       "airport_name": "Knox County Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6b1526d3795a4235\""
+  "etag": "\"81bc7cd402c0d4f3\""
 }

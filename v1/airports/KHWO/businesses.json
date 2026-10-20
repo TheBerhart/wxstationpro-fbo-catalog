@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHWO",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "603 SW 77th Way, Pembroke Pines, FL 33023",
       "hours": "Full service 07:00-20:00; self-serve 24 hours",
       "freq": "122.95",
-      "plus_code": "76RX2Q35+RH",
+      "plus_code": "76RX2Q35+RHC",
       "city": "Hollywood",
       "state": "FL",
       "airport_name": "North Perry Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "North Perry Central",
@@ -36,7 +36,7 @@
       "street_address": "1620 SW 75th Ave, Pembroke Pines, FL 33023",
       "hours": "Monday-Saturday 8:00 AM-8:00 PM",
       "freq": null,
-      "plus_code": "76QXXQW6+CQ",
+      "plus_code": "76QXXQW6+GPC",
       "city": "Hollywood",
       "state": "FL",
       "airport_name": "North Perry Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"8c69ab309de4d8cc\""
+  "etag": "\"38986d45d005fede\""
 }

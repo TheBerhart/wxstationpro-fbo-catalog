@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLCK",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "7250 Star Check Dr, Columbus, OH 43217",
       "hours": "24/7",
       "freq": null,
-      "plus_code": "86FVR396+HP",
+      "plus_code": "86FVR396+HMF",
       "city": "Columbus",
       "state": "OH",
       "airport_name": "Rickenbacker International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"45c5a20405f587cc\""
+  "etag": "\"be7eb3777756c0ec\""
 }

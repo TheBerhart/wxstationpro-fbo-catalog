@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRFD",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "One Airport Circle",
       "hours": "24 hours a day, 7 days a week",
       "freq": null,
-      "plus_code": "86JG6W34+74",
+      "plus_code": "86JG6W34+83J",
       "city": "Chicago/Rockford",
       "state": "IL",
       "airport_name": "Chicago Rockford International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"42fcd00db933c778\""
+  "etag": "\"9ff0535b1b8f8849\""
 }

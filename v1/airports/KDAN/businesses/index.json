@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDAN",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "424 Airport Dr, Danville, VA 24540",
       "hours": null,
       "freq": "123.05",
-      "plus_code": "8782HMG6+74",
+      "plus_code": "8782HMG6+742",
       "city": "Danville",
       "state": "VA",
       "airport_name": "Danville Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c2b02142f2bb8b3a\""
+  "etag": "\"45a5824193534957\""
 }

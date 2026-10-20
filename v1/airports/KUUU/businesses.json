@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KUUU",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "211 Airport Access Road",
       "hours": "Monday-Sunday 0800-1600",
       "freq": null,
-      "plus_code": "87HCGPJ9+W4",
+      "plus_code": "87HCGPJ8+HQX",
       "city": "Newport",
       "state": "RI",
       "airport_name": "Newport State Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"494857017af1bf5d\""
+  "etag": "\"bedb71e9240a1348\""
 }

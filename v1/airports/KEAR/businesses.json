@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KEAR",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4985 Airport Road, Kearney, NE 68847",
       "hours": "Daily 0700-2000",
       "freq": null,
-      "plus_code": "86G2PXGQ+52",
+      "plus_code": "86G2PXGQ+526",
       "city": "Kearney",
       "state": "NE",
       "airport_name": "Kearney Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"fae64a3928eee464\""
+  "etag": "\"1e630cccf685684d\""
 }

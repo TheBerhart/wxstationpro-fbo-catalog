@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGDJ",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Black Tie Aviation LLC",
+      "phone": "(817) 650-5428",
+      "website": "https://www.blacktieaviation.com/",
+      "email": "Hangars@BlackTieAviation.com",
+      "street_address": "853 Archer Ct, Granbury, TX 76048",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": "8644C5VH+V24",
+      "city": "Granbury",
+      "state": "TX",
+      "airport_name": "Granbury Regional Airport",
+      "icao": "KGDJ",
+      "iata": "GDJ",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"9bcbaa8bd97d1287\""
+}

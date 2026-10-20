@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMFE",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2400 S 10th Street, McAllen, TX 78503",
       "hours": "Line service 4:00 AM–11:00 PM daily; after-hours on call",
       "freq": null,
-      "plus_code": "76R35QJ8+G7",
+      "plus_code": "76R35QH8+J58",
       "city": "McAllen",
       "state": "TX",
       "airport_name": "McAllen Miller International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"3627fc15a8c40ed4\""
+  "etag": "\"7c54d97775ed8ffa\""
 }

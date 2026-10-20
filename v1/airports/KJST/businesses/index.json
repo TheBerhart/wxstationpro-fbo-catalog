@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KJST",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "479 Airport Rd, Johnstown, PA 15904",
       "hours": "Daily 6:00 AM–11:00 PM; after-hours (814) 254-2421",
       "freq": "122.95",
-      "plus_code": "87G38598+QR",
+      "plus_code": "87G38598+M8J",
       "city": "Johnstown",
       "state": "PA",
       "airport_name": "John Murtha Johnstown Cambria County Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"0d705f52dc7b9a35\""
+  "etag": "\"0cdda8a717cbae8d\""
 }

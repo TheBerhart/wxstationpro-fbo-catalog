@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KALW",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "199 West Fairchild, Walla Walla, WA 99362",
       "hours": "7 days a week 8 AM-5 PM",
       "freq": null,
-      "plus_code": "85R33PVF+G5",
+      "plus_code": "85R33PVF+F4C",
       "city": "Walla Walla",
       "state": "WA",
       "airport_name": "Walla Walla Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"a5da2c4a6a036196\""
+  "etag": "\"444c0fd7f6694a9d\""
 }

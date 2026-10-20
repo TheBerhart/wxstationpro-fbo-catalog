@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDNL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1775 Highland Ave, Augusta, GA 30904",
       "hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
       "freq": null,
-      "plus_code": "865VFX87+J8",
+      "plus_code": "865VFX87+4VJ",
       "city": "Augusta",
       "state": "GA",
       "airport_name": "Daniel Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ba04d496549496e5\""
+  "etag": "\"c0adda8513504762\""
 }

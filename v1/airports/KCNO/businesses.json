@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCNO",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Flying Tigers Aviation FBO",
+      "phone": "(909) 606-0100",
+      "website": "http://flyingtigersaviation.net/",
+      "email": null,
+      "street_address": "Chino, CA 91710",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "8554X9H7+9C3",
+      "city": "Chino",
+      "state": "CA",
+      "airport_name": "Chino Airport",
+      "icao": "KCNO",
+      "iata": "CNO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"7a44a0048d8e8705\""
+}

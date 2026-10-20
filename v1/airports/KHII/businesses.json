@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHII",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "5600 North Highway 95 BLDG H100, Lake Havasu City, AZ 86404, USA",
       "hours": "24/7",
       "freq": null,
-      "plus_code": "8567HJGM+XX",
+      "plus_code": "8567HJGM+XXX",
       "city": "Lake Havasu City",
       "state": "AZ",
       "airport_name": "Lake Havasu City Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1c3f7d868215f41a\""
+  "etag": "\"d1fe4e0313be2681\""
 }

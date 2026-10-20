@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHRO",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": null,
       "hours": "7 AM-7 PM daily",
       "freq": "123.0",
-      "plus_code": null,
+      "plus_code": "86887R7X+482",
       "city": "Harrison",
       "state": "AR",
       "airport_name": "Boone County Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"12c6b4ecf65abd2d\""
+  "etag": "\"8759b655b193696f\""
 }

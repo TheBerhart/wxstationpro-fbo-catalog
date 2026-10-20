@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCLM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1402 Fairchild Airport Road, Port Angeles, WA 98363",
       "hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 9:00 AM – 5:00 PM; Sunday: 9:00 AM – 5:00 PM",
       "freq": null,
-      "plus_code": "84WR4G87+44",
+      "plus_code": "84WR4G84+HMQ",
       "city": "Port Angeles",
       "state": "WA",
       "airport_name": "William R Fairchild International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"cafa590d0cadc2db\""
+  "etag": "\"84e8844e0913b2fe\""
 }

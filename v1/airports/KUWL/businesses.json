@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KUWL",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Sky Castle Aviation",
+      "phone": "(765) 529-7903",
+      "website": null,
+      "email": null,
+      "street_address": "2912 E County Rd 400 S, New Castle, IN 47362",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86FPVMFC+723",
+      "city": "New Castle",
+      "state": "IN",
+      "airport_name": "New Castle-Henry County Municipal Airport",
+      "icao": "KUWL",
+      "iata": "UWL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"fc5e9f702f54fa25\""
+}

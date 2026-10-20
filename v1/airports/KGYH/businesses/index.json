@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGYH",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Vantage Aviation",
+      "phone": "(864) 277-8184",
+      "website": "https://vantageair.com/fbo/donaldson-field-airport-gyh/",
+      "email": "gyh@vantageair.com",
+      "street_address": "126 Club Loop, Greenville, SC 29605",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: 12:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "866VQJ7F+7HP",
+      "city": "Greenville",
+      "state": "SC",
+      "airport_name": "Donaldson Field Airport",
+      "icao": "KGYH",
+      "iata": "GDC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"298f8859c1a90cf2\""
+}

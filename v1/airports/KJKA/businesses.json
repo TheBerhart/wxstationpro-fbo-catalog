@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJKA",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Gulf Air Center",
+      "phone": "(251) 968-5200",
+      "website": "https://www.gulfaircenter.com/",
+      "email": null,
+      "street_address": "3190 Airport Dr, Gulf Shores, AL 36542",
+      "hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 7:00 AM – 8:00 PM",
+      "freq": null,
+      "plus_code": "862J78QC+376",
+      "city": "Gulf Shores",
+      "state": "AL",
+      "airport_name": "Jack Edwards National Airport",
+      "icao": "KJKA",
+      "iata": "GUF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"b064156727129bca\""
+}

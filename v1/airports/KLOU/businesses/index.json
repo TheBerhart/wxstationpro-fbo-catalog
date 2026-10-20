@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLOU",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2805 Taylorsville Rd, Louisville, KY 40205",
       "hours": "7:00 AM–9:00 PM",
       "freq": "129.85",
-      "plus_code": "86CP68FJ+JV",
+      "plus_code": "86CP68FJ+JVH",
       "city": "Louisville",
       "state": "KY",
       "airport_name": "Bowman Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"14086e43e39dd9be\""
+  "etag": "\"4e525e4dc01bc46f\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHLN",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2430 Airport Rd, Helena, MT 59601, USA",
       "hours": "5:00 AM-midnight, 365 days",
       "freq": "122.95",
-      "plus_code": "85RCJ223+X6",
+      "plus_code": "85RCJ223+X76",
       "city": "Helena",
       "state": "MT",
       "airport_name": "Helena Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"891a2c5d7a52cbf7\""
+  "etag": "\"0a9ebf75ae6fd2f8\""
 }

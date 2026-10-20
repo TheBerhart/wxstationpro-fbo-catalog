@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KUTS",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -12,9 +12,9 @@
       "website": "https://www.huntsvilletx.gov/1059/Huntsville-Municipal-Airport",
       "email": "airport@huntsvilletx.gov",
       "street_address": null,
-      "hours": null,
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
       "freq": null,
-      "plus_code": null,
+      "plus_code": "8626PCV7+7MR",
       "city": "Huntsville",
       "state": "TX",
       "airport_name": "Huntsville Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"3e09d7a23acd1f20\""
+  "etag": "\"259112c5b79c7ba3\""
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KSAA",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Saratoga Jet Center",
+      "phone": "(307) 326-8344",
+      "website": "https://www.saratogajetcenter.com/",
+      "email": "info@saratogajetcenter.com",
+      "street_address": "1112 S 1st St, Saratoga, WY 82331",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85HMC5VR+XQJ",
+      "city": "Saratoga",
+      "state": "WY",
+      "airport_name": "Shively Field",
+      "icao": "KSAA",
+      "iata": "SAA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"635ad0221f694bc1\""
+}

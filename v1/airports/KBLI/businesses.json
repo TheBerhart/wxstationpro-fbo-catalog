@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBLI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4201 Mitchell Way, Bellingham, WA 98226",
       "hours": "05:00-21:00 daily; avgas self-serve 24 hours",
       "freq": null,
-      "plus_code": "84WVQFV9+GC",
+      "plus_code": "84WVQFV9+GCX",
       "city": "Bellingham",
       "state": "WA",
       "airport_name": "Bellingham International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"306556d686a379d0\""
+  "etag": "\"31f8d907d164c651\""
 }

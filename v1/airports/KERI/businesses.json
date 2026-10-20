@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KERI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4645 West 12th Street, Erie, PA 16505",
       "hours": "Monday-Friday 0700-2300; Saturday-Sunday 0700-2200",
       "freq": "122.95",
-      "plus_code": "86JX3RJ7+GP",
+      "plus_code": "86JX3RJ7+FPP",
       "city": "Erie",
       "state": "PA",
       "airport_name": "Erie International Tom Ridge Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ae363e10782e9af7\""
+  "etag": "\"6c1f0251f74dcfdf\""
 }

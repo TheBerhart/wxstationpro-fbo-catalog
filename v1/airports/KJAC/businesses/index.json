@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KJAC",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1215 East Airport Road, Jackson, WY 83001",
       "hours": "Daily 6:00 AM–9:30 PM",
       "freq": null,
-      "plus_code": "85MFH7X6+JP",
+      "plus_code": "85MFH7X6+JPG",
       "city": "Jackson",
       "state": "WY",
       "airport_name": "Jackson Hole Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"e12300fbab50c693\""
+  "etag": "\"5fa22e14db091980\""
 }

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KAPC",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Atlantic Aviation Napa",
@@ -14,7 +14,7 @@
       "street_address": "2100 Airport Road",
       "hours": "Mon-Sun: 0600-2100",
       "freq": null,
-      "plus_code": "84CV6P9G+QP6",
+      "plus_code": "84CV6P8G+HWF",
       "city": "Napa",
       "state": "CA",
       "airport_name": null,
@@ -26,8 +26,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Skyservice Napa FBO",
+      "phone": "(707) 681-2860",
+      "website": "https://www.skyservice.com/fbo/napa-california-kapc/",
+      "email": null,
+      "street_address": "2020 Airport Rd, Napa, CA 94558",
+      "hours": "Monday: 8:00 AM – 8:00 PM; Tuesday: 8:00 AM – 8:00 PM; Wednesday: 8:00 AM – 8:00 PM; Thursday: 8:00 AM – 8:00 PM; Friday: 8:00 AM – 8:00 PM; Saturday: 8:00 AM – 8:00 PM; Sunday: 8:00 AM – 8:00 PM",
+      "freq": null,
+      "plus_code": "84CV6P9G+CGJ",
+      "city": "Napa",
+      "state": "CA",
+      "airport_name": "Napa County Airport",
+      "icao": "KAPC",
+      "iata": "APC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"d3c968441b836ae9\""
+  "etag": "\"21ee46c8570a01be\""
 }

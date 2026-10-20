@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLAF",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1630 Aviation Drive, West Lafayette, IN 47906",
       "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": null,
-      "plus_code": "86GMC378+P2",
+      "plus_code": "86GMC378+P67",
       "city": "West Lafayette",
       "state": "IN",
       "airport_name": "Purdue University Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"7ff47b3ac2bee128\""
+  "etag": "\"e87caf363d50be02\""
 }

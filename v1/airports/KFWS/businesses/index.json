@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KFWS",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Vesper Aviation",
+      "phone": "(817) 447-8016",
+      "website": "https://vesperaviation.com/fbo-locations/fort-worth-fws-spinks/",
+      "email": "csr.fws@vesperaviation.com",
+      "street_address": "13451 Wing Way Rd, Burleson, TX 76028",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "8644HM7P+8RP",
+      "city": "Fort Worth",
+      "state": "TX",
+      "airport_name": "Fort Worth Spinks Airport",
+      "icao": "KFWS",
+      "iata": "FWS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"e82de50beb5f351f\""
+}

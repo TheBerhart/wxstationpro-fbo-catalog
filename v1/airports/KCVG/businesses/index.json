@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCVG",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2042 Tower Dr., Hebron, KY 41048",
       "hours": "24 HRS",
       "freq": "122.950",
-      "plus_code": "86FQ28VV+38",
+      "plus_code": "86FQ28VV+29F",
       "city": "Hebron",
       "state": "KY",
       "airport_name": "Cincinnati Northern Kentucky International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "needs_review",
       "confidence": "low",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ee5ba983f07feec2\""
+  "etag": "\"c38c7fee3f6d38ce\""
 }

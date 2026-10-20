@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KIFP",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2550 Laughlin View Dr. Bldg 40, Bullhead City, AZ 86429",
       "hours": "6:00 AM–10:00 PM",
       "freq": "122.85",
-      "plus_code": "85775C4R+GJ",
+      "plus_code": "85775C6V+J62",
       "city": "Bullhead City",
       "state": "AZ",
       "airport_name": "Laughlin Bullhead International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"d083c20d128d2f12\""
+  "etag": "\"6ef5fb30bddca9cf\""
 }

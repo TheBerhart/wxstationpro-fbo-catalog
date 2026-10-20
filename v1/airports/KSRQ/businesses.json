@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSRQ",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "8250 15th Street",
       "hours": "Sun - Fri: 0600 - 2200 Sat: 0600 - 2100",
       "freq": "130.22",
-      "plus_code": "76VV9FV3+H2Q",
+      "plus_code": "76VV9FV3+F36",
       "city": "Sarasota",
       "state": "FL",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Sheltair Sarasota",
@@ -36,7 +36,7 @@
       "street_address": "814 Clyde Jones Road, Sarasota, FL 34243",
       "hours": "0600-2200",
       "freq": "122.775",
-      "plus_code": "76VVCC3W+2M",
+      "plus_code": "76VVCC3Q+9MH",
       "city": "Sarasota",
       "state": "FL",
       "airport_name": "Sarasota Bradenton International Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"7bee3ca7479b05d1\""
+  "etag": "\"2b72dc4efd829589\""
 }

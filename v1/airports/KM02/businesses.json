@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KM02",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Liberty Aviation",
+      "phone": "(615) 446-5962",
+      "website": "https://www.flydickson.com/what-we-do",
+      "email": null,
+      "street_address": "2374 Sylvia Rd, Dickson, TN 37055",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": "868J4HH8+CJX",
+      "city": "Dickson",
+      "state": "TN",
+      "airport_name": "Dickson County Municipal Airport",
+      "icao": "KM02",
+      "iata": "M02",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"54a12a1656ae0fac\""
+}

@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KHFD",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Atlantic Aviation HFD",
+      "phone": "(860) 548-9334",
+      "website": "https://www.atlanticaviation.com/",
+      "email": null,
+      "street_address": "20 Lindbergh Dr, Hartford, CT 06114",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "87H9P8VX+4MJ",
+      "city": "Hartford",
+      "state": "CT",
+      "airport_name": "Hartford Brainard Airport",
+      "icao": "KHFD",
+      "iata": "HFD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Hartford Jet Center",
       "phone": "860-548-9334",
@@ -14,7 +36,7 @@
       "street_address": "20 Lindbergh Drive, Hartford, CT 06114",
       "hours": "Open daily 0700-1900; after hours on request",
       "freq": "129.6",
-      "plus_code": "87H9P8VX+4M",
+      "plus_code": "87H9P8VX+7FH",
       "city": "Hartford",
       "state": "CT",
       "airport_name": "Hartford Brainard Airport",
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f6acca9fdf81294b\""
+  "etag": "\"cf29b321b546626e\""
 }

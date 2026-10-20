@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KYNG",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1453 Youngstown Kingsville Rd.",
       "hours": "6AM-10PM or by appointment",
       "freq": "130.22",
-      "plus_code": "86HX785H+39",
+      "plus_code": "86HX785M+343",
       "city": "Youngstown/Warren",
       "state": "OH",
       "airport_name": "Youngstown Warren Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c59b7393f6bfd12a\""
+  "etag": "\"51c767d1f425b3aa\""
 }

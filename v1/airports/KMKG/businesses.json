@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMKG",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "103 Sinclair Dr",
       "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 7:00 AM – 10:00 PM; Sunday: 7:00 AM – 10:00 PM",
       "freq": null,
-      "plus_code": "86MM5Q87+4C",
+      "plus_code": "86MM5Q87+4F6",
       "city": "Muskegon",
       "state": "MI",
       "airport_name": "Muskegon County Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"719b40bf7d3c4c37\""
+  "etag": "\"9a65cc72ea034ac4\""
 }

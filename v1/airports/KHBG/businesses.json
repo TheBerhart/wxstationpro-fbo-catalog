@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHBG",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -12,9 +12,9 @@
       "website": "https://hattiesburgairport.com/",
       "email": "info@hattiesburgairport.com",
       "street_address": "29 Academy Drive, Hattiesburg, MS 39401",
-      "hours": null,
+      "hours": "Monday: 7:00 AM – 6:00 PM; Tuesday: 7:00 AM – 6:00 PM; Wednesday: 7:00 AM – 6:00 PM; Thursday: 7:00 AM – 6:00 PM; Friday: 7:00 AM – 6:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
       "freq": null,
-      "plus_code": "863G7PCW+69",
+      "plus_code": "863G7P9W+VC7",
       "city": "Hattiesburg",
       "state": "MS",
       "airport_name": "Hattiesburg Bobby L Chain Municipal Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"cbe300f0f6ac55c7\""
+  "etag": "\"d592a6f29415a477\""
 }

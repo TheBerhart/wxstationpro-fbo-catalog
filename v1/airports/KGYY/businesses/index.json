@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGYY",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -12,9 +12,9 @@
       "website": "https://www.b-coleman.com/",
       "email": "csr@b-coleman.com",
       "street_address": "5701 Airport Road, Gary, IN 46406",
-      "hours": null,
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": "130.35",
-      "plus_code": "86HJJH8V+H9",
+      "plus_code": "86HJJH8V+P9G",
       "city": "Gary",
       "state": "IN",
       "airport_name": "Gary/Chicago International Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Gary Jet Center",
@@ -34,9 +34,9 @@
       "website": "https://garyjetcenter.com/fbo",
       "email": "frontdesk@garyjet.com",
       "street_address": "6101 Airport Rd, Gary, IN 46406",
-      "hours": null,
+      "hours": "Monday: 5:00 AM – 9:00 PM; Tuesday: 5:00 AM – 9:00 PM; Wednesday: 5:00 AM – 9:00 PM; Thursday: 5:00 AM – 9:00 PM; Friday: 5:00 AM – 9:00 PM; Saturday: 5:00 AM – 9:00 PM; Sunday: 5:00 AM – 9:00 PM",
       "freq": null,
-      "plus_code": "86HJJH9Q+CW",
+      "plus_code": "86HJJH9Q+CVG",
       "city": "Gary",
       "state": "IN",
       "airport_name": "Gary/Chicago International Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"25ced66bd27a3733\""
+  "etag": "\"9ed027e045f947c5\""
 }

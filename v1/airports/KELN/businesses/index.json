@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KELN",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Mt Stuart Aviation",
+      "phone": "(509) 273-1701",
+      "website": "https://www.mtstuartaviation.com/",
+      "email": "fbo@mtstuartaviation.com",
+      "street_address": "1111 W Bowers Rd, Ellensburg, WA 98926",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": "84VX2FHC+M5P",
+      "city": "Ellensburg",
+      "state": "WA",
+      "airport_name": "Bowers Field",
+      "icao": "KELN",
+      "iata": "ELN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"ded0b03555482b90\""
+}

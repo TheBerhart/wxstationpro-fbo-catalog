@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGOK",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Apex Aero Center GOK",
+      "phone": "(405) 282-4250",
+      "website": "https://www.apexaerocenter.com/",
+      "email": null,
+      "street_address": "520 Airport Rd, Guthrie, OK 73044",
+      "hours": "Monday: 7:00 AM – 6:00 PM; Tuesday: 7:00 AM – 6:00 PM; Wednesday: 7:00 AM – 6:00 PM; Thursday: 7:00 AM – 6:00 PM; Friday: 7:00 AM – 6:00 PM; Saturday: 7:00 AM – 6:00 PM; Sunday: 7:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": "8674VH2J+83X",
+      "city": "Guthrie",
+      "state": "OK",
+      "airport_name": "Guthrie-Edmond Regional Airport",
+      "icao": "KGOK",
+      "iata": "GOK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"b3d0ae3f4ab5f7dd\""
+}

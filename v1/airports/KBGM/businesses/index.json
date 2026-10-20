@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBGM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2534 Airport Road, Box 16, Johnson City, NY 13790",
       "hours": "Monday: 5:00 AM – 8:00 PM; Tuesday: 5:00 AM – 8:00 PM; Wednesday: 5:00 AM – 8:00 PM; Thursday: 5:00 AM – 8:00 PM; Friday: 5:00 AM – 8:00 PM; Saturday: 5:00 AM – 8:00 PM; Sunday: 5:00 AM – 8:00 PM",
       "freq": null,
-      "plus_code": "87J66259+54",
+      "plus_code": "87J66248+X4V",
       "city": "Binghamton",
       "state": "NY",
       "airport_name": "Greater Binghamton/Edwin A Link field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"b8e9315512ef993b\""
+  "etag": "\"7c28efd46c6f4979\""
 }

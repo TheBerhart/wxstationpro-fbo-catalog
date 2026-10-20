@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KMSO",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 2,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
+    {
+      "name": "Blackfoot Aviation",
+      "phone": "(406) 519-3757",
+      "website": "https://www.blackfootaviation.net/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11982841529452467579",
+      "email": "info@blackfootaviation.net",
+      "street_address": "4198 Corporate Way #3, Missoula, MT 59808",
+      "hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 12:00 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": "85R7WW7C+QP3",
+      "city": "Missoula",
+      "state": "MT",
+      "airport_name": "Missoula Montana Airport",
+      "icao": "KMSO",
+      "iata": "MSO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Minuteman Aviation, Inc.",
       "phone": "(406) 728-9363",
@@ -14,7 +36,7 @@
       "street_address": "6337 Aviation Way",
       "hours": "Open 24 hours",
       "freq": "122.95",
-      "plus_code": "85R7WWC7+WJ",
+      "plus_code": "85R7WWC8+X29",
       "city": "Missoula",
       "state": "MT",
       "airport_name": "Missoula Montana Airport",
@@ -26,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Northstar Jet",
@@ -36,7 +58,7 @@
       "street_address": "4337 Corporate Way",
       "hours": "Open 24 hours",
       "freq": "123.30",
-      "plus_code": "85R7WW7C+QP",
+      "plus_code": "85R7WW7C+QP9",
       "city": "Missoula",
       "state": "MT",
       "airport_name": "Missoula Montana Airport",
@@ -48,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"b3d01bdbc8b528a0\""
+  "etag": "\"e06a5f2eeed86ceb\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAUG",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "215 Winthrop Street, Augusta, ME 04330",
       "hours": "Staffed 0700-1800 EST; winter 7 AM-6 PM; summer 7 AM-7 PM",
       "freq": null,
-      "plus_code": "87PG8694+6V",
+      "plus_code": "87PG8694+6V8",
       "city": "Augusta",
       "state": "ME",
       "airport_name": "Augusta State Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c6d8ca4313f5f9e7\""
+  "etag": "\"063531a86c85856f\""
 }

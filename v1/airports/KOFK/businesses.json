@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KOFK",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4100 South 13 Street",
       "hours": "Jet fuel Mon-Fri 7:00 AM-7:00 PM; Sat 7:00 AM-5:00 PM; Sun 10:00 AM-5:00 PM; 100LL self-serve 24/7",
       "freq": null,
-      "plus_code": "86H4XHPC+HJ",
+      "plus_code": "86H4XHQC+7V4",
       "city": "Norfolk",
       "state": "NE",
       "airport_name": "Karl Stefan Memorial Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ffa52720761aa552\""
+  "etag": "\"5953a660648d9734\""
 }

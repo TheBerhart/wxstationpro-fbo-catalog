@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGCC",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2000 Airport Rd Ste 160, Gillette, WY 82716, USA",
       "hours": "Monday-Sunday 6:00 AM-8:00 PM (temporary hours); on-call overnight",
       "freq": null,
-      "plus_code": "85PP8FX8+FF",
+      "plus_code": "85PP8FX8+FFX",
       "city": "Gillette",
       "state": "WY",
       "airport_name": "Northeast Wyoming Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"098950cc69d793ee\""
+  "etag": "\"6ed5a5067e67c480\""
 }

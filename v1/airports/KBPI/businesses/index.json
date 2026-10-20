@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBPI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "56 Big Piney Airport Road, Big Piney, WY 83113",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
-      "plus_code": "85JFHVHW+6V",
+      "plus_code": "85JFHVHW+5XX",
       "city": "Big Piney",
       "state": "WY",
       "airport_name": "Miley Memorial Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"bdf56edeab968b5e\""
+  "etag": "\"4759e357ae0da4e4\""
 }

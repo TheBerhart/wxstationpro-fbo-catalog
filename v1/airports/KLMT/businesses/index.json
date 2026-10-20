@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLMT",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2901 Airport Way, Ste 100, Klamath Falls, OR 97603",
       "hours": "7:00 AM–5:30 PM daily; after-hours callout",
       "freq": null,
-      "plus_code": "84JW5784+23",
+      "plus_code": "84JW5774+W7X",
       "city": "Klamath Falls",
       "state": "OR",
       "airport_name": "Crater Lake-Klamath Regional Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "RMC Aviation",
@@ -36,7 +36,7 @@
       "street_address": "2980 Stinson Way, Klamath Falls, OR 97603",
       "hours": "Daily 7:00 AM–5:00 PM",
       "freq": null,
-      "plus_code": "84JW5794+48",
+      "plus_code": "84JW5794+484",
       "city": "Klamath Falls",
       "state": "OR",
       "airport_name": "Crater Lake-Klamath Regional Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"257d373b5b5d34aa\""
+  "etag": "\"15e582687e58151c\""
 }

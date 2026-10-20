@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KWST",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "56 Airport Road",
       "hours": "Monday-Sunday 0800-1600; 24-hour self-serve 100LL",
       "freq": null,
-      "plus_code": "87HC85XV+X7",
+      "plus_code": "87HC952V+275",
       "city": "Westerly",
       "state": "RI",
       "airport_name": "Westerly State Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"886826e83ed9d966\""
+  "etag": "\"f03048439eddded3\""
 }

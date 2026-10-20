@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAKR",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1600 Triplett Blvd, Akron, Ohio",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
-      "plus_code": "86HW2GQJ+XP",
+      "plus_code": "86HW2GRM+452",
       "city": "Akron",
       "state": "OH",
       "airport_name": "Akron Fulton International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"968838b8e4f6dfda\""
+  "etag": "\"2ebb99a77b7ac0aa\""
 }

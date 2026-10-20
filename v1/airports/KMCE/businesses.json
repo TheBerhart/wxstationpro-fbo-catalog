@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMCE",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "44 Macready Dr, Merced, CA 95341",
       "hours": "Line service 24/7",
       "freq": null,
-      "plus_code": "849X7FQP+JX",
+      "plus_code": "849X7FQP+MX5",
       "city": "Merced",
       "state": "CA",
       "airport_name": "Merced Regional Macready Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"52c8dde9983fa644\""
+  "etag": "\"022b6a0e49e02705\""
 }

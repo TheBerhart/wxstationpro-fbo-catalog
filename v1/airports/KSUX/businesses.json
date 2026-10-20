@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSUX",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "5701 Al Haynes Dr.",
       "hours": "Monday-Friday 6 AM - 10 PM; Saturday and Sunday 6 AM - 9 PM",
       "freq": null,
-      "plus_code": "86J5CJ5G+46",
+      "plus_code": "86J5CJ5F+FP5",
       "city": "Sioux City",
       "state": "IA",
       "airport_name": "Sioux Gateway Airport / Brigadier General Bud Day Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"7dfba83172c6e35d\""
+  "etag": "\"762f898b4da0637a\""
 }

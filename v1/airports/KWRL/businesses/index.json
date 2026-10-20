@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KWRL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1472 Airport Road",
       "hours": "8:00 am-5:00 p.m., 7 days a week; after-hours fuel available",
       "freq": null,
-      "plus_code": "85MJX2CX+8W",
+      "plus_code": "85MJX2CX+X84",
       "city": "Worland",
       "state": "WY",
       "airport_name": "Worland Municipal Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c5946e0535877275\""
+  "etag": "\"e2b8f515d4d6058a\""
 }

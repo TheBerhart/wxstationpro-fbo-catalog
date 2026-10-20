@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLVM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "84 Airport Road, Livingston, MT 59047",
       "hours": "Monday–Friday 8:00 AM–5:00 PM; 100LL self-serve 24 hours",
       "freq": null,
-      "plus_code": "85QFMGWW+RC",
+      "plus_code": "85QFMGWW+MGJ",
       "city": "Livingston",
       "state": "MT",
       "airport_name": "Mission Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"49fe6cd8ee80340b\""
+  "etag": "\"5061a42a53a45b01\""
 }

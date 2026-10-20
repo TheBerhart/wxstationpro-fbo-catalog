@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "airport_ident": "KCPS",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
-      "name": "Jet Aviation FBO Services St. Louis, MO",
+      "name": "Jet Aviation St Louis",
       "phone": "(618) 646-8262",
       "website": "https://www.jetaviation.com/location/st-louis/",
       "email": "cpsfbo@jetaviation.com",
       "street_address": "6200 Archview Drive",
       "hours": "Mon – Sun: 24 hours",
       "freq": "131.35",
-      "plus_code": "86CFHRGR+XC8",
+      "plus_code": "86CFHRGR+QH8",
       "city": "Cahokia Heights",
       "state": "IL",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"314b788bb8cb26af\""
+  "etag": "\"ffa6ec1dea08e482\""
 }

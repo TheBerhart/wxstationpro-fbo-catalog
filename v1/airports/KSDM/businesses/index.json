@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSDM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1424 Continental Street",
       "hours": "Monday: 8:00 AM – 7:00 PM; Tuesday: 8:00 AM – 7:00 PM; Wednesday: 8:00 AM – 7:00 PM; Thursday: 8:00 AM – 7:00 PM; Friday: 8:00 AM – 7:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
       "freq": null,
-      "plus_code": "8545H297+WR",
+      "plus_code": "8545H297+WRC",
       "city": "San Diego",
       "state": "CA",
       "airport_name": "Brown Field Municipal Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "First Flight Corporation",
@@ -36,7 +36,7 @@
       "street_address": "6810 Curran St",
       "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
       "freq": null,
-      "plus_code": "8545H2C4+9P",
+      "plus_code": "8545H2C4+9PG",
       "city": "San Diego",
       "state": "CA",
       "airport_name": "Brown Field Municipal Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"58b566fd5c8f636f\""
+  "etag": "\"bdf28d735af9b5c1\""
 }

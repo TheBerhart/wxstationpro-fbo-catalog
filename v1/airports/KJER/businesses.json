@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJER",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Precision Aviation",
+      "phone": "(208) 308-1852",
+      "website": "https://paviation.com/",
+      "email": "charter@paviation.com",
+      "street_address": "County Airport, 472 ID-25 Hangar 20, Jerome, ID 83338",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "85J7PGGV+2X4",
+      "city": "Jerome",
+      "state": "ID",
+      "airport_name": "Jerome County Airport",
+      "icao": "KJER",
+      "iata": "JER",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"2e14358e7babcc04\""
+}

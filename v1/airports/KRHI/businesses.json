@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRHI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3375 Airport Road",
       "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
       "freq": null,
-      "plus_code": "86QGJGGQ+CW",
+      "plus_code": "86QGJGHR+C64",
       "city": "Rhinelander",
       "state": "WI",
       "airport_name": "Rhinelander Oneida County Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"8a88c178517933ad\""
+  "etag": "\"640f128d8a5b1501\""
 }

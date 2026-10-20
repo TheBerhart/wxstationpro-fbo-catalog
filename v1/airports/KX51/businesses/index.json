@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KX51",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "28790 SW 217th Ave",
       "hours": "Monday-Sunday 8:00 am-6:00 pm; full service during hours, self service available",
       "freq": "122.85",
-      "plus_code": "76QXGC2W+78",
+      "plus_code": "76QXGC2W+94F",
       "city": "Homestead",
       "state": "FL",
       "airport_name": "Miami Homestead General Aviation Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"85c44e49880bea75\""
+  "etag": "\"4c74166e9c89a096\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCNY",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "94 West Aviation Way, Moab, UT 84532",
       "hours": "Daily 07:00-22:00",
       "freq": null,
-      "plus_code": "85CGQ764+G3",
+      "plus_code": "85CGQ764+G56",
       "city": "Moab",
       "state": "UT",
       "airport_name": "Canyonlands Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"de4ac03f2b5088b4\""
+  "etag": "\"6e160a0fef1ee28d\""
 }

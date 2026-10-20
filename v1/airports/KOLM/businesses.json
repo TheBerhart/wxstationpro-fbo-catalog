@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KOLM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "7825 Old Highway 99 SE",
       "hours": "8:00 AM-8:00 PM",
       "freq": null,
-      "plus_code": "84RVX4F4+67",
+      "plus_code": "84RVX4F4+67H",
       "city": "Olympia",
       "state": "WA",
       "airport_name": "Olympia Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"725fa7d98b74d22a\""
+  "etag": "\"d51772e5568c7f04\""
 }

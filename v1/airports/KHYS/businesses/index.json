@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHYS",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3950 E 8th St., Hays, KS 67601",
       "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": null,
-      "plus_code": "86C2VP3G+9G",
+      "plus_code": "86C2VP3G+9GC",
       "city": "Hays",
       "state": "KS",
       "airport_name": "Hays Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"8e3a666dbf4e15d9\""
+  "etag": "\"ce52d830d35019dd\""
 }

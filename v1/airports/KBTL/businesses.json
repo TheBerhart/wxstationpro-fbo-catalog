@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBTL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "15745 South Airport Road, Battle Creek, MI 49015",
       "hours": null,
       "freq": "122.95",
-      "plus_code": "86JP8P2V+7W",
+      "plus_code": "86JP8P2W+C56",
       "city": "Battle Creek",
       "state": "MI",
       "airport_name": "Battle Creek Executive Airport at Kellogg Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1ee96381230ec745\""
+  "etag": "\"c1f364a970b64777\""
 }

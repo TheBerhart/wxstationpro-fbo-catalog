@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KPWA",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
     {
       "name": "Atlantic Aviation Bethany",
@@ -14,7 +14,7 @@
       "street_address": "5901 Philip J. Rhoads Ave.",
       "hours": "Mon-Sun: 0400-2200; On-call services with prior arrangements",
       "freq": "130.6",
-      "plus_code": "8674G9H6+8MP",
+      "plus_code": "8674G9J5+HGW",
       "city": "Bethany",
       "state": "OK",
       "airport_name": null,
@@ -26,8 +26,52 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "AvionAero FBO",
+      "phone": "(405) 881-2465",
+      "website": "https://www.avionaero.com/",
+      "email": "info@avionaero.com",
+      "street_address": "7200 NW 63rd St Hangar 8, Bethany, OK 73008",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "8674G9Q5+49M",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "airport_name": "Wiley Post Airport",
+      "icao": "KPWA",
+      "iata": "PWA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Jetset FBO",
+      "phone": "(405) 888-8684",
+      "website": "http://www.jetsetfbo.com/",
+      "email": null,
+      "street_address": "7220 NW 63rd St, Bethany, OK 73008",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "8674G9P5+PFH",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "airport_name": "Wiley Post Airport",
+      "icao": "KPWA",
+      "iata": "PWA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"b9b29551ac909590\""
+  "etag": "\"e434d0b8b4967690\""
 }

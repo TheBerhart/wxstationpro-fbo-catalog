@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPIE",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "15875 Fairchild Dr., Clearwater, FL 33762",
       "hours": "0600-2200",
       "freq": "131.975",
-      "plus_code": "76VVW885+F4",
+      "plus_code": "76VVW885+F3V",
       "city": "Clearwater",
       "state": "FL",
       "airport_name": "St. Petersburg-Clearwater International Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature St. Pete-Clearwater",
@@ -36,7 +36,7 @@
       "street_address": "14525 Airport Parkway",
       "hours": "0600L - 2200L Call out available on request",
       "freq": "130.375",
-      "plus_code": "76VVW835+MR9",
+      "plus_code": "76VVW835+MV7",
       "city": "Clearwater",
       "state": "FL",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f4b3d3da292f4149\""
+  "etag": "\"3cff90c8e0e85403\""
 }

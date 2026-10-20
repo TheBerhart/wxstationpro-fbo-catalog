@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KEVW",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2160 County Road 111, Evanston, WY 82930",
       "hours": "8 AM-6 PM, 7 days; 24 hours on call or by appointment",
       "freq": null,
-      "plus_code": "85HC7XG8+6W",
+      "plus_code": "85HC7XFC+97F",
       "city": "Evanston",
       "state": "WY",
       "airport_name": "Evanston-Uinta County Airport-Burns Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"7eac5d045c2d8042\""
+  "etag": "\"3740ac2f90e3c4bb\""
 }

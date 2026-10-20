@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KSNA",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "ACI Jet - Orange County North",
+      "phone": "(949) 201-2550",
+      "website": "https://fbo.acijet.com/orange-county/",
+      "email": "sna@acijet.com",
+      "street_address": "19301 Campus Dr #100, Santa Ana, CA 92707",
+      "hours": "Monday: 5:00 AM – 11:00 PM; Tuesday: 5:00 AM – 11:00 PM; Wednesday: 5:00 AM – 11:00 PM; Thursday: 5:00 AM – 11:00 PM; Friday: 5:00 AM – 11:00 PM; Saturday: 5:00 AM – 11:00 PM; Sunday: 5:00 AM – 11:00 PM",
+      "freq": null,
+      "plus_code": "8554M4CM+P9W",
+      "city": "Santa Ana",
+      "state": "CA",
+      "airport_name": "John Wayne Orange County International Airport",
+      "icao": "KSNA",
+      "iata": "SNA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Clay Lacy Aviation John Wayne",
       "phone": "(714) 888-8000",
@@ -14,7 +36,7 @@
       "street_address": "361 Paularino Avenue",
       "hours": "0500-2300",
       "freq": "131.375",
-      "plus_code": "8554M4GH+X95",
+      "plus_code": "8554M4GH+GFH",
       "city": "Costa Mesa",
       "state": "CA",
       "airport_name": null,
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"d8e620d9bee8dfd9\""
+  "etag": "\"935d41818f966346\""
 }

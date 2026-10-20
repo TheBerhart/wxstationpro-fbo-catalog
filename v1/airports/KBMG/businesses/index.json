@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBMG",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -36,7 +36,7 @@
       "street_address": "970 South Kirby Rd, Bloomington, IN 47403",
       "hours": "8:00am-6:00pm daily; on-call 24 hours",
       "freq": "122.95",
-      "plus_code": "86FM49XP+RX",
+      "plus_code": "86FM49XP+VW5",
       "city": "Bloomington",
       "state": "IN",
       "airport_name": "Monroe County Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"0239a7895a9aa87b\""
+  "etag": "\"34007818fe5c4cc7\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBTM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4602 Harrison Ave, Butte, MT 59701",
       "hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: 7:30 AM – 5:30 PM; Sunday: 7:30 AM – 5:30 PM",
       "freq": null,
-      "plus_code": "85Q9XF3X+8F",
+      "plus_code": "85Q9XF3X+8FW",
       "city": "Butte",
       "state": "MT",
       "airport_name": "Bert Mooney Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"28fd0d7f65fa7109\""
+  "etag": "\"f34d611eaac93a11\""
 }

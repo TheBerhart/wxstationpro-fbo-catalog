@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDDC",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "102 Airport Road, Dodge City, KS 67801",
       "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": "122.70",
-      "plus_code": "8692Q26J+7V",
+      "plus_code": "8692Q26J+6WG",
       "city": "Dodge City",
       "state": "KS",
       "airport_name": "Dodge City Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"9c7dc771a58da627\""
+  "etag": "\"c42955c5f13f38bd\""
 }

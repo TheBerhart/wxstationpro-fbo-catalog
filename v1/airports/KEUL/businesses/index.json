@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KEUL",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Qmulus Aviation FBO",
+      "phone": "(208) 459-2360",
+      "website": null,
+      "email": null,
+      "street_address": "4814 E Linden St, Caldwell, ID 83605",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 AM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": "85M5J9X6+4Q5",
+      "city": "Caldwell",
+      "state": "ID",
+      "airport_name": "Caldwell Executive Airport",
+      "icao": "KEUL",
+      "iata": "EUL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"97301c52d557387b\""
+}

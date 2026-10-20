@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KJYO",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kuhn Jet Center",
+      "phone": "(703) 665-3000",
+      "website": "http://kuhnaviation.com/jet-center",
+      "email": null,
+      "street_address": "1001 Sycolin Rd, Leesburg, VA 20175",
+      "hours": "Monday: 6:00 AM – 9:00 PM; Tuesday: 6:00 AM – 9:00 PM; Wednesday: 6:00 AM – 9:00 PM; Thursday: 6:00 AM – 9:00 PM; Friday: 6:00 AM – 9:00 PM; Saturday: 6:00 AM – 9:00 PM; Sunday: 6:00 AM – 9:00 PM",
+      "freq": null,
+      "plus_code": "87F43CHV+3X3",
+      "city": "Leesburg",
+      "state": "VA",
+      "airport_name": "Leesburg Executive Airport",
+      "icao": "KJYO",
+      "iata": "JYO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"2713dbe3d4187c71\""
+}

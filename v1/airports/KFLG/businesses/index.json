@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFLG",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -12,9 +12,9 @@
       "website": "https://flyflagstaffaz.com/general-aviation/fbo-and-fuel-sales/",
       "email": null,
       "street_address": "6200 S Pulliam Drive, Flagstaff, AZ 86005",
-      "hours": null,
+      "hours": "Monday: 7:00 AM – 9:00 PM; Tuesday: 7:00 AM – 9:00 PM; Wednesday: 7:00 AM – 9:00 PM; Thursday: 7:00 AM – 9:00 PM; Friday: 7:00 AM – 9:00 PM; Saturday: 7:00 AM – 9:00 PM; Sunday: 7:00 AM – 9:00 PM",
       "freq": null,
-      "plus_code": "857C48QG+H2",
+      "plus_code": "857C48PF+P68",
       "city": "Flagstaff",
       "state": "AZ",
       "airport_name": "Flagstaff Pulliam Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c217893f6a23c528\""
+  "etag": "\"a4dc8c57cb127790\""
 }

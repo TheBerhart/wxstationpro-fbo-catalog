@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KCLE",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Atlantic Aviation Cleveland",
@@ -14,7 +14,7 @@
       "street_address": "6200 Riverside Drive",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "130.3",
-      "plus_code": "86HWC42V+5XP",
+      "plus_code": "86HWC42V+VX3",
       "city": "Cleveland",
       "state": "OH",
       "airport_name": null,
@@ -26,8 +26,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "JETS FBO CLE North",
+      "phone": "(216) 340-1295",
+      "website": "http://www.jetsfbo.com/",
+      "email": null,
+      "street_address": "19601 Five Pts Rd, Cleveland, OH 44135",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "86HWC535+CMH",
+      "city": "Cleveland",
+      "state": "OH",
+      "airport_name": "Cleveland Hopkins International Airport",
+      "icao": "KCLE",
+      "iata": "CLE",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"7a3a8ccd5d506232\""
+  "etag": "\"b92cce60ce4deb39\""
 }

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KMQY",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Azure Flight Support",
@@ -14,7 +14,7 @@
       "street_address": "276 Doug Warpoole Road",
       "hours": "24 hours Sunday-Thursday; Friday until 10:00 PM; Saturday 6:00 AM-10:00 PM; 24/7 on call",
       "freq": null,
-      "plus_code": "868M2F3F+JG",
+      "plus_code": "868M2F3F+HHJ",
       "city": "Smyrna",
       "state": "TN",
       "airport_name": "Smyrna Airport",
@@ -26,8 +26,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Hollingshead Aviation",
+      "phone": "(615) 459-3337",
+      "website": "https://hollingsheadaviation.com/",
+      "email": "info@hollingsheadaviation.com",
+      "street_address": "300 Doug Warpoole Rd, Smyrna, TN 37167",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 9:00 PM; Sunday: 6:00 AM – 9:00 PM",
+      "freq": null,
+      "plus_code": "868M2F4F+5GR",
+      "city": "Smyrna",
+      "state": "TN",
+      "airport_name": "Smyrna Airport",
+      "icao": "KMQY",
+      "iata": "MQY",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c8c144a7accd72ad\""
+  "etag": "\"0a959b6fe43304fb\""
 }

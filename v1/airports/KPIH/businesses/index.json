@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPIH",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1483 Flightline",
       "hours": "24 hour availability",
       "freq": null,
-      "plus_code": "85J9WC58+M5",
+      "plus_code": "85J9WC58+M6J",
       "city": "Pocatello",
       "state": "ID",
       "airport_name": "Pocatello Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"377232dbb3c28288\""
+  "etag": "\"93fcbef81d7eae58\""
 }

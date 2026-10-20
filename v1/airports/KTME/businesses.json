@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KTME",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Henriksen Jet Center",
+      "phone": "(281) 945-5000",
+      "website": "http://www.houstonexecutiveairport.com/",
+      "email": null,
+      "street_address": "1900 Cardiff Rd, Brookshire, TX 77423",
+      "hours": "Monday: 12:00 AM – 12:00 PM; Tuesday: 12:00 AM – 12:00 PM; Wednesday: 12:00 AM – 12:00 PM; Thursday: 12:00 AM – 12:00 PM; Friday: 12:00 AM – 12:00 PM; Saturday: 12:00 AM – 12:00 PM; Sunday: 12:00 AM – 12:00 PM",
+      "freq": null,
+      "plus_code": "76X6R32V+5H5",
+      "city": "Houston",
+      "state": "TX",
+      "airport_name": "Houston Executive Airport",
+      "icao": "KTME",
+      "iata": "TME",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"34185665ab186a36\""
+}

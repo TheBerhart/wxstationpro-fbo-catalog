@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGYR",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Lux Air Jet Centers",
+      "phone": "(623) 932-1200",
+      "website": "http://luxairjetcenters.com/",
+      "email": null,
+      "street_address": "1658 S Litchfield Rd Bldg 110, Goodyear, AZ 85338",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "8559CJHM+QJM",
+      "city": "Goodyear",
+      "state": "AZ",
+      "airport_name": "Phoenix Goodyear Airport",
+      "icao": "KGYR",
+      "iata": "GYR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"7abeef6ab11d7b29\""
+}

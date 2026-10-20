@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMHK",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1705 S. Airport Rd.",
       "hours": "0600-2200 daily; after hours call 785-776-1991",
       "freq": "122.85",
-      "plus_code": "86F548VP+56",
+      "plus_code": "86F548VP+683",
       "city": "Manhattan",
       "state": "KS",
       "airport_name": "Manhattan Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"8a7e42c76220ee7f\""
+  "etag": "\"25aaf1bc071ddd97\""
 }

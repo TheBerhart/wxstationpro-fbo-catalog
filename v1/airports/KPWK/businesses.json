@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KPWK",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 2,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
     {
       "name": "Atlantic Aviation Wheeling",
@@ -14,7 +14,7 @@
       "street_address": "1011 S. Wolf Road",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "130.325",
-      "plus_code": "86JJ439R+QCG",
+      "plus_code": "86JJ439R+MPG",
       "city": "Wheeling",
       "state": "IL",
       "airport_name": null,
@@ -26,7 +26,29 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Hawthorne Global Aviation Services",
+      "phone": "(847) 325-0566",
+      "website": "https://ascensionfbo.com/location/chicago/",
+      "email": null,
+      "street_address": "1120 S Milwaukee Ave Apt 4, Wheeling, IL 60090",
+      "hours": "Monday: 6:00 AM – 11:00 PM; Tuesday: 6:00 AM – 11:00 PM; Wednesday: 6:00 AM – 11:00 PM; Thursday: 6:00 AM – 11:00 PM; Friday: 6:00 AM – 11:00 PM; Saturday: 6:00 AM – 11:00 PM; Sunday: 6:00 AM – 11:00 PM",
+      "freq": null,
+      "plus_code": "86JJ4464+VRM",
+      "city": "Chicago/Prospect Heights/Wheeling",
+      "state": "IL",
+      "airport_name": "Chicago Executive Airport",
+      "icao": "KPWK",
+      "iata": "PWK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Chicago Executive",
@@ -36,7 +58,7 @@
       "street_address": "1100 South Milwaukee Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.95",
-      "plus_code": "86JJ4482+J3P",
+      "plus_code": "86JJ4482+M4X",
       "city": "Wheeling",
       "state": "IL",
       "airport_name": null,
@@ -48,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"5bd855b7152dd8af\""
+  "etag": "\"1615e8cd2575ee20\""
 }

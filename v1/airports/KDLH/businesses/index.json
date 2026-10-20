@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KDLH",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Air Elite",
+      "phone": "(218) 727-2911",
+      "website": "https://www.airelitenetwork.com/locations/monaco-air-duluth/",
+      "email": null,
+      "street_address": "4535 Airport Approach Rd, Duluth, MN 55811",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86R9RRQ9+6XJ",
+      "city": "Duluth",
+      "state": "MN",
+      "airport_name": "Duluth International Airport",
+      "icao": "KDLH",
+      "iata": "DLH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Vantage Aviation",
       "phone": "(218) 727-2911",
@@ -14,7 +36,7 @@
       "street_address": "4535 Airport Approach Road, Duluth, MN 55811",
       "hours": "24/7",
       "freq": "122.95",
-      "plus_code": "86R9RRQ4+MQ",
+      "plus_code": "86R9RRQ4+MR7",
       "city": "Duluth",
       "state": "MN",
       "airport_name": "Duluth International Airport",
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f2b56267b1afc4af\""
+  "etag": "\"e4c0514185184415\""
 }

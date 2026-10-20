@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSSI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "115 Terminal Way",
       "hours": "24/7 full-service operations",
       "freq": null,
-      "plus_code": "863W5J47+59",
+      "plus_code": "863W5J47+49X",
       "city": "St Simons Island",
       "state": "GA",
       "airport_name": "St Simons Island Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"308a3e531225e46f\""
+  "etag": "\"8442f3544692cfb1\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSWO",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2020 W Airport Rd # 3",
       "hours": "Open daily 7am – 10pm",
       "freq": null,
-      "plus_code": "86845W58+3F",
+      "plus_code": "86845W58+3F2",
       "city": "Stillwater",
       "state": "OK",
       "airport_name": "Stillwater Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"9a2bfbc277c786cf\""
+  "etag": "\"99f2f437d117840c\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDEC",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "790 South Airport Rd, Decatur, IL 62521",
       "hours": "Mon-Fri 0500-2100; Sat 0500-1900; Sun 0700-1900",
       "freq": "122.95",
-      "plus_code": "86FHR4PF+43",
+      "plus_code": "86FHR4PF+33J",
       "city": "Decatur",
       "state": "IL",
       "airport_name": "Decatur Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c07a61f93e8caa5f\""
+  "etag": "\"39fd53912889d792\""
 }

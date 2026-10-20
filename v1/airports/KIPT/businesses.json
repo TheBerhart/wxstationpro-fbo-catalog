@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KIPT",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "580 S Loyalsock Ave, Montoursville, PA 17754",
       "hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 8:00 PM; Sunday: 7:00 AM – 8:00 PM",
       "freq": null,
-      "plus_code": "87H563VF+C2",
+      "plus_code": "87H563VF+C59",
       "city": "Williamsport",
       "state": "PA",
       "airport_name": "Williamsport Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"9f826e0eadb19cf2\""
+  "etag": "\"3ffea65530a4b489\""
 }

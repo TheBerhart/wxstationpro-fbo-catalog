@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFAR",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3802 20th Street North, Fargo, ND 58102",
       "hours": "24 hours, 7 days",
       "freq": "130.525",
-      "plus_code": "86R5W5HQ+WW",
+      "plus_code": "86R5W5HR+WF7",
       "city": "Fargo",
       "state": "ND",
       "airport_name": "Hector International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"550a7daac1c3c837\""
+  "etag": "\"cd996e03be0e5f73\""
 }

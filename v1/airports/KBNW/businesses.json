@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBNW",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Farnham Aviation Services",
+      "phone": "(515) 432-1018",
+      "website": "https://www.farnhamaviation.com/",
+      "email": null,
+      "street_address": "424 Co Hwy R27, Boone, IA 50036",
+      "hours": "Monday: 9:00 AM – 5:00 PM; Tuesday: 9:00 AM – 5:00 PM; Wednesday: 9:00 AM – 5:00 PM; Thursday: 9:00 AM – 5:00 PM; Friday: 9:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "86J824WW+37Q",
+      "city": "Boone",
+      "state": "IA",
+      "airport_name": "Boone Municipal Airport",
+      "icao": "KBNW",
+      "iata": "BNW",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"c4e13a59ad8778bd\""
+}

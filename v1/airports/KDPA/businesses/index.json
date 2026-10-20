@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDPA",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2700 International Drive, West Chicago, IL 60185",
       "hours": null,
       "freq": null,
-      "plus_code": "86HHWP4V+MX",
+      "plus_code": "86HHWP4V+PW5",
       "city": "Chicago/West Chicago",
       "state": "IL",
       "airport_name": "Dupage Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"e260801e89c0831e\""
+  "etag": "\"9a0e8e30169d75cc\""
 }

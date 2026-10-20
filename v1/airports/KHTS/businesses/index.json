@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHTS",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1449 Co Rte 3/1, Huntington, WV 25704, USA",
       "hours": "24 hours, 365 days",
       "freq": null,
-      "plus_code": "86CV9CCR+4H",
+      "plus_code": "86CV9C9V+R7G",
       "city": "Huntington",
       "state": "WV",
       "airport_name": "Tri-State Airport / Milton J. Ferguson Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"d97fd150fd3fd813\""
+  "etag": "\"95c375f1560d8601\""
 }

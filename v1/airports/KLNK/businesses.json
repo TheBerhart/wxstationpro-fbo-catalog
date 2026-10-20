@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KLNK",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Atlantic Aviation Lincoln",
@@ -14,7 +14,7 @@
       "street_address": "1751 W Kearney Ave",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
-      "plus_code": "86G5V733+829",
+      "plus_code": "86G5V733+83M",
       "city": "Lincoln",
       "state": "NE",
       "airport_name": null,
@@ -26,8 +26,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Duncan Aviation",
+      "phone": "(402) 475-2611",
+      "website": "https://duncanaviation.aero/",
+      "email": null,
+      "street_address": "3701 Aviation Rd, Lincoln, NE 68524",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86G5R7X3+V34",
+      "city": "Lincoln",
+      "state": "NE",
+      "airport_name": "Lincoln Airport",
+      "icao": "KLNK",
+      "iata": "LNK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"e4c771f125f37c8d\""
+  "etag": "\"4faf6d303451eb6c\""
 }

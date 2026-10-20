@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCYS",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3913 Evans Ave, Cheyenne, WY 82001",
       "hours": "6 a.m.-10 p.m.; after hours on request",
       "freq": "122.95",
-      "plus_code": "85HQ552J+PQ",
+      "plus_code": "85HQ552J+PQQ",
       "city": "Cheyenne",
       "state": "WY",
       "airport_name": "Cheyenne Regional Jerry Olson Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"11ba94c40ac657f6\""
+  "etag": "\"0bf23605242f1dbf\""
 }

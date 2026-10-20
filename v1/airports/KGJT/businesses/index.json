@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGJT",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "796 Heritage Way, Grand Junction, CO 81506",
       "hours": "FBO 5:00 AM-10:00 PM daily; on call 24/7",
       "freq": "122.95",
-      "plus_code": "85FH4F9G+HC",
+      "plus_code": "85FH4F9G+HCF",
       "city": "Grand Junction",
       "state": "CO",
       "airport_name": "Grand Junction Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"d2fd379538e17daf\""
+  "etag": "\"f2c336d67efe010b\""
 }

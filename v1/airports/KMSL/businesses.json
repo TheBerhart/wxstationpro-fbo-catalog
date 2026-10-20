@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KMSL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "MS Airfield FBO",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "street_address": "336 E Washington Dr, Muscle Shoals, AL 35661",
+      "hours": null,
+      "freq": null,
+      "plus_code": "866JP9QH+WV9",
+      "city": "Muscle Shoals",
+      "state": "AL",
+      "airport_name": "Northwest Alabama Regional Airport",
+      "icao": "KMSL",
+      "iata": "MSL",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Shoals Flight Center",
       "phone": "(256) 383-2270",
@@ -14,7 +36,7 @@
       "street_address": "1729 T. Ed Campbell Drive",
       "hours": "6:00 AM-6:00 PM daily; after-hours callout",
       "freq": null,
-      "plus_code": "866JP9WJ+59",
+      "plus_code": "866JP9WJ+6CP",
       "city": "Muscle Shoals",
       "state": "AL",
       "airport_name": "Northwest Alabama Regional Airport",
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"07d96154ea9e8c44\""
+  "etag": "\"98e62ca57770f7ab\""
 }

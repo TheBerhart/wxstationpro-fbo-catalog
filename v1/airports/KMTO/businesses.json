@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KMTO",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Coles County Aviation - FBO",
+      "phone": "(217) 234-5686",
+      "website": "http://www.flymto.com/",
+      "email": null,
+      "street_address": "478 Airport Rd, Mattoon, IL 61938",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 8:00 AM – 4:00 PM; Sunday: 8:00 AM – 4:00 PM",
+      "freq": null,
+      "plus_code": "86FHFPM9+3CQ",
+      "city": "Mattoon",
+      "state": "IL",
+      "airport_name": "Coles County Memorial Airport",
+      "icao": "KMTO",
+      "iata": "MTO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"9f6b946877c2c8a8\""
+}

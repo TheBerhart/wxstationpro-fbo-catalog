@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KROW",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "Roswell Air Center, 1 Jerry Smith Cir, Roswell, NM 88203",
       "hours": "M-F 0600-2100, S-S 0600-1900",
       "freq": "122.95",
-      "plus_code": "855Q8F2F+XM",
+      "plus_code": "855Q8F4F+C3R",
       "city": "Roswell",
       "state": "NM",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "needs_review",
       "confidence": "low",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"62520a0f1e154686\""
+  "etag": "\"45fef400e710b599\""
 }

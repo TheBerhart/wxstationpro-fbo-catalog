@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KALS",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2501 State Ave, Alamosa, CO 81101",
       "hours": "8:00 am-6:00 pm daily; 24/7 fueling",
       "freq": null,
-      "plus_code": "859PC4VM+6W",
+      "plus_code": "859PC4VP+72R",
       "city": "Alamosa",
       "state": "CO",
       "airport_name": "San Luis Valley Regional Airport/Bergman Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"02084ff48d6276ee\""
+  "etag": "\"91f8b52492ca6787\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBIL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1691 Aviation Place, Billings, MT 59105",
       "hours": "Staffed 24/7",
       "freq": "123.3",
-      "plus_code": "85QHRF39+7P",
+      "plus_code": "85QHRF39+7QJ",
       "city": "Billings",
       "state": "MT",
       "airport_name": "Billings Logan International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"def50623de4d2af5\""
+  "etag": "\"7437e4f95f04f398\""
 }

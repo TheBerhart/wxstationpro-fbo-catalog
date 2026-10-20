@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDAL",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 6,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3232 Love Field Drive",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "130.65",
-      "plus_code": "8645V42R+MFF",
+      "plus_code": "8645V42R+JX4",
       "city": "Dallas",
       "state": "TX",
       "airport_name": null,
@@ -26,17 +26,17 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
-      "name": "Jet Aviation Dallas FBO Services at Love Field Airport",
+      "name": "Jet Aviation Dallas",
       "phone": "(214) 350-8523",
       "website": "https://www.jetaviation.com/location/dallas/",
       "email": "dalfbo@jetaviation.com",
       "street_address": "7363 Herb Kelleher Way",
       "hours": "Mon – Sun: 24 hours",
       "freq": "131.05",
-      "plus_code": "8645R5Q4+2GV",
+      "plus_code": "8645R5Q4+2CW",
       "city": "Dallas",
       "state": "TX",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Dallas - Terminal 1",
@@ -58,7 +58,7 @@
       "street_address": "8001 Lemmon Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.4",
-      "plus_code": "8645R5X4+PG3",
+      "plus_code": "8645R5X4+PHH",
       "city": "Dallas",
       "state": "TX",
       "airport_name": null,
@@ -70,7 +70,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Dallas - Terminal 2",
@@ -80,7 +80,7 @@
       "street_address": "7515 Lemmon Avenue Building J",
       "hours": "6am - 10pm daily",
       "freq": "130.75",
-      "plus_code": "8645R5W6+PF4",
+      "plus_code": "8645R5W6+J3V",
       "city": "Dallas",
       "state": "TX",
       "airport_name": null,
@@ -92,7 +92,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Dallas - Terminal 3",
@@ -102,7 +102,7 @@
       "street_address": "8321 Lemmon Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.275",
-      "plus_code": "8645V533+538",
+      "plus_code": "8645V532+4VV",
       "city": "Dallas",
       "state": "TX",
       "airport_name": null,
@@ -114,7 +114,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Dallas - Terminal 4",
@@ -124,7 +124,7 @@
       "street_address": "7701 Lemmon Avenue",
       "hours": "6am - 10pm daily",
       "freq": "131.6",
-      "plus_code": "8645R5X5+GMG",
+      "plus_code": "8645R5X5+586",
       "city": "Dallas",
       "state": "TX",
       "airport_name": null,
@@ -136,8 +136,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"38271b5a88fedb59\""
+  "etag": "\"0180561ae0ae5561\""
 }

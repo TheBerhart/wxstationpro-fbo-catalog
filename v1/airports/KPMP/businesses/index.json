@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPMP",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1401 NE 10th St., Pompano Beach, FL 33060",
       "hours": "0700-1900",
       "freq": "130.1",
-      "plus_code": "76RX6VRR+Q7",
+      "plus_code": "76RX6VVR+3GH",
       "city": "Pompano Beach",
       "state": "FL",
       "airport_name": "Pompano Beach Airpark",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"3e95a5230e6165d8\""
+  "etag": "\"3e6c205b4da46c6f\""
 }

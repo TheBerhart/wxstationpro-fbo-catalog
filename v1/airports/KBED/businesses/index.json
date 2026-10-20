@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBED",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 3,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "777 Virginia Road",
       "hours": "Mon-Sun: 0600-2200; On-call services with prior arrangements",
       "freq": "131.4",
-      "plus_code": "87JCFP72+V8C",
+      "plus_code": "87JCFP72+V7W",
       "city": "Concord",
       "state": "MA",
       "airport_name": null,
@@ -26,17 +26,17 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
-      "name": "Jet Aviation Boston FBO Services at Hanscom Field, Bedford",
+      "name": "Jet Aviation Bedford",
       "phone": "(781) 274-0030",
       "website": "https://www.jetaviation.com/location/boston/",
       "email": "bedfbo@jetaviation.com",
       "street_address": "380 Hanscom Drive",
       "hours": "Mon – Sun: 24/7",
       "freq": null,
-      "plus_code": "87JCFP64+954",
+      "plus_code": "87JCFP64+8HG",
       "city": "Bedford",
       "state": "MA",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Bedford",
@@ -58,7 +58,7 @@
       "street_address": "180 Hanscom Drive",
       "hours": "0600L - 2300L Call out available on request",
       "freq": "130.8",
-      "plus_code": "87JCFP75+6R6",
+      "plus_code": "87JCFP75+6RP",
       "city": "Bedford",
       "state": "MA",
       "airport_name": null,
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"fa546fcbd6ae7942\""
+  "etag": "\"88387a1e6caf0079\""
 }

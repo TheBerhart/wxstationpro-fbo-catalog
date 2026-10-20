@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRSW",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "11545 Private Sky Way, Fort Myers, FL 33913",
       "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": "130.30",
-      "plus_code": "76RWG6PP+PF",
+      "plus_code": "76RWG6PP+PCH",
       "city": "Fort Myers",
       "state": "FL",
       "airport_name": "Southwest Florida International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"fa886eef01f3bef7\""
+  "etag": "\"9b2190840cc738c5\""
 }

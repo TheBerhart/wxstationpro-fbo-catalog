@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGMU",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "10 Opportunity Place, Suite A, Greenville, SC 29607",
       "hours": "24/7",
       "freq": null,
-      "plus_code": "866VRMW3+58",
+      "plus_code": "866VRMW3+58W",
       "city": "Greenville",
       "state": "SC",
       "airport_name": "Greenville Downtown Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Vantage Aviation",
@@ -36,7 +36,7 @@
       "street_address": "100 Tower Dr, Greenville, SC 29607",
       "hours": "6 AM-9 PM",
       "freq": "122.95",
-      "plus_code": "866VRMX2+J7",
+      "plus_code": "866VVJ2X+39H",
       "city": "Greenville",
       "state": "SC",
       "airport_name": "Greenville Downtown Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"bdf6b27115d21774\""
+  "etag": "\"a9fee5c6c45736e3\""
 }

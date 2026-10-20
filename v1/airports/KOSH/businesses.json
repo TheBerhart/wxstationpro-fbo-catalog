@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KOSH",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "525 W 20th Ave",
       "hours": "Monday-Friday 7:00 AM-7:00 PM; Saturday-Sunday 8:00 AM-5:00 PM; 100LL self-serve 24 hours",
       "freq": null,
-      "plus_code": "86MHXCVX+P5",
+      "plus_code": "86MHXCVX+P4Q",
       "city": "Oshkosh",
       "state": "WI",
       "airport_name": "Wittman Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6c7034d3cd778f97\""
+  "etag": "\"a355ce562e11f29c\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDXR",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "81 Kenosia Avenue, Danbury, CT 06810",
       "hours": "Daily 7:00am-6:00pm; winter 8:00am-5:00pm",
       "freq": null,
-      "plus_code": "87H89GC7+XJ",
+      "plus_code": "87H89GC7+WJM",
       "city": "Danbury",
       "state": "CT",
       "airport_name": "Danbury Municipal Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Exit Aviation",
@@ -36,7 +36,7 @@
       "street_address": "19 Miry Brook Rd, Danbury, CT 06810",
       "hours": "24/7 self-serve fuel",
       "freq": null,
-      "plus_code": "87H89G9F+W2",
+      "plus_code": "87H89G9F+W2R",
       "city": "Danbury",
       "state": "CT",
       "airport_name": "Danbury Municipal Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"e757b7ead63da6ed\""
+  "etag": "\"33987424c538b846\""
 }

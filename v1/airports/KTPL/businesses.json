@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KTPL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "7720 Airport Rd.",
       "hours": "7:00 a.m. – 8:00 p.m.",
       "freq": null,
-      "plus_code": "86345H2Q+77",
+      "plus_code": "86344HXQ+W7M",
       "city": "Temple",
       "state": "TX",
       "airport_name": "Draughon Miller Central Texas Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c02310d281be55d3\""
+  "etag": "\"de381abbcec4de55\""
 }

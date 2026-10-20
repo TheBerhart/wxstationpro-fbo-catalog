@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHCR",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "OK3 AIR",
+      "phone": "(435) 654-3962",
+      "website": "http://www.ok3.aero/",
+      "email": null,
+      "street_address": "1980 S Airport Rd, Heber City, UT 84032",
+      "hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:00 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": "85GCFHJG+XFP",
+      "city": "Heber",
+      "state": "UT",
+      "airport_name": "Heber Valley Airport",
+      "icao": "KHCR",
+      "iata": "HCR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"02617121575b22d9\""
+}

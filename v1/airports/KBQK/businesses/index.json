@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBQK",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "425 Aviation Parkway, Brunswick, GA 31525",
       "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 7:00 PM",
       "freq": null,
-      "plus_code": "863W7G4P+C2",
+      "plus_code": "863W7G4P+C32",
       "city": "Brunswick",
       "state": "GA",
       "airport_name": "Brunswick Golden Isles Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"5deb88f005ef24ea\""
+  "etag": "\"7d20c939b1ebb737\""
 }

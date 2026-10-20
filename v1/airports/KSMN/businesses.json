@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KSMN",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 3,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Gem Air LLC",
@@ -14,7 +14,7 @@
       "street_address": "31 Hamner Dr",
       "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 9:00 AM – 4:00 PM; Sunday: 9:00 AM – 4:00 PM",
       "freq": null,
-      "plus_code": "85Q84487+VG",
+      "plus_code": "85Q84487+VG4",
       "city": "Salmon",
       "state": "ID",
       "airport_name": "Lemhi County Airport",
@@ -26,29 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
-    },
-    {
-      "name": "Lemhi County Airport",
-      "phone": "(208) 742-3531",
-      "website": "https://lemhicountyairport.com/services/fueling-services/",
-      "email": null,
-      "street_address": null,
-      "hours": "24-hour self-serve",
-      "freq": null,
-      "plus_code": null,
-      "city": "Salmon",
-      "state": "ID",
-      "airport_name": "Lemhi County Airport",
-      "icao": "KSMN",
-      "iata": "SMN",
-      "region": "US",
-      "services": null,
-      "enrichment_status": "enriched",
-      "validation_status": "verified",
-      "confidence": "high",
-      "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "McCall Aviation / Salmon Air",
@@ -73,5 +51,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"4cdbf9c19b2261f9\""
+  "etag": "\"dbcbdb47a0dc9748\""
 }

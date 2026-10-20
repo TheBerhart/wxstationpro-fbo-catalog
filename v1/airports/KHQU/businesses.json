@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KHQU",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Spirit Aviation",
+      "phone": "(706) 595-1300",
+      "website": "https://www.spirit-aviation.com/",
+      "email": null,
+      "street_address": "501 John T Lane Rd, Thomson, GA 30824",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "865VGFHM+83Q",
+      "city": "Thomson",
+      "state": "GA",
+      "airport_name": "Thomson-McDuffie County Airport",
+      "icao": "KHQU",
+      "iata": "HQU",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"a338709edfeb3199\""
+}

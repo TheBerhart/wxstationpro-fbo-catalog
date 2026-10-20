@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBJC",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "9107 Rocky Road, Broomfield, CO 80021",
       "hours": "0600-2200",
       "freq": "131.475",
-      "plus_code": "85FPWV4W+F5",
+      "plus_code": "85FPWV4W+F4X",
       "city": "Broomfield",
       "state": "CO",
       "airport_name": "Rocky Mountain Metropolitan Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Denver Broomfield",
@@ -36,7 +36,7 @@
       "street_address": "11705 Airport Way",
       "hours": "0600L - 2200L Call out available on request",
       "freq": "131.575",
-      "plus_code": "85FPWV5R+M2X",
+      "plus_code": "85FPWV5Q+JRM",
       "city": "Broomfield",
       "state": "CO",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"10a960a20b1a2336\""
+  "etag": "\"58e95c1152e11e57\""
 }

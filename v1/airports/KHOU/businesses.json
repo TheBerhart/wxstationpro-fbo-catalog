@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KHOU",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 5,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 6,
   "businesses": [
     {
       "name": "Atlantic Aviation Houston",
@@ -14,7 +14,7 @@
       "street_address": "7930 Airport Blvd.",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "130.75",
-      "plus_code": "76X6MP5G+48W",
+      "plus_code": "76X6MP4H+W9F",
       "city": "Houston",
       "state": "TX",
       "airport_name": null,
@@ -26,17 +26,39 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
-      "name": "Jet Aviation FBO Services Houston, TX",
+      "name": "Galaxy FBO - Houston William P. Hobby Airport",
+      "phone": "(713) 782-7878",
+      "website": "https://www.galaxyfbo.com/",
+      "email": null,
+      "street_address": "8912 Paul B Koonce St, Houston, TX 77061",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "76X6JPQC+C2M",
+      "city": "Houston",
+      "state": "TX",
+      "airport_name": "William P. Hobby Airport",
+      "icao": "KHOU",
+      "iata": "HOU",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Jet Aviation",
       "phone": "(713) 358-9100",
       "website": "https://www.jetaviation.com/location/houston/",
       "email": "houfbo@jetaviation.com",
       "street_address": "8620 West Monroe Road",
       "hours": "Mon – Sun: 24 hours",
       "freq": "131.975",
-      "plus_code": "76X6JPRM+W5V",
+      "plus_code": "76X6JPVJ+8VG",
       "city": "Houston",
       "state": "TX",
       "airport_name": null,
@@ -48,7 +70,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Million Air Houston",
@@ -58,7 +80,7 @@
       "street_address": "7555 Ipswich Rd.",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": "131.9",
-      "plus_code": "76X6JPR7+W2F",
+      "plus_code": "76X6JPR7+W2G",
       "city": "Houston",
       "state": "TX",
       "airport_name": null,
@@ -70,7 +92,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Houston",
@@ -80,7 +102,7 @@
       "street_address": "8402 Nelms Street",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.575",
-      "plus_code": "76X6JPWG+FJH",
+      "plus_code": "76X6JPWG+FJF",
       "city": "Houston",
       "state": "TX",
       "airport_name": null,
@@ -92,7 +114,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Wilson Air Center Houston",
@@ -102,7 +124,7 @@
       "street_address": "9000 Randolph Street",
       "hours": "24/7, 365",
       "freq": "131.25",
-      "plus_code": "76X6JPMF+WJC",
+      "plus_code": "76X6JPQF+8Q5",
       "city": "Houston",
       "state": "TX",
       "airport_name": null,
@@ -114,8 +136,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"153713452ed719c4\""
+  "etag": "\"f9e1dbf0467832d1\""
 }

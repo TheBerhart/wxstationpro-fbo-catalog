@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCOE",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3300 Aviation Way, Hayden, ID 83835",
       "hours": "Monday: 6:30 AM – 8:30 PM; Tuesday: 6:30 AM – 8:30 PM; Wednesday: 6:30 AM – 8:30 PM; Thursday: 6:30 AM – 8:30 PM; Friday: 6:30 AM – 8:30 PM; Saturday: 6:30 AM – 8:30 PM; Sunday: 6:30 AM – 8:30 PM",
       "freq": null,
-      "plus_code": null,
+      "plus_code": "85V5Q5HF+8M9",
       "city": "Coeur d'Alene",
       "state": "ID",
       "airport_name": "Coeur D'Alene Airport - Pappy Boyington Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ea3bb0d922ea8eef\""
+  "etag": "\"5c0017568b311207\""
 }

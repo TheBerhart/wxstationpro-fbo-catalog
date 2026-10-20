@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "airport_ident": "KPBI",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 3,
   "businesses": [
     {
-      "name": "Jet Aviation FBO Services Palm Beach, FL",
+      "name": "Jet Aviation Palm Beach",
       "phone": "(561) 233-7200",
       "website": "https://www.jetaviation.com/location/palm-beach/",
       "email": "djtfbo@jetaviation.com",
       "street_address": "1515 Perimeter Road",
       "hours": "Mon – Sun: 24 hours",
       "freq": "130.375",
-      "plus_code": "76RXMWH9+HWP",
+      "plus_code": "76RXMWH9+JX2",
       "city": "West Palm Beach",
       "state": "FL",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Palm Beach",
@@ -36,7 +36,7 @@
       "street_address": "1500 Perimeter Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "128.975",
-      "plus_code": "76RXMWH9+G5J",
+      "plus_code": "76RXMWH9+F5P",
       "city": "West Palm Beach",
       "state": "FL",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Palm Beach North",
@@ -58,7 +58,7 @@
       "street_address": "817 Morrison Field Road",
       "hours": "24 hours a day/7 days a week",
       "freq": null,
-      "plus_code": "76RXMVQR+M3C",
+      "plus_code": "76RXMVQR+W6G",
       "city": "West Palm Beach",
       "state": "FL",
       "airport_name": null,
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"2c81c448519feedd\""
+  "etag": "\"77ffb75e74fef1ac\""
 }

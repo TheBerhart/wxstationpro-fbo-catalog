@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KJAX",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "14600 Whirlwind Ave., Jacksonville, FL 32218",
       "hours": "24/7",
       "freq": "130.8",
-      "plus_code": "862WF8W9+V8",
+      "plus_code": "862WF8W9+R8H",
       "city": "Jacksonville",
       "state": "FL",
       "airport_name": "Jacksonville International Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Jacksonville",
@@ -36,7 +36,7 @@
       "street_address": "14700 Yonge Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "132",
-      "plus_code": "862WF8WC+GXR",
+      "plus_code": "862WF8WC+GXJ",
       "city": "Jacksonville",
       "state": "FL",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"8ad16203484f43a2\""
+  "etag": "\"bda273ccbbf2cfd0\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KEEN",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "80 Airport Road, Keene, NH 03431",
       "hours": "100LL self-serve 24/7; full-service 100LL during business hours",
       "freq": "123.00",
-      "plus_code": "87J9WP4G+HX",
+      "plus_code": "87J9WP4G+HXH",
       "city": "Keene",
       "state": "NH",
       "airport_name": "Dillant Hopkins Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"3f86cf5a6e54b7af\""
+  "etag": "\"d311bf177c8539a7\""
 }

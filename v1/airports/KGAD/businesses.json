@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KGAD",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Gadsden Aviation",
+      "phone": "(256) 442-5111",
+      "website": "https://www.gadsdenairport.com/",
+      "email": "info@gadsdenairport.com",
+      "street_address": "198 Ira Gray Dr, Gadsden, AL 35904",
+      "hours": null,
+      "freq": null,
+      "plus_code": "865MXWC9+Q4H",
+      "city": "Gadsden",
+      "state": "AL",
+      "airport_name": "Northeast Alabama Regional Airport",
+      "icao": "KGAD",
+      "iata": "GAD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"8a0ef2562c71f44d\""
+}

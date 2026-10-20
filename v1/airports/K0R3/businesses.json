@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "K0R3",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Vector Aviation LLC",
+      "phone": "(337) 893-7128",
+      "website": "https://vectoraviationabbeville.com/",
+      "email": null,
+      "street_address": "Industrial Park Loop, Abbeville, LA 70510",
+      "hours": "Monday: 6:00 AM – 6:00 PM; Tuesday: 6:00 AM – 6:00 PM; Wednesday: 6:00 AM – 6:00 PM; Thursday: 6:00 AM – 6:00 PM; Friday: 6:00 AM – 6:00 PM; Saturday: 6:00 AM – 6:00 PM; Sunday: 6:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": "76X9XWC7+FJH",
+      "city": "Abbeville",
+      "state": "LA",
+      "airport_name": "Abbeville Chris Crusta Memorial Airport",
+      "icao": "K0R3",
+      "iata": "0R3",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"a7b8c7a9b064e800\""
+}

@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KBKW",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Albatross Air Inc",
+      "phone": "(304) 255-2717",
+      "website": "http://www.albatrossair.com/",
+      "email": null,
+      "street_address": "380 Airport Rd, Beaver, WV 25813",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": "869WQVMH+8Q9",
+      "city": "Beaver",
+      "state": "WV",
+      "airport_name": "Raleigh County Memorial Airport",
+      "icao": "KBKW",
+      "iata": "BKW",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Raleigh County Memorial Airport",
       "phone": "(304) 255-0476",
@@ -29,5 +51,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"69d081cb8ed3e643\""
+  "etag": "\"f61ef564fda697de\""
 }

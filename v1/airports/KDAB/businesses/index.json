@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KDAB",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Sheltair Daytona Beach",
@@ -14,7 +14,7 @@
       "street_address": "563 Pearl Harbor Dr., Daytona Beach, FL 32114",
       "hours": "0600-2100",
       "freq": "130.1",
-      "plus_code": "76XW5WPV+M3",
+      "plus_code": "76XW5WPR+JXH",
       "city": "Daytona Beach",
       "state": "FL",
       "airport_name": "Daytona Beach International Airport",
@@ -26,8 +26,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Yelvington Jet Aviation Inc",
+      "phone": "(386) 257-7791",
+      "website": "http://www.yjeta.com/",
+      "email": null,
+      "street_address": "2326 Bellevue Ave, Daytona Beach, FL 32114",
+      "hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 8:00 AM – 7:00 PM; Sunday: 8:00 AM – 7:00 PM",
+      "freq": null,
+      "plus_code": "76XW5WGR+R8C",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "airport_name": "Daytona Beach International Airport",
+      "icao": "KDAB",
+      "iata": "DAB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"75fe13966221fcef\""
+  "etag": "\"79b6e3e106cdf1ec\""
 }

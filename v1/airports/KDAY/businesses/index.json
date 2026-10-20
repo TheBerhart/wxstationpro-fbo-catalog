@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDAY",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "501 N. Dixie Drive, Vandalia, OH 45377",
       "hours": "7 AM-8 PM daily; after-hours on request",
       "freq": "130.60",
-      "plus_code": "86FQVRX2+H4",
+      "plus_code": "86FQVRX2+H4X",
       "city": "Vandalia",
       "state": "OH",
       "airport_name": "James M Cox Dayton International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"2295b396d431315c\""
+  "etag": "\"0384d8176c3da8c7\""
 }

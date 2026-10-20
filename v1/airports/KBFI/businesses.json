@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KBFI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 2,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
     {
       "name": "Modern Aviation Seattle",
@@ -14,7 +14,7 @@
       "street_address": "8285 Perimeter Road South",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
-      "plus_code": "84VVGPH3+5FH",
+      "plus_code": "84VVGPH3+4FH",
       "city": "Seattle",
       "state": "WA",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Seattle Boeing Field",
@@ -36,7 +36,7 @@
       "street_address": "7149 Perimeter Road",
       "hours": "24 hours a day M-F0600L - 2200L Sa-Su",
       "freq": "129.025",
-      "plus_code": "84VVGMQV+8XX",
+      "plus_code": "84VVGMQW+73X",
       "city": "Seattle",
       "state": "WA",
       "airport_name": null,
@@ -48,8 +48,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Skyservice Seattle FBO",
+      "phone": "(206) 762-6376",
+      "website": "https://www.skyservice.com/fbo/seattle-kbfi/",
+      "email": null,
+      "street_address": "8555 Perimeter Rd S, Seattle, WA 98108",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "84VVGPF4+M7J",
+      "city": "Seattle",
+      "state": "WA",
+      "airport_name": "King County International Airport - Boeing Field",
+      "icao": "KBFI",
+      "iata": "BFI",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6bd41e955227c74b\""
+  "etag": "\"125bd45988becd4a\""
 }

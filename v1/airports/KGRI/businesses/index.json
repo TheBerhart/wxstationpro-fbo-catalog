@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGRI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -12,9 +12,9 @@
       "website": "https://flygrandisland.com/fbo-aircraft-services/",
       "email": null,
       "street_address": "3853 Sky Park Road, Grand Island, NE 68801",
-      "hours": null,
+      "hours": "Monday: 6:00 AM – 9:00 PM; Tuesday: 6:00 AM – 9:00 PM; Wednesday: 6:00 AM – 9:00 PM; Thursday: 6:00 AM – 9:00 PM; Friday: 6:00 AM – 9:00 PM; Saturday: 6:00 AM – 8:00 PM; Sunday: 6:00 AM – 8:00 PM",
       "freq": null,
-      "plus_code": "86G3XMCJ+XG",
+      "plus_code": "86G3XMCJ+XGM",
       "city": "Grand Island",
       "state": "NE",
       "airport_name": "Central Nebraska Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"010b5bf433fb5f2f\""
+  "etag": "\"8eb2d0a6faef27f7\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCCY",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3129 HWY 18, Charles City, IA 50616",
       "hours": null,
       "freq": null,
-      "plus_code": "86M939CQ+FW",
+      "plus_code": "86M9399R+JXJ",
       "city": "Charles City",
       "state": "IA",
       "airport_name": "Northeast Iowa Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"dd4cce29c14c2322\""
+  "etag": "\"585492c068ae1288\""
 }

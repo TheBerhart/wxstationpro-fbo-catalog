@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KABR",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 3,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4430 East Highway 12, Aberdeen, SD 57401",
       "hours": "Daily 7:30am-5:30pm",
       "freq": null,
-      "plus_code": "86Q3FH4G+JG",
+      "plus_code": "86Q3FH4G+JG8",
       "city": "Aberdeen",
       "state": "SD",
       "airport_name": "Aberdeen Regional Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Hangar 9",
@@ -36,7 +36,7 @@
       "street_address": "4740 6th Ave SE, Aberdeen, SD 57401",
       "hours": "Daily 8am-5pm",
       "freq": null,
-      "plus_code": "86Q3FH3H+PP",
+      "plus_code": "86Q3FH3H+QMC",
       "city": "Aberdeen",
       "state": "SD",
       "airport_name": "Aberdeen Regional Airport",
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Quest Aviation",
@@ -58,7 +58,7 @@
       "street_address": "4440 6th Ave SE, Aberdeen, SD 57401",
       "hours": "Monday: 6:00 AM – 8:00 PM; Tuesday: 6:00 AM – 8:00 PM; Wednesday: 6:00 AM – 8:00 PM; Thursday: 6:00 AM – 8:00 PM; Friday: 6:00 AM – 8:00 PM; Saturday: 7:00 AM – 5:00 PM; Sunday: 7:00 AM – 5:00 PM",
       "freq": null,
-      "plus_code": "86Q3FH4H+54",
+      "plus_code": "86Q3FH4H+622",
       "city": "Aberdeen",
       "state": "SD",
       "airport_name": "Aberdeen Regional Airport",
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6c3aeeabf1e157ae\""
+  "etag": "\"2c87682fa3bd8865\""
 }

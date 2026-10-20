@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLYH",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "970 Airport Road, Lynchburg, VA 24502",
       "hours": "6:00 AM–10:00 PM daily; after-hours on request",
       "freq": "122.95",
-      "plus_code": "87928QJX+7F",
+      "plus_code": "87928QJX+3HG",
       "city": "Lynchburg",
       "state": "VA",
       "airport_name": "Lynchburg Regional Airport - Preston Glenn Field",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Lynchburg Regional Airport",
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"5e01b34af9e68871\""
+  "etag": "\"94011f83259f0496\""
 }

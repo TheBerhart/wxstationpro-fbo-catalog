@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KYKM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3210 W. Washington Ave.",
       "hours": "Monday-Friday 6:00AM-7:00PM; Saturday and Sunday 6:00AM-6:00PM",
       "freq": null,
-      "plus_code": "84RXHCFW+7R",
+      "plus_code": "84RXHCFX+722",
       "city": "Yakima",
       "state": "WA",
       "airport_name": "Yakima Air Terminal McAllister Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1aba2c8d0f8d914a\""
+  "etag": "\"805ff0857024d40b\""
 }

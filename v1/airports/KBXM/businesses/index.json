@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBXM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "15 Terminal Road, Suite 100, Brunswick, ME 04011",
       "hours": "Daily 0800-1700",
       "freq": null,
-      "plus_code": "87MGV3X8+88",
+      "plus_code": "87MGV3X8+5JV",
       "city": "Brunswick",
       "state": "ME",
       "airport_name": "Brunswick Executive Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"d0c88eb7b7b89d90\""
+  "etag": "\"3b679cf700884d58\""
 }

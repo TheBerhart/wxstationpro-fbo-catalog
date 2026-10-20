@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KORL",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "400 Herndon Ave.",
       "hours": "Mon-Sun: 0600-2200; On-call services with prior arrangements",
       "freq": "131.27",
-      "plus_code": "76WWHM26+3X8",
+      "plus_code": "76WWGMX6+9XJ",
       "city": "Orlando",
       "state": "FL",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Sheltair Orlando Executive",
@@ -36,7 +36,7 @@
       "street_address": "3051 East Livingston Street, Orlando, FL 32803",
       "hours": "0600-2200",
       "freq": "131.6",
-      "plus_code": "76WWGMX4+4F",
+      "plus_code": "76WWGMX4+4F7",
       "city": "Orlando",
       "state": "FL",
       "airport_name": "Orlando Executive Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"3d81d84f9a7d0866\""
+  "etag": "\"b23da8680d19367b\""
 }

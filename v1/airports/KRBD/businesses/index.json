@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRBD",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Ambassador Aviation",
+      "phone": "(214) 623-8800",
+      "website": "https://www.ambassadorjetcenter.com/",
+      "email": "csrair@ambassadorjetcenter.com",
+      "street_address": "5435 Saturn Dr, Dallas, TX 75237",
+      "hours": null,
+      "freq": null,
+      "plus_code": "8645M4HP+HRQ",
+      "city": "Dallas",
+      "state": "TX",
+      "airport_name": "Dallas Executive Airport",
+      "icao": "KRBD",
+      "iata": "RBD",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"9d7ae81abdadb3c8\""
+}

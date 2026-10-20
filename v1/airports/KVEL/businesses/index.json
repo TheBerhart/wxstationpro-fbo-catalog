@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KVEL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "830 E 500 S",
       "hours": "Fueling hours 8am-5pm Monday-Friday; 9am-5pm Saturday-Sunday; after-hours call-out available 24-7",
       "freq": "122.7",
-      "plus_code": "85GGCFXP+56",
+      "plus_code": "85GGCFXP+4HR",
       "city": "Vernal",
       "state": "UT",
       "airport_name": "Vernal Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"a1d3798a567b6943\""
+  "etag": "\"d2e226d43f9e40b0\""
 }

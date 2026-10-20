@@ -1,11 +1,55 @@
 {
   "schema_version": 1,
   "airport_ident": "KPTK",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
+    {
+      "name": "Elite Jet Center at Contact",
+      "phone": "(248) 212-9425",
+      "website": "http://elitejetatcontact.com/",
+      "email": null,
+      "street_address": "1675 Airport Rd, Waterford Township, MI 48327",
+      "hours": "Monday: 7:00 AM – 10:00 PM; Tuesday: 7:00 AM – 10:00 PM; Wednesday: 7:00 AM – 10:00 PM; Thursday: 7:00 AM – 10:00 PM; Friday: 7:00 AM – 10:00 PM; Saturday: 7:00 AM – 10:00 PM; Sunday: 7:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "86JRMH7V+589",
+      "city": "Pontiac",
+      "state": "MI",
+      "airport_name": "Oakland County International Airport",
+      "icao": "KPTK",
+      "iata": "PTK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Pentastar Aviation, LLC.",
+      "phone": "(248) 666-3630",
+      "website": "http://www.pentastaraviation.com/?utm_source=google&utm_medium=maps&utm_campaign=googleplaces",
+      "email": null,
+      "street_address": "7310 Highland Rd, Waterford Township, MI 48327",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "86JRMH6C+V32",
+      "city": "Pontiac",
+      "state": "MI",
+      "airport_name": "Oakland County International Airport",
+      "icao": "KPTK",
+      "iata": "PTK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "PremierFBO Oakland County",
       "phone": "248-666-4300",
@@ -14,7 +58,7 @@
       "street_address": "6740 S Service Dr, Waterford Twp, MI 48327",
       "hours": "24 HRS",
       "freq": "129.15",
-      "plus_code": "86JRJHVP+HR",
+      "plus_code": "86JRMH6H+894",
       "city": "Waterford Twp",
       "state": "MI",
       "airport_name": "Oakland County International Airport",
@@ -26,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f4952c936faee12b\""
+  "etag": "\"15dd6585f0673d60\""
 }

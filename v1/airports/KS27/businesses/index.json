@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KS27",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "CSV Aviation",
+      "phone": "(888) 921-4628",
+      "website": "https://www.csvaviationfuel.com/contact",
+      "email": null,
+      "street_address": "640 W Montana St, Kalispell, MT 59901",
+      "hours": "Monday: 7:00 AM – 3:00 PM; Tuesday: 7:00 AM – 3:00 PM; Wednesday: 7:00 AM – 3:00 PM; Thursday: 7:00 AM – 3:00 PM; Friday: 7:00 AM – 3:00 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": "85W75MXG+P58",
+      "city": "Kalispell",
+      "state": "MT",
+      "airport_name": "Kalispell City Airport",
+      "icao": "KS27",
+      "iata": "S27",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"6aa4ee227b566887\""
+}

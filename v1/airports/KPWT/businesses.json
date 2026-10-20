@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPWT",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "8900 State Highway 3 SW",
       "hours": "9:00 AM-4:00 PM, seven days",
       "freq": null,
-      "plus_code": "84VVF6RM+R5",
+      "plus_code": "84VVF6RM+Q46",
       "city": "Bremerton",
       "state": "WA",
       "airport_name": "Bremerton National Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"8ba11919b32545bf\""
+  "etag": "\"70a12f310a0462e7\""
 }

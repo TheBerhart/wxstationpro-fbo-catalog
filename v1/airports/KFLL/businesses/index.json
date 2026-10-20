@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFLL",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1100 Lee Wagener Blvd., Fort Lauderdale, FL 33315",
       "hours": "24/7",
       "freq": "130.1",
-      "plus_code": "76RX3R9V+QM",
+      "plus_code": "76RX3R9V+PJJ",
       "city": "Fort Lauderdale",
       "state": "FL",
       "airport_name": "Fort Lauderdale-Hollywood International Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Fort Lauderdale Hollywood",
@@ -36,7 +36,7 @@
       "street_address": "4050 Sw 11th Terrace",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.72",
-      "plus_code": "76RX3RFV+296",
+      "plus_code": "76RX3RCV+X9W",
       "city": "Fort Lauderdale",
       "state": "FL",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ac76caebe9280ddc\""
+  "etag": "\"a3cd36a3dc8dbf9d\""
 }

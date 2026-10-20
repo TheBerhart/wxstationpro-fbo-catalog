@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "airport_ident": "KU42",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "SkyShare",
-      "phone": null,
+      "phone": "(801) 561-0420",
       "website": "https://www.skyshare.com/press-release/skyshare-selected-to-operate-fbo-and-lead-real-estate-development-at-south-valley-regional-airport/",
       "email": null,
       "street_address": null,
-      "hours": null,
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 8:00 AM – 5:00 PM",
       "freq": null,
-      "plus_code": null,
+      "plus_code": "85GCJ293+2FW",
       "city": "Salt Lake City",
       "state": "UT",
       "airport_name": "South Valley Regional Airport",
@@ -26,8 +26,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "South Valley Regional Airport FBO",
+      "phone": "(801) 561-0420",
+      "website": "https://slcairport.com/about-the-airport/general-aviation/south-valley-regional-airport/",
+      "email": null,
+      "street_address": "7799 Airport Rd, West Jordan, UT 84084",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "85GCJ293+2C7",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "airport_name": "South Valley Regional Airport",
+      "icao": "KU42",
+      "iata": "U42",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"59183661b89c658f\""
+  "etag": "\"48400b3a1c1cf028\""
 }

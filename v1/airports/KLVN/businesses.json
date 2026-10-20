@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KLVN",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Aloft Aviation",
+      "phone": "(952) 469-4414",
+      "website": "https://www.aloft-aviation.com/",
+      "email": "info@aloft-aviation.com",
+      "street_address": "22100 Hamburg Ave, Lakeville, MN 55044",
+      "hours": "Monday: 7:00 AM – 8:00 PM; Tuesday: 7:00 AM – 8:00 PM; Wednesday: 7:00 AM – 8:00 PM; Thursday: 7:00 AM – 8:00 PM; Friday: 7:00 AM – 8:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 8:00 PM",
+      "freq": null,
+      "plus_code": "86P8JQHC+RPG",
+      "city": "Minneapolis",
+      "state": "MN",
+      "airport_name": "Airlake Airport",
+      "icao": "KLVN",
+      "iata": "LVN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"b0a1de02999198d4\""
+}

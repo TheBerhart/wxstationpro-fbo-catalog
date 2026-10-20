@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPPO",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "La Porte Airport FBO",
+      "phone": "(219) 324-3393",
+      "website": "https://laporteairport.com/",
+      "email": null,
+      "street_address": "2341 S St Rd 39, La Porte, IN 46350",
+      "hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: 8:00 AM – 5:00 PM; Sunday: 8:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "86HMH7C6+JXG",
+      "city": "La Porte",
+      "state": "IN",
+      "airport_name": "La Porte Municipal Airport",
+      "icao": "KPPO",
+      "iata": "LPO",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"def753e5e462a82d\""
+}

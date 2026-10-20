@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSKX",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "24662 US Highway 64",
       "hours": "7:30am-6pm, 7 days a week; after hours on request",
       "freq": null,
-      "plus_code": "858PF85G+7R",
+      "plus_code": "858PF85H+X3J",
       "city": "Taos",
       "state": "NM",
       "airport_name": "Taos Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"d4c57c195021ffe8\""
+  "etag": "\"0dfc5a1812a80131\""
 }

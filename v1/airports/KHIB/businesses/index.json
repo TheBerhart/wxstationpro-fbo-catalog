@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHIB",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "11038 Highway 37, Hibbing, MN 55746",
       "hours": "Fueling daily 4:00 AM-midnight",
       "freq": null,
-      "plus_code": "86V995V6+5F",
+      "plus_code": "86V995R4+WP8",
       "city": "Hibbing",
       "state": "MN",
       "airport_name": "Range Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"87e3c3af3f0c5108\""
+  "etag": "\"a6e94f115b0cf28a\""
 }

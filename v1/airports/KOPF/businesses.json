@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KOPF",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 3,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "15000 NW 44th Avenue",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "130.05",
-      "plus_code": "76QXWP3H+H4X",
+      "plus_code": "76QXWP6H+5C2",
       "city": "Opa-Locka",
       "state": "FL",
       "airport_name": null,
@@ -26,17 +26,17 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
-      "name": "Jet Aviation Miami Opa Locka FBO Services",
+      "name": "Jet Aviation Miami-Opa Locka",
       "phone": "(305) 677-9956",
       "website": "https://www.jetaviation.com/location/miami-opa-locka/",
       "email": "opffbo@jetaviation.com",
       "street_address": "14225 Aviation Dr",
       "hours": "Mon – Sun: 06:00-00:00",
       "freq": null,
-      "plus_code": "76QXWP38+32F",
+      "plus_code": "76QXWP38+32V",
       "city": "Opa Locka",
       "state": "FL",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Opa-Locka",
@@ -58,7 +58,7 @@
       "street_address": "15001 Nw 42nd Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.85",
-      "plus_code": "76QXWP6J+5QH",
+      "plus_code": "76QXWP6J+3W9",
       "city": "Opa-Locka",
       "state": "FL",
       "airport_name": null,
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"17f62a5d94076e1d\""
+  "etag": "\"b644c6c746d4c458\""
 }

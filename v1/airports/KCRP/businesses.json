@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KCRP",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Atlantic Aviation Corpus Christi",
@@ -14,7 +14,7 @@
       "street_address": "549 Pinson Drive",
       "hours": "Mon-Sun: 0500-2300",
       "freq": "131.6",
-      "plus_code": "76V4QFJR+RFW",
+      "plus_code": "76V4QFGW+H5Q",
       "city": "Corpus Christi",
       "state": "TX",
       "airport_name": null,
@@ -26,8 +26,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Sterling Air FBO",
+      "phone": "(361) 420-2209",
+      "website": "http://flysterlingair.com/",
+      "email": null,
+      "street_address": "574 Hangar Ln, Corpus Christi, TX 78406",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "76V4QFGX+CVF",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "airport_name": "Corpus Christi International Airport",
+      "icao": "KCRP",
+      "iata": "CRP",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"00988a3f153ca482\""
+  "etag": "\"bc3e92ca42ef1b02\""
 }

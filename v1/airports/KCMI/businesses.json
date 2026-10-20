@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCMI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "7 Airport Road, Savoy, IL 61874",
       "hours": "Daily 5 am-10 pm",
       "freq": "130.075",
-      "plus_code": "86GH2PQH+RQ",
+      "plus_code": "86GH2PQH+RR6",
       "city": "Savoy",
       "state": "IL",
       "airport_name": "University of Illinois Willard Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6adebdf787e03c3c\""
+  "etag": "\"301331e3d453b6c6\""
 }

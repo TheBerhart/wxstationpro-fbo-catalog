@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBEH",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Skyway Aviation",
+      "phone": "(269) 925-5114",
+      "website": "https://www.swmiairport.com/pilot-information",
+      "email": null,
+      "street_address": "1123 Territorial Rd, Benton Harbor, MI 49022",
+      "hours": "Monday: 8:00 AM – 4:30 PM; Tuesday: 8:00 AM – 4:30 PM; Wednesday: 8:00 AM – 4:30 PM; Thursday: 8:00 AM – 4:30 PM; Friday: 8:00 AM – 4:30 PM; Saturday: 9:00 AM – 2:00 PM; Sunday: Closed",
+      "freq": null,
+      "plus_code": "86JM4HGC+7P3",
+      "city": "Benton Harbor",
+      "state": "MI",
+      "airport_name": "Southwest Michigan Regional Airport",
+      "icao": "KBEH",
+      "iata": "BEH",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"a2b7a5d99aface87\""
+}

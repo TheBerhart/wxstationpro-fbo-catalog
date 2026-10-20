@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGYI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4700 Airport Drive, Denison, TX 75020",
       "hours": "Monday-Friday 7:00 AM-9:00 PM; Saturday-Sunday 7:00 AM-7:00 PM",
       "freq": null,
-      "plus_code": "8655P87M+47",
+      "plus_code": "8655P87M+36X",
       "city": "Denison",
       "state": "TX",
       "airport_name": "North Texas Regional Airport Perrin Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"41789a2836f45ff1\""
+  "etag": "\"34dea9d038b72a3f\""
 }

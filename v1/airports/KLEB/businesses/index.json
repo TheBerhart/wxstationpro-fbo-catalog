@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLEB",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "58 Airport Road, West Lebanon, NH 03784",
       "hours": "Daily 6:00 AM–10:00 PM",
       "freq": "122.95",
-      "plus_code": "87M9JMHQ+CV",
+      "plus_code": "87M9JMHR+F23",
       "city": "Lebanon",
       "state": "NH",
       "airport_name": "Lebanon Municipal Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"4dba59325d052dc9\""
+  "etag": "\"851b8e99e7c160ac\""
 }

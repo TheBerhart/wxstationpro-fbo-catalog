@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KEKO",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "815 Murray Way, Elko, NV 89801",
       "hours": "7 days 6:00 AM-6:00 PM (7:00 PM summer)",
       "freq": "122.7",
-      "plus_code": "85G6R6H9+8Q",
+      "plus_code": "85G6R6H9+8RC",
       "city": "Elko",
       "state": "NV",
       "airport_name": "Elko Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"462d912930335dc4\""
+  "etag": "\"e3ec4f8f0a3290f3\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCXO",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2971 Hawthorne Drive, Conroe, TX 77301",
       "hours": "07:00-21:00; 24-hour service on request; self-serve 100LL 24/7",
       "freq": "130.52",
-      "plus_code": "86268HWQ+7G",
+      "plus_code": "86268HWQ+3RX",
       "city": "Houston",
       "state": "TX",
       "airport_name": "Conroe-North Houston Regional Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "General Aviation Jet Services",
@@ -36,7 +36,7 @@
       "street_address": "Conroe - North Houston Regional Airport, 10260 Carl Pickering Memorial Dr, Conroe, TX 77303",
       "hours": "Mon-Fri 7 AM-9 PM; 100LL self-serve 24 hours",
       "freq": null,
-      "plus_code": "86268HXP+VC",
+      "plus_code": "86269H3J+35W",
       "city": "Houston",
       "state": "TX",
       "airport_name": "Conroe-North Houston Regional Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"9f3243829e127875\""
+  "etag": "\"4f1ed0df768cacf3\""
 }

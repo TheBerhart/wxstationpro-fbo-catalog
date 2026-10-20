@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSDY",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "544 Airport Rd.",
       "hours": "Open daily 0700 – 2000 MST; available 24 hours",
       "freq": "122.800",
-      "plus_code": "85VQPR68+C8",
+      "plus_code": "85VQPR68+C85",
       "city": "Sidney",
       "state": "MT",
       "airport_name": "Sidney - Richland Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"cc65f0c0250af815\""
+  "etag": "\"4fbad2b9c336a2be\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDFW",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1816 North 24th Avenue, DFW Airport, TX 75261",
       "hours": "5 a.m. to midnight daily",
       "freq": "122.95",
-      "plus_code": "8644WX77+8Q",
+      "plus_code": "8644WX77+8QQ",
       "city": "DFW Airport",
       "state": "TX",
       "airport_name": "Dallas Fort Worth International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"5c30aea626421e77\""
+  "etag": "\"393bb46f986f157d\""
 }

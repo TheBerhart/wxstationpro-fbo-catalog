@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPNT",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Pontiac Municipal Airport - KPNT FBO",
+      "phone": "(815) 842-3738",
+      "website": "http://www.pontiacflyingservice.com/",
+      "email": null,
+      "street_address": "15755 E 2000 North Rd, Pontiac, IL 61764",
+      "hours": "Monday: 8:00 AM – 5:00 PM; Tuesday: 8:00 AM – 5:00 PM; Wednesday: 8:00 AM – 5:00 PM; Thursday: 8:00 AM – 5:00 PM; Friday: 8:00 AM – 5:00 PM; Saturday: 8:00 AM – 12:00 PM; Sunday: Closed",
+      "freq": null,
+      "plus_code": "86GHW9FG+HRW",
+      "city": "Pontiac",
+      "state": "IL",
+      "airport_name": "Pontiac Municipal Airport",
+      "icao": "KPNT",
+      "iata": "PNT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"78770790de4b6ea1\""
+}

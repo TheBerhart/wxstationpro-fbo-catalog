@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLNS",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "500 Airport Road, Terminal Building, Lititz, PA 17543",
       "hours": "7:00 AM–9:00 PM daily",
       "freq": "122.95",
-      "plus_code": "87G54P93+29",
+      "plus_code": "87G54P92+G8J",
       "city": "Lancaster",
       "state": "PA",
       "airport_name": "Lancaster Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ee50a5ef101fd97a\""
+  "etag": "\"c66572fb8b54b059\""
 }

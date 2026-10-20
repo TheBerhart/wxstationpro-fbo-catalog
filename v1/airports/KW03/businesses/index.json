@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KW03",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Carolina Air Center",
+      "phone": "(252) 991-0663",
+      "website": "http://www.facebook.com/Carolinaaircenter/",
+      "email": null,
+      "street_address": "4545 Airport Dr, Wilson, NC 27896",
+      "hours": "Monday: 8:00 AM – 6:00 PM; Tuesday: 8:00 AM – 6:30 PM; Wednesday: 8:00 AM – 6:00 PM; Thursday: 8:00 AM – 6:00 PM; Friday: 8:00 AM – 6:00 PM; Saturday: 8:00 AM – 6:00 PM; Sunday: 8:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": "8774Q29P+52V",
+      "city": "Wilson",
+      "state": "NC",
+      "airport_name": "Wilson Industrial Air Center Airport",
+      "icao": "KW03",
+      "iata": "W03",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"a1d5b259ea30a047\""
+}

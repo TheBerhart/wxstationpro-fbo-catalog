@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KPNS",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Innisfree Jet Center",
+      "phone": "(850) 436-4500",
+      "website": "http://innisfreejetcenter.com/",
+      "email": null,
+      "street_address": "4343 Jerry L Maygarden Rd, Pensacola, FL 32504",
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "862JFRCC+R32",
+      "city": "Pensacola",
+      "state": "FL",
+      "airport_name": "Pensacola International Airport",
+      "icao": "KPNS",
+      "iata": "PNS",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Pensacola Aviation Center",
       "phone": "850-434-0636",
@@ -14,7 +36,7 @@
       "street_address": "4145 Jerry L Maygarden Rd",
       "hours": "Open 24 / 7",
       "freq": "122.95",
-      "plus_code": "862JFR99+Q8",
+      "plus_code": "862JFR99+Q88",
       "city": "Pensacola",
       "state": "FL",
       "airport_name": "Pensacola International Airport",
@@ -26,8 +48,8 @@
       "validation_status": "needs_review",
       "confidence": "low",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1337eb29fc303966\""
+  "etag": "\"7ebffb77715dd1a7\""
 }

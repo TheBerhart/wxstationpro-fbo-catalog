@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KOJC",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Executive Aircraft Service",
+      "phone": "(913) 261-8345",
+      "website": "https://www.executiveaircraftservices.com/",
+      "email": "sevice@executiveaircraftservices.com",
+      "street_address": "12901 W 151st St Ste B, Olathe, KS 66062",
+      "hours": "Monday: 7:30 AM – 5:30 PM; Tuesday: 7:30 AM – 5:30 PM; Wednesday: 7:30 AM – 5:30 PM; Thursday: 7:30 AM – 5:30 PM; Friday: 7:30 AM – 5:30 PM; Saturday: 8:30 AM – 5:30 PM; Sunday: 8:30 AM – 5:30 PM",
+      "freq": null,
+      "plus_code": "86C7V737+5V5",
+      "city": "Olathe",
+      "state": "KS",
+      "airport_name": "Johnson County Executive Airport",
+      "icao": "KOJC",
+      "iata": "OJC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"204efc4f4b37271e\""
+}

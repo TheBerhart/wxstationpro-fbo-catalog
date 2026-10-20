@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRDG",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "20 Liberator Way",
       "hours": "6:00 AM–11:00 PM, after hours on request, closed major holidays",
       "freq": "122.95",
-      "plus_code": null,
+      "plus_code": "87G692FP+3HC",
       "city": "Reading",
       "state": "PA",
       "airport_name": "Reading Regional Airport (Carl A Spaatz Field)",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1138f623a83f9195\""
+  "etag": "\"6855f676194d603e\""
 }

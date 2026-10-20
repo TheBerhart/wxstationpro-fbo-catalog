@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBMI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2823 E Empire Street, Bloomington, IL 61704",
       "hours": "Mon-Fri 7am-8pm; Sat-Sun 8am-5pm",
       "freq": "129.100",
-      "plus_code": "86GHF3P9+9V",
+      "plus_code": "86GHF3P9+7RH",
       "city": "Bloomington/Normal",
       "state": "IL",
       "airport_name": "Central Illinois Regional Airport at Bloomington-Normal",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"9a52a281097a2cfc\""
+  "etag": "\"757b4e19cff2bb57\""
 }

@@ -1,13 +1,23 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T23:29:40.398Z",
+  "updated_at": "2026-10-20T23:30:00.023Z",
   "source": "thin-seed",
-  "airport_count": 710,
+  "airport_count": 753,
   "airports": [
     {
       "ident": "6N5",
       "count": 1,
       "path": "/v1/airports/6N5/businesses"
+    },
+    {
+      "ident": "K0R3",
+      "count": 1,
+      "path": "/v1/airports/K0R3/businesses"
+    },
+    {
+      "ident": "K3JC",
+      "count": 1,
+      "path": "/v1/airports/K3JC/businesses"
     },
     {
       "ident": "K61B",
@@ -23,6 +33,11 @@
       "ident": "K79J",
       "count": 1,
       "path": "/v1/airports/K79J/businesses"
+    },
+    {
+      "ident": "K9A0",
+      "count": 1,
+      "path": "/v1/airports/K9A0/businesses"
     },
     {
       "ident": "KABE",
@@ -71,7 +86,7 @@
     },
     {
       "ident": "KADS",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KADS/businesses"
     },
     {
@@ -151,7 +166,7 @@
     },
     {
       "ident": "KAMA",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KAMA/businesses"
     },
     {
@@ -186,7 +201,7 @@
     },
     {
       "ident": "KAPC",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KAPC/businesses"
     },
     {
@@ -196,7 +211,7 @@
     },
     {
       "ident": "KAPN",
-      "count": 2,
+      "count": 1,
       "path": "/v1/airports/KAPN/businesses"
     },
     {
@@ -296,7 +311,7 @@
     },
     {
       "ident": "KBCT",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KBCT/businesses"
     },
     {
@@ -310,6 +325,11 @@
       "path": "/v1/airports/KBDL/businesses"
     },
     {
+      "ident": "KBDN",
+      "count": 1,
+      "path": "/v1/airports/KBDN/businesses"
+    },
+    {
       "ident": "KBDR",
       "count": 1,
       "path": "/v1/airports/KBDR/businesses"
@@ -318,6 +338,11 @@
       "ident": "KBED",
       "count": 3,
       "path": "/v1/airports/KBED/businesses"
+    },
+    {
+      "ident": "KBEH",
+      "count": 1,
+      "path": "/v1/airports/KBEH/businesses"
     },
     {
       "ident": "KBFD",
@@ -331,12 +356,12 @@
     },
     {
       "ident": "KBFI",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KBFI/businesses"
     },
     {
       "ident": "KBFL",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KBFL/businesses"
     },
     {
@@ -351,7 +376,7 @@
     },
     {
       "ident": "KBGR",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KBGR/businesses"
     },
     {
@@ -406,7 +431,7 @@
     },
     {
       "ident": "KBKW",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KBKW/businesses"
     },
     {
@@ -443,6 +468,11 @@
       "ident": "KBNA",
       "count": 2,
       "path": "/v1/airports/KBNA/businesses"
+    },
+    {
+      "ident": "KBNW",
+      "count": 1,
+      "path": "/v1/airports/KBNW/businesses"
     },
     {
       "ident": "KBOI",
@@ -501,7 +531,7 @@
     },
     {
       "ident": "KBTR",
-      "count": 1,
+      "count": 3,
       "path": "/v1/airports/KBTR/businesses"
     },
     {
@@ -556,18 +586,23 @@
     },
     {
       "ident": "KCAE",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KCAE/businesses"
     },
     {
       "ident": "KCAK",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KCAK/businesses"
     },
     {
       "ident": "KCAR",
       "count": 1,
       "path": "/v1/airports/KCAR/businesses"
+    },
+    {
+      "ident": "KCBF",
+      "count": 2,
+      "path": "/v1/airports/KCBF/businesses"
     },
     {
       "ident": "KCCR",
@@ -588,6 +623,11 @@
       "ident": "KCDR",
       "count": 1,
       "path": "/v1/airports/KCDR/businesses"
+    },
+    {
+      "ident": "KCDW",
+      "count": 1,
+      "path": "/v1/airports/KCDW/businesses"
     },
     {
       "ident": "KCEC",
@@ -651,7 +691,7 @@
     },
     {
       "ident": "KCLE",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KCLE/businesses"
     },
     {
@@ -695,6 +735,11 @@
       "path": "/v1/airports/KCNM/businesses"
     },
     {
+      "ident": "KCNO",
+      "count": 1,
+      "path": "/v1/airports/KCNO/businesses"
+    },
+    {
       "ident": "KCNY",
       "count": 1,
       "path": "/v1/airports/KCNY/businesses"
@@ -726,7 +771,7 @@
     },
     {
       "ident": "KCPR",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KCPR/businesses"
     },
     {
@@ -746,7 +791,7 @@
     },
     {
       "ident": "KCRP",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KCRP/businesses"
     },
     {
@@ -821,7 +866,7 @@
     },
     {
       "ident": "KDAB",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KDAB/businesses"
     },
     {
@@ -901,7 +946,7 @@
     },
     {
       "ident": "KDLH",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KDLH/businesses"
     },
     {
@@ -1011,7 +1056,7 @@
     },
     {
       "ident": "KECP",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KECP/businesses"
     },
     {
@@ -1065,6 +1110,11 @@
       "path": "/v1/airports/KELM/businesses"
     },
     {
+      "ident": "KELN",
+      "count": 1,
+      "path": "/v1/airports/KELN/businesses"
+    },
+    {
       "ident": "KELO",
       "count": 1,
       "path": "/v1/airports/KELO/businesses"
@@ -1095,9 +1145,19 @@
       "path": "/v1/airports/KESC/businesses"
     },
     {
+      "ident": "KESF",
+      "count": 1,
+      "path": "/v1/airports/KESF/businesses"
+    },
+    {
       "ident": "KEUG",
       "count": 1,
       "path": "/v1/airports/KEUG/businesses"
+    },
+    {
+      "ident": "KEUL",
+      "count": 1,
+      "path": "/v1/airports/KEUL/businesses"
     },
     {
       "ident": "KEVV",
@@ -1236,7 +1296,7 @@
     },
     {
       "ident": "KFSD",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KFSD/businesses"
     },
     {
@@ -1260,14 +1320,24 @@
       "path": "/v1/airports/KFWA/businesses"
     },
     {
+      "ident": "KFWS",
+      "count": 1,
+      "path": "/v1/airports/KFWS/businesses"
+    },
+    {
       "ident": "KFXE",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KFXE/businesses"
     },
     {
       "ident": "KFYV",
       "count": 1,
       "path": "/v1/airports/KFYV/businesses"
+    },
+    {
+      "ident": "KGAD",
+      "count": 1,
+      "path": "/v1/airports/KGAD/businesses"
     },
     {
       "ident": "KGCC",
@@ -1278,6 +1348,11 @@
       "ident": "KGCK",
       "count": 1,
       "path": "/v1/airports/KGCK/businesses"
+    },
+    {
+      "ident": "KGDJ",
+      "count": 1,
+      "path": "/v1/airports/KGDJ/businesses"
     },
     {
       "ident": "KGDV",
@@ -1335,6 +1410,11 @@
       "path": "/v1/airports/KGNV/businesses"
     },
     {
+      "ident": "KGOK",
+      "count": 1,
+      "path": "/v1/airports/KGOK/businesses"
+    },
+    {
       "ident": "KGON",
       "count": 1,
       "path": "/v1/airports/KGON/businesses"
@@ -1371,7 +1451,7 @@
     },
     {
       "ident": "KGSO",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KGSO/businesses"
     },
     {
@@ -1410,9 +1490,19 @@
       "path": "/v1/airports/KGUY/businesses"
     },
     {
+      "ident": "KGYH",
+      "count": 1,
+      "path": "/v1/airports/KGYH/businesses"
+    },
+    {
       "ident": "KGYI",
       "count": 1,
       "path": "/v1/airports/KGYI/businesses"
+    },
+    {
+      "ident": "KGYR",
+      "count": 1,
+      "path": "/v1/airports/KGYR/businesses"
     },
     {
       "ident": "KGYY",
@@ -1430,6 +1520,16 @@
       "path": "/v1/airports/KHBR/businesses"
     },
     {
+      "ident": "KHCR",
+      "count": 1,
+      "path": "/v1/airports/KHCR/businesses"
+    },
+    {
+      "ident": "KHDC",
+      "count": 1,
+      "path": "/v1/airports/KHDC/businesses"
+    },
+    {
       "ident": "KHDN",
       "count": 1,
       "path": "/v1/airports/KHDN/businesses"
@@ -1441,7 +1541,7 @@
     },
     {
       "ident": "KHFD",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KHFD/businesses"
     },
     {
@@ -1501,7 +1601,7 @@
     },
     {
       "ident": "KHOU",
-      "count": 5,
+      "count": 6,
       "path": "/v1/airports/KHOU/businesses"
     },
     {
@@ -1513,6 +1613,11 @@
       "ident": "KHQM",
       "count": 1,
       "path": "/v1/airports/KHQM/businesses"
+    },
+    {
+      "ident": "KHQU",
+      "count": 1,
+      "path": "/v1/airports/KHQU/businesses"
     },
     {
       "ident": "KHRL",
@@ -1541,7 +1646,7 @@
     },
     {
       "ident": "KHUF",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KHUF/businesses"
     },
     {
@@ -1745,14 +1850,24 @@
       "path": "/v1/airports/KJAX/businesses"
     },
     {
-      "ident": "KJFK",
+      "ident": "KJER",
       "count": 1,
+      "path": "/v1/airports/KJER/businesses"
+    },
+    {
+      "ident": "KJFK",
+      "count": 2,
       "path": "/v1/airports/KJFK/businesses"
     },
     {
       "ident": "KJHW",
       "count": 1,
       "path": "/v1/airports/KJHW/businesses"
+    },
+    {
+      "ident": "KJKA",
+      "count": 1,
+      "path": "/v1/airports/KJKA/businesses"
     },
     {
       "ident": "KJLN",
@@ -1780,6 +1895,11 @@
       "path": "/v1/airports/KJST/businesses"
     },
     {
+      "ident": "KJWN",
+      "count": 2,
+      "path": "/v1/airports/KJWN/businesses"
+    },
+    {
       "ident": "KJWY",
       "count": 1,
       "path": "/v1/airports/KJWY/businesses"
@@ -1788,6 +1908,11 @@
       "ident": "KJXN",
       "count": 1,
       "path": "/v1/airports/KJXN/businesses"
+    },
+    {
+      "ident": "KJYO",
+      "count": 1,
+      "path": "/v1/airports/KJYO/businesses"
     },
     {
       "ident": "KJZI",
@@ -1856,7 +1981,7 @@
     },
     {
       "ident": "KLBE",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KLBE/businesses"
     },
     {
@@ -1935,13 +2060,18 @@
       "path": "/v1/airports/KLIT/businesses"
     },
     {
+      "ident": "KLLR",
+      "count": 1,
+      "path": "/v1/airports/KLLR/businesses"
+    },
+    {
       "ident": "KLMT",
       "count": 2,
       "path": "/v1/airports/KLMT/businesses"
     },
     {
       "ident": "KLNK",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KLNK/businesses"
     },
     {
@@ -1995,6 +2125,11 @@
       "path": "/v1/airports/KLVM/businesses"
     },
     {
+      "ident": "KLVN",
+      "count": 1,
+      "path": "/v1/airports/KLVN/businesses"
+    },
+    {
       "ident": "KLVS",
       "count": 1,
       "path": "/v1/airports/KLVS/businesses"
@@ -2011,7 +2146,7 @@
     },
     {
       "ident": "KLWS",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KLWS/businesses"
     },
     {
@@ -2023,6 +2158,11 @@
       "ident": "KLYH",
       "count": 2,
       "path": "/v1/airports/KLYH/businesses"
+    },
+    {
+      "ident": "KM02",
+      "count": 1,
+      "path": "/v1/airports/KM02/businesses"
     },
     {
       "ident": "KMAF",
@@ -2241,7 +2381,7 @@
     },
     {
       "ident": "KMQY",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KMQY/businesses"
     },
     {
@@ -2256,7 +2396,7 @@
     },
     {
       "ident": "KMSL",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KMSL/businesses"
     },
     {
@@ -2266,7 +2406,7 @@
     },
     {
       "ident": "KMSO",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KMSO/businesses"
     },
     {
@@ -2298,6 +2438,11 @@
       "ident": "KMTN",
       "count": 1,
       "path": "/v1/airports/KMTN/businesses"
+    },
+    {
+      "ident": "KMTO",
+      "count": 1,
+      "path": "/v1/airports/KMTO/businesses"
     },
     {
       "ident": "KMWA",
@@ -2380,6 +2525,11 @@
       "path": "/v1/airports/KOGG/businesses"
     },
     {
+      "ident": "KOJC",
+      "count": 1,
+      "path": "/v1/airports/KOJC/businesses"
+    },
+    {
       "ident": "KOKB",
       "count": 1,
       "path": "/v1/airports/KOKB/businesses"
@@ -2408,6 +2558,11 @@
       "ident": "KOLU",
       "count": 1,
       "path": "/v1/airports/KOLU/businesses"
+    },
+    {
+      "ident": "KOLV",
+      "count": 2,
+      "path": "/v1/airports/KOLV/businesses"
     },
     {
       "ident": "KOMA",
@@ -2481,7 +2636,7 @@
     },
     {
       "ident": "KOWB",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KOWB/businesses"
     },
     {
@@ -2551,7 +2706,7 @@
     },
     {
       "ident": "KPGA",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KPGA/businesses"
     },
     {
@@ -2581,7 +2736,7 @@
     },
     {
       "ident": "KPHX",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KPHX/businesses"
     },
     {
@@ -2646,13 +2801,23 @@
     },
     {
       "ident": "KPNS",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KPNS/businesses"
+    },
+    {
+      "ident": "KPNT",
+      "count": 1,
+      "path": "/v1/airports/KPNT/businesses"
     },
     {
       "ident": "KPOU",
       "count": 1,
       "path": "/v1/airports/KPOU/businesses"
+    },
+    {
+      "ident": "KPPO",
+      "count": 1,
+      "path": "/v1/airports/KPPO/businesses"
     },
     {
       "ident": "KPQI",
@@ -2691,13 +2856,18 @@
     },
     {
       "ident": "KPTK",
-      "count": 1,
+      "count": 3,
       "path": "/v1/airports/KPTK/businesses"
     },
     {
       "ident": "KPUB",
       "count": 2,
       "path": "/v1/airports/KPUB/businesses"
+    },
+    {
+      "ident": "KPUJ",
+      "count": 1,
+      "path": "/v1/airports/KPUJ/businesses"
     },
     {
       "ident": "KPUW",
@@ -2716,12 +2886,12 @@
     },
     {
       "ident": "KPWA",
-      "count": 1,
+      "count": 3,
       "path": "/v1/airports/KPWA/businesses"
     },
     {
       "ident": "KPWK",
-      "count": 2,
+      "count": 3,
       "path": "/v1/airports/KPWK/businesses"
     },
     {
@@ -2743,6 +2913,11 @@
       "ident": "KRAP",
       "count": 2,
       "path": "/v1/airports/KRAP/businesses"
+    },
+    {
+      "ident": "KRBD",
+      "count": 1,
+      "path": "/v1/airports/KRBD/businesses"
     },
     {
       "ident": "KRDD",
@@ -2825,6 +3000,11 @@
       "path": "/v1/airports/KRNO/businesses"
     },
     {
+      "ident": "KRNT",
+      "count": 1,
+      "path": "/v1/airports/KRNT/businesses"
+    },
+    {
       "ident": "KROA",
       "count": 1,
       "path": "/v1/airports/KROA/businesses"
@@ -2875,6 +3055,16 @@
       "path": "/v1/airports/KRYY/businesses"
     },
     {
+      "ident": "KS27",
+      "count": 1,
+      "path": "/v1/airports/KS27/businesses"
+    },
+    {
+      "ident": "KSAA",
+      "count": 1,
+      "path": "/v1/airports/KSAA/businesses"
+    },
+    {
       "ident": "KSAC",
       "count": 1,
       "path": "/v1/airports/KSAC/businesses"
@@ -2915,6 +3105,11 @@
       "path": "/v1/airports/KSBD/businesses"
     },
     {
+      "ident": "KSBM",
+      "count": 1,
+      "path": "/v1/airports/KSBM/businesses"
+    },
+    {
       "ident": "KSBN",
       "count": 2,
       "path": "/v1/airports/KSBN/businesses"
@@ -2946,7 +3141,7 @@
     },
     {
       "ident": "KSDL",
-      "count": 3,
+      "count": 4,
       "path": "/v1/airports/KSDL/businesses"
     },
     {
@@ -3066,7 +3261,7 @@
     },
     {
       "ident": "KSMN",
-      "count": 3,
+      "count": 2,
       "path": "/v1/airports/KSMN/businesses"
     },
     {
@@ -3081,7 +3276,7 @@
     },
     {
       "ident": "KSNA",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KSNA/businesses"
     },
     {
@@ -3201,7 +3396,7 @@
     },
     {
       "ident": "KSYR",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KSYR/businesses"
     },
     {
@@ -3246,8 +3441,13 @@
     },
     {
       "ident": "KTMB",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KTMB/businesses"
+    },
+    {
+      "ident": "KTME",
+      "count": 1,
+      "path": "/v1/airports/KTME/businesses"
     },
     {
       "ident": "KTOI",
@@ -3296,7 +3496,7 @@
     },
     {
       "ident": "KTTN",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KTTN/businesses"
     },
     {
@@ -3346,7 +3546,7 @@
     },
     {
       "ident": "KU42",
-      "count": 1,
+      "count": 2,
       "path": "/v1/airports/KU42/businesses"
     },
     {
@@ -3383,6 +3583,16 @@
       "ident": "KUUU",
       "count": 1,
       "path": "/v1/airports/KUUU/businesses"
+    },
+    {
+      "ident": "KUWL",
+      "count": 1,
+      "path": "/v1/airports/KUWL/businesses"
+    },
+    {
+      "ident": "KVBT",
+      "count": 1,
+      "path": "/v1/airports/KVBT/businesses"
     },
     {
       "ident": "KVCV",
@@ -3433,6 +3643,11 @@
       "ident": "KVTN",
       "count": 1,
       "path": "/v1/airports/KVTN/businesses"
+    },
+    {
+      "ident": "KW03",
+      "count": 1,
+      "path": "/v1/airports/KW03/businesses"
     },
     {
       "ident": "KWJF",

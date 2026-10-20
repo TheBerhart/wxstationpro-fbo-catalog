@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KBDN",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Skyservice Bend FBO",
+      "phone": "(541) 388-0019",
+      "website": "https://www.skyservice.com/fbo/bend-oregon-kbdn/",
+      "email": null,
+      "street_address": "63132 Powell Butte Rd, Bend, OR 97701",
+      "hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: 7:00 AM – 5:00 PM; Sunday: 7:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "84PW3QVW+6XV",
+      "city": "Bend",
+      "state": "OR",
+      "airport_name": "Bend Municipal Airport",
+      "icao": "KBDN",
+      "iata": "BDN",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"1bb6ca3dc2317128\""
+}

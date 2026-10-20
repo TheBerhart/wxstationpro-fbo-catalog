@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLBL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "757 Terminal Ave., Liberal, KS 67901",
       "hours": "Monday–Saturday 6:00 AM–10:00 PM; Sunday 7:00 AM–10:00 PM",
       "freq": "122.8",
-      "plus_code": "859X22WX+75",
+      "plus_code": "859X22WX+44V",
       "city": "Liberal",
       "state": "KS",
       "airport_name": "Liberal Mid-America Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c67728dd0f83265f\""
+  "etag": "\"b5b3460e6a5c4159\""
 }

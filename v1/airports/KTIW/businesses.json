@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KTIW",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1110 26th Ave NW",
       "hours": "24-hour call-outs",
       "freq": "122.95",
-      "plus_code": "84VV7C9G+93",
+      "plus_code": "84VV7C9G+936",
       "city": "Tacoma",
       "state": "WA",
       "airport_name": "Tacoma Narrows Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Skyport Aviation",
@@ -51,5 +51,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"0c849f7d9646d573\""
+  "etag": "\"ee13436e99c11037\""
 }

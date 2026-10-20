@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMIE",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -36,7 +36,7 @@
       "street_address": "5201 N Walnut St",
       "hours": "Line service Mon-Fri 6:00 AM-8:00 PM; Sat-Sun 7:00 AM-8:00 PM",
       "freq": "122.95",
-      "plus_code": "86GP6JP7+R4",
+      "plus_code": "86GP6JQ7+62Q",
       "city": "Muncie",
       "state": "IN",
       "airport_name": "Delaware County Johnson Field",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"31c1a4ca4ad5d150\""
+  "etag": "\"e3c26fb08b706cd8\""
 }

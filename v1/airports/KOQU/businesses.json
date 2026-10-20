@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KOQU",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "150 Airport Street",
       "hours": "0700-2200 daily",
       "freq": null,
-      "plus_code": "87HCHHVP+PH",
+      "plus_code": "87HCHHVP+MJQ",
       "city": "North Kingstown",
       "state": "RI",
       "airport_name": "Quonset State Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"bc723bdf4c6244c5\""
+  "etag": "\"bb4d9d292470fe48\""
 }

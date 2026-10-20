@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KADH",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2800 Ray Stout Blvd, Ada, OK 74820",
       "hours": "Mon-Sat 8am-5pm; Sun 12pm-5pm",
       "freq": "122.80",
-      "plus_code": "8665R83F+P8",
+      "plus_code": "8665R83F+XVM",
       "city": "Ada",
       "state": "OK",
       "airport_name": "Ada Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6ee6f981c04b52ea\""
+  "etag": "\"a78c457c48518865\""
 }

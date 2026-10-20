@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KCPR",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Aero Center Casper",
+      "phone": "(307) 233-8420",
+      "website": "https://aerocenters.com/",
+      "email": "mmontgomery@aerocenters.com",
+      "street_address": "9100 Bill Sullivan Dr, Casper, WY 82604",
+      "hours": null,
+      "freq": null,
+      "plus_code": "85JMVGVJ+XXP",
+      "city": "Casper",
+      "state": "WY",
+      "airport_name": "Casper-Natrona County International Airport",
+      "icao": "KCPR",
+      "iata": "CPR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Atlantic Aviation Casper",
       "phone": "(307) 472-3400",
@@ -14,7 +36,7 @@
       "street_address": "7956 Fuller St.",
       "hours": "Mon-Fri: 0500-2200; Sat-Sun: 0500-2100 On-call services with prior arrangements",
       "freq": null,
-      "plus_code": "85JMWG2R+G93",
+      "plus_code": "85JMWG2R+G9G",
       "city": "Casper",
       "state": "WY",
       "airport_name": null,
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1b1ecd55e4473430\""
+  "etag": "\"001e146ef6cf5982\""
 }

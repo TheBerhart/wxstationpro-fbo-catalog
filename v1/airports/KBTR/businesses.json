@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KBTR",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
     {
       "name": "Signature Baton Rouge",
@@ -14,7 +14,7 @@
       "street_address": "4303 Chuck Yeager Boulevard",
       "hours": "0600L - 2100L Call out available on request",
       "freq": "129.3",
-      "plus_code": "862CGVG2+4JH",
+      "plus_code": "862CGVG2+4J3",
       "city": "Baton Rouge",
       "state": "LA",
       "airport_name": null,
@@ -26,8 +26,52 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Velocity BTR Jet Center",
+      "phone": "(225) 355-9052",
+      "website": "https://velocityfbo.com/locations/baton-rouge-kbtr/",
+      "email": null,
+      "street_address": "4490 Blanche Noyes Ave, Baton Rouge, LA 70807",
+      "hours": "Monday: 5:00 AM – 10:00 PM; Tuesday: 5:00 AM – 10:00 PM; Wednesday: 5:00 AM – 10:00 PM; Thursday: 5:00 AM – 10:00 PM; Friday: 5:00 AM – 10:00 PM; Saturday: 5:00 AM – 10:00 PM; Sunday: 5:00 AM – 10:00 PM",
+      "freq": null,
+      "plus_code": "862CGVJ4+984",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "airport_name": "Baton Rouge Metropolitan Airport",
+      "icao": "KBTR",
+      "iata": "BTR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Williams Jet Center",
+      "phone": "(225) 223-6845",
+      "website": "https://flywilliamsjet.com/index.php",
+      "email": null,
+      "street_address": "10312 Veterans Memorial Blvd, Baton Rouge, LA 70807",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "862CGRQQ+47P",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "airport_name": "Baton Rouge Metropolitan Airport",
+      "icao": "KBTR",
+      "iata": "BTR",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6ca49dcccf0d588e\""
+  "etag": "\"933cf2c58f81ac31\""
 }

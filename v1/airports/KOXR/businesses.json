@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KOXR",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1601 West 5th Street",
       "hours": "Monday: 6:30 AM – 7:30 PM; Tuesday: 6:30 AM – 7:30 PM; Wednesday: 6:30 AM – 7:30 PM; Thursday: 6:30 AM – 7:30 PM; Friday: 6:30 AM – 7:30 PM; Saturday: 6:30 AM – 7:30 PM; Sunday: 6:30 AM – 7:30 PM",
       "freq": null,
-      "plus_code": "85625RX2+7W",
+      "plus_code": "85625RX2+7W2",
       "city": "Oxnard",
       "state": "CA",
       "airport_name": "Oxnard Airport",
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Oxnard Jet Center",
@@ -36,7 +36,7 @@
       "street_address": "1801 West 5th Street",
       "hours": "Sunrise to sunset, seven days",
       "freq": null,
-      "plus_code": "85625RX2+39",
+      "plus_code": "85625RX2+585",
       "city": "Oxnard",
       "state": "CA",
       "airport_name": "Oxnard Airport",
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f7c0e307cd1026ce\""
+  "etag": "\"edb0aa4e5f862180\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSLE",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3300 25th St SE",
       "hours": "Monday-Friday 7 a.m.-7 p.m.; Saturday and Sunday 7 a.m.-5 p.m.; 24-hour self-serve AvGas",
       "freq": "122.95",
-      "plus_code": "84PRWX4V+H3",
+      "plus_code": "84PRWX4V+M48",
       "city": "Salem",
       "state": "OR",
       "airport_name": "Salem-Willamette Valley Airport/McNary Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6d699b8dead6187b\""
+  "etag": "\"271c1f7b6f32aa6b\""
 }

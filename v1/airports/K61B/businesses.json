@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "K61B",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1201 Airport Rd, Boulder City, NV 89005",
       "hours": "Open daily 8:00AM to 5:00PM",
       "freq": null,
-      "plus_code": "8577W4XW+9F",
+      "plus_code": "8577W4XW+8FW",
       "city": "Boulder City",
       "state": "NV",
       "airport_name": "Boulder City Municipal Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"dc35036a49d9f971\""
+  "etag": "\"b9cf65a4232eb729\""
 }

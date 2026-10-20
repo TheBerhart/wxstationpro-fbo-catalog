@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KESF",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Esler Air FBO",
+      "phone": "(318) 487-6003",
+      "website": null,
+      "email": null,
+      "street_address": "7625 Esler Field Rd, Pineville, LA 71360",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86399MRX+JQG",
+      "city": "Alexandria",
+      "state": "LA",
+      "airport_name": "Esler Army Airfield / Esler Regional Airport",
+      "icao": "KESF",
+      "iata": "ESF",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"3120b3306edcb1ce\""
+}

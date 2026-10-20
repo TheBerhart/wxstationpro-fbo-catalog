@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KOWB",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 2,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 3,
   "businesses": [
     {
       "name": "MidAmerica Jet",
@@ -14,7 +14,7 @@
       "street_address": "1 Bullfrog Blvd",
       "hours": "6:00 AM-8:00 PM daily",
       "freq": null,
-      "plus_code": "869JPRQP+5F",
+      "plus_code": "869JPRPP+XPC",
       "city": "Owensboro",
       "state": "KY",
       "airport_name": "Owensboro Daviess County Airport",
@@ -26,7 +26,29 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Modern Jet Center",
+      "phone": "(270) 685-1871",
+      "website": "http://www.modernjetcenter.com/",
+      "email": null,
+      "street_address": "3410 Bittel Rd, Owensboro, KY 42301",
+      "hours": "Monday: 8:00 AM – 4:30 PM; Tuesday: 8:00 AM – 4:30 PM; Wednesday: 8:00 AM – 4:30 PM; Thursday: 8:00 AM – 4:30 PM; Friday: 8:00 AM – 4:30 PM; Saturday: Closed; Sunday: Closed",
+      "freq": null,
+      "plus_code": "869JPRWQ+VJH",
+      "city": "Owensboro",
+      "state": "KY",
+      "airport_name": "Owensboro Daviess County Airport",
+      "icao": "KOWB",
+      "iata": "OWB",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Owensboro-Daviess County Regional Airport",
@@ -51,5 +73,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"8ed6b6cc14f4e83d\""
+  "etag": "\"f1a9606c7b9dd6b7\""
 }

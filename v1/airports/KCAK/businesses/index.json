@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "airport_ident": "KCAK",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
     {
       "name": "Avflight Akron Canton",
@@ -14,7 +14,7 @@
       "street_address": "5400 Lauby Rd #4",
       "hours": "M-F 0600-2200, S-S 0700-2000",
       "freq": "122.95",
-      "plus_code": "86GWWH86+32P",
+      "plus_code": "86GWWH98+274",
       "city": "North Canton",
       "state": "OH",
       "airport_name": null,
@@ -26,8 +26,30 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
+    },
+    {
+      "name": "Castle Aviation",
+      "phone": "(330) 498-9333",
+      "website": "http://castleair.com/",
+      "email": null,
+      "street_address": "4919 Mt Pleasant St NW, North Canton, OH 44720",
+      "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
+      "freq": null,
+      "plus_code": "86GWWH46+WQ4",
+      "city": "Akron",
+      "state": "OH",
+      "airport_name": "Akron Canton Regional Airport",
+      "icao": "KCAK",
+      "iata": "CAK",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ccd14dff1a92d0a0\""
+  "etag": "\"c2fda9de72f04c41\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KWJF",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4651 William J Barnes Avenue",
       "hours": "Monday-Friday 8:00 am-5:00 pm; fueling available 24/7, after-hours call-out fees may apply",
       "freq": null,
-      "plus_code": "8563PQQP+F6",
+      "plus_code": "8563PQQP+F4Q",
       "city": "Lancaster",
       "state": "CA",
       "airport_name": "General William J Fox Airfield",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"29545e8e540a5b8b\""
+  "etag": "\"25267d6bd6e81c41\""
 }

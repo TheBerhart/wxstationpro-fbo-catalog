@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KCDW",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Air Bound Aviation",
+      "phone": "(973) 575-1833",
+      "website": "https://airboundaviation.com/",
+      "email": "FBO@airboundaviation.com",
+      "street_address": "27 Wright Way, Fairfield, NJ 07004",
+      "hours": "Monday: 6:00 AM – 9:00 PM; Tuesday: 6:00 AM – 9:00 PM; Wednesday: 6:00 AM – 9:00 PM; Thursday: 6:00 AM – 9:00 PM; Friday: 6:00 AM – 9:00 PM; Saturday: 6:00 AM – 9:00 PM; Sunday: 6:00 AM – 9:00 PM",
+      "freq": null,
+      "plus_code": "87G7VPGC+6MH",
+      "city": "Caldwell",
+      "state": "NJ",
+      "airport_name": "Essex County Airport",
+      "icao": "KCDW",
+      "iata": "CDW",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"5e9d7723a005ffba\""
+}

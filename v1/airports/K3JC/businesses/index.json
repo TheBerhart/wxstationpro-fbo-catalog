@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "K3JC",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Kansas Air Center",
+      "phone": "(785) 238-1991",
+      "website": null,
+      "email": null,
+      "street_address": "540 Airport Rd, Junction City, KS 66441",
+      "hours": null,
+      "freq": null,
+      "plus_code": "86F525R7+Q3C",
+      "city": "Junction City",
+      "state": "KS",
+      "airport_name": "Freeman Field",
+      "icao": "K3JC",
+      "iata": "3JC",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"b26c8ed4768ea8e1\""
+}

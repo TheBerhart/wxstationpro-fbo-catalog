@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KTCL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4800 Carter Drive",
       "hours": "Open from 6:00 AM to 10:00 PM; after hours 10 PM - 6 AM",
       "freq": "122.95",
-      "plus_code": "865J699V+GF",
+      "plus_code": "865J699V+HGH",
       "city": "Tuscaloosa",
       "state": "AL",
       "airport_name": "Tuscaloosa National Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f2a7023a9658d21c\""
+  "etag": "\"d8f6c5d53e987210\""
 }

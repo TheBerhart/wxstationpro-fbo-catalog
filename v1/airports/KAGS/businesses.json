@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAGS",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1501 FBO Way, Augusta, GA 30906",
       "hours": "24 hours a day, 7 days a week",
       "freq": null,
-      "plus_code": "865W92CH+P4",
+      "plus_code": "865W92CH+P44",
       "city": "Augusta",
       "state": "GA",
       "airport_name": "Augusta Regional At Bush Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ef9dafc2f695e573\""
+  "etag": "\"f92e9e8751d45040\""
 }

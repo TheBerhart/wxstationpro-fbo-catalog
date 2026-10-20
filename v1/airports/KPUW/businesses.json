@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPUW",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3625 NE Airport Dr, BLDG 590",
       "hours": null,
       "freq": null,
-      "plus_code": "85R4PVVR+M9",
+      "plus_code": "85R4PVWR+8JP",
       "city": "Pullman",
       "state": "WA",
       "airport_name": "Pullman-Moscow Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"4ad9a391d8768c45\""
+  "etag": "\"e632b7eca831c8ee\""
 }

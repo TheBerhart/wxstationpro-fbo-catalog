@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAIA",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "5641 Sarpy Road, Alliance, NE 69301",
       "hours": "Mon-Fri 7:00 AM-5:30 PM; Sat-Sun 7:00 AM-4:00 PM",
       "freq": "123.00",
-      "plus_code": "85JV356R+Q7",
+      "plus_code": "85JV356R+Q99",
       "city": "Alliance",
       "state": "NE",
       "airport_name": "Alliance Municipal Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ba578b504a9e5c50\""
+  "etag": "\"5412393c0e1f62e6\""
 }

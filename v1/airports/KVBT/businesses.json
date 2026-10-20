@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KVBT",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Legends Air Center at Thaden Field",
+      "phone": "(479) 254-0817",
+      "website": "https://legendsaircenter.com/",
+      "email": null,
+      "street_address": "2205 SW I St, Bentonville, AR 72712",
+      "hours": "Monday: 6:30 AM – 8:00 PM; Tuesday: 6:30 AM – 8:00 PM; Wednesday: 6:30 AM – 8:00 PM; Thursday: 6:30 AM – 8:00 PM; Friday: 6:30 AM – 8:00 PM; Saturday: 6:30 AM – 8:00 PM; Sunday: 6:30 AM – 8:00 PM",
+      "freq": null,
+      "plus_code": "86879Q2H+6CF",
+      "city": "Bentonville",
+      "state": "AR",
+      "airport_name": "Bentonville Municipal-Louise M Thaden Field",
+      "icao": "KVBT",
+      "iata": "VBT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"0abbe83df01e4225\""
+}

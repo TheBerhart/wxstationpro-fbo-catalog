@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBTV",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "228 Aviation Avenue, South Burlington, VT 05403",
       "hours": "Daily 5:00am-10:00pm",
       "freq": "129.92",
-      "plus_code": "87P8FV73+J4",
+      "plus_code": "87P8FV73+J4M",
       "city": "Burlington",
       "state": "VT",
       "airport_name": "Patrick Leahy Burlington International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1cd35c7e49979a72\""
+  "etag": "\"c09b2ed26b8c000a\""
 }

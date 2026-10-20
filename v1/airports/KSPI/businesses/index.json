@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSPI",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "900 Capital Airport",
       "hours": "Monday: 5:00 AM – 10:00 PM; Tuesday: 5:00 AM – 10:00 PM; Wednesday: 5:00 AM – 10:00 PM; Thursday: 5:00 AM – 10:00 PM; Friday: 5:00 AM – 10:00 PM; Saturday: 5:00 AM – 10:00 PM; Sunday: 5:00 AM – 10:00 PM",
       "freq": null,
-      "plus_code": "86FGR8VM+4H",
+      "plus_code": "86FGR8VJ+37X",
       "city": "Springfield",
       "state": "IL",
       "airport_name": "Abraham Lincoln Capital Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ef992da9318f0eaf\""
+  "etag": "\"4cd04cacd61778a2\""
 }

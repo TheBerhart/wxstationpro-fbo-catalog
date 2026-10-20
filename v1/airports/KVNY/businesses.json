@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KVNY",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 5,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "7435 Valjean Avenue",
       "hours": "24/7",
       "freq": "130.35",
-      "plus_code": "85636G47+9CR",
+      "plus_code": "85636G47+79M",
       "city": "Van Nuys",
       "state": "CA",
       "airport_name": null,
@@ -26,17 +26,17 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
-      "name": "Jet Aviation FBO Services Van Nuys, Los Angeles",
+      "name": "Jet Aviation Van Nuys",
       "phone": "(818) 722-5103",
       "website": "https://www.jetaviation.com/location/van-nuys/",
       "email": "vnyfbo@jetaviation.com",
       "street_address": "16644 Roscoe Blvd",
       "hours": "Mon – Sun: 24 hours",
       "freq": "131.4",
-      "plus_code": "85636G94+M4V",
+      "plus_code": "85636G94+W6C",
       "city": "Van Nuys",
       "state": "CA",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Van Nuys - East",
@@ -58,7 +58,7 @@
       "street_address": "7155 Valjean Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.025",
-      "plus_code": "85636G27+762",
+      "plus_code": "85636G27+66R",
       "city": "Van Nuys",
       "state": "CA",
       "airport_name": null,
@@ -70,7 +70,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Van Nuys - North",
@@ -80,7 +80,7 @@
       "street_address": "7415 Hayvenhurst Place",
       "hours": "0500L - 2130L",
       "freq": "128.95",
-      "plus_code": "85636G44+CXG",
+      "plus_code": "85636G35+96C",
       "city": "Van Nuys",
       "state": "CA",
       "airport_name": null,
@@ -92,7 +92,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Van Nuys - West",
@@ -102,7 +102,7 @@
       "street_address": "7240 Hayvenhurst Place",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.575",
-      "plus_code": "85636G35+95H",
+      "plus_code": "85636G35+96C",
       "city": "Van Nuys",
       "state": "CA",
       "airport_name": null,
@@ -114,8 +114,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"b973594b20b83a57\""
+  "etag": "\"cc3951b0c9a2755a\""
 }

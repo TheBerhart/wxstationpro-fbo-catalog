@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLEE",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "8806 Airport Boulevard, Leesburg, FL 34788",
       "hours": "Daily 7:00 AM–7:00 PM",
       "freq": null,
-      "plus_code": "76WWR5HQ+4J",
+      "plus_code": "76WWR5HQ+5J5",
       "city": "Leesburg",
       "state": "FL",
       "airport_name": "Leesburg International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6cffd2b511e12046\""
+  "etag": "\"9bb9e075b2edb131\""
 }

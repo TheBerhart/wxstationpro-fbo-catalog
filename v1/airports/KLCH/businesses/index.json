@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLCH",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "500 Airport Blvd., Lake Charles, LA 70607",
       "hours": "5:00 AM–10:00 PM",
       "freq": "122.95",
-      "plus_code": "86284QFH+CR",
+      "plus_code": "86284QGH+89V",
       "city": "Lake Charles",
       "state": "LA",
       "airport_name": "Lake Charles Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f53da2ade889a495\""
+  "etag": "\"a328fa5dbe520059\""
 }

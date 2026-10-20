@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHUT",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "800 Airport Road, Hutchinson, KS 67501",
       "hours": "Monday-Friday 8:00 AM-6:00 PM; Saturday-Sunday 8:00 AM-5:00 PM",
       "freq": null,
-      "plus_code": "86C4346M+PH",
+      "plus_code": "86C4346M+PHH",
       "city": "Hutchinson",
       "state": "KS",
       "airport_name": "Hutchinson Municipal Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f748f6a3c01e656a\""
+  "etag": "\"d802f4675ea4270a\""
 }

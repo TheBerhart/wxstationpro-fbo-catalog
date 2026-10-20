@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KEAU",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3800 Starr Ave, Eau Claire, WI 54703",
       "hours": "Daily 5:00 AM-10:00 PM; after hours on request",
       "freq": null,
-      "plus_code": "86PCVG79+FF",
+      "plus_code": "86PCVG79+FFP",
       "city": "Eau Claire",
       "state": "WI",
       "airport_name": "Chippewa Valley Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"e936401007279dfd\""
+  "etag": "\"c084c51ceb5160ab\""
 }

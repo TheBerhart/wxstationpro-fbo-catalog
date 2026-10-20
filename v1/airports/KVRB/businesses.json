@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KVRB",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3350 Cherokee Dr",
       "hours": "Ramp and fuel services available 24/7",
       "freq": null,
-      "plus_code": "76VXMH2M+C6",
+      "plus_code": "76VXMH2M+H7M",
       "city": "Vero Beach",
       "state": "FL",
       "airport_name": "Vero Beach Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ade99e0f90e16e84\""
+  "etag": "\"c4c8b9a915cca796\""
 }

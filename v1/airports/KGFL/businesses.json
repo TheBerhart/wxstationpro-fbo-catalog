@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGFL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "443 Queensbury Ave., Queensbury, NY 12804",
       "hours": "Self-serve 100LL 24/7",
       "freq": "123.0",
-      "plus_code": "87M889RV+MX",
+      "plus_code": "87M889RV+PWH",
       "city": "Glens Falls",
       "state": "NY",
       "airport_name": "Floyd Bennett Memorial Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f02760c49be9dfcf\""
+  "etag": "\"0c35e5f076e942e1\""
 }

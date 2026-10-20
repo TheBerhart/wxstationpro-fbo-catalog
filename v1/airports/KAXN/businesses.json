@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAXN",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2604 Aga Drive, Alexandria, MN 56308",
       "hours": "Weekdays seasonal 8 AM-6/7/8 PM; weekends 9 AM-5 PM",
       "freq": null,
-      "plus_code": "86Q6VJ85+8Q",
+      "plus_code": "86Q6VJ85+2WJ",
       "city": "Alexandria",
       "state": "MN",
       "airport_name": "Chandler Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"31cb10c6a05a1ae3\""
+  "etag": "\"d8b78dee8f0aa2e2\""
 }

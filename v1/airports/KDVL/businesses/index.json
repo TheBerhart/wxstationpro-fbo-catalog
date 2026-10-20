@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDVL",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "300 Dakota Aero Dr, Devils Lake, ND 58301",
       "hours": "Mon-Fri 8-5; 24-hour fuel",
       "freq": null,
-      "plus_code": "86W3436R+8F",
+      "plus_code": "86W3436R+8FR",
       "city": "Devils Lake",
       "state": "ND",
       "airport_name": "Devils Lake Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"0934b421cad42739\""
+  "etag": "\"f1634bd6e50f5b0c\""
 }

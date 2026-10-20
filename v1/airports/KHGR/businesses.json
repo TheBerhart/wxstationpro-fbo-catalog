@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHGR",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -12,9 +12,9 @@
       "website": "https://www.riderjetcenter.com/",
       "email": null,
       "street_address": "18421 Henson Blvd., Hagerstown, MD 21742",
-      "hours": null,
+      "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": null,
-      "plus_code": "87F4P76C+C7",
+      "plus_code": "87F4P76C+C8C",
       "city": "Hagerstown",
       "state": "MD",
       "airport_name": "Hagerstown Regional Richard A Henson Field",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"497c8bfc3a25237f\""
+  "etag": "\"1d93062b375d39f3\""
 }

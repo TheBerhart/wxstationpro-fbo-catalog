@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBYH",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4701 Memorial Dr #645, Blytheville, AR 72315",
       "hours": "Mon-Fri 8:00 a.m.-5:00 p.m.; self-serve 100LL 24 hours",
       "freq": null,
-      "plus_code": "867GX25P+HJ",
+      "plus_code": "867GX25X+QRV",
       "city": "Blytheville",
       "state": "AR",
       "airport_name": "Arkansas International Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"26c981392a8dcfed\""
+  "etag": "\"03b09368e5f09db0\""
 }

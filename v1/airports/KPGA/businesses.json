@@ -1,11 +1,33 @@
 {
   "schema_version": 1,
   "airport_ident": "KPGA",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
-  "count": 1,
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 2,
   "businesses": [
+    {
+      "name": "Adventurous FBO",
+      "phone": "(928) 608-1063",
+      "website": "https://adventurousfbo.com/",
+      "email": null,
+      "street_address": "232 10th St, Page, AZ 86040",
+      "hours": "Monday: 7:00 AM – 5:00 PM; Tuesday: 7:00 AM – 5:00 PM; Wednesday: 7:00 AM – 5:00 PM; Thursday: 7:00 AM – 5:00 PM; Friday: 7:00 AM – 5:00 PM; Saturday: 7:00 AM – 5:00 PM; Sunday: 7:00 AM – 5:00 PM",
+      "freq": null,
+      "plus_code": "858CWGFX+FQ5",
+      "city": "Page",
+      "state": "AZ",
+      "airport_name": "Page Municipal Airport",
+      "icao": "KPGA",
+      "iata": "PGA",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    },
     {
       "name": "Million Air Lake Powell",
       "phone": "(928) 645-2987",
@@ -14,7 +36,7 @@
       "street_address": "901 Sage Ave",
       "hours": "0800-1700, call out available",
       "freq": null,
-      "plus_code": "858CWHF2+47F",
+      "plus_code": "858CWHF2+47H",
       "city": "Page",
       "state": "AZ",
       "airport_name": null,
@@ -26,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"4bf4c58a413ea886\""
+  "etag": "\"d859960ed9272677\""
 }

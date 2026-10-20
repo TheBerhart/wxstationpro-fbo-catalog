@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGNV",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4701 NE 40th Terr, Gainesville, FL 32609",
       "hours": "Open 24 hours, 7 days",
       "freq": null,
-      "plus_code": "76XVMPWC+HM",
+      "plus_code": "76XVMPWC+PXV",
       "city": "Gainesville",
       "state": "FL",
       "airport_name": "Gainesville Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"16f7c7c2eff53b7a\""
+  "etag": "\"e6295c8ea4007e7b\""
 }

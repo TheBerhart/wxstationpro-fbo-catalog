@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KPUJ",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Paulding Airport FBO",
+      "phone": "(678) 384-8510",
+      "website": "http://pauldingairport.com/",
+      "email": null,
+      "street_address": "730 Airport Pkwy St 102, Dallas, GA 30157",
+      "hours": "Monday: 9:00 AM – 6:00 PM; Tuesday: 9:00 AM – 6:00 PM; Wednesday: 9:00 AM – 6:00 PM; Thursday: 9:00 AM – 6:00 PM; Friday: 9:00 AM – 6:00 PM; Saturday: 9:00 AM – 6:00 PM; Sunday: 9:00 AM – 6:00 PM",
+      "freq": null,
+      "plus_code": "865QW386+63V",
+      "city": "Dallas",
+      "state": "GA",
+      "airport_name": "Silver Comet Field at Paulding Northwest Atlanta Airport",
+      "icao": "KPUJ",
+      "iata": "PUJ",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "needs_review",
+      "confidence": "low",
+      "source": "google_places",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"2b97b099878ba9b5\""
+}

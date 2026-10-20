@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "airport_ident": "KRNT",
+  "updated_at": "2026-10-20T00:00:00Z",
+  "source": "thin-seed",
+  "generated_at": "2026-10-20T23:30:00.023Z",
+  "count": 1,
+  "businesses": [
+    {
+      "name": "Vesper Aviation",
+      "phone": "(425) 228-9510",
+      "website": "https://vesperaviation.com/fbo-locations/renton-seattle-rnt/",
+      "email": "csr.rnt@vesperaviation.com",
+      "street_address": "750 W Perimeter Rd, Renton, WA 98057",
+      "hours": "Monday: 7:00 AM – 7:00 PM; Tuesday: 7:00 AM – 7:00 PM; Wednesday: 7:00 AM – 7:00 PM; Thursday: 7:00 AM – 7:00 PM; Friday: 7:00 AM – 7:00 PM; Saturday: 7:00 AM – 7:00 PM; Sunday: 7:00 AM – 9:00 PM",
+      "freq": null,
+      "plus_code": "84VVFQVJ+PMX",
+      "city": "Renton",
+      "state": "WA",
+      "airport_name": "Renton Municipal Airport",
+      "icao": "KRNT",
+      "iata": "RNT",
+      "region": "US",
+      "services": null,
+      "enrichment_status": "enriched",
+      "validation_status": "verified",
+      "confidence": "medium",
+      "source": "google_places|operator_website",
+      "source_updated_at": "2026-10-20"
+    }
+  ],
+  "etag": "\"53f1f1b788e439c6\""
+}

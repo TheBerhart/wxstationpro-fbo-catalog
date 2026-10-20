@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KJLN",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-20T23:30:00.023Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "5497 Dennis Weaver Dr, Webb City, MO 64870",
       "hours": "Monday: 5:00 AM – 9:30 PM; Tuesday: 5:00 AM – 9:30 PM; Wednesday: 5:00 AM – 9:30 PM; Thursday: 5:00 AM – 9:30 PM; Friday: 5:00 AM – 9:30 PM; Saturday: 5:00 AM – 9:30 PM; Sunday: 5:00 AM – 9:30 PM",
       "freq": null,
-      "plus_code": "86974FWX+J7",
+      "plus_code": "86974FWX+P72",
       "city": "Joplin",
       "state": "MO",
       "airport_name": "Joplin Regional Airport",
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "airport_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"2cba31fbe3798cc0\""
+  "etag": "\"e452cec116dd160e\""
 }
