@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KTEB",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 5,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "233 Industrial Ave.",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "132",
-      "plus_code": "87G7VW3P+X3P",
+      "plus_code": "87G7VW4P+CH8",
       "city": "Teterboro",
       "state": "NJ",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Jet Aviation Teterboro FBO, Charter and Aircraft Management Services",
@@ -58,7 +58,7 @@
       "street_address": "200 Fred Wehran Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.15",
-      "plus_code": "87G7VW3W+M38",
+      "plus_code": "87G7VW3W+J4R",
       "city": "Teterboro",
       "state": "NJ",
       "airport_name": null,
@@ -70,7 +70,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Teterboro - Terminal South",
@@ -80,7 +80,7 @@
       "street_address": "101 Charles A Lindbergh Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.6",
-      "plus_code": "87G7RWVM+WF4",
+      "plus_code": "87G7RWVM+WG4",
       "city": "Teterboro",
       "state": "NJ",
       "airport_name": null,
@@ -92,7 +92,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Teterboro - Terminal West",
@@ -102,7 +102,7 @@
       "street_address": "485 Industrial Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.525",
-      "plus_code": "87G7VW2J+H99",
+      "plus_code": "87G7VW2J+GGG",
       "city": "Teterboro",
       "state": "NJ",
       "airport_name": null,
@@ -114,8 +114,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"5886ca9ad0505042\""
+  "etag": "\"3eba0b91e98efd77\""
 }

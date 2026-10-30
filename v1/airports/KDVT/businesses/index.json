@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDVT",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "732 W Deer Valley Rd",
       "hours": "24 Hours / 7 Days",
       "freq": null,
-      "plus_code": "8559MWM8+FH4",
+      "plus_code": "8559MWP8+3C3",
       "city": "Phoenix",
       "state": "AZ",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"384dbdf2c35f6733\""
+  "etag": "\"7118927334369fca\""
 }

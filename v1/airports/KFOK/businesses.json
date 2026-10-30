@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFOK",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "Building 308",
       "hours": "Monday: 7:00 AM – 11:00 PM; Tuesday: 7:00 AM – 11:00 PM; Wednesday: 7:00 AM – 11:00 PM; Thursday: 7:00 AM – 11:00 PM; Friday: 7:00 AM – 11:00 PM; Saturday: 7:00 AM – 11:00 PM; Sunday: 7:00 AM – 11:00 PM",
       "freq": null,
-      "plus_code": "87G9R9V5+C9F",
+      "plus_code": "87G9R9V5+7JJ",
       "city": "Westhampton Beach",
       "state": "NY",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Westhampton",
@@ -36,7 +36,7 @@
       "street_address": "15 N Perimeter Road",
       "hours": "Mon-Fri 0700 - 2300 Sat-Sun 0700 - 2300",
       "freq": "129.275",
-      "plus_code": "87G9R9W5+C9V",
+      "plus_code": "87G9R9V5+F93",
       "city": "Westhampton Beach",
       "state": "NY",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"424b6b2870710428\""
+  "etag": "\"526db59f5d9464bc\""
 }

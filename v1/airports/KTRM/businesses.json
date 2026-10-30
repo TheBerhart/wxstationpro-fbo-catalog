@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KTRM",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "86-400 Lightning St",
       "hours": "Mon-Sun: 0600-2200; June-August: 0600-2000; On-call services with prior arrangements",
       "freq": "131.42",
-      "plus_code": "8555JRQQ+PF5",
+      "plus_code": "8555JRQR+786",
       "city": "Thermal",
       "state": "CA",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"3c6f2f394567803b\""
+  "etag": "\"f14691ee365f2c3b\""
 }

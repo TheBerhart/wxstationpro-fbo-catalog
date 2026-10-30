@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDEN",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "7850 Harry B Combs Parkway",
       "hours": "24 hours a day/7 days a week",
       "freq": "129.72",
-      "plus_code": "85FQR8QM+GJJ",
+      "plus_code": "85FQR8QM+GJ3",
       "city": "Denver",
       "state": "CO",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c4460cb163c078f7\""
+  "etag": "\"c7759c1df36083e4\""
 }

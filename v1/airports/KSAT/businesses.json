@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSAT",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 3,
   "businesses": [
     {
@@ -36,7 +36,7 @@
       "street_address": "557 Sandau Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "130",
-      "plus_code": "76X3GGQ8+23P",
+      "plus_code": "76X3GGQ7+3VW",
       "city": "San Antonio",
       "state": "TX",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature San Antonio - South",
@@ -58,7 +58,7 @@
       "street_address": "1115 Paul Wilkins Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "130",
-      "plus_code": "76X3GGM9+FX2",
+      "plus_code": "76X3GGM9+CXR",
       "city": "San Antonio",
       "state": "TX",
       "airport_name": null,
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"e05d041f60aa43c9\""
+  "etag": "\"04ad0ad92d1f1767\""
 }

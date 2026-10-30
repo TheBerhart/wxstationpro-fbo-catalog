@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KHSA",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "7250 Stennis Arpt Dr.",
       "hours": "0700-2000 M-F, 0800-1800 S/S, After Hours Call Out Available",
       "freq": "130.175",
-      "plus_code": "862G9GFX+5H4",
+      "plus_code": "862G9GFX+7G9",
       "city": "Kiln",
       "state": "MS",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"59a424afe2d2cba3\""
+  "etag": "\"3e966c17e4f47e62\""
 }

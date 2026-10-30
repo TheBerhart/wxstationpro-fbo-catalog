@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KIAH",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "17725 John F. Kennedy Blvd.",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "129.025",
-      "plus_code": "76X6XM87+5G4",
+      "plus_code": "76X6XMF5+43G",
       "city": "Houston",
       "state": "TX",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Houston",
@@ -36,7 +36,7 @@
       "street_address": "17250 Chanute Road",
       "hours": "0600L - 2200L Call out available on request",
       "freq": "131.6",
-      "plus_code": "76X6XJ9W+4WF",
+      "plus_code": "76X6XJ9W+3WW",
       "city": "Houston",
       "state": "TX",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"a282a7d53919046f\""
+  "etag": "\"6b04897c230eaad6\""
 }

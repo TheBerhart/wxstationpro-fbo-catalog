@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KABQ",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2505 Clark Carr Loop SE",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "130.675",
-      "plus_code": "857M29PG+PM7",
+      "plus_code": "857M29PJ+F54",
       "city": "Albuquerque",
       "state": "NM",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Cutter Aviation Albuquerque",
@@ -36,7 +36,7 @@
       "street_address": "Cutter Aviation Albuquerque2502 Clark Carr Loop S.E. Albuquerque",
       "hours": "24 Hours / 7 Days",
       "freq": "128.875",
-      "plus_code": "857M29QJ+FG4",
+      "plus_code": "857M29QJ+9FH",
       "city": "Albuquerque",
       "state": "NM",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"650849a26f930943\""
+  "etag": "\"4c65109791a08fda\""
 }

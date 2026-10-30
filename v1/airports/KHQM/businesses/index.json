@@ -3,7 +3,7 @@
   "airport_ident": "KHQM",
   "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"68a45b7ff6bd4edf\""
+  "etag": "\"3e851f2735cd318f\""
 }

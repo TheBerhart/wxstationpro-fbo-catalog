@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KCLT",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "5400 Airport Drive",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
-      "plus_code": "867X6359+W93",
+      "plus_code": "867X6359+V9J",
       "city": "Charlotte",
       "state": "NC",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1cd8216c3acafc77\""
+  "etag": "\"d4e21be7a0121863\""
 }

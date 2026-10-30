@@ -3,7 +3,7 @@
   "airport_ident": "KLCK",
   "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:30:00.023Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"be7eb3777756c0ec\""
+  "etag": "\"400ab6682cb07d72\""
 }

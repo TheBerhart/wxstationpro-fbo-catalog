@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KILM",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1817 Aviation Road",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
-      "plus_code": "876473CR+42M",
+      "plus_code": "876473CR+827",
       "city": "Wilmington",
       "state": "NC",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"5b7b208f04c0f5f2\""
+  "etag": "\"f8c1afed261826c2\""
 }

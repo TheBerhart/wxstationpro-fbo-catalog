@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPIB",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1010 Terminal Drive",
       "hours": "0500-2000 Daily",
       "freq": "123",
-      "plus_code": "863GFM87+VFF",
+      "plus_code": "863GFM98+XHH",
       "city": "Hattiesburg",
       "state": "MS",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"7e6a3341b795fa3f\""
+  "etag": "\"20234a92858e18f6\""
 }

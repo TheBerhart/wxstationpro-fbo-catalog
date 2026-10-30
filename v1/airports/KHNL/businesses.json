@@ -3,7 +3,7 @@
   "airport_ident": "KHNL",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"4f66fa7ff6a83803\""
+  "etag": "\"e4fc896c74c3cb5d\""
 }

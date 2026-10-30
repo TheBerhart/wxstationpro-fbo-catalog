@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMLU",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "5410 Operations Rd.",
       "hours": "M-F 0600-2200, S-S 0600-2000",
       "freq": "130.575",
-      "plus_code": "8649GX54+Q5G",
+      "plus_code": "8649GX64+VJW",
       "city": "Monroe",
       "state": "LA",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"7cd4aa77bd15b674\""
+  "etag": "\"df1d491ae16b9d6c\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSFO",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1052 North Access Road",
       "hours": "24 hours a day/7 days a week",
       "freq": "128.92",
-      "plus_code": "849VJJH7+7XH",
+      "plus_code": "849VJJH8+72J",
       "city": "San Francisco",
       "state": "CA",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f1bc7eecdd7b5a90\""
+  "etag": "\"a96a09d2071ef2db\""
 }

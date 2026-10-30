@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KAUS",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 3,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4309 Emma Browning Ave.",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "130.225",
-      "plus_code": "862458PP+2FJ",
+      "plus_code": "862458QP+6WP",
       "city": "Austin",
       "state": "TX",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Million Air Austin",
@@ -36,7 +36,7 @@
       "street_address": "4801 Emma Browning Ave",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": "130.6",
-      "plus_code": "862458JM+8G8",
+      "plus_code": "862458JP+3HV",
       "city": "Austin",
       "state": "TX",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Austin",
@@ -58,7 +58,7 @@
       "street_address": "4321 Emma Browning Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.375",
-      "plus_code": "862458MQ+R2R",
+      "plus_code": "862458MQ+V24",
       "city": "Austin",
       "state": "TX",
       "airport_name": null,
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"658292b5b246dca9\""
+  "etag": "\"40b357e6bd37d16e\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KELP",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1771 Shuttle Columbia Drive",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "128.85",
-      "plus_code": "853MQJWF+H23",
+      "plus_code": "853MQJWF+RV8",
       "city": "El Paso",
       "state": "TX",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Million Air El Paso",
@@ -36,7 +36,7 @@
       "street_address": "1800 Hawkins",
       "hours": "0600 to 2400, Call +1-915-235-9357 for afterhours",
       "freq": "129.875",
-      "plus_code": "853MQJWH+V95",
+      "plus_code": "853MQJWH+X7P",
       "city": "El Paso",
       "state": "TX",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ac6ea0530e16fe3e\""
+  "etag": "\"9e94236d2cd4ec18\""
 }

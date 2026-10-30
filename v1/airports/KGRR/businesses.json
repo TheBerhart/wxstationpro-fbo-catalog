@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGRR",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4211 Cassard Ln SE",
       "hours": "0500-2200 Daily",
       "freq": "129.825",
-      "plus_code": "86JPVFPM+VXV",
+      "plus_code": "86JPVFQM+4W5",
       "city": "Grand Rapids",
       "state": "MI",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Grand Rapids",
@@ -36,7 +36,7 @@
       "street_address": "4514 Betty Ford Drive",
       "hours": "0600L - 2200L Call out available on request",
       "freq": "130.525",
-      "plus_code": "86JPVFJ8+P78",
+      "plus_code": "86JPVFJ8+P76",
       "city": "Grand Rapids",
       "state": "MI",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"4d2e7fcd8660237e\""
+  "etag": "\"ced266787a60e219\""
 }

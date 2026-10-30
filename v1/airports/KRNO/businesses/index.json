@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRNO",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "655 S. Rock Blvd.",
       "hours": "On-call services with prior arrangements",
       "freq": null,
-      "plus_code": "85F2G63P+JFH",
+      "plus_code": "85F2G62P+J9Q",
       "city": "Reno",
       "state": "NV",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"e69d170ceddc7a2c\""
+  "etag": "\"26430d70bd89b8bf\""
 }

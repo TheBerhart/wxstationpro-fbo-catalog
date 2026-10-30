@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBUF",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "50 N Airport Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.75",
-      "plus_code": "87J3W7X8+25J",
+      "plus_code": "87J3W7X7+3HH",
       "city": "Cheektowaga",
       "state": "NY",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"aabed46f8ed318b8\""
+  "etag": "\"ebbd058a9ddc999e\""
 }

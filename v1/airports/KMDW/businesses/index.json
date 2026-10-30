@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMDW",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "6150 South Laramie Ave.",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "131.425",
-      "plus_code": "86HJQ6HX+H66",
+      "plus_code": "86HJQ6JW+6PX",
       "city": "Chicago",
       "state": "IL",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Chicago Midway",
@@ -36,7 +36,7 @@
       "street_address": "5821 S Central Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "128.925",
-      "plus_code": "86HJQ6PQ+QGF",
+      "plus_code": "86HJQ6PQ+M9H",
       "city": "Chicago",
       "state": "IL",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"fc4a6a2dea10e004\""
+  "etag": "\"044102fcaf13ffc6\""
 }

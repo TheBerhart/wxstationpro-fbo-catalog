@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBOS",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "240 Prescott Street 60 Logan South-Harborside",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.25",
-      "plus_code": "87JC9XFG+WPM",
+      "plus_code": "87JC9XFG+XP3",
       "city": "East Boston",
       "state": "MA",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c6a533db7524854a\""
+  "etag": "\"5e353a6165c39539\""
 }

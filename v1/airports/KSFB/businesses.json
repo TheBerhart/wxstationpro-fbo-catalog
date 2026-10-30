@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSFB",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2841 Flightline Ave",
       "hours": "6:00 am to 10:00 pm, call +1-407-585-6300 for 24/7",
       "freq": "130.75",
-      "plus_code": "76WWQPGX+QQ9",
+      "plus_code": "76WWQPGX+MQX",
       "city": "Sanford",
       "state": "FL",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"6a34cad88a4daacd\""
+  "etag": "\"3f4ed44425f862b3\""
 }

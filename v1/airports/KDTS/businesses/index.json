@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KDTS",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1001 Airport Road",
       "hours": "Mon-Sun: 0600-2200",
       "freq": "130.05",
-      "plus_code": "862M9GXH+VQP",
+      "plus_code": "862M9GWH+J7R",
       "city": "Destin",
       "state": "FL",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"9611db44db17266b\""
+  "etag": "\"0b42a6c2bdc6a95d\""
 }

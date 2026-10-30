@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KEYW",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3471 S Roosevelt Boulevard",
       "hours": "0700L - 2100L Call out available on request",
       "freq": null,
-      "plus_code": "76PWH63V+H5C",
+      "plus_code": "76PWH63V+H5P",
       "city": "Key West",
       "state": "FL",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"0c9909c512033da1\""
+  "etag": "\"3d3004f724266975\""
 }

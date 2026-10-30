@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBWI",
-  "updated_at": "2026-10-03T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "7019 Aaronson Drive P.o. Box 8786",
       "hours": "24 hours a day/7 days a week",
       "freq": "129",
-      "plus_code": "87F558PV+6PF",
+      "plus_code": "87F558PV+GCR",
       "city": "Glen Burnie",
       "state": "MD",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-03"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"39d328233d0a5bca\""
+  "etag": "\"c0cfeea4e9535507\""
 }

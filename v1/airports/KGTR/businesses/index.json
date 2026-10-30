@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KGTR",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1900 Airport Road",
       "hours": "0500-1900 / 7 Days a week",
       "freq": "122.95",
-      "plus_code": "865HFC36+JQG",
+      "plus_code": "865HFC36+JQH",
       "city": "Columbus",
       "state": "MS",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"84d2e04c1cd40e33\""
+  "etag": "\"07e64fb256ac1cd7\""
 }

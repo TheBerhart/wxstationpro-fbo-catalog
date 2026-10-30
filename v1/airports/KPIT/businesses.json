@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPIT",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "300 Horizon Drive",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "129.825",
-      "plus_code": "86GXFQXH+29H",
+      "plus_code": "86GXFQWH+R4X",
       "city": "Moon Township",
       "state": "PA",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"a4ed391cd0b70d87\""
+  "etag": "\"5f894e69fe1e33e6\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSUA",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 3,
   "businesses": [
     {
@@ -36,7 +36,7 @@
       "street_address": "2501 SE Aviation Way",
       "hours": "Mon-Sun: 0600-2200",
       "freq": "131.67",
-      "plus_code": "76VX5QGJ+3GM",
+      "plus_code": "76VX5QGJ+3FX",
       "city": "Stuart",
       "state": "FL",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "PremierFBO Stuart",
@@ -73,5 +73,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"1b384ad2069cb63e\""
+  "etag": "\"e6b5b170d0ee4a52\""
 }

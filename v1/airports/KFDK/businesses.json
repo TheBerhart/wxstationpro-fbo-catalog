@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFDK",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "330 Aviation Way",
       "hours": "0700L - 2000L Call out available on request",
       "freq": "130.275",
-      "plus_code": "87F4CJ8C+J5R",
+      "plus_code": "87F4CJ8C+M3X",
       "city": "Frederick",
       "state": "MD",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ff712f90c87def66\""
+  "etag": "\"c2357bf5d8257399\""
 }

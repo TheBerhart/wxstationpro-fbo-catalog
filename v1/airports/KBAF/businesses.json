@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBAF",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "110 Airport Road",
       "hours": "Mon - Sun: 0700-1900; After hours/on-call services with prior arrangements",
       "freq": null,
-      "plus_code": "87J9575J+Q3Q",
+      "plus_code": "87J9575J+R4V",
       "city": "Westfield",
       "state": "MA",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"2e255d94eabec1c8\""
+  "etag": "\"d5ed4f205d0a2a2c\""
 }

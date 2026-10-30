@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPDK",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2040 Airport Road",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "130.7",
-      "plus_code": "865QVMGV+5XG",
+      "plus_code": "865QVMGV+5XX",
       "city": "Atlanta",
       "state": "GA",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Atlanta Dekalb Peachtree",
@@ -36,7 +36,7 @@
       "street_address": "3150 Corsair Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.9",
-      "plus_code": "865QVMJW+GWM",
+      "plus_code": "865QVMJW+HWP",
       "city": "Atlanta",
       "state": "GA",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"4f2625ecf354de58\""
+  "etag": "\"7f6b1a3d5bf20fb9\""
 }

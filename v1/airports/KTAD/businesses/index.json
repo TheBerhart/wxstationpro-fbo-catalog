@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KTAD",
-  "updated_at": "2026-09-14T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "44814 Co Rd 38, Trinidad, CO 81082",
       "hours": "8AM-5PM M-F",
       "freq": null,
-      "plus_code": "859Q7M75+67P",
+      "plus_code": "859Q7M66+XVG",
       "city": null,
       "state": null,
       "airport_name": "Perry Stokes Airport",
@@ -26,8 +26,8 @@
       "validation_status": "needs_review",
       "confidence": "low",
       "source": "community-report",
-      "source_updated_at": "2026-09-14"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"b3258548f7c8c4bd\""
+  "etag": "\"a5e199058afe474c\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KFTW",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "251 American Concourse",
       "hours": "Monday: 6:00 AM – 10:00 PM; Tuesday: 6:00 AM – 10:00 PM; Wednesday: 6:00 AM – 10:00 PM; Thursday: 6:00 AM – 10:00 PM; Friday: 6:00 AM – 10:00 PM; Saturday: 6:00 AM – 10:00 PM; Sunday: 6:00 AM – 10:00 PM",
       "freq": null,
-      "plus_code": "8644RJCW+F5J",
+      "plus_code": "8644RJCV+9VQ",
       "city": "Fort Worth",
       "state": "TX",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"36775fa78c6cf20c\""
+  "etag": "\"55151a4f0471799c\""
 }

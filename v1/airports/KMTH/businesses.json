@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMTH",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "8800 Overseas Highway",
       "hours": "0700-1900",
       "freq": null,
-      "plus_code": "76PWPWFW+QV7",
+      "plus_code": "76PWPWFW+MV9",
       "city": "Marathon",
       "state": "FL",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"fd45f382d86e1d21\""
+  "etag": "\"2a53a0217fdc7970\""
 }

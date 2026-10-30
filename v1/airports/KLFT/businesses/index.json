@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLFT",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "123 Grissom Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "122.95",
-      "plus_code": "862C6266+XJ9",
+      "plus_code": "862C6266+XHH",
       "city": "Lafayette",
       "state": "LA",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"8f9f97507180b3ce\""
+  "etag": "\"e411e54420fb82e5\""
 }

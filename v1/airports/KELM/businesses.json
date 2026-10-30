@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KELM",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3 Progressive Drive",
       "hours": "Mon-Fri: 0600-2200; Sat-Sun: 0600-2100",
       "freq": null,
-      "plus_code": "87J55462+GXF",
+      "plus_code": "87J55462+GXJ",
       "city": "Horseheads",
       "state": "NY",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f6b89b70b3b0d91f\""
+  "etag": "\"e0151e551f223717\""
 }

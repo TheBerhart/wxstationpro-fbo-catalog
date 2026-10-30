@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSGJ",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "4900 U.S. 1 North",
       "hours": "Mon-Sun: 0600-2200",
       "freq": "130.05",
-      "plus_code": "76XWXM34+PRW",
+      "plus_code": "76XWXM34+VQF",
       "city": "St. Augustine",
       "state": "FL",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"b3016d690487e686\""
+  "etag": "\"59b2beedc77438bd\""
 }

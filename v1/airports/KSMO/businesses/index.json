@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KSMO",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "2828 Donald Douglas Loop North",
       "hours": "Mon-Sun: 0600-2230",
       "freq": "129.375",
-      "plus_code": "85632G8W+F7F",
+      "plus_code": "85632G8W+PR7",
       "city": "Santa Monica",
       "state": "CA",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"40e0fcd3dd45d54d\""
+  "etag": "\"0d9a38e9c18129d3\""
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KOMA",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "3737 Orville Plaza",
       "hours": "Mon-Sun: 24 hours",
       "freq": "131.3",
-      "plus_code": "86H68438+XCH",
+      "plus_code": "86H68447+6R5",
       "city": "Omaha",
       "state": "NE",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Omaha",
@@ -36,7 +36,7 @@
       "street_address": "3636 Wilbur Plaza",
       "hours": "24 hours a day/7 days a week",
       "freq": "130.575",
-      "plus_code": "86H68437+FXC",
+      "plus_code": "86H68438+C23",
       "city": "Omaha",
       "state": "NE",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"f7a6cc5dd6088d87\""
+  "etag": "\"a742ec37b0f65f34\""
 }

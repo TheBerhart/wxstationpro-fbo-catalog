@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRDU",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1750 East International Drive",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "131",
-      "plus_code": "8773V6J8+CFG",
+      "plus_code": "8773V6J8+CFQ",
       "city": "Morrisville",
       "state": "NC",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Raleigh-Durham",
@@ -36,7 +36,7 @@
       "street_address": "1775 East International Drive",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.15",
-      "plus_code": "8773V6J8+88M",
+      "plus_code": "8773V6J8+54J",
       "city": "Morrisville",
       "state": "NC",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"72d0fab38d6b48ea\""
+  "etag": "\"7fb7b1a2e8b8cd91\""
 }

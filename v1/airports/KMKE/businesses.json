@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KMKE",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 3,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "401 E Layton Ave.",
       "hours": "0400-2200 Daily",
       "freq": "122.95",
-      "plus_code": "86JJX35V+64W",
+      "plus_code": "86JJX35V+648",
       "city": "Milwaukee",
       "state": "WI",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Jet Aviation Milwaukee FBO and Business Aviation Services",
@@ -36,7 +36,7 @@
       "street_address": "504 E Citation Way",
       "hours": "Mon – Sun: 05:00 – 21:00",
       "freq": null,
-      "plus_code": "86JJW3RW+2PG",
+      "plus_code": "86JJW3QW+XHX",
       "city": "Milwaukee",
       "state": "WI",
       "airport_name": null,
@@ -48,7 +48,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Milwaukee",
@@ -58,7 +58,7 @@
       "street_address": "923 East Layton Avenue",
       "hours": "24 hours a day/7 days a week",
       "freq": "131",
-      "plus_code": "86JJX452+9JX",
+      "plus_code": "86JJX452+9HP",
       "city": "Milwaukee",
       "state": "WI",
       "airport_name": null,
@@ -70,8 +70,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"fe318bfa5f54b4a4\""
+  "etag": "\"d75bbc36e52da7a7\""
 }

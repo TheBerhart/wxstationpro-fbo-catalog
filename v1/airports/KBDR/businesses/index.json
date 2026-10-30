@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBDR",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "900 Great Meadow Road",
       "hours": "Mon-Sun: 0600-2200",
       "freq": "131.42",
-      "plus_code": "87H85V7C+6G7",
+      "plus_code": "87H85V7C+593",
       "city": "Stratford",
       "state": "CT",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"99a5c69d94af47a6\""
+  "etag": "\"8fe06720c3c7b844\""
 }

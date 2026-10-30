@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KRIL",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "375 County Road 352 (Building 2070)",
       "hours": "Mon-Sun: 0700-2000; On-call services with prior arrangements",
       "freq": "129",
-      "plus_code": "85FJG7GF+4VR",
+      "plus_code": "85FJG7FG+5H6",
       "city": "Rifle",
       "state": "CO",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"ce9d445ef365e5a4\""
+  "etag": "\"295b7d5834329bc9\""
 }

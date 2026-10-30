@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "PHNL",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "98 Kapalulu Place",
       "hours": "0600L - 2200L Call out available on request",
       "freq": null,
-      "plus_code": "73H483CQ+J55",
+      "plus_code": "73H483CQ+J52",
       "city": "Honolulu",
       "state": "HI",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"90170f4932017206\""
+  "etag": "\"0ee6fe036846e1e7\""
 }

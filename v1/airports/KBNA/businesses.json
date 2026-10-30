@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KBNA",
-  "updated_at": "2026-10-01T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 2,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "635 Hangar Lane",
       "hours": "Mon-Sun: 24 Hours",
       "freq": "131.6",
-      "plus_code": "868M489F+22J",
+      "plus_code": "868M488C+XXX",
       "city": "Nashville",
       "state": "TN",
       "airport_name": null,
@@ -26,7 +26,7 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     },
     {
       "name": "Signature Nashville",
@@ -36,7 +36,7 @@
       "street_address": "767 Hangar Lane",
       "hours": "24 hours a day/7 days a week",
       "freq": "131.1",
-      "plus_code": "868M48CG+5QQ",
+      "plus_code": "868M48CG+2J3",
       "city": "Nashville",
       "state": "TN",
       "airport_name": null,
@@ -48,8 +48,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-01"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1f0861a5b2f375b9\""
+  "etag": "\"e82bbfd20a1d80be\""
 }

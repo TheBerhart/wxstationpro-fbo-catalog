@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KPBG",
-  "updated_at": "2026-09-10T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1 Alabama Street",
       "hours": "0600-2200 Daily (call out)",
       "freq": "122.7",
-      "plus_code": "87P8MG2R+6WV",
+      "plus_code": "87P8MG2V+967",
       "city": "Plattsburgh",
       "state": "NY",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-09-10"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"4eb82d79c5a8b6be\""
+  "etag": "\"42a272a1f84da955\""
 }

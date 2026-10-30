@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "airport_ident": "KLGA",
-  "updated_at": "2026-10-02T00:00:00Z",
+  "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-20T23:29:40.398Z",
+  "generated_at": "2026-10-30T17:12:04.470Z",
   "count": 1,
   "businesses": [
     {
@@ -14,7 +14,7 @@
       "street_address": "1 Marine Air Terminal",
       "hours": "Monday: Open 24 hours; Tuesday: Open 24 hours; Wednesday: Open 24 hours; Thursday: Open 24 hours; Friday: Open 24 hours; Saturday: Open 24 hours; Sunday: Open 24 hours",
       "freq": null,
-      "plus_code": "87G8Q4F8+F2F",
+      "plus_code": "87G8Q4F7+FHG",
       "city": "Flushing",
       "state": "NY",
       "airport_name": null,
@@ -26,8 +26,8 @@
       "validation_status": "verified",
       "confidence": "high",
       "source": "operator_website",
-      "source_updated_at": "2026-10-02"
+      "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"e179a6bafde71295\""
+  "etag": "\"873db03a894dba01\""
 }
