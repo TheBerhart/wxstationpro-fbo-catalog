@@ -3,7 +3,7 @@
   "airport_ident": "KRIC",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"1171ca61e19b2299\""
+  "etag": "\"655333909b74fa2b\""
 }

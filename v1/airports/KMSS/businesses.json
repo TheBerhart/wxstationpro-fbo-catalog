@@ -3,7 +3,7 @@
   "airport_ident": "KMSS",
   "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"7b5f4610677f680c\""
+  "etag": "\"9f82de2dbd9a3ce7\""
 }

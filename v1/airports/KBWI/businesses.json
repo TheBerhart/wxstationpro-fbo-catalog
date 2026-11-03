@@ -3,7 +3,7 @@
   "airport_ident": "KBWI",
   "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"c0cfeea4e9535507\""
+  "etag": "\"64adc25ece3e4e21\""
 }

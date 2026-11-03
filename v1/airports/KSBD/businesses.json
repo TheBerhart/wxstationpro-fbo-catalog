@@ -3,7 +3,7 @@
   "airport_ident": "KSBD",
   "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"1cb9648b36d5c633\""
+  "etag": "\"db1f83c88c69a1d9\""
 }

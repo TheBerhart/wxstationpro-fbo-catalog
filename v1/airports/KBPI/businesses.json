@@ -3,7 +3,7 @@
   "airport_ident": "KBPI",
   "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"b556594f2c247b49\""
+  "etag": "\"26409c1e5547df8c\""
 }

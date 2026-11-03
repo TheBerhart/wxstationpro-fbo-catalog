@@ -3,7 +3,7 @@
   "airport_ident": "KBOI",
   "updated_at": "2026-10-20T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 3,
   "businesses": [
     {
@@ -73,5 +73,5 @@
       "source_updated_at": "2026-10-20"
     }
   ],
-  "etag": "\"60bfa7430975811e\""
+  "etag": "\"53c8860e6e30160d\""
 }

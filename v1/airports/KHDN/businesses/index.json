@@ -3,7 +3,7 @@
   "airport_ident": "KHDN",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"671313e7e5a9914a\""
+  "etag": "\"5970a0d0e63f8639\""
 }

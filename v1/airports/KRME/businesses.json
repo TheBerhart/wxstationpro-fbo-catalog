@@ -3,7 +3,7 @@
   "airport_ident": "KRME",
   "updated_at": "2026-09-10T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-09-10"
     }
   ],
-  "etag": "\"e1e8c3d119f4eee9\""
+  "etag": "\"183156ca30e6935f\""
 }

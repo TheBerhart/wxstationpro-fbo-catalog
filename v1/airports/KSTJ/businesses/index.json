@@ -3,7 +3,7 @@
   "airport_ident": "KSTJ",
   "updated_at": "2026-10-02T00:00:00Z",
   "source": "thin-seed",
-  "generated_at": "2026-10-30T17:12:04.470Z",
+  "generated_at": "2026-11-03T17:32:32.931Z",
   "count": 1,
   "businesses": [
     {
@@ -29,5 +29,5 @@
       "source_updated_at": "2026-10-02"
     }
   ],
-  "etag": "\"a56105c44cb0c07c\""
+  "etag": "\"c62d41b0fc1c45eb\""
 }
